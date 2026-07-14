@@ -1,0 +1,56 @@
+name: pipeline
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: pipeline
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Monitor
+        env:
+          FREELANCER_TOKEN: ${{ secrets.FREELANCER_TOKEN }}
+        run: python3 monitor.py
+
+      - name: Check queue
+        id: q
+        run: |
+          count=$(python3 -c "import json,pathlib; p=pathlib.Path('state/queue.json'); print(len(json.loads(p.read_text())) if p.exists() else 0)")
+          echo "count=$count" >> "$GITHUB_OUTPUT"
+
+      - name: Install Claude Code
+        if: steps.q.outputs.count != '0'
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Brain
+        if: steps.q.outputs.count != '0'
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          claude -p "Read the file prompt.md and execute its instructions exactly." \
+            --model sonnet \
+            --allowedTools "Read,Write,Edit,Bash(python3:*)"
+
+      - name: Commit state
+        if: always()
+        run: |
+          git config user.name "pipeline-bot"
+          git config user.email "pipeline-bot@users.noreply.github.com"
+          git add state/
+          git diff --cached --quiet || git commit -m "state"
+          git pull --rebase --autostash || true
+          git push
