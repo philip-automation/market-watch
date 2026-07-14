@@ -24,6 +24,14 @@ jobs:
           FREELANCER_TOKEN: ${{ secrets.FREELANCER_TOKEN }}
         run: python3 monitor.py
 
+      - name: Mail watch
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python3 mailwatch.py || true
+
       - name: Check queue
         id: q
         run: |
@@ -57,6 +65,7 @@ jobs:
         run: |
           git config user.name "pipeline-bot"
           git config user.email "pipeline-bot@users.noreply.github.com"
+          rm -f mailmsg.txt outbox.txt
           git add state/
           git diff --cached --quiet || git commit -m "state"
           git pull --rebase --autostash || true
