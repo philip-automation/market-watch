@@ -3,6 +3,7 @@
 Tokens come from environment variables (GitHub Secrets):
 FREELANCER_TOKEN, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID
 """
+import hashlib
 import json
 import os
 import time
@@ -13,6 +14,7 @@ from pathlib import Path
 STATE = Path(__file__).resolve().parent / "state"
 STATE.mkdir(exist_ok=True)
 SEEN_FILE = STATE / "seen_projects.json"
+HASHES_FILE = STATE / "desc_hashes.json"
 QUEUE_FILE = STATE / "queue.json"
 
 FL_API = "https://www.freelancer.com/api/projects/0.1/projects/active/"
@@ -66,6 +68,7 @@ def main():
     first_run = not seen
     queue = load(QUEUE_FILE, [])
     queued_ids = {item.get("id") for item in queue}
+    desc_hashes = set(load(HASHES_FILE, []))
     for query in QUERIES:
         try:
             projects = (http_json(FL_API, {
@@ -82,6 +85,12 @@ def main():
             seen.add(pid)
             if first_run or pid in queued_ids or not interesting(p):
                 continue
+            # template farms repost identical briefs under new ids - skip clones
+            desc_text = (p.get("description") or p.get("preview_description") or "").strip()
+            desc_hash = hashlib.md5(" ".join(desc_text.lower().split())[:400].encode()).hexdigest()
+            if desc_hash in desc_hashes:
+                continue
+            desc_hashes.add(desc_hash)
             budget = p.get("budget") or {}
             queue.append({
                 "id": pid,
@@ -97,6 +106,7 @@ def main():
                 "found_at": time.strftime("%Y-%m-%d %H:%M"),
             })
     SEEN_FILE.write_text(json.dumps(sorted(seen)[-8000:]), encoding="utf-8")
+    HASHES_FILE.write_text(json.dumps(sorted(desc_hashes)[-4000:]), encoding="utf-8")
     QUEUE_FILE.write_text(json.dumps(queue, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"queue size: {len(queue)}")
 
