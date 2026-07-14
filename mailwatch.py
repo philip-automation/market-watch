@@ -98,6 +98,27 @@ def main():
             forwarded += 1
             if forwarded >= 5:
                 break
+    # auto-trash mail from banned senders (state/mail_rules.json)
+    rules = STATE / "mail_rules.json"
+    blocked = json.loads(rules.read_text(encoding="utf-8")).get("blocked", []) if rules.exists() else []
+    if blocked:
+        ok, folders = box.list()
+        def find(attr):
+            for f in folders:
+                line = f.decode("utf-8", "replace")
+                if attr in line:
+                    return line.split(' "/" ')[-1].strip()
+        allmail, trash = find("\All"), find("\Trash")
+        box.select(allmail)
+        trashed = 0
+        for dom in blocked:
+            ok, data = box.uid("search", None, "X-GM-RAW", f'"from:{dom} newer_than:7d in:inbox"')
+            ids = data[0].split() if ok == "OK" and data and data[0] else []
+            for i in range(0, len(ids), 50):
+                ok, _ = box.uid("copy", b",".join(ids[i:i+50]), trash)
+                if ok == "OK":
+                    trashed += len(ids[i:i+50])
+        print(f"mailwatch: banned senders trashed {trashed}")
     box.logout()
     SEEN_FILE.write_text(json.dumps(sorted(seen)[-3000:]), encoding="utf-8")
     print(f"mailwatch: forwarded {forwarded}")
