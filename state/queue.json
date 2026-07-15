@@ -1,1 +1,41 @@
-[]
+[
+ {
+  "id": 40584738,
+  "title": "Eco-Friendly Aircraft Anti-Icing Formula",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/environmental-engineering/Eco-Friendly-Aircraft-Anti-Icing",
+  "desc": "I need an experienced chemical engineer to design a chemically engineered anti-icing solution that can be safely applied to aircraft surfaces and meet strict environmental standards. The end product should rely on chemistry—not embedded heating—to prevent ice accretion during ground operations and in flight while remaining biodegradable and non-corrosive to aluminium, composites, seals, and paints.\n\nWhat I expect:\n• A lab-scale formulation (liquid spray or coating—whichever your testing confirms works best) with documented ingredients, concentrations, and preparation steps.  \n• Performance data showing ice-prevention or delayed refreeze at aviation-relevant temperatures and humidity.  \n• A brief environmental impact assessment outlining toxicity, biodegradability, and disposal considerations.  \n• Guidance on scale-up and application methods compatible with routine aircraft maintenance procedures.\n\nYou may draw on tools such as DSC, rheometry, contact-angle goniometry, and accelerated weathering chambers to validate results; include all raw data and analysis. Once the prototype meets the outlined criteria, we can discuss small-batch production and further optimization.",
+  "query": "data extraction",
+  "found_at": "2026-07-15 18:47"
+ },
+ {
+  "id": 40584651,
+  "title": "Urgent Ransomware File Decryption",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/oracle-database/Urgent-Ransomware-File-Decryption",
+  "desc": "My Windows Server hosting an Oracle-based system was hit by the “BLACKX” ransomware. Every file is now encrypted and the attackers dropped the note quoted below. I need a specialist who can focus on system recovery, specifically file decryption, so I can avoid rolling back to a two-week-old backup and losing important data created since then.  \n\nWhat I can provide:\n• The full ransom note and any associated extension or sample encrypted file you need for analysis.  \n• Access to the affected server through a secure remote session or an off-line disk image, whichever you prefer.  \n• A clean backup taken two weeks prior (last known good state) for comparison or fallback.\n\nWhat I expect from you:\n1. Identify the exact BlackX variant, locate the encryption routine or keys, and decrypt at least one test file to prove viability before proceeding with the full restore.  \n2. Remove any remaining malicious code or persistence mechanisms so the server can be safely brought back online.  \n3. Deliver a short incident report describing the steps taken and recommended hardening measures to prevent a repeat attack.\n\nI understand some variants may be undecryptable without the threat actor’s key; if that turns out to be the case, please outline alternative recovery strategies using my recent backup. Speed is critical, so let me know your estimated turnaround time and the forensic or decryption tools you intend to use (e.g., IDA, Ghidra, Cobalt Strike scanners, dedicated decryptors, etc.).  \n\nI ",
+  "query": "data extraction",
+  "found_at": "2026-07-15 18:47"
+ },
+ {
+  "id": 40584701,
+  "title": "Real Artist to Cover \"furry\" AI Album (10 Songs) + Lyrics Video",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 17,
+  "url": "https://www.freelancer.com/projects/after-effects/Real-Artist-Cover-furry-Album",
+  "desc": "I have a finished 10-track concept album, “Anthroness Rest Origin,” entirely generated with AI. The songs, accompanying PNG artworks, and a lyric video demo are already on YouTube (watch here: https://www.youtube.com/watch?v=0aC_jVTVqO0). Everything is released under Creative Commons, so you are free to reinterpret the material.\n\nAbsolutely (The Gift) Lyrics Video: https://www.youtube.com/watch?v=_5v_ZkpoNm4\n\nWhat I need now is a human touch. I’m inviting a versatile vocalist-producer who can move comfortably through Pop and Rock influences—or take the music somewhere new if inspiration strikes. For some tracks you might replace the AI vocals completely; on others you could layer your voice or additional instrumentation to enhance the existing stems. I’ll supply you with clean 48kHz WAV files plus HQ PNGs so you can work quickly. I used Suno exclusively, under paid license, and curated from 100s of generations around my AnthroHeart Lore.\n\nThis is my very best 10 from over 150 of my \"zero-skip\" curated from 100s more around my AnthroHeart Universe ecosystem. I used the Morphic Field to transmit/channel the songs and artwork with AI, so it is more than regular AI generations. Result of 25 years of anthro devotion.\n\nFeel free to bring your own visual flair when creating fresh cover art for each song—realistic, abstract, cartoonish, whatever best fits your style. Make it yours; originality is welcome.\n\nDeliverables I’m expecting  \n• Final mixed & mastered versions of every track ",
+  "query": "ai chatbot",
+  "found_at": "2026-07-15 18:47"
+ }
+]
