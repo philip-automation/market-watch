@@ -1,1 +1,41 @@
-[]
+[
+ {
+  "id": 40588334,
+  "title": "Roofing Quantity & Cost Takeoff",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "EUR",
+  "usd_rate": 1.143517,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/construction-management/Roofing-Quantity-Cost-Takeoff",
+  "desc": "I have a steady flow of roofing and general construction jobs that need accurate quantity surveying and cost estimating. You will receive the full plan set in PDF and DWG, review every sheet, and build a complete material takeoff directly in Microsoft Excel—my required platform for all calculations and summaries.\n\nYour workflow should begin with a meticulous count and measure of every roof component, framing element, fastener, membrane, flashing, and insulation layer. From there, carry those numbers into an Excel workbook that clearly separates raw quantities, unit‐rate build-ups, labour allowances, and a final priced Bill of Quantities. Formulas must remain unlocked and traceable so I can audit or adjust rates later.\n\nDeliverables\n• A clean Excel file with individual tabs for takeoff data, rate build-ups, and summary cost schedule  \n• Assumption and clarification notes for any ambiguous details in the drawings  \n• Marked-up pages or screenshots that show how quantities were derived (Bluebeam Revu or PlanSwift mark-ups are welcome but not obligatory)  \n\nAcceptance Criteria\n• Quantities within ±2 % accuracy when spot-checked  \n• Consistent units of measure across all tabs  \n• Turnaround time of 48–72 hours per project once drawings are supplied  \n\nIf you already use Bluebeam Revu or PlanSwift to speed up measurements, let me know—those skills are a bonus, though the final output must still live in Excel.\n\nPlease attach a recent example of a roofing or broader construction esti",
+  "query": "data extraction",
+  "found_at": "2026-07-17 12:19"
+ },
+ {
+  "id": 40588222,
+  "title": "Instagram Follower Growth Campaign",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010389,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/analytics/Instagram-Follower-Growth-Campaign-40588222",
+  "desc": "I need a focused, data-driven plan to accelerate follower growth on our Instagram account over the next eight weeks. The entire marketing effort will take place on social media, with Instagram as the only channel in scope for now; other networks such as Facebook or Twitter can remain on the sidelines until this campaign proves its value.\n\nHere’s what the assignment covers:\n\n• Strategy & Research – audit the current profile, study competitors, and define a clear follower persona.  \n• Content Calendar – outline themes, captions, and posting frequency, including Reels, Stories, and static posts.  \n• Creative Assets – supply on-brand graphics or short-form videos ready for upload.  \n• Growth Tactics – safe, TOS-compliant methods such as targeted hashtag sets, strategic collaborations, and community engagement that build real, relevant followers (no bots).  \n• Reporting – weekly metrics summarising new followers, reach, and engagement so progress is easy to track.\n\nAcceptance criteria: a minimum 30 % increase in authentic followers by the end of week eight and evidence that engagement keeps pace with growth.\n\nUse any modern social media tools you prefer—Later, Buffer, Hootsuite, native Meta Business Suite—all fine as long as they streamline execution and let me verify results. Once the plan is approved, I’ll grant profile access and green-light scheduling. Let’s turn this feed into a magnet for the right audience.",
+  "query": "data extraction",
+  "found_at": "2026-07-17 12:19"
+ },
+ {
+  "id": 40588231,
+  "title": "Handwritten Record Transcription & Audit",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010389,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/data-entry/Handwritten-Record-Transcription-Audit",
+  "desc": "Manual Data Entry & Document Reconciliation (Handwritten Records)\nProject Overview\n\nI am looking for a highly detail-oriented freelancer to manually review approximately 3 months of handwritten records and transfer information into a master audit document.\n\nThis is NOT an AI or OCR task. AI has already been used to create the initial master document, however many handwritten entries could not be read correctly. This project requires careful manual review of multiple source documents.\n\nScope of Work\n\nYou will be provided with:\n\nA Master Audit document (Word)\nDaily Food & Fluid Intake charts\nDaily Handover Sheets\nOther supporting records where required\n\nThe project covers approximately 3 months of documentation (around 90 days).\n\nFor each day you will:\n\nCompare all documents for that date.\nEnter any missing information into the Master Audit.\nComplete missing staff names by cross-referencing the Daily Handover sheets.\nIdentify missing meals, fluids, urine output and documentation gaps.\nHighlight any periods where documentation appears incomplete.\nEnsure all entries are in chronological order.\nMaintain the existing formatting of the master document.\nExamples of Work Required\n\nThe AI-generated document currently contains entries such as:\n\n\"AM Staff - Not Legible\"\n\"Food not recorded\"\n\"Missing meal\"\n\nYou will need to locate the original handwritten record, identify the correct information and update the Master Audit.\n\nFor example:\n\nIdentify which staff member worked that shift.\nRead",
+  "query": "data extraction",
+  "found_at": "2026-07-17 12:19"
+ }
+]
