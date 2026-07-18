@@ -1,1 +1,67 @@
-[]
+[
+ {
+  "id": 40589460,
+  "title": "MVP HR Management Web App",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010347,
+  "bids": 19,
+  "url": "https://www.freelancer.com/projects/web-development/MVP-Management-Web-App",
+  "desc": "I’m building a minimum-viable HR Management System that runs in the browser and must be ready within 10–15 days under a fixed ₹10,000 budget. The scope is intentionally lean but each module must work end-to-end with a clean, well-structured codebase I can extend later.\n\nCore functionality I need:\n• Employee records: add, edit, delete, view  \n• Attendance tracking  \n• Leave requests and approvals  \n• Salary & payroll processing  \n• Single admin login (username + password) with its own dashboard  \n• Responsive interface in a polished, corporate style  \n\nWhat I expect on hand-over:\n• Full source code and a database backup  \n• Straightforward setup/read-me so I can deploy quickly  \n\nPlease tell me:\n1. The tech stack you propose (frameworks, DB, any UI libraries).  \n2. How you will divide the 10–15-day schedule.  \n3. Links or screenshots of similar HR or dashboard projects you’ve completed.\n\nClean architecture, well-named tables and controllers, and concise documentation are more important to me than fancy extras. Let me know if anything in the brief is unclear and I’ll respond quickly.",
+  "query": "web scraping",
+  "found_at": "2026-07-18 04:16"
+ },
+ {
+  "id": 40589438,
+  "title": "Cyclone and autocad are very important -- 2",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/cad-cam/Cyclone-autocad-are-very-important",
+  "desc": "These are the project requirements:\n\nI have a four-storey, 4,000 sq ft historic townhouse that was recently scanned using a Leica BLK unit. The point-cloud files are already packaged as *.blk, so you'll need Cyclone (to register and slice the point cloud) and AutoCAD to create the drawings. Without both, you won't be able to work with the data.\n\n**Scope**\n\n* Draft one accurate, dimensioned layout for each floor (Ground through Fourth) based on the point cloud.\n* Show existing framing and wall locations, door and room openings, and pay particular attention to the position and size of every window.\n* No structural details beyond framing lines and no MEP. This is strictly a basic layout with dimensions.\n\n**Deliverables**\n\n* Four DWG files, one for each level, with clean and properly organized layers.\n* One collated PDF set that mirrors the DWG sheets.\n\n**Acceptance Criteria**\n\n* Key dimensions must be within ±¼ in of the point-cloud data.\n* All windows must be clearly tagged and dimensioned.\n* DWG files should open without errors in AutoCAD 2020 or later and print to scale at ¼″ = 1′-0″.",
+  "query": "data extraction",
+  "found_at": "2026-07-18 04:16"
+ },
+ {
+  "id": 40589362,
+  "title": "Draft Investigation Letters on Illegal Landfill",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 19,
+  "url": "https://www.freelancer.com/projects/legal-writing/Draft-Investigation-Letters-Illegal",
+  "desc": "I need three carefully-researched letters that lay out the facts of an unpermitted landfill measuring close to five-million cubic feet. The objective is to spur a formal investigation, so each letter must be precise, fully referenced, and written in a calm, neutral tone that still underscores the seriousness of the environmental and public-health risks.\n\nThe addressees are the Environmental Protection Agency (EPA), the Department of Justice (DOJ), and the appropriate local and state officials. While the core data will be consistent, each version should reflect the mandate and jurisdiction of its specific agency, citing the most relevant federal or state statutes, regulations, and past enforcement actions.\n\nTo help you get started I will supply location details, photographs, limited monitoring data, and a timeline of complaints already filed. You will need to augment this with publicly available records—permit databases, state solid-waste codes, EPA guidance documents, and any comparable case precedents—to build a factual narrative that clearly justifies immediate agency action.\n\nDeliverables  \n• Letter to the EPA, formatted for the Office of Enforcement and Compliance Assurance  \n• Letter to the DOJ’s Environmental Crimes Section, highlighting potential criminal violations  \n• Letter to state and county regulators that aligns with their permitting authority  \n• A brief reference sheet listing every source, statute, or report cited\n\nAcceptance criteria  \n• Tone remains fact-ba",
+  "query": "data extraction",
+  "found_at": "2026-07-18 04:16"
+ },
+ {
+  "id": 40589340,
+  "title": "Cell Structure Function Analysis",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010347,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/data-analysis/Cell-Structure-Function-Analysis",
+  "desc": "I am running a biological-research project that zeroes in on the architecture of the cell and how that architecture drives function. The work revolves around detailed examination of cell structure—organelles, membranes, cytoskeleton—so that we can map what we see under the microscope to the roles each compartment actually plays.\n\nThe raw material for the study will be high-resolution images (confocal, TEM or similar), relevant literature references I supply, and any quantitative assays you may suggest to back up the visual observations. From those inputs, I need:\n\n• A clear, well-annotated image set that highlights each major structural element we discuss  \n• A concise data table (or spreadsheet) quantifying size, density or spatial distribution metrics where possible  \n• A written report (2-3 pages is fine) that links each observed structural feature to its suspected or confirmed cellular function, referencing current literature for support\n\nDeliverables are complete once the images are annotated, the data table passes a quick reproducibility check (I will re-run one sample analysis), and the report reads clearly without gaps between the observations and functional interpretations.\n\nPreferred tools include ImageJ/Fiji for image processing, GraphPad or Excel for basic stats, and any standard reference manager for citations—feel free to propose alternatives if they streamline the workflow.",
+  "query": "data extraction",
+  "found_at": "2026-07-18 04:16"
+ },
+ {
+  "id": 40589441,
+  "title": "Phone-Based Customer Support",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010347,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/phone-support/Phone-Based-Customer-Support",
+  "desc": "I’m looking for a reliable specialist who can take charge of our phone line and give every caller a smooth, professional experience. Your main focus will be to resolve issues quickly so customers end each call feeling heard and helped.\n\nWhat you’ll do\n• Answer inbound calls during our business hours (we’ll provide a VoIP number).  \n• Listen actively, identify the root of each problem, and deliver clear, concise solutions or next steps on the spot whenever possible.  \n• Log every interaction in our CRM with call notes, follow-up actions, and resolution time.  \n• Escalate only the cases that truly require higher-level intervention.\n\nWhat I’ll supply\n• A concise knowledge-base and onboarding guide.  \n• Access to the CRM, call script templates, and a support Slack channel for quick questions.\n\nIdeal background\n• Previous phone support experience.  \n• Confident, friendly phone demeanor with fluent spoken English.  \n• Ability to troubleshoot common product questions and think on your feet.\n\nSuccess looks like\n• High first-call resolution rate.  \n• Consistently positive customer feedback.  \n• Accurate, timely call logs.\n\nIf you’re ready to become the calm, capable voice our customers trust, I’d love to hear about your experience and current availability.",
+  "query": "python script",
+  "found_at": "2026-07-18 04:17"
+ }
+]
