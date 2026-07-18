@@ -128,5 +128,83 @@
   "desc": "Saya ingin menerima kumpulan artikel berita hiburan setiap hari agar saya bisa membacanya tanpa harus mencari satu-satu di internet. Berikut yang saya butuhkan:\n\n• 5–7 artikel terbaru seputar film, musik, selebritas, atau budaya pop, dikurasi dari sumber tepercaya.  \n• Tautan asli tiap artikel plus ringkasan singkat (2–3 kalimat) dalam Bahasa Indonesia.  \n• Dokumen harian dalam Google Docs atau file PDF—mana yang paling praktis.  \n• Pengiriman sebelum pukul 09.00 WIB setiap hari kerja.\n\nPastikan berita tidak mengandung clickbait berlebihan dan berasal dari media resmi atau portal hiburan ternama. Jika ada kabar penting di luar jadwal, saya terbuka menerima pemberitahuan tambahan.",
   "query": "google sheets automation",
   "found_at": "2026-07-18 06:25"
+ },
+ {
+  "id": 40589742,
+  "title": "Jewellery Manufacturing ERP Development",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010348,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/microsoft-access/Jewellery-Manufacturing-ERP-Development",
+  "desc": "I'm seeking an experienced developer to create a comprehensive Jewellery Manufacturing ERP system using Microsoft Access and Excel. The ERP should effectively manage order tracking and employee assignment, and feature a CAD to Dispatch workflow, dashboards, reports, job cards, inventory management, and VBA automation. It should also support QR/barcode integration and be designed to scale for over 100,000 orders.\n\nKey Requirements:\n\nOrder Tracking Module (Prioritized):\n- Real-time status updates\n- Automated notifications\n- Historical order logs\n\nEmployee Assignment Module (Prioritized):\n- Task scheduling\n- Performance tracking\n- Role-based assignments\n\nAdditional Features:\n- CAD to Dispatch workflow\n- Dashboards and reports for data visualization\n- Job cards and inventory management\n- VBA automation for streamlined processes\n- QR/barcode support\n\nIdeal Skills and Experience:\n- Proficiency in Microsoft Access and Excel\n- Strong background in ERP development, particularly in a manufacturing context\n- Experience with VBA automation\n- Familiarity with QR/barcode integration\n- Ability to design scalable systems for high-volume order management\n\nPlease provide samples of previous ERP projects, particularly in manufacturing, with your bids.\n\nDetails of project \nBuild a Jewellery Manufacturing ERP using Microsoft Access + Excel with order tracking, CAD to Dispatch workflow, dashboards, reports, job cards, inventory, employee assignment, VBA automation, QR/barcode support, and scalable",
+  "query": "data extraction",
+  "found_at": "2026-07-18 08:24"
+ },
+ {
+  "id": 40589624,
+  "title": "Deploy Spring Boot Middleware Server",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010348,
+  "bids": 17,
+  "url": "https://www.freelancer.com/projects/spring-boot/Deploy-Spring-Boot-Middleware-Server",
+  "desc": "I already have a Windows-based .exe that simply wraps a Spring Boot jar; that jar contains virtually all of the middleware logic connecting my local system with an external service. What I need now is a developer who can transform that single-file setup into a fully-fledged, scalable server running in the cloud.\nPoint to me note - i want that spring boot server working as it is same no chnages only chances main sevrer inside it and make sure jar works with that server same to same as they work with orignal ones\nYou’ll receive:  \n• the original Spring Boot jar (inside the exe)  \n• my full assistance and domain knowledge whenever you need it\n\nScope  \n1. Unpack or otherwise extract the jar so the project can be built, tested and version-controlled normally.  \n2. Refactor or re-organise the codebase only where strictly required to run as a proper microservice.  \n3. Deploy the service to a cloud environment—my preference is Bigrock, yet I’m happy to hear your advice on using their cloud instances or an equivalent provider.  \n4. Make sure the middleware takes care of data processing, authentication & authorisation, and works as an API gateway exactly as it does now, but exposed through secure HTTPS endpoints.  \n5. Set up CI/CD so future updates are as simple as pushing to the repo.\n\nDeliverables  \n• Compilable Spring Boot project (Gradle or Maven) in a Git repo  \n• Cloud deployment (container image or VM) reachable at a public URL  \n• Documentation covering build steps, environment",
+  "query": "data extraction",
+  "found_at": "2026-07-18 08:24"
+ },
+ {
+  "id": 40589714,
+  "title": "Punjabi-English Display Home Tour Editing",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "AUD",
+  "usd_rate": 0.698,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/video-editing/Punjabi-English-Display-Home-Tour",
+  "desc": "I shoot raw walk-throughs of new display homes around Melbourne—both double and single storey—and I narrate entirely in Punjabi. I need those recordings shaped into engaging, dynamic YouTube content with English captions so viewers catch every detail even if they don’t speak Punjabi.\n\nHere’s what I’m after each time I drop footage in your folder:  \n\n• 1–2 full-length YouTube videos (usually 8–15 min) edited for an energetic pace: smooth, subtle transitions, logical cuts, light colour correction and balanced audio.  \n• 3 vertical reels cut from the same material, ready for Instagram Reels and YouTube Shorts (under 60 s each, punchy hooks up front, captions burned-in).  \n• Captions in perfect sync: Punjabi dialogue translated on-screen in clear, readable English. I will provide spellings for any tricky real-estate terms if needed.  \n• A turnaround of 24 hours from the time I upload files to Google Drive or Dropbox.\n\nYou’re free to work in Adobe Premiere Pro, Final Cut Pro, DaVinci Resolve or another pro-grade NLE—as long as the final exports arrive in 4K (main video) and 1080 × 1920 (reels) H.264, ready to upload.\n\nI’ll know the job is done when:  \n– All videos play smoothly with no jarring cuts;  \n– English captions match the spoken Punjabi;  \n– Transitions feel polished yet subtle;  \n– Reels keep viewers hooked within the first three seconds.\n\nIf this workflow fits your skill set and you’re comfortable handling Punjabi audio, I’m ready to start sending footage right away.",
+  "query": "google sheets automation",
+  "found_at": "2026-07-18 08:24"
+ },
+ {
+  "id": 40589662,
+  "title": "Desain Poster Lowongan Kerja",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 17,
+  "url": "https://www.freelancer.com/projects/freelancer-api/Desain-Poster-Lowongan-Kerja",
+  "desc": "Saya membutuhkan sebuah poster A4 untuk mengiklankan lowongan kerja freelance rumah. Seluruh teks sudah saya tulis—mulai dari persyaratan usia 18+, detail bayaran per pekerjaan (250–300 rb), sampai daftar platform seperti YUP 280k, AKULAKU 250k, dan sebagainya—tinggal Anda tata agar terbaca jelas dan menarik.\n\nGaya visual yang saya inginkan sederhana dan profesional: warna tidak perlu heboh, cukup bersih, tegas, dan terpercaya. Saya juga akan menyediakan satu gambar khusus yang harus dimasukkan; tidak ada logo lain.\n\nRingkasnya, hasil yang saya butuhkan:\n• Desain poster ukuran A4 (potrait maupun landscape silakan pilih yang paling pas).  \n• Skema warna simpel, profesional.  \n• Seluruh teks asli dimasukkan tanpa perubahan, termasuk kontak Telegram/WhatsApp.  \n• Satu gambar khusus terintegrasi secara proporsional.  \n• File akhir dalam PDF siap cetak serta versi PNG resolusi tinggi.\n\nMohon sertakan portofolio desain poster sejenis agar saya bisa cepat memutuskan.",
+  "query": "telegram bot",
+  "found_at": "2026-07-18 08:25"
+ },
+ {
+  "id": 40589723,
+  "title": "Realistic Comic Storyboard ASAP -- 2",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010348,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/storyboard/Realistic-Comic-Storyboard-ASAP",
+  "desc": "I’m gearing up for a new animated project and I need an experienced storyboard artist who can translate my script into a clear, realistic comic-style storyboard right away. The emphasis is on cinematic framing, believable anatomy, and panel-to-panel flow that an animation team can pick up without extra clarification.\n\nHere’s what I’m expecting:  \n• A full storyboard covering the entire script, delivered as layered PSD (or comparable) files plus a clean PDF for review.  \n• Consistent, realistic character proportions and environments—think live-action blocking, not exaggerated cartoon angles.  \n• Dynamic camera movement notes, shot descriptions, and simple arrows so timing is obvious for the editors.  \n• Swift turnaround: first draft within a few days, polished version immediately after feedback—speed matters.\n\nIf this first phase goes smoothly I’ll likely roll the same artist into rough animatics and, later, 2D animation passes, so clarity and organization in your boards will be key. Please share samples of previous realistic storyboards and outline how fast you can hit the ground running.",
+  "query": "pdf extraction",
+  "found_at": "2026-07-18 08:25"
+ },
+ {
+  "id": 40589615,
+  "title": "YouTube Animated Biography Documentary",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010348,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/2d-animation/YouTube-Animated-Biography-Documentary",
+  "desc": "I have a fully written script for a 10–15 minute YouTube documentary that tells a compelling biography, and I want it brought to life with the illustrated-character approach you see on Wallace Animation and Serious History. The piece will rely entirely on original 2D cut-out art rather than stock footage, so I need someone comfortable designing simple characters, animating their movements and expressions, and weaving in maps, diagrams, camera pans, zooms, and smooth scene transitions to keep viewers engaged from start to finish.\n\nYou’ll receive the voice-over, timing references, and a style guide that clarifies colour palette and illustrative tone. From there, I’m counting on you to handle the complete motion-graphics workflow in After Effects (or comparable software), add subtle sound design where it supports the visuals, and deliver a polished 1080p (or higher) master ready for upload.\n\nDeliverables\n• Illustrated assets and layered project files  \n• Fully animated video synced to the supplied narration  \n• One round of revision for pacing, visual clarity, and factual accuracy  \n• Final MP4 plus an exported project archive for future edits\n\nIf you’re excited to craft a biography that feels as instantly watchable as the linked examples, let’s discuss your approach and timeline.",
+  "query": "python script",
+  "found_at": "2026-07-18 08:25"
  }
 ]
