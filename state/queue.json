@@ -1337,5 +1337,18 @@
   "desc": "Necesito apoyo remoto para mantener al día mis tareas administrativas. El trabajo principal será la gestión de correos electrónicos: clasificar, priorizar y responder mensajes siguiendo mis indicaciones para que la bandeja de entrada quede organizada cada día.\n\nAunque el enfoque inicial está en el correo, valoro la flexibilidad para, en el futuro, sumar organización de documentos o carga de datos si vemos que encaja con tu disponibilidad.\n\nRequisitos esenciales:\n• Dominio básico de Microsoft Office, especialmente Outlook y Excel.  \n• Comunicación clara y responsable: espero actualizaciones breves sobre el progreso y cualquier duda que surja.  \n• Puntualidad en los plazos acordados y atención al detalle.\n\nEntregables:\n1. Bandeja de entrada organizada y etiquetada según mis criterios.  \n2. Resúmenes semanales del estado de los correos pendientes o resueltos.  \n3. Registro sencillo en Excel con los mensajes relevantes y las acciones tomadas.\n\nSi te sientes cómoda(o) con estas tareas y cumples los requisitos, me encantará colaborar contigo a largo plazo.",
   "query": "excel automation",
   "found_at": "2026-07-19 22:06"
+ },
+ {
+  "id": 40592353,
+  "title": "Hydropower Feasibility Study",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/data-analysis/Hydropower-Feasibility-Study",
+  "desc": "I’m commissioning a focused feasibility study for a proposed hydropower installation. The core of the assignment is a thorough hydrological analysis built exclusively on the historical rainfall data I will provide.  \n\nYou’ll be expected to translate that rainfall record into reliable runoff estimations, reservoir yield curves, flow-duration curves, and ultimately an energy-generation profile that can feed into later economic and technical assessments. If you have access to additional datasets—such as river-flow gauging or groundwater levels—feel free to flag how they might refine the results, but they are not mandatory for this phase.  \n\nPlease deliver:  \n• A concise methods section outlining software, models, and any statistical techniques used (e.g., HEC-HMS, SWAT, Python/Pandas).  \n• All calculated hydrological parameters in spreadsheet form.  \n• A short narrative report (≈10 pages) summarizing assumptions, key findings, data gaps, and recommended next steps.  \n\nAccuracy, transparent assumptions, and clearly annotated calculations will be my acceptance criteria. I’m ready to share the rainfall dataset and site coordinates as soon as we agree on milestones.",
+  "query": "data extraction",
+  "found_at": "2026-07-19 23:15"
  }
 ]
