@@ -726,5 +726,96 @@
   "desc": "I need a complete, permit-ready architectural package for a modern single-family home in Florida. The scope covers both interior and exterior design, full construction drawings, plus all structural and MEP engineering required for local code and hurricane-resistant compliance.\n\nKey design directives  \n• Modern aesthetic throughout  \n• Open floor plan that flows naturally from kitchen to great room  \n• Expansive windows to maximize daylight and views  \n• Seamless indoor–outdoor living with a covered lanai or similar outdoor space\n\nDeliverables  \n1. Schematic concepts (floor plans, elevations, 3D massing) for review and refinement  \n2. Final architectural drawings: dimensioned floor plans, elevations, roof plan, sections, door/window schedules, reflected ceiling plans  \n3. Structural, electrical, plumbing, and HVAC engineering sheets stamped for Florida jurisdiction  \n4. Site plan showing setbacks, grading, and utility runs  \n5. High-resolution 3D renderings of key interior and exterior views  \n6. Digital set (DWG + PDF) ready for submission to the county permitting office\n\nAcceptance criteria  \n• Drawings meet the latest Florida Building Code and wind-load requirements  \n• Room sizes, window placements, and exterior materials follow the approved schematic design  \n• Coordination across all disciplines—no clashes between architectural intent and engineering layouts\n\nI will provide lot survey, program requirements, and any HOA guidelines at project start. Please outline your typ",
   "query": "google sheets automation",
   "found_at": "2026-07-19 13:57"
+ },
+ {
+  "id": 40591813,
+  "title": "Need a GTM person",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/email-marketing/Need-GTM-person",
+  "desc": "We’re building Mallet, an AI-native operating system for service trade businesses (electricians, plumbers, HVAC, roofing, landscaping, etc.). Our platform helps contractors run and grow their businesses without the complexity and cost of legacy software like Jobber and Housecall Pro.\n\nWe’re looking for someone to own our outbound email GTM from strategy through execution.\n\nScope of Work\n\nYou will be responsible for building and optimizing our outbound engine, including:\n\n* Defining our outbound GTM strategy\n* Identifying high-value customer segments\n* Building targeted prospect lists\n* Writing cold email sequences that generate replies\n* Setting up and managing email infrastructure (domains, inboxes, deliverability)\n* Running campaigns and continuously optimizing performance\n* A/B testing messaging, offers, subject lines, and CTAs\n* Tracking KPIs and providing weekly performance reports\n* Iterating quickly based on data\n\nWhat We’re Looking For\n\n* Proven experience scaling B2B SaaS outbound\n* Strong understanding of cold email infrastructure and deliverability\n* Experience with tools like Smartlead, Instantly, Clay, Apollo, Ocean.io, or similar\n* Ability to write personalized cold emails that actually get responses\n* Data-driven mindset with strong analytical skills\n* Bonus if you’ve worked with vertical SaaS or service businesses\n\nSuccess Metrics\n\n* Positive reply rate\n* Qualified meetings booked\n* Cost per qualified meeting\n* Pipeline generated\n* Overall ROI on outbound camp",
+  "query": "data extraction",
+  "found_at": "2026-07-19 15:08"
+ },
+ {
+  "id": 40591804,
+  "title": "Tmall Store Setup & Sales",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/digital-marketing/Tmall-Store-Setup-Sales",
+  "desc": "I’m ready to launch my first Tmall store from scratch with one clear objective—drive solid, sustainable revenue. Because I don’t yet have a storefront on the platform, I’ll need end-to-end support: guiding me through the official merchant registration, configuring Alipay and taxes, designing a convincing storefront that suits the brand, and listing our initial product line so it meets all Tmall compliance rules.  \n\nOnce the shop is live, I also want to see a go-to-market plan that covers traffic acquisition inside the Alibaba ecosystem (Super Recommendations, live-stream rooms, Alimama ads) and any proven external channels that can convert Chinese shoppers quickly. Practical advice on customer service workflow, preferred logistics partners, and KPI dashboards inside Tmall / Taobao Seller Center will help ensure the store can scale without constant firefighting.  \n\nKey deliverables  \n• Approved Tmall merchant account and operational storefront  \n• Optimised product pages (images, Chinese copywriting, keyword tags) ready for launch  \n• Promotion calendar and first-month ad campaign set up with clear ROI targets  \n• Training call or handbook so my team can handle daily orders, chat responses, and data tracking  \n\nIf you’ve successfully opened and grown revenue-focused Tmall stores before, let’s make this one another success.",
+  "query": "data extraction",
+  "found_at": "2026-07-19 15:08"
+ },
+ {
+  "id": 40591810,
+  "title": "Extension Payment & Supabase Setup",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010348,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/supabase/Extension-Payment-Supabase-Setup",
+  "desc": "I have a cross-browser extension (Chrome, Firefox and Edge) that is nearly ready for a public beta and now needs a rock-solid subscription layer and cloud backend.  \n\nThe Razorpay gateway is already wired in, but I need you to review every part of that flow, tighten security, add the right webhooks and push clean subscription metadata into Supabase so the extension can enforce usage limits and sync settings across devices.\n\nHere is the concrete scope:\n\n• Payment layer  \n  – Audit the existing Razorpay integration, ensure tokens are handled securely and failures are surfaced gracefully.  \n  – Create/verify webhooks for success, failure, renewal, cancellation and expiry.  \n\n• Supabase & backend  \n  – Design the tables for plans, users and usage, then hook them up to the extension via REST or RPC.  \n  – Implement Supabase Auth so users sign in once and stay synced everywhere.  \n\n• Testing  \n  – Provide extensive testing with edge cases: simulate network drops, webhook retries, card declines, plan upgrades/downgrades and expired sessions. Automated test scripts are welcome if they speed things up.  \n\n• Browser-side work  \n  – Make sure the Manifest V3 code handles subscription state correctly in Chrome, Firefox and Edge.  \n  – Polish the AI-powered note summarisation/chat feature so it respects usage limits.  \n\nEverything lives in a private GitHub repo; regular pull requests and clear commit messages are required. When the above is stable, we’ll tag a beta release and submit it t",
+  "query": "ai chatbot",
+  "found_at": "2026-07-19 15:08"
+ },
+ {
+  "id": 40591798,
+  "title": "Neighborhood Google Business Profiles Setup",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/digital-marketing/Neighborhood-Google-Business-Profiles",
+  "desc": "I run a service-based home-services company and I need several Google Business Profiles built and properly verified—one for each key neighbourhood in our city. The goal is simple: when a homeowner searches locally, the profile tied to their neighbourhood shows up, complete with accurate NAP details, service categories and photos that reflect that specific area.  \n\nI will supply the core business information, branding assets and neighbourhood list. You’ll handle the creation, phone or postcard verification (whichever Google prompts), optimisation of each listing, and a brief hand-off note so I know how to maintain them going forward.  \n\nPlease make sure every profile:  \n• uses unique, location-specific descriptions   \n• is placed in the correct “Home services” categories   \n• has geo-tagged images and service area settings that match the neighbourhood served  \n\nOnce everything is live and verified, send me the direct profile links and the login credentials so I can monitor insights. If you’ve done multi-location GBP work before, especially for trades or home services, let me know in your proposal—screenshots or sample URLs are welcome.",
+  "query": "google sheets automation",
+  "found_at": "2026-07-19 15:08"
+ },
+ {
+  "id": 40591788,
+  "title": "Travel PPC Ads Specialist",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010348,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/google-ads/Travel-PPC-Ads-Specialist",
+  "desc": "I need an experienced paid-media professional who already understands the nuances of selling travel. You should bring five to eight solid years running both Google Ads and Meta (Facebook & Instagram) Ads specifically for tour operators, DMCs or OTAs, because the brief is simple: keep our funnels full of qualified travellers and turn them into bookings.  \n\nWe sell completely customised itineraries that can blend adventure, luxury and culture in a single trip, so each campaign has to speak to different intents across the customer journey. Your work will start with a competitive keyword and interest analysis, followed by full-funnel campaign builds, audience segmentation, pixel/tag implementation and conversion-focused creative on both platforms.  \n\nPlease be ready to:  \n• Launch and continuously optimise Search, Performance Max, Discovery, Reels and Carousel placements.  \n• Design remarketing flows that shorten the enquiry-to-booking window.  \n• Report weekly on CPL, ROAS and booking value, using Google Analytics 4 and Meta Business Suite.  \n\nAcceptance criteria: the first thirty days should show live campaigns, accurate tracking for every lead form and call, and an initial CPL that matches or beats our historical benchmark. After that, I expect steady month-on-month improvements in lead volume, quality and ROAS. If you have proven results in the travel sector and can hit those numbers, let’s talk.",
+  "query": "google sheets automation",
+  "found_at": "2026-07-19 15:08"
+ },
+ {
+  "id": 40591770,
+  "title": "Complete Activewear Line Design",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010348,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/adobe-illustrator/Complete-Activewear-Line-Design",
+  "desc": "I’m creating a fresh, cohesive active-wear collection and need a fashion designer who can take charge of the full design process for tops, bottoms, and outerwear. The goal is to end up with a small but distinctive line that feels performance-driven yet stylish enough for everyday wear.\n\nHere’s what I’m looking for you to handle:\n• Concept and mood-board development that shows a clear point of view for the whole range  \n• Detailed tech packs for each item (tops, bottoms, outerwear) with fabric suggestions, colorways, trims, and construction notes ready for sampling  \n• Print or graphic placement concepts where relevant  \n• Size-spec sheets so factories can move straight to prototyping  \n\nI value iterative collaboration, so please be comfortable sharing early sketches, revising based on feedback, and preparing final ready-for-manufacture files (Adobe Illustrator and PDF preferred).\n\nIf you have a portfolio with previous activewear pieces—or anything that shows an eye for functional fit and modern aesthetics—send it along with a brief note about how you approach material selection and performance testing. Let’s build something that athletes and casual movers alike will love to wear.",
+  "query": "google sheets automation",
+  "found_at": "2026-07-19 15:08"
+ },
+ {
+  "id": 40588139,
+  "title": "Modern Interior SketchUp Rendering",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010348,
+  "bids": 13,
+  "url": "https://www.freelancer.com/projects/google-sketchup/Modern-Interior-SketchUp-Rendering",
+  "desc": "I’m looking for a SketchUp specialist who can turn my clubhouse concept into polished, photo-ready interior visuals. The space needs to read as distinctly modern—clean lines, balanced lighting, and a contemporary palette that highlights the architecture without feeling sterile.\n\nYou’ll start from my existing floor plan and reference images (I’ll share them once we kick off) and build the full 3D model in Google SketchUp. From there, I need high-resolution, interior-focused renderings that capture the main gathering zone, the bar/lounge corner, and a flexible seating area. Natural daylight, realistic material reflections, and subtle accent lighting are key; the goal is imagery I can present straight to stakeholders without extra post-production.\n\nDeliverables expected:\n• .skp file with all layers and textures intact  \n• 3–5 final rendered JPEG/PNG images at 4K resolution  \n• The lighting and material settings so I can tweak them later if needed  \n\nIf you prefer V-Ray, Enscape, or another plugin for the final output, that’s completely fine as long as the raw SketchUp model remains fully editable. Let me know your typical turnaround and any similar modern interior work you’ve done, and we can get started right away.",
+  "query": "google sheets automation",
+  "found_at": "2026-07-19 15:08"
  }
 ]
