@@ -648,5 +648,83 @@
   "desc": "UK native: I need a reliable appointment setter to secure sales-focused calls for my business. All outreach must be done by phone, and I will provide a proven script along with the contact list. Your main responsibility is to connect with each lead, follow the script naturally, handle basic objections, and lock in a confirmed time on my calendar.\n\nYou should already be comfortable making outbound sales calls, speaking clearly in English, updating call notes promptly, and meeting daily targets. If you have your own dialing software or CRM experience, let me know—that’s a plus.\n\nI’m ready to start right away and will give you the script, calendar link, and lead list as soon as we agree on terms. Let’s talk if you can jump on the phones and turn prospects into scheduled sales meetings.",
   "query": "python script",
   "found_at": "2026-07-19 12:04"
+ },
+ {
+  "id": 40591718,
+  "title": "Loan Prediction Model with Imbalanced Data Handling",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010348,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/python/Loan-Prediction-Model-with-Imbalanced",
+  "desc": "I have a historical lending dataset that requires a full end-to-end machine-learning workflow. First, I need thorough data preprocessing and exploratory analysis: identify and treat missing values, detect and cap or remove outliers, and inspect the class distribution. In this project the key concern is minority class under-representation, so any resampling or cost-sensitive approach you propose should directly address that imbalance.\n\nFor feature engineering I want, at minimum, robust encoding of all categorical variables and consistent scaling or normalizing of the numeric fields before they enter the models. Feel free to add creative interactions if they genuinely improve recall without overfitting.\n\nOnce the data pipeline is solid, train and compare several classification algorithms—Logistic Regression, Random Forest, XGBoost and, if you believe it will help, a simple neural network. Optimisation focuses on accuracy, precision, recall and ROC-AUC, but recall carries the highest weight because false negatives (missed defaulters) are the most expensive error for me.\n\nDeliverables:  \n• Cleaned, feature-engineered dataset ready for inference  \n• Jupyter or Colab notebook (or well-documented Python scripts) that reproduces preprocessing, modelling, and evaluation  \n• Comparative metrics table highlighting the best performing model by recall and ROC-AUC  \n• Saved model file plus load-and-predict script  \n\nBonus (preferred): wrap the chosen model in a lightweight Streamlit or Fla",
+  "query": "web scraping",
+  "found_at": "2026-07-19 13:57"
+ },
+ {
+  "id": 40591705,
+  "title": "Advanced Manual QA Tester Needed — Flutter App ",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010348,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/flutter/Advanced-Manual-Tester-Needed-Flutter",
+  "desc": "Type: Fixed-price project (with option to extend into ongoing QA)\nCategory: Mobile QA / Manual Testing\nDuration estimate: 1–2 weeks\n\nOverview\n\nWe have a Flutter mobile app (Android + iOS) for a sports-coaching marketplace — athletes book sessions with coaches and academies, three user roles (Athlete, Coach, Academy) plus an Admin panel, real backend and real data.\n\nBasic QA is already done in-house — core happy-path flows (signup, browse, book, cancel, basic profile edits) have already been tested and are working. We do not need someone to click through the obvious flows again. We need an experienced QA tester who can find the bugs that basic testing misses: edge cases, race conditions, concurrent-user scenarios, partial/malformed input, boundary conditions, and the kind of subtle data-integrity issues that only show up under adversarial or unusual usage — not someone doing a first-pass functional walkthrough.\n\nIf your QA process is \"follow the happy path and confirm it works,\" this isn't the right fit. If you actively try to break things — rapid double-taps, concurrent sessions, partial form submissions, weird input, interrupted flows — please apply.\n\nThe debug APK will be shared directly with the freelancer selected for this job (not posted publicly).\n\nWhat You'll Need\n\n- A physical Android device or emulator — we'll provide a debug APK once you're selected\n- Ability to install and sideload a debug build\n- Strong bug-report writing: steps, expected vs. actual, screenshots/s",
+  "query": "data extraction",
+  "found_at": "2026-07-19 13:57"
+ },
+ {
+  "id": 40591701,
+  "title": "Growth Strategy & Social Audit",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010348,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/google-analytics/Growth-Strategy-Social-Audit",
+  "desc": "I need a fresh, objective look at my current growth-marketing set-up and the underlying business model. Your task is to run a full audit, spot the gaps, and package clear, data-backed recommendations I can implement right away.  \n\nScope  \n• Examine the entire funnel, from acquisition through retention, to see where my present strategy underperforms.  \n• Analyse revenue streams, pricing, and positioning so I understand whether the business model itself is hindering growth.  \n• Dive deep into my social-media presence—this is the core channel for brand awareness—to pinpoint why engagement with the audience has plateaued and how to revitalise it.  \n\nI’m especially interested in practical, channel-specific tactics that will help me interact authentically with the followers I already have, rather than simply chasing vanity-metric follower counts.  \n\nDeliverables  \n1. A concise audit report outlining key findings for strategy, funnel, and business model.  \n2. An actionable playbook for social-media engagement, complete with content themes, posting cadence, and sample copy.  \n3. A 60-day prioritised roadmap tying each recommendation to expected impact and required resources.  \n\nIf you’re fluent in growth frameworks, seasoned with tools such as Google Analytics, Meta Business Suite, and any relevant social-listening platforms, and you can explain insights in plain language, I’d love to review your proposal and discuss next steps.",
+  "query": "data extraction",
+  "found_at": "2026-07-19 13:57"
+ },
+ {
+  "id": 40591617,
+  "title": "ATO Payroll Reporting Correction",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "AUD",
+  "usd_rate": 0.698,
+  "bids": 17,
+  "url": "https://www.freelancer.com/projects/payroll/ATO-Payroll-Reporting-Correction",
+  "desc": "I'm seeking an experienced payroll specialist to resolve issues with ATO payroll reporting. specifically discrepancies we see payroll reports in MYOB and figures appearing STP year-end finalization and ATO employee payment summaries for year ending 30 June 2026.\n\nKey Requirements:\n- Review and correct employee data\n- Ensure payment summaries align with ATO records\n- Experience with ATO reporting and payroll systems\n- Attention to detail and accuracy\n\nIdeal Skills:\n- Familiarity with ATO regulations\n- Strong background in payroll processing\n- Ability to troubleshoot and resolve discrepancies\n\nLooking for someone who can ensure compliance and accuracy in our payroll reporting.",
+  "query": "data extraction",
+  "found_at": "2026-07-19 13:57"
+ },
+ {
+  "id": 40591699,
+  "title": "Custom Domain Email Solution",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/microsoft-365/Custom-Domain-Email-Solution",
+  "desc": "I am ready to move our team onto a reliable, hosted email platform that runs on our own domain. A hosted service is a must—we do not want to manage servers in-house—yet I am still weighing which provider (Google Workspace, Microsoft 365, Zoho Mail, or another you can justify) will serve us best.  \n\nBeyond standard mailbox creation, I need enough flexibility to support our recruitment workflow: shared folders or labels for candidate threads, easy delegation, and simple integration with the ATS and calendar invites we already use. Large storage, robust spam filtering, and built-in collaboration tools (docs, calendars, chats) are desirable if they fit the same package.\n\nHere is what I expect from you:  \n• A concise comparison of at least two hosted options outlining costs, security features, storage limits, and how each could handle the recruitment-specific needs above.  \n• End-to-end setup of the chosen platform, including DNS changes (MX, SPF, DKIM, DMARC), creation of all user mailboxes/aliases, and activation on desktop and mobile clients.  \n• A brief hand-off guide or screen-share session so my team understands how to access their new accounts, share folders, and manage basic admin tasks.\n\nSuccess is when every user can send and receive mail through our custom domain without disruption, spam is appropriately filtered, and our recruitment team’s shared workflow is live on day one. If you have rolled out Google Workspace, Microsoft 365, Zoho Mail, or a similar hosted service ",
+  "query": "gpt integration",
+  "found_at": "2026-07-19 13:57"
+ },
+ {
+  "id": 40591644,
+  "title": "Modern Florida Home Design & Plans",
+  "budget_min": 3000.0,
+  "budget_max": 5000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/rendering/Modern-Florida-Home-Design-Plans",
+  "desc": "I need a complete, permit-ready architectural package for a modern single-family home in Florida. The scope covers both interior and exterior design, full construction drawings, plus all structural and MEP engineering required for local code and hurricane-resistant compliance.\n\nKey design directives  \n• Modern aesthetic throughout  \n• Open floor plan that flows naturally from kitchen to great room  \n• Expansive windows to maximize daylight and views  \n• Seamless indoor–outdoor living with a covered lanai or similar outdoor space\n\nDeliverables  \n1. Schematic concepts (floor plans, elevations, 3D massing) for review and refinement  \n2. Final architectural drawings: dimensioned floor plans, elevations, roof plan, sections, door/window schedules, reflected ceiling plans  \n3. Structural, electrical, plumbing, and HVAC engineering sheets stamped for Florida jurisdiction  \n4. Site plan showing setbacks, grading, and utility runs  \n5. High-resolution 3D renderings of key interior and exterior views  \n6. Digital set (DWG + PDF) ready for submission to the county permitting office\n\nAcceptance criteria  \n• Drawings meet the latest Florida Building Code and wind-load requirements  \n• Room sizes, window placements, and exterior materials follow the approved schematic design  \n• Coordination across all disciplines—no clashes between architectural intent and engineering layouts\n\nI will provide lot survey, program requirements, and any HOA guidelines at project start. Please outline your typ",
+  "query": "google sheets automation",
+  "found_at": "2026-07-19 13:57"
  }
 ]
