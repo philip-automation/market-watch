@@ -1350,5 +1350,44 @@
   "desc": "I’m commissioning a focused feasibility study for a proposed hydropower installation. The core of the assignment is a thorough hydrological analysis built exclusively on the historical rainfall data I will provide.  \n\nYou’ll be expected to translate that rainfall record into reliable runoff estimations, reservoir yield curves, flow-duration curves, and ultimately an energy-generation profile that can feed into later economic and technical assessments. If you have access to additional datasets—such as river-flow gauging or groundwater levels—feel free to flag how they might refine the results, but they are not mandatory for this phase.  \n\nPlease deliver:  \n• A concise methods section outlining software, models, and any statistical techniques used (e.g., HEC-HMS, SWAT, Python/Pandas).  \n• All calculated hydrological parameters in spreadsheet form.  \n• A short narrative report (≈10 pages) summarizing assumptions, key findings, data gaps, and recommended next steps.  \n\nAccuracy, transparent assumptions, and clearly annotated calculations will be my acceptance criteria. I’m ready to share the rainfall dataset and site coordinates as soon as we agree on milestones.",
   "query": "data extraction",
   "found_at": "2026-07-19 23:15"
+ },
+ {
+  "id": 40592430,
+  "title": "Compile National SMS Supporter List",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/data-collection/Compile-National-SMS-Supporter-List",
+  "desc": "I need a fresh, permission-based SMS list that lets our nonprofit reach supporters across the entire country. Your job is to locate or generate valid U.S. mobile numbers belonging to individuals who are likely to be interested in our cause, and deliver them in a clean, well-structured spreadsheet ready for import into our messaging platform.\n\nThe list must be gathered through fully compliant, opt-in methods that respect TCPA and GDPR where applicable. I am open to approaches such as leveraging reputable data providers, opt-in landing pages, or partnerships with aligned organizations—what matters is that every number comes with documented consent and can be segmented by state for future targeting.\n\nWhen you reply, outline:\n\n• The exact data-collection or sourcing method you will use, including any tools, APIs, or third-party platforms.  \n• How you will verify consent and maintain compliance.  \n• The estimated total number of contacts you can deliver and your timeframe.\n\nDeliverable: a CSV or Excel file containing phone numbers plus any supplementary fields you can lawfully capture (for example, name or email if available), accompanied by a brief report describing your process and proof of opt-in. I will review the first sample batch before green-lighting the full run.",
+  "query": "data extraction",
+  "found_at": "2026-07-20 00:16"
+ },
+ {
+  "id": 40592410,
+  "title": " Chinese Traditional Medicine & Daily Wellness Practices – Guide Adaptation",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "EUR",
+  "usd_rate": 1.143048,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/content-writing/Chinese-Traditional-Medicine-Daily",
+  "desc": "I have English material about Traditional Chinese Medicine (TCM) and everyday wellness practices. The original text is informative but written in a rather Western and academic style. I need it adapted into natural, clear, and culturally authentic Chinese that Chinese readers can easily relate to.\nThe guide covers basic TCM concepts, daily wellness habits, food therapy, simple exercises, and how Chinese people traditionally take care of their health in daily life.\nWhat Needs to Be Done\n\nRewrite the full content into natural and easy-to-understand Chinese\nKeep all TCM concepts and practical advice accurate\nMake the language feel warm, practical, and culturally natural\nOrganize it as a clear and readable guide\n\nSample Task (include your version when you apply)\nPlease adapt the short English section below into natural Chinese. Show your adaptation in your proposal.\nOriginal Section:\nIn Traditional Chinese Medicine, the body is seen as a system that needs balance. Many people start their day with warm water or light stretching to help the body wake up gently. Simple food choices, such as eating more warm and cooked meals, are also considered important for long-term health.\nDeliverables\n\nFull Chinese version of the guide (approximately 8–12 pages)\nNatural and culturally appropriate Chinese throughout\nClean Word document\n\nQuality Standards\n\nThe Chinese must feel natural and easy to read\nAll TCM concepts and advice must stay accurate\nThe tone should be practical and approachable, not",
+  "query": "pdf extraction",
+  "found_at": "2026-07-20 00:16"
+ },
+ {
+  "id": 40592429,
+  "title": "Craft Kombucha Café Kickstarter Campaign",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "AUD",
+  "usd_rate": 0.69809,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/content-creation/Craft-Kombucha-Caf-Kickstarter-Campaign",
+  "desc": "I’m ready to launch a Kickstarter that will fund our move into a new, high-visibility kitchen where we can host demo dinners, workshops, cooking classes, and keep inventing probiotic-powered foods like scoby burgers, kombucha bread, scoby cheddar, crunchy sauerkraut crackers, and other scoby snacks.  \n\nTo make the campaign shine I need a creative partner who can handle three things from start to finish: shaping the page content, producing an eye-catching video, and structuring irresistible reward tiers. The tone throughout should feel casual and engaging so it speaks directly to food enthusiasts, health-conscious eaters, our local community, and anyone excited about hands-on cooking experiences.\n\nHere’s what I’m looking for:  \n• Campaign content creation – a compelling story, clear funding goal explanation, appetising product copy, and a short section about our upcoming third book.  \n• Video production – concept, script, shot list or full editing (whatever level you specialise in) that captures our bubbling ferments, test-kitchen energy, and community vibe in 60-90 seconds.  \n• Reward structuring – a tier plan that might include early bird class seats, limited demo-dinner invites, signed books, product bundles, or even naming a new scoby starter, all laid out so backers instantly get the value.  \n\nIf you’ve helped food brands or lifestyle projects smash crowdfunding goals before, even better. Share a couple of relevant links or quick case notes, tell me how you tackle each el",
+  "query": "python script",
+  "found_at": "2026-07-20 00:16"
  }
 ]
