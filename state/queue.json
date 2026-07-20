@@ -2611,5 +2611,57 @@
   "desc": "I’m ready to turn my modern-neo classic vision into build-ready documents, starting with a bespoke kitchen whose focal point is a statement island clad in rich marble. Countertops, backsplash, and waterfall edges should all showcase luxurious veining, offset with discreet brass accents and fluted glass for depth and light play. Cabinet fronts will echo classic wainscoting, yet stay crisp and contemporary.\n\nThe look must flow seamlessly into the adjacent formal dining room, where I want a layered lighting composition: an elaborate crystal chandelier for drama, slim modern linear fixtures for flair, and atmospheric, dimmable LED strips to set the mood.\n\nWhat I need from you:\n\n• Concept board illustrating colour palette, marble selection, brass hardware, and complementary finishes.  \n• Scaled plans, elevations, and a reflected ceiling plan detailing cabinetry, island dimensions, appliance layout, and the full dining-room lighting scheme.  \n• Three photorealistic renders (two of the kitchen, one of the dining area) that capture both daylight and evening lighting scenarios.  \n• A specification sheet listing exact marble type, fixtures, appliances, hardware, and any bespoke millwork profiles.  \n\nDeliverables must arrive in PDF plus editable source format (DWG, SketchUp, or 3ds Max) so my contractor can move straight into fabrication. Verify slab sizes, appliance clearances, and lighting load in advance; I’d rather resolve technical details now than during construction.\n\nIf anything",
   "query": "pdf extraction",
   "found_at": "2026-07-20 19:03"
+ },
+ {
+  "id": 40594269,
+  "title": "Candidate Sourcing & Screening VA Needed",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/talent-acquisition/Candidate-Sourcing-Screening-Needed",
+  "desc": "Our operations team is growing fast and I need a virtual assistant who can actively search for talent and run the first-round screen based mainly on each prospect’s work experience. You’ll receive a profile of the roles we’re filling, then you will:\n\n• locate potential applicants through job boards, LinkedIn and other channels  \n• review their résumés for relevant, hands-on experience (I’m open to entry-, mid- or senior-level backgrounds)  \n• compile a brief screening summary highlighting why the person’s experience aligns with the role  \n• hand over qualified leads so my in-house staff can take them to the next stage\n\nI’ll provide clear screening templates and access to our preferred platforms; you simply plug in your research, keep the data tidy and send a concise daily update. If you’re organised, resourceful and comfortable evaluating work histories, I’d love to see how many strong candidates you can surface.",
+  "query": "data extraction",
+  "found_at": "2026-07-20 20:38"
+ },
+ {
+  "id": 40594227,
+  "title": "CAN Bus Access for Prius BMS Diagnostics",
+  "budget_min": 1500.0,
+  "budget_max": 3000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/automotive/CAN-Bus-Access-for-Prius",
+  "desc": "I need access to the CAN bus communication of a 2010 Toyota Prius, specifically to diagnose errors in the battery management system (BMS). This is crucial for troubleshooting and ensuring the hybrid battery operates efficiently.\n\nKey requirements include:\n- Access to CAN bus data\n- Ability to extract and interpret error codes from the Voltage Sensor or monitor the sensor to ensure it is operating correctly\n\nIdeal skills and experience:\n- Experience with automotive CAN bus systems\n- Knowledge of hybrid vehicle battery management systems\n- Proficiency in reading and analyzing CAN bus data\n\nPlease provide a detailed approach and timeline with your bids.",
+  "query": "data extraction",
+  "found_at": "2026-07-20 20:38"
+ },
+ {
+  "id": 40594147,
+  "title": "On-Site SAP BTP Trainers",
+  "budget_min": 3000.0,
+  "budget_max": 5000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/training/Site-SAP-BTP-Trainers",
+  "desc": "I need an experienced SAP instructor who can deliver two official courses—BTP100 (SAP Business Technology Platform) and CLD900 (SAP Integration Suite)—face to face at our premises. The audience will be a group of six to ten participants who already work daily with SAP systems, so the material should be pitched at an intermediate level, blending theory with practical, real-world exercises.\n\nYou will be responsible for:  \n• Leading the on-site sessions, keeping them highly interactive and hands-on  \n• Supplying—or helping us procure—official courseware, labs, and any required cloud system access  \n• Tailoring explanations to an audience that already understands core SAP concepts but has not yet explored BTP or Integration Suite in depth  \n• Providing short knowledge checks or a final assessment to confirm learning outcomes  \n• Sharing follow-up resources so the team can continue practicing after the class\n\nWe will handle venue, catering, and participant logistics; you bring the expertise, slide deck, and lab environment. Please let me know your available dates, estimated class length for each course, and any technical prerequisites we should arrange ahead of time.",
+  "query": "gpt integration",
+  "found_at": "2026-07-20 20:38"
+ },
+ {
+  "id": 40594223,
+  "title": "PE Stamped Stair Tower Drawings",
+  "budget_min": 3000.0,
+  "budget_max": 5000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/structural-engineering/Stamped-Stair-Tower-Drawings",
+  "desc": "I need a Massachusetts-licensed Professional Engineer to prepare complete, code-compliant drawings for a commercial steel stair tower. The project is sited in Massachusetts, so every detail must satisfy the current Massachusetts State Building Code as well as the structural and fire-safety provisions that apply to commercial use.  \n\nYou will take my preliminary measurements and architectural layout, confirm all load paths, connections, and anchorage, and translate them into a full set of permit-ready plans stamped with your MA PE seal. CAD files in DWG and a coordinated PDF set are both required; structural calculations and any notes the building department is likely to request should accompany the submission.  \n\nDeliverables – all issued under your professional seal:  \n• Structural calculations package  \n• Plan, elevation, section, and connection details for the steel stair tower  \n• PDF plot set plus editable CAD (DWG) files  \n\nOnce I have your stamped package, I’ll handle the permit filing, so accuracy and clarity are essential. Let me know your estimated turnaround time and any specific info you need from me on day one so we can move quickly.",
+  "query": "pdf extraction",
+  "found_at": "2026-07-20 20:38"
  }
 ]
