@@ -2702,5 +2702,31 @@
   "desc": "I'm looking for a freelancer to attend a conference in Sanghai, July 31 july and 1st Aug China • on my behalf. The primary goal of this assignment is to showcase our product . This is a lead generation strategy to bring for future clients. Your responsibilities will include showing the banner to the mass of people present at the event. who is interested in our product? Just ask to scan the Telegram/WhatsApp/Teams QR given on banner. Our backend team will be available on those handles, and they will take them forward. The main aim is establishing connections that could lead to future business opportunities.\n\nWe are looking for a local freelancer of Sanghai,China . who can attend a conference on behalf of our company . You have to take snaps during the event.\n\nThe conference will be for 2 days; just enjoy the time and have fun. The conference is on 31 July , 1 Aug ,2026. At the end we want the snap you have taken, and a report on the event should be sent by email. The format of report will be given by us.\n\nA person should be frank enough and have good communication.\n\n\nKey tasks include:\n- Actively networking with potential clients\n- Distributing prepared networking materials (Business cards and Brochures)\n\nIdeal skills for this job include:\n- Strong communication and interpersonal skills\n- Experience in business networking\n- Ability to represent a company professionally\n\n\nIf you have potential and you are interested, please send me a message so that we can discuss...\nwe can als",
   "query": "telegram bot",
   "found_at": "2026-07-20 21:52"
+ },
+ {
+  "id": 40594434,
+  "title": "FlexSim Modeling for Manufacturing Facility",
+  "budget_min": 1500.0,
+  "budget_max": 3000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 20,
+  "url": "https://www.freelancer.com/projects/manufacturing/FlexSim-Modeling-for-Manufacturing",
+  "desc": "I have the floor plan and process data for a 40,000 sq ft medical-device manufacturing plant and now need it brought to life in FlexSim. The goal is to see—rather than just assume—how the process flow, layout design, and product flow interact, especially around the assembly line that drives most of our volume. Once the model runs smoothly, I want to interrogate it for production efficiency, throughput, and resource utilization so we can make confident decisions on capacity and future-proof expansion.\n\nYou’ll start by translating the current layout into a realistic 3D FlexSim environment, dropping in machines, workstations, conveyors, buffers, and labor resources with cycle times, changeovers, and shift patterns I will supply. From there we will iterate: first validate the model against existing output, then test alternative line balances, routings, and floor configurations to spot hidden bottlenecks or under-used assets.\n\nDeliverables I need from you:\n• A fully parameterized FlexSim model of the entire manufacturing room, centred on the assembly line but including receiving, QA, and packing flows for contextual accuracy  \n• Scenario files (or clear instructions) that let me toggle volumes, staffing levels, and shift structures without editing the core model  \n• A concise results dashboard or exported report showing the three target KPIs—production efficiency, throughput, and resource utilization—plus any capacity alerts the simulation surfaces  \n• A complete, as required, han",
+  "query": "data extraction",
+  "found_at": "2026-07-20 23:10"
+ },
+ {
+  "id": 40594472,
+  "title": "In-Depth Monster Beverage Corporation Case Study",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/business-analysis/Depth-Monster-Beverage-Corporation-Case",
+  "desc": "Case Study Company Announcement\n\nWe will use Monster Beverage Corp (ticker symbol MNST)  (Case 5 in your textbook) as the case study for this course. You will use this for the Case Study Assignment in Modules 5, 6, and 8. RESEARCH is critical to doing well on this case study. The research should use current articles from reputable business journals; DO NOT rely solely on the textbook, as that information is dated. There should be a substantial amount of research used to support your writing for your Individual Case Study Parts 1, 2, and 3 (Models 5, 6, and 8). Your writing should not be supported by only the information found in the textbook, as this is a research case study that requires citations of all stats, facts, and figures, or anything that is not common knowledge. In other words, this is not an opinion assignment; rather, it should include citation support for the writing.\n\n\n\nCase Study: Matrices Assignment Instructions \n\nOverview \n\nComplete a case study of Monster Beverage Corporation (your instructor will assign the specific company for the case study at the beginning of Module 2: Week 2). You will find the case in the case section of the text. \n\nA formal, in-depth case study analysis requires you to utilize the entire strategic management process. Assume you are a consultant asked by the ABC Corporation to analyze its external/internal environment and make strategic recommendations. You must include exhibits to support your analysis and recommendations. \n\nInstruct",
+  "query": "excel automation",
+  "found_at": "2026-07-20 23:10"
  }
 ]
