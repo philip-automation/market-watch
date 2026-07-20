@@ -2663,5 +2663,44 @@
   "desc": "I need a Massachusetts-licensed Professional Engineer to prepare complete, code-compliant drawings for a commercial steel stair tower. The project is sited in Massachusetts, so every detail must satisfy the current Massachusetts State Building Code as well as the structural and fire-safety provisions that apply to commercial use.  \n\nYou will take my preliminary measurements and architectural layout, confirm all load paths, connections, and anchorage, and translate them into a full set of permit-ready plans stamped with your MA PE seal. CAD files in DWG and a coordinated PDF set are both required; structural calculations and any notes the building department is likely to request should accompany the submission.  \n\nDeliverables – all issued under your professional seal:  \n• Structural calculations package  \n• Plan, elevation, section, and connection details for the steel stair tower  \n• PDF plot set plus editable CAD (DWG) files  \n\nOnce I have your stamped package, I’ll handle the permit filing, so accuracy and clarity are essential. Let me know your estimated turnaround time and any specific info you need from me on day one so we can move quickly.",
   "query": "pdf extraction",
   "found_at": "2026-07-20 20:38"
+ },
+ {
+  "id": 40594393,
+  "title": "Verify 6-10 Apple Maps Listings",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/data-entry/Verify-Apple-Maps-Listings",
+  "desc": "I have between six and ten existing business listings on Apple Maps that now need a quick but thorough verification pass. For each location, I want you to confirm three critical elements are 100 % accurate and publicly visible: the street address, primary phone number, and website URL.\n\nYour task involves:\n\n• Accessing each listing through Apple Maps / Maps Connect (or another reliable method)  \n• Checking every data point in real time against the information I provide  \n• Correcting or flagging any mismatch so the listing shows the right address, working phone, and live website link\n\nWhen you finish, please deliver a brief report for every listing that includes a before/after screenshot (or confirmation screen), the steps you took, and any actions still pending on Apple’s side. Once all locations display the updated details correctly, the job is complete.",
+  "query": "data extraction",
+  "found_at": "2026-07-20 21:52"
+ },
+ {
+  "id": 40594369,
+  "title": "Cold Email Specialist for B2B Outreach",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010364,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/email-marketing/Cold-Email-Specialist-for-Outreach",
+  "desc": "We're a B2B consulting company launching cold outreach to owner-operated service businesses. We need an experienced cold email specialist to build our sending infrastructure correctly from scratch and hand it off ready to run. This is a one-time setup project, not an ongoing management role — though it may lead to occasional retainer work if the build performs.\nYou own the technical foundation. A separate person will run day-to-day once you've built it, so your job is to make it bulletproof and documented.\nScope of work:\nRecommend and register sending domains (secondary/lookalike domains — not our primary domain).\nSet up mailboxes across those domains with proper SPF, DKIM, and DMARC authentication.\nConfigure and run domain/mailbox warmup to sending-ready status.\nSet up our Instantly.ai account: sending accounts connected, rotation configured, sending limits and schedules set safely.\nBuild the initial cold email sequence(s) in Instantly — we'll provide draft copy and offer details; you refine for deliverability and structure.\nEstablish our list verification process (tool and workflow) so bounce rates stay safe.\nDeliver a short written handoff doc: what was built, daily sending limits, what the day-to-day operator should monitor, and what \"healthy\" looks like vs. warning signs.\nWhat we're looking for:\nDemonstrable cold email experience — you've personally built and warmed sending infrastructure, not just written copy or clicked around a tool.\nFluency with the current Google/Mi",
+  "query": "google sheets automation",
+  "found_at": "2026-07-20 21:52"
+ },
+ {
+  "id": 40594362,
+  "title": "Shanghai Networking Event Representative",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010364,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/lead-generation/Shanghai-Networking-Event-Representative",
+  "desc": "I'm looking for a freelancer to attend a conference in Sanghai, July 31 july and 1st Aug China • on my behalf. The primary goal of this assignment is to showcase our product . This is a lead generation strategy to bring for future clients. Your responsibilities will include showing the banner to the mass of people present at the event. who is interested in our product? Just ask to scan the Telegram/WhatsApp/Teams QR given on banner. Our backend team will be available on those handles, and they will take them forward. The main aim is establishing connections that could lead to future business opportunities.\n\nWe are looking for a local freelancer of Sanghai,China . who can attend a conference on behalf of our company . You have to take snaps during the event.\n\nThe conference will be for 2 days; just enjoy the time and have fun. The conference is on 31 July , 1 Aug ,2026. At the end we want the snap you have taken, and a report on the event should be sent by email. The format of report will be given by us.\n\nA person should be frank enough and have good communication.\n\n\nKey tasks include:\n- Actively networking with potential clients\n- Distributing prepared networking materials (Business cards and Brochures)\n\nIdeal skills for this job include:\n- Strong communication and interpersonal skills\n- Experience in business networking\n- Ability to represent a company professionally\n\n\nIf you have potential and you are interested, please send me a message so that we can discuss...\nwe can als",
+  "query": "telegram bot",
+  "found_at": "2026-07-20 21:52"
  }
 ]
