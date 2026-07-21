@@ -4171,5 +4171,57 @@
   "desc": "İngilizce bir teknik dokümanı akıcı ve terminolojiye sadık kalarak İspanyolcaya çevirecek deneyimli bir çevirmen arıyorum. Sektöre özgü terimlerin doğru kullanımı, sayfa düzeninin korunması ve anlam bütünlüğünün bozulmaması benim için kritik. \n\nLütfen başvurunuza daha önce tamamladığınız benzer teknik çeviri çalışmalarından örnekler ekleyin; bu örnekler kaliteyi ve uzmanlığınızı değerlendirmeme yardımcı olacak. \n\nTeslimat formatı, orijinal dosyayla aynı düzeni korumalı ve istenirse düzenlenebilir (Word, PDF vb.) olmalıdır. Zaman çizelgesi ve sorularınız için mesaj atmanız yeterli; net bir plan üzerinde hızla anlaşalım.",
   "query": "pdf extraction",
   "found_at": "2026-07-21 21:21"
+ },
+ {
+  "id": 40596824,
+  "title": "Cellphone Data Extraction",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/data-analysis/Cellphone-Data-Extraction",
+  "desc": "I need assistance extracting text messages and location history from a cellphone. The extracted information should be provided in plain text format. This is a one-time extraction task. \n\nIdeal skills and experience:\n- Experience with cellphone data extraction\n- Ability to handle sensitive information securely I need it done immediately and will pay well for it. Snap, messenger and SMS. Location history is a plus. \n- Proficiency in organizing data in plain text format",
+  "query": "data extraction",
+  "found_at": "2026-07-21 23:36"
+ },
+ {
+  "id": 40596792,
+  "title": "Expert Needed: 100K Installs",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.01038,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/google-ads/Expert-Needed-Installs",
+  "desc": "My Android app is already live on the Play Store, and I want to scale fast: 100 000 real installs driven exclusively through your own Google Ads account. The core audience is teens (13-19), and beyond the raw install count I expect to see solid post-install engagement, not empty numbers.\n\nHere’s what I need from you:\n\n• Campaign ownership – create, fund, and optimise all Google Ads activity from your account.  \n• Teen-focused targeting – placements, keywords, audiences, creatives, and ad copy that genuinely attract 13-19-year-olds.  \n• Strict traffic quality – no incentivised, bot, VPN, or otherwise non-compliant methods; all must meet Google Ads and Play Console policy.  \n• Transparent reporting – share dashboards or exports (Google Ads, Play Console, Firebase/App Analytics) that clearly show spend, CPI, daily installs, retention, and key engagement metrics.  \n• Proof of expertise – screenshots, links, or case studies from previous high-volume app campaigns that demonstrate you have already delivered at least tens of thousands of installs at competitive CPI.  \n\nAcceptance criteria  \n• 100 000 additional installs visible in my Play Console.  \n• Engagement metrics (session length, retention) in line with or better than typical teen-app benchmarks.  \n• Full report pack delivered at completion.\n\nWhen you reply, please outline your proposed timeline, estimated CPI, and the kind of creative approach you’ll take. I’m ready to move as soon as I can verify your previous results.",
+  "query": "google sheets automation",
+  "found_at": "2026-07-21 23:36"
+ },
+ {
+  "id": 40596779,
+  "title": "Google Ads App Installs Boost",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.01038,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/google-ads/Google-Ads-App-Installs-Boost",
+  "desc": "My Android app is already live on the Play Store and now I need an experienced Google Ads specialist who can use your own fully verified ad account to drive fresh installs. The sole KPI is to maximize app installs; engagement and brand visibility are welcome side benefits, but installs are what I will measure success by.\n\nThe target profile is a broad, general-audience user base, though I will supply a shortlist of specific countries to focus on so the campaign stays relevant and cost-effective. I expect you to handle the entire workflow: campaign setup (preferably Universal App Campaigns), creative suggestions, keyword optimisation, ongoing bid and budget adjustments, and detailed reporting pulled straight from Google Ads and the Play Console.\n\nPlease be comfortable sharing transparent performance metrics—impressions, clicks, installs, CPI—and ready to iterate fast if results stall. Let me know the daily spend you recommend, how quickly you can launch after receiving the country list and Play Store link, and any previous success stories that prove you can hit ambitious install targets. I’m ready to start as soon as you are.",
+  "query": "google sheets automation",
+  "found_at": "2026-07-21 23:36"
+ },
+ {
+  "id": 40596796,
+  "title": "Oregon Court Docket Guidance",
+  "budget_min": 10.0,
+  "budget_max": 100.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/legal-consultation/Oregon-Court-Docket-Guidance",
+  "desc": "I’m the pro-se plaintiff in an Oregon civil tort action and need a knowledgeable guide who can log into the online docket, open it correctly, and translate its contents into plain English for me. My immediate priority is understanding the status of the most recent filings and any motions currently on the table, but I’d also like clarity on what each entry actually means and where the case stands procedurally.\n\nYou should already be comfortable navigating Oregon’s electronic court records (OJD, OECI, PACER if federal filings appear) and be able to spot key dates, deadlines, and next steps without giving me formal legal advice. A background in Oregon civil procedure is ideal because I want to know not just what has been filed but what is likely to happen next and what my timeframes look like.\n\nDeliverables I’m expecting:\n• A PDF or screenshot bundle of the current docket entries.  \n• A plain-language summary highlighting each recent filing, its purpose, and its current status.  \n• A short roadmap outlining the immediate procedural steps I should anticipate based on what’s already in the record.\n\nWe can communicate by phone or Zoom if needed, but I’m happy to receive everything in writing first. I’m ready to start as soon as you can access the docket.",
+  "query": "pdf extraction",
+  "found_at": "2026-07-21 23:36"
  }
 ]
