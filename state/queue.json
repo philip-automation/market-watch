@@ -5562,5 +5562,57 @@
   "desc": "I need a Georgia-licensed structural engineer to calculate, design, and stamp a 32-foot wooden roof truss for a new residential build. The building inspector will only approve construction once I present an engineer-sealed drawing that shows the truss satisfies Georgia Residential Code, with particular attention to wind-load resistance.  \n\nKey points:  \n• One 32-ft wood truss profile, complete with member sizing, plate layout, and all connection details  \n• Calculations that demonstrate the truss meets the required wind load for my site (no snow-load or other specialty loads are critical)  \n• Final deliverable as a signed, dated PDF drawing and calculation package bearing your Georgia PE stamp, ready for permitting and job-site printout  \n\nI’ll fabricate the trusses myself as soon as the stamped plans are in hand, so accuracy and clarity are essential. If you have availability this week, please outline your timeline for preliminary review, revisions (if any), and final stamping.",
   "query": "pdf extraction",
   "found_at": "2026-07-22 20:18"
+ },
+ {
+  "id": 40599066,
+  "title": "Cross-Platform Desktop Accounting Software",
+  "budget_min": 5000.0,
+  "budget_max": 10000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 17,
+  "url": "https://www.freelancer.com/projects/api-integration/Cross-Platform-Desktop-Accounting",
+  "desc": "I’m looking for a developer (or small team) who can deliver a fully-featured desktop accounting application that runs smoothly on both Windows and macOS. The goal is to provide small-to-mid-sized businesses with a simple, modern alternative to cloud subscriptions while keeping data securely on the user’s machine.\n\nThe core stack must include:\n• Invoicing with customizable templates and PDF/email output  \n• Expense tracking with receipt attachment and multi-currency support  \n• Financial reporting (P&L, balance sheet, cash-flow) with export to Excel/CSV  \n• Direct bank-account download/statement import using standard formats (OFX, QFX, CSV)\n\nNecessary integrations:\n• Payment gateways (Stripe and PayPal to start) for one-click invoice settlement  \n• CRM sync so customer records stay up to date (initially via a REST API)  \n• Inventory management link to pull stock levels and cost of goods for accurate reporting\n\nProject expectations  \n1. Cross-platform codebase with native installers for Windows (.exe or .msi) and macOS (.dmg).  \n2. Clean, intuitive UI; think QuickBooks-style navigation, but lighter.  \n3. Encrypted local data store plus optional cloud backup (AWS S3 or similar).  \n4. Modular architecture so future Linux support can be added without rewriting everything.  \n5. Clear documentation: setup, user guide, and developer notes for ongoing maintenance.\n\nAcceptance criteria  \n• Both installers install, launch, and pass a basic end-to-end flow: create client → raise invoice ",
+  "query": "data extraction",
+  "found_at": "2026-07-22 21:34"
+ },
+ {
+  "id": 40599036,
+  "title": " Commercial Solar System desgn",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010356,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/cad-drafting-review/Commercial-Solar-System-desgn",
+  "desc": "Commercial Solar System DesignI am preparing a commercial-scale solar installation of up to 50 kW and need a complete electrical design package that a permitting authority and my installation crew can work from without further modification. The scope covers three key areas:\n\n• Solar panel layout – optimized stringing, row spacing, and tilt to maximise yield on the available roof area.\n• Electrical wiring – conduit runs, cable sizing, protection devices, string combiner or homerun details, and a clean single-line diagram that meets the latest NEC/IEC requirements.\n• Inverter system – proper inverter selection, placement, and integration with the existing service panel, including grounding and monitoring points.\n\nDeliverables I expect:\n1. CAD and PDF drawings for the array layout, single-line, and wiring schematics.\n2. An equipment schedule / bill of materials.\n3. Basic generation estimate (PVsyst, Helioscope or similar) to validate design assumptions.\n4. A brief design report citing code references used.\n\nFiles must be ready for submission to the local authority having jurisdiction and usable by field electricians. If you have recent commercial rooftop experience and can turn around an accurate, permit-ready set quickly, let’s get started.",
+  "query": "gpt integration",
+  "found_at": "2026-07-22 21:34"
+ },
+ {
+  "id": 40599009,
+  "title": "Roblox SCP Foundation Lobby Builder (Environment Artist)",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 19,
+  "url": "https://www.freelancer.com/projects/3d-modelling/Roblox-SCP-Foundation-Lobby-Builder",
+  "desc": "I'm looking for an experienced Roblox environment builder to create the main lobby for an SCP Foundation themed Tower Defense game.\n\nThis is an environment-building project only. The UI, gameplay systems, backend, and scripting are already completed. I only need a professional lobby environment built in Roblox Studio.\n\nTheme\nSCP Foundation\nModern industrial research facility\nClean sci-fi containment environment\nDark, professional atmosphere\nOriginal SCP Foundation facility (not a recreation of an existing site)\nNo anime style\nLobby Areas\nMain Spawn / Reception\nSummon\nDeploy\nEvolution Lab\nPersonnel Optimization Lab\nFoundation Armory (Shop)\nMission / Directive Terminal\nFuture Event Area\nMatchmaking Area\nDecorative hallways and containment facility details\nRequirements\nOptimized for Roblox performance\nMobile friendly\nModular and organized build\nClean Explorer hierarchy\nProfessional lighting and atmosphere\nNo scripting required\nRoblox Marketplace assets may be used where appropriate, but the final environment should feel cohesive and professionally assembled.\n\nI will provide references, completed UI, and detailed design direction so the environment matches the game's SCP Foundation aesthetic.\n\nThe lobby should feel like an original SCP Foundation facility built specifically for this game. Attention to architecture, atmosphere, lighting, player flow, and future expandability is extremely important.\n\nPlease include examples of previous Roblox environments, especially industrial, mi",
+  "query": "gpt integration",
+  "found_at": "2026-07-22 21:34"
+ },
+ {
+  "id": 40599025,
+  "title": "Fun 2D Animated Short Video",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010356,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/2d-animation/Fun-Animated-Short-Video",
+  "desc": "I want to bring a light-hearted, purely entertaining story to life through a crisp 2D animated short. The piece should appeal to anyone who loves animation, so the tone can be playful, visually engaging, and easy to follow without relying on niche references or heavy narration.  \n\nI already have the core concept sketched out in a few sentences; from there, I’ll need help fleshing it into a complete script, a simple storyboard, character designs, backgrounds, and finally the full animation—including basic sound effects and music. Feel free to work in Adobe Animate, Toon Boom Harmony, After Effects, or whichever 2D pipeline you’re most comfortable with, as long as the final render arrives in full-HD (1080p) MP4 plus the editable project files.  \n\nDeliverables  \n• Script and storyboard PDF  \n• Character and background design sheets (layers intact)  \n• Final 2D animation, 1080p MP4  \n• All source files for future tweaks  \n\nAcceptance criteria  \n• Smooth, on-model animation that matches the approved storyboard  \n• Clear, entertaining narrative that works for a broad audience  \n• Clean audio mix with royalty-free music/effects  \n\nOnce we lock the storyboard I’m happy to structure milestones around rough animation, clean-up/color, and final compositing. Let’s create something fun!",
+  "query": "google sheets automation",
+  "found_at": "2026-07-22 21:34"
  }
 ]
