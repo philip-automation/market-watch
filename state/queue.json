@@ -5419,5 +5419,70 @@
   "desc": "I have English content about Chinese dating and relationship culture. The original text is informative but written from a Western perspective. I need it adapted into natural and thoughtful Chinese that Chinese readers can easily relate to.\nThe content covers how dating usually works in China, modern relationship trends among young people, common expectations, family influence, and how views on relationships have been changing in recent years.\nWhat Needs to Be Done\n\nRewrite the content into natural and fluent Chinese\nKeep all cultural observations and key points accurate\nMake the language clear, respectful, and easy to read\nDeliver well-structured text\n\nDeliverables\n\nFull Chinese version of the content\nNatural and culturally appropriate Chinese\nClean Word document\n\nQuality Standards\n\nThe Chinese must sound natural and fluent\nAll cultural points must remain accurate and respectful\nThe tone should be balanced and thoughtful\nClear structure and good readability\n\n\nConfirm you are a native Simplified Chinese speaker\nMention if you have experience with cultural or lifestyle content \n\n If you cannot bid on this project due to the $20 fee, please apply using the PDF/docs attached to this project.",
   "query": "pdf extraction",
   "found_at": "2026-07-22 17:44"
+ },
+ {
+  "id": 40598872,
+  "title": "Publish iOS App Quickly",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010357,
+  "bids": 19,
+  "url": "https://www.freelancer.com/projects/ios-development/Publish-iOS-App-Quickly",
+  "desc": "My iOS app is nearing completion and I need it live on the App Store without delay. I’m looking for someone who already maintains an Apple Developer Program account and can take charge of the entire publishing workflow for me.\n\nHere’s what I’m after:\n• Use your active account to create the App Store Connect listing, set up certificates, provisioning profiles, and handle the TestFlight build.\n• Guide me through every guideline and compliance checkpoint so the first submission sails through review.\n• Deliver the final hand-off with all metadata, screenshots, privacy details, and release notes in place, so I can manage updates myself later.\n\nThe code is still in development, so your early involvement to flag any potential rejection issues (privacy, user data, UI, in-app purchase, etc.) is essential. Experience with Xcode, TestFlight, and App Store Connect is a must; past examples of approved apps will help me choose quickly.\n\nIf you can start right away and hit an accelerated timeline, let’s talk.",
+  "query": "data extraction",
+  "found_at": "2026-07-22 18:50"
+ },
+ {
+  "id": 40598794,
+  "title": "AI Voiceover for Script Alteration in Video",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010357,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/ai-voiceover/Voiceover-for-Script-Alteration-Video",
+  "desc": "Change script of characters in a video with AI voiceover. PFA the text file which contains the video link and the updated script. The voice of the characters should remain the same, and just the dialogues will differ according to the script",
+  "query": "ai chatbot",
+  "found_at": "2026-07-22 18:50"
+ },
+ {
+  "id": 40598871,
+  "title": "Instagram Ad Video Actor Needed",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010357,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/acting/Instagram-Video-Actor-Needed",
+  "desc": "I’m producing a short, vertical video for an upcoming Instagram campaign and I’m looking for an on-camera actor who can bring energy and authenticity to a 30–60-second script. The concept is straightforward: speak directly to camera, showcase the product naturally, and finish with a clear call-to-action.  \n\nWhat I need from you  \n• Self-taped footage in 1080 × 1920 (phone or mirrorless camera is fine as long as it’s sharp, well-lit, and has clean audio).  \n• Two performance takes: one lively and upbeat, one slightly more relaxed, so we can choose the best fit in post.  \n• Raw files delivered via Google Drive, WeTransfer, or similar within five days of selection.  \n\nWe’ll provide the script, brand guidelines, and reference clips as soon as we confirm. If you have a reel or any Instagram samples, please link them in your bid. Looking forward to collaborating and making this scroll-stopping ad together!",
+  "query": "google sheets automation",
+  "found_at": "2026-07-22 18:50"
+ },
+ {
+  "id": 40598836,
+  "title": "Traduction technique en zarma",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/canadian-french-translator/Traduction-technique-zarma",
+  "desc": "J’ai besoin de faire traduire un document technique rédigé en français vers le zarma. Il s’agit d’un texte spécialisé ; la terminologie doit donc rester précise et cohérente avec les standards du domaine.\n\nCe que j’attends :  \n• La version complète du document, fidèlement rendue en zarma.  \n• Un court glossaire des termes techniques clés, afin de vérifier la cohérence terminologique.  \n• Livraison sous le même format que l’original (Word ou PDF).\n\nIdéalement, vous êtes locuteur natif ou parfaitement à l’aise en zarma et vous possédez déjà une expérience dans la traduction de documents techniques. Merci d’indiquer le délai estimé et de joindre, si possible, un court extrait de travaux similaires.",
+  "query": "pdf extraction",
+  "found_at": "2026-07-22 18:50"
+ },
+ {
+  "id": 40598826,
+  "title": "Auto-SMS & WhatsApp Post-Call - for sell this service to bussiness owners",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010357,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/android-app-development/Auto-SMS-WhatsApp-Post-Call",
+  "desc": "I need a small Android utility that silently springs into action the moment any incoming or outgoing call ends. The flow is straightforward: first it fires off a local SMS from the phone’s own SIM using one default message template; immediately after, it pushes a WhatsApp message containing the same text plus a pre-loaded PDF file.\n\nStability matters: the service must keep running in the background even when the screen is off or the device is locked, without being killed by the system’s battery optimisations. I also want a simple way—preferably an in-app settings screen or easily editable file—to swap out both the SMS text and the PDF whenever needed.\n\nYou are free to build this in Java or Kotlin as long as you can integrate (or legally automate) the WhatsApp send function. Compliance with WhatsApp policy is essential; no work-arounds that are likely to get the phone number blocked.\n\nPlease deliver within a month.  \n\nSpecific deliverables:  \n• Signed APK ready to install on Android 10+  \n• Complete, well-commented source code  \n• Brief setup guide covering template/media updates and any required device permissions",
+  "query": "pdf extraction",
+  "found_at": "2026-07-22 18:50"
  }
 ]
