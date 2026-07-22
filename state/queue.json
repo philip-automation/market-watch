@@ -5640,5 +5640,70 @@
   "desc": "I run a commercial cleaning business and I am looking for a reliable cold caller to generate new business appointments.\n\nYou will be calling businesses from a provided list and speaking with decision-makers to schedule walkthroughs or quotes.\n\nThis is a commission-only role, so I am looking for someone who is confident on the phone and comfortable working based on performance.\n\nResponsibilities:\n\nMake outbound calls to businesses\nSpeak with decision-makers\nSet qualified appointments\nTrack calls and updates in Google Sheets or CRM\n\nCompensation:\n\n● $30 per qualified appointment set\n“Appointments must be confirmed and valid to qualify for payment.”\n\nQualified appointments must:\n\n● Be a business (no residential)\n● Be with a decision-maker\n● Show interest in cleaning services\n● Be scheduled for a walkthrough or quote\n\nNo-shows or unqualified appointments will not be paid.\n\n“Please start your proposal with the word ‘CLEAN’ so I know you read the full job post.”",
   "query": "google sheets automation",
   "found_at": "2026-07-22 22:39"
+ },
+ {
+  "id": 40599200,
+  "title": "Digital Marketing for Data Analytics Course",
+  "budget_min": 20.0,
+  "budget_max": 250.0,
+  "currency": "GBP",
+  "usd_rate": 1.337368,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/digital-marketing/Digital-Marketing-for-Data-Analytics",
+  "desc": "We are looking for an experienced digital marketing and student recruitment expert to help promote our Data Analytics Training Programme and generate serious student enrolments.\n\nInferaq Academy is launching a practical, career-focused Data Analytics programme designed for beginners and career changers who want to build job-ready skills in Excel, SQL, Power BI, Python, data cleaning, dashboards, business reporting, and AI-assisted analytics.\n\nWe need someone who can help us attract quality leads, promote the programme effectively, and convert interested learners into enrolled students.\n\nThe ideal freelancer should have experience in education marketing, online course promotion, lead generation, social media campaigns, WhatsApp/Telegram community marketing, Facebook/Instagram ads, LinkedIn promotion, email marketing, and student recruitment.\n\nYour responsibility will include:\n\nCreating a marketing strategy to attract students\nPromoting the Data Analytics programme across relevant online channels\nGenerating qualified leads from the UK, Nigeria, and other relevant markets\nCreating or improving ad copy, social media posts, and campaign messages\nHelping us run paid or organic campaigns\nSupporting WhatsApp group growth and engagement\nAdvising on the best platforms to reach prospective students\nHelping convert interested leads into paid enrolments\nTracking campaign performance and giving weekly updates\n\nWe are especially interested in freelancers who can deliver real results, not ju",
+  "query": "data extraction",
+  "found_at": "2026-07-22 23:46"
+ },
+ {
+  "id": 40599190,
+  "title": "US Finance C-Level B2B Lead Generation",
+  "budget_min": 750.0,
+  "budget_max": 1500.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/lead-generation/Finance-Level-Lead-Generation",
+  "desc": "I need a fresh, accurate pool of United States business-to-business contacts drawn solely from the finance sector.  My focus is on quality, industry-specific leads rather than broad geographic or company-size filters.  You’ll be zeroing in on the decision-makers who can actually move a deal forward—C-level executives (including CFOs and Owners), Directors and senior Managers.\n\nFor each contact, I expect verifiable details—name, role, company, email, phone and LinkedIn profile at a minimum—delivered in a clean spreadsheet I can import straight into my CRM.  Bounce-checked emails and recent data are essential; I’m not interested in outdated lists scraped from generic sources.\n\nAcceptance criteria  \n• Finance-industry company only, headquartered in the U.S.  \n• Titles limited to C-suite, CFO, Owner, Director or Manager.  \n• 95 %+ email validity (hard-bounce tested).  \n• No duplicates; each record must be unique across company and email.  \n\nIf you already have proven tools, databases or enrichment workflows that keep data compliant and current, let me know in your proposal along with a small sample so I can gauge accuracy.",
+  "query": "data extraction",
+  "found_at": "2026-07-22 23:46"
+ },
+ {
+  "id": 40599183,
+  "title": "Pay-Per-Enrollment Medicare Live Transfers",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/call-center/Pay-Per-Enrollment-Medicare-Live",
+  "desc": "I am looking for a U.S.–based call center that already works inside the Medicare Advantage space and can keep me stocked with real-time, TCPA-compliant live transfers. We will start in California, Florida, New Jersey, Ohio, and Virginia, then scale together once the first five states are running smoothly.\n\nWhat I need from you\n• Only pass seniors who have already expressed clear interest in Medicare Advantage and who have been pre-qualified for the benefits we can actually deliver.  \n• Transfer by phone only. A warm hand-off to my licensed agent is mandatory; we introduce ourselves first, then you complete the live introduction.  \n• All data must be scrubbed against DNC, Blacklist Alliance, and TCPA, and carry valid opt-in/Jornaya tokens.  \n• Your landing pages must be CMS-approved, and you should be sourcing data from trusted, fully compliant channels.  \n\nHow we’ll work\nI pay strictly on a cost-per-enrollment basis—if the prospect doesn’t enroll, you don’t invoice. Volume can ramp to 200+ live transfers per day once quality is proven. Let’s begin with an initial launch in the five states above; if performance and compliance stay solid, we will expand state by state.\n\nDeliverables for each business day\n1. Live phone transfers that meet the criteria above  \n2. A daily summary report showing transfer count, connection rate, and enrollment outcomes  \n3. Compliance logs (opt-in proof, scrub dates, CMS landing page IDs)\n\nIf your floor is already producing Medicare Advantage transf",
+  "query": "data extraction",
+  "found_at": "2026-07-22 23:46"
+ },
+ {
+  "id": 40599195,
+  "title": "Android LS Possed Module Development",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010357,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/android-app-development/Android-Possed-Module-Development",
+  "desc": "I’m building an Android application and I need a dedicated LS Possed module that handles secure user authentication only—no payment or messaging features at this stage. Your job is to design, code, and hand over a plug-and-play module (ideally an AAR or well-structured library) that I can drop straight into my existing Android Studio project.\n\nKey expectations  \n•  Works seamlessly with current Android standards (API 21+) using Kotlin or Java.  \n•  Implements robust sign-in / sign-up flows, token management, password reset, and session persistence.  \n•  Clean, well-commented code plus a concise integration guide so I can wire it into my app with minimal friction.  \n•  All external dependencies clearly documented.\n\nOnce I can compile the sample project you provide and execute the full authentication flow without issues, I’ll consider the work complete and release the milestone. Looking forward to collaborating on this.",
+  "query": "gpt integration",
+  "found_at": "2026-07-22 23:46"
+ },
+ {
+  "id": 40599186,
+  "title": "Italian Summer Lifestyle & Holidays – Content Adaptation",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "GBP",
+  "usd_rate": 1.337368,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/content-writing/Italian-Summer-Lifestyle-Holidays",
+  "desc": "I have English content about Italian summer lifestyle and holiday culture. The original text is informative but written from a non-Italian perspective. I need it adapted into natural and engaging Italian that Italian readers can easily relate to.\nThe content covers how Italians usually spend the summer, holiday traditions, popular summer destinations, daily rhythms during the hot months, and the importance of rest and free time in Italian culture.\nWhat Needs to Be Done\n\nRewrite the content into natural and fluent Italian\nKeep all cultural observations and key points accurate\nMake the language warm, clear, and easy to read\nDeliver well-structured text\n\nSample Task (include your version when you apply)\nPlease adapt the short English section below into natural Italian:\nOriginal Section:\nSummer in Italy is often seen as a time to slow down and enjoy life. Many people take long holidays in August, spend time at the sea, and focus more on family, food, and relaxation. The warmer months bring a different daily rhythm that prioritizes rest and simple pleasures.\nDeliverables\n\nFull Italian version of the content\nNatural and culturally appropriate Italian\nClean Word document\n\nQuality Standards\n\nThe Italian must sound natural and fluent\nAll cultural points must remain accurate and respectful\nThe tone should be warm and easy to relate to\nClear structure and good readability\n\nHow to Apply\n\nSend your Italian adaptation of the sample section above\nConfirm you are a native Italian speaker\nMen",
+  "query": "pdf extraction",
+  "found_at": "2026-07-22 23:46"
  }
 ]
