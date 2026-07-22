@@ -5484,5 +5484,83 @@
   "desc": "I need a small Android utility that silently springs into action the moment any incoming or outgoing call ends. The flow is straightforward: first it fires off a local SMS from the phone’s own SIM using one default message template; immediately after, it pushes a WhatsApp message containing the same text plus a pre-loaded PDF file.\n\nStability matters: the service must keep running in the background even when the screen is off or the device is locked, without being killed by the system’s battery optimisations. I also want a simple way—preferably an in-app settings screen or easily editable file—to swap out both the SMS text and the PDF whenever needed.\n\nYou are free to build this in Java or Kotlin as long as you can integrate (or legally automate) the WhatsApp send function. Compliance with WhatsApp policy is essential; no work-arounds that are likely to get the phone number blocked.\n\nPlease deliver within a month.  \n\nSpecific deliverables:  \n• Signed APK ready to install on Android 10+  \n• Complete, well-commented source code  \n• Brief setup guide covering template/media updates and any required device permissions",
   "query": "pdf extraction",
   "found_at": "2026-07-22 18:50"
+ },
+ {
+  "id": 40598985,
+  "title": "TCI website",
+  "budget_min": 750.0,
+  "budget_max": 1500.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/photography/TCI-website",
+  "desc": "I need a skilled architectural photographer who can quickly visit ten of our construction projects across Western Pennsylvania and deliver a cohesive image set for our website. The priority is clean, well-composed exterior shots that showcase each structure’s scale, materials, and surrounding context. Basic editing—straightening, color correction, and light touch-ups—is required so the files are web-ready on delivery.\n\nSites to be covered:\n• LindenPointe eMerging Business Ctr – Hermitage, PA  \n• Westminster (Fields & Hoyt Chemistry Addition) – Wilmington, PA  \n• Slippery Rock Athletic Field – Slippery Rock, PA  \n• Tamarack Lake Dam A & B Rehab – West Mead Twp, PA  \n• Polk Center – New Water Treatment Plant – Polk, PA  \n• Fishermens Cove Rd – Victory Twp, PA  \n• Tionesta Bridge – Tionesta, PA  \n• Grove City College – Rockwell Hall Addition – Grove City, PA  \n• Erie Biletnikoff Stadium – Erie, PA  \n• PennDOT Mercer Welcome Center – West Middlesex, PA  \n\nTiming is tight; I’d like the full shoot wrapped up and images delivered as soon as your schedule allows. Please confirm your availability, estimated turnaround, and any equipment details—especially if you plan to use tilt-shift lenses or similar gear to control perspective. Let me know how many finished photos per site you typically provide and any travel considerations. Looking forward to working together.",
+  "query": "web scraping",
+  "found_at": "2026-07-22 20:18"
+ },
+ {
+  "id": 40598856,
+  "title": "Remote Talent Sourcer based in Jordan",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/lead-generation/Remote-Talent-Sourcer-based-Jordan",
+  "desc": "Location: Remote (Must be based in Jordan)\nJob Type: Freelance / Contract (Success-Fee Based)\nCompensation: $100 USD per successful hire\n\nAbout the Role\nI am a recruiter looking for a sharp, proactive, and highly skilled Freelance Talent Sourcer based in Jordan to partner with me in finding top-tier talent.\n\nIf you are a wizard at Boolean searches, know how to dig deep into the web to find hidden gems, and have a knack for getting candidate replies, this is for you. Your goal is simple: find the right people and get them on the calendar. You will not be responsible for conducting any interviews. Once you book the meeting, your job with that candidate is done!\n\nWhat You Will Do\nDeep Dive into Requirements: Thoroughly read and analyze role requirements to understand exactly what the ideal candidate looks like.\n\nAdvanced Sourcing: Conduct targeted Boolean and X-Ray searches (via Google, LinkedIn, GitHub, etc.) or use any other creative methods to identify highly qualified candidates.\n\nCandidate Outreach: Craft compelling messages to reach out to both active and passive candidates, sparking their interest in the role.\n\nSchedule Meetings: Successfully convert candidate interest into a booked meeting with our internal team.\n\nHand-Off: Pass the baton! We handle the interviews, the screening, and the closing.\n\nWhat We Are Looking For\nProven experience as a Talent Sourcer, Recruiter, or Lead Generator.\n\nStrong mastery of Boolean logic and X-Ray search techniques.\n\nExcellent written co",
+  "query": "web scraping",
+  "found_at": "2026-07-22 20:18"
+ },
+ {
+  "id": 40598943,
+  "title": "Social Media Content and Video Producer",
+  "budget_min": 37500.0,
+  "budget_max": 75000.0,
+  "currency": "INR",
+  "usd_rate": 0.010357,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/video-editing/Social-Media-Content-Video-Producer",
+  "desc": "Hi,\nBRIDGEGOLD — SOCIAL MEDIA & SHORT-FORM CONTENT PRODUCTION\nFreelancer Brief\nAbout us\nBridgegold is a boutique London-based advisory firm in residence and citizenship by investment, serving an international, high-net-worth clientele. Our brand is restrained, editorial and institutional — closer to private banking and wealth management than to consumer marketing. Trust and visual consistency are everything; our social presence is part of how prospective clients assess our credibility.\nThe role\nOne content-production workstream across social media and short-form video — not separate, disconnected work per platform. We take one content idea and repurpose it cleanly across all relevant channels. We handle strategy, topics and copy; you handle production to a consistent, premium standard, working from our approved templates and brand direction.\nWeekly output model (rotating):\n\nOne week: a short-form video / reel\nAlternate week: a carousel\nPlus a single-image post each week to complement\n\nAdapted per platform: LinkedIn, Instagram, Facebook, YouTube (Shorts), and X.\nYou must be able to handle:\nCarousel & static:\n\nImage sourcing (and suggesting images per post from a described brief)\nSingle-image posts\nMulti-slide carousel design\nClean typography, correct logo placement, brand consistency\nResizing/adapting per platform (LinkedIn, Instagram 4:5, Facebook, X)\n\nVideo / short-form:\n\n30–120 second videos\nClean branded slides or motion graphics\nSubtitles\nVoiceover — AI voice or human voi",
+  "query": "ai chatbot",
+  "found_at": "2026-07-22 20:18"
+ },
+ {
+  "id": 40598912,
+  "title": "American True Crime YouTube Narrator Needed — Human Voice Only, No AI** 70 CAD",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "CAD",
+  "usd_rate": 0.710036,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/audio-editing/American-True-Crime-YouTube-Narrator",
+  "desc": "We are looking for a reliable narrator for an established true crime YouTube channel. The ideal candidate will have a deep, controlled, and conversational voice with a suspenseful storytelling style—similar in tone and energy to Ty, while maintaining their own natural voice and identity.\n\nFor 70 CAD per 6k Words\n\nThe narration must sound naturally American and be delivered with a clear, neutral American English accent.\n\n**What we’re looking for:**\n\n- A natural-sounding voice suited to true crime and mystery content\n- A clear, neutral American English accent\n- Strong pacing, pronunciation, emotional control, and storytelling ability\n- The ability to build suspense without sounding overly theatrical\n- A professional-quality microphone and suitable recording environment\n- Clean audio without background noise, echo, clipping, or distortion\n- The ability to complete each assignment within **one day of receiving the script**\n- Reliable communication and consistent availability\n- The ability to discuss sensitive true crime material respectfully\n- Availability for ongoing assignments\n\n**A voice sample is required**\n\nEvery applicant must provide a narration sample with their proposal. Applications submitted without a voice sample will not be considered.\n\nRelevant true crime, documentary, or mystery samples are preferred. The sample must demonstrate your natural American accent, recording quality, microphone quality, pacing, and storytelling ability. Shortlisted applicants may also be ",
+  "query": "ai chatbot",
+  "found_at": "2026-07-22 20:18"
+ },
+ {
+  "id": 40599001,
+  "title": "Asistente de Reclutamiento y Desarrollo Comercial (Remoto)",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "EUR",
+  "usd_rate": 1.141226,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/recruitment/Asistente-Reclutamiento-Desarrollo",
+  "desc": "**Asistente de Reclutamiento y Desarrollo Comercial (Remoto)**\n\nBuscamos una persona responsable, organizada y con iniciativa para incorporarse a un proyecto en fase de crecimiento dentro del sector de selección de personal y captación de talento.\n\nSe trata de una posición remota con gran potencial de desarrollo profesional para alguien que quiera implicarse en un proyecto desde sus inicios y crecer junto a él.\n\n### Condiciones\n\n* Trabajo 100% remoto.\n* Sueldo fijo: **150 € al mes**.\n* Comisión del **10% sobre las ventas generadas directamente por el trabajador**, aplicada sobre la primera factura abonada por cada nuevo cliente conseguido.\n* Posibilidad de aumentar responsabilidades y remuneración conforme crezca el proyecto.\n\n### Funciones principales\n\n* Captación y búsqueda de nuevas empresas potencialmente interesadas en nuestros servicios.\n* Contacto inicial con empresas y seguimiento comercial.\n* Publicación y gestión de ofertas de empleo en diferentes plataformas.\n* Renovación y actualización periódica de anuncios.\n* Búsqueda activa de candidatos.\n* Cribado curricular y filtrado de candidatos según los requisitos de cada vacante.\n* Organización y mantenimiento de bases de datos de candidatos y empresas.\n* Gestión y actualización de información mediante Excel y herramientas digitales.\n* Seguimiento de procesos de selección hasta la presentación de candidatos a las empresas.\n* Apoyo en tareas administrativas relacionadas con el reclutamiento y la gestión de talento.\n\n### ",
+  "query": "excel automation",
+  "found_at": "2026-07-22 20:18"
+ },
+ {
+  "id": 40598942,
+  "title": "Georgia Licensed Roof Truss Engineer",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/engineering-drawing/Georgia-Licensed-Roof-Truss-Engineer",
+  "desc": "I need a Georgia-licensed structural engineer to calculate, design, and stamp a 32-foot wooden roof truss for a new residential build. The building inspector will only approve construction once I present an engineer-sealed drawing that shows the truss satisfies Georgia Residential Code, with particular attention to wind-load resistance.  \n\nKey points:  \n• One 32-ft wood truss profile, complete with member sizing, plate layout, and all connection details  \n• Calculations that demonstrate the truss meets the required wind load for my site (no snow-load or other specialty loads are critical)  \n• Final deliverable as a signed, dated PDF drawing and calculation package bearing your Georgia PE stamp, ready for permitting and job-site printout  \n\nI’ll fabricate the trusses myself as soon as the stamped plans are in hand, so accuracy and clarity are essential. If you have availability this week, please outline your timeline for preliminary review, revisions (if any), and final stamping.",
+  "query": "pdf extraction",
+  "found_at": "2026-07-22 20:18"
  }
 ]
