@@ -7187,5 +7187,31 @@
   "desc": "I’m producing a short promotional explainer video to boost brand awareness for my marketing agency and need a confident male creator who can carry the message on camera with a polished, professional tone. I will provide a concise script (around 60–75 seconds) and key visual cues; you bring the performance, camera, lighting, and clean audio.\n\nWhat I’m after  \n• A single take (or easily editable cuts) filmed in 4K or high-quality 1080p, landscape, delivered as an uncompressed MP4 or MOV.  \n• Neutral, well-lit background—home studio, office set, or green-screen is fine as long as the look is credible and business-ready.  \n• Natural, authoritative delivery—think friendly consultant rather than hard-sell host.  \n• Raw and lightly edited versions: one file with no lower thirds or graphics, plus an optional version with simple jump-cuts if needed.\n\nI’ll handle post-production, so just focus on clear diction, steady framing, and consistent lighting. Please share a short reel or sample showcasing similar professional promo work and confirm you can turn this around within five days of contract.",
   "query": "python script",
   "found_at": "2026-07-23 19:40"
+ },
+ {
+  "id": 40601117,
+  "title": "Automate Carriage-Bolt Forging Line",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010322,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/automation/Automate-Carriage-Bolt-Forging-Line",
+  "desc": "I’m upgrading my current forging setup into a fully automatic line dedicated to carriage-bolt production and need a specialist who can design or re-engineer the unit from feeding bar stock all the way through finished, inspected parts.\n\nScope of the automation\n• Loading & unloading: create a hands-free system to feed raw material into the headers and transfer finished bolts to bins or conveyors.  \n• Forging parameter control: integrate sensors and a PLC/HMI so ram stroke, temperature, and die alignment can be adjusted on the fly without stopping the press.  \n• Quality control & inspection: add inline dimensional, material‐verification, and surface-finish checks that eject non-conforming pieces automatically.\n\nBolt specification focus\nWe will be running carriage bolts only, with precise control over:\n– Size & dimensions (I’ll supply full drawings on award)  \n– Material type (predominantly medium-carbon steel, but design must allow quick changeovers)  \n– Finish or coating (zinc, HDG, or plain as required)\n\nDeliverables\n1. Mechanical and electrical layout drawings (STEP + PDF).  \n2. PLC/robotic cell program with annotated code and I/O list.  \n3. Bill of materials specifying off-the-shelf components.  \n4. Commissioning checklist and run-off acceptance procedure demonstrating cycle time, dimensional accuracy, and rejection rate targets we agree on.\n\nPlease outline your relevant forging-line projects, the control architecture you favour (e.g., Siemens, Allen-Bradley, Mitsubishi), a",
+  "query": "python automation",
+  "found_at": "2026-07-23 20:45"
+ },
+ {
+  "id": 40601121,
+  "title": "Expert in Lead Generation & Document Creation for Marketing Services",
+  "budget_min": 37500.0,
+  "budget_max": 75000.0,
+  "currency": "INR",
+  "usd_rate": 0.010322,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/email-handling/Expert-Lead-Generation-Document-Creation",
+  "desc": "I am seeking a highly skilled freelancer to help grow my digital marketing company by delivering results-driven lead generation targeting clients mainly in the USA and UK. I need someone who can:\n\n- Generate high-quality leads and arrange Zoom meetings with potential clients.  \n- Create a professional Services PDF showcasing our offerings.  \n- Draft a strong and customer-friendly client agreement to finalize deals.  \n- Ensure consistent results by securing client engagements with measurable outcomes.  \n\nThe ideal candidate should have expertise in outreach, crafting compelling pitches, and proven methods to secure clients within these regions. Let me know how you plan to achieve results!",
+  "query": "pdf extraction",
+  "found_at": "2026-07-23 20:46"
  }
 ]
