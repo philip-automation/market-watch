@@ -7213,5 +7213,44 @@
   "desc": "I am seeking a highly skilled freelancer to help grow my digital marketing company by delivering results-driven lead generation targeting clients mainly in the USA and UK. I need someone who can:\n\n- Generate high-quality leads and arrange Zoom meetings with potential clients.  \n- Create a professional Services PDF showcasing our offerings.  \n- Draft a strong and customer-friendly client agreement to finalize deals.  \n- Ensure consistent results by securing client engagements with measurable outcomes.  \n\nThe ideal candidate should have expertise in outreach, crafting compelling pitches, and proven methods to secure clients within these regions. Let me know how you plan to achieve results!",
   "query": "pdf extraction",
   "found_at": "2026-07-23 20:46"
+ },
+ {
+  "id": 40601238,
+  "title": "Pop Girl-Group AI Song Mashup",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "AUD",
+  "usd_rate": 0.6965,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/ai-audio-to-audio/Pop-Girl-Group-Song-Mashup",
+  "desc": "I have three separate pop tracks sung by a virtual three-member girl group. I want them blended into a single, release-ready record running between four and five minutes. Each singer’s part has already been generated, but some words were mangled by the AI vocalist; I need those moments repaired so the lyrics are perfectly intelligible while still sounding natural—no obvious Auto-Tune artifacts or robotic edges.\n\nHere’s the full scope:\n\n• Seamlessly arrange the strongest sections of all three songs into one coherent structure (intro, verses, hook, bridge, outro).  \n• Replace or re-synthesize every mis-pronounced word so it matches the written lyric sheet, keeping each singer’s unique tone. If AI resynthesis can’t do it cleanly, creative comping or manual re-recording techniques are fine—what matters is that the corrections feel organic.  \n• Polish the mix: balance three distinct female vocals, layer any supporting harmonies, add tasteful pop production touches, and ensure the track punches on phones, earbuds, and club systems alike.   \n• Master to modern streaming specs (-14 LUFS integrated, ‑1 dBTP) and provide a Spotify/iTunes-ready 44.1 kHz/24-bit WAV plus a high-quality MP3. Please also deliver instrumental and a cappella stems.\n\nI normally work in Logic Pro and can pass you the stems; if you prefer Ableton Live or another DAW that’s fine—just keep all routing clear so future revisions are simple. Melodyne, iZotope RX, or similar vocal-repair tools are welcome, but however",
+  "query": "ai chatbot",
+  "found_at": "2026-07-23 21:51"
+ },
+ {
+  "id": 40601193,
+  "title": "Replicate LuxAlgo Strategy Script",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010322,
+  "bids": 13,
+  "url": "https://www.freelancer.com/projects/pine-script/Replicate-LuxAlgo-Strategy-Script",
+  "desc": "I’m looking for a TradingView Pine Script that accurately reproduces the signalling logic of the LuxAlgo strategy. I already use the original LuxAlgo indicator on my charts, so what I need from you is a custom script—clean, well-commented, and fully open for further tweaks—that mirrors the same entry, exit, and filtering logic.\n\nScope of work  \n• Study the LuxAlgo plots on live charts and decode the underlying rules for trend direction, buy/sell signals, support & resistance zones, and confirmation filters.  \n• Re-create those rules in Pine Script v5, keeping all key inputs (sensitivity, time-frame options, smoothing lengths, colouring, alert conditions) adjustable from the settings panel.  \n• Build in native TradingView alert() triggers so I can turn any signal into SMS, email, or webhook notifications without editing code.  \n• Optimise the script for both real-time use and bar-replay back-testing; no repainting on closed candles.  \n• Package the final deliverable as a single .pinescript file with inline comments explaining every major calculation block, plus a brief README that lists each input and its default value.\n\nAcceptance criteria  \n– Visual signals on the custom script must align candle-for-candle with the LuxAlgo indicator on the same symbol and timeframe.  \n– All settings must be configurable from the UI.  \n– Code compiles in Pine Script v5 without warnings and respects TradingView’s publishing guidelines.\n\nI’ll share screenshots and any parameters I already know ",
+  "query": "python script",
+  "found_at": "2026-07-23 21:51"
+ },
+ {
+  "id": 40601164,
+  "title": "Ethnic Food Retail Interviews",
+  "budget_min": 20.0,
+  "budget_max": 250.0,
+  "currency": "GBP",
+  "usd_rate": 1.3313,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/business-analysis/Ethnic-Food-Retail-Interviews",
+  "desc": "I need a UK‑based freelancer to conduct in‑person customer and store interviews to validate market demand for fresh tropical vegetables in the ethnic food retail sector. The goal is to understand buying behaviours, supply challenges, and interest in locally grown tropical produce.\n\nKey Responsibilities:\n\nVisit and speak directly with African, Caribbean, and Asian food stores that sell vegetables\nConduct interviews with store managers and shoppers using a provided interview script\nDocument customer preferences, buying patterns, and market trends\nCollect 3–5 Letters of Intent (LOIs) from interested stores using a provided LOI template\nTake pictures of the shop as part of the task\nProvide a short market validation report summarising findings\n\nRequirements:\n\nMust be based in the UK\nComfortable approaching and speaking to store managers\nExperience in customer interviews or business development\nStrong communication and analytical skills\nBackground in market research or food retail (preferred)\n\nTarget demographic:\nEthnic food retail shoppers\nStore managers of African, Caribbean, and Asian food stores\nDiaspora food wholesalers\n\nOutcome:  \nClear market validation, interview summaries, LOIs confirming interest, and shop pictures.",
+  "query": "python script",
+  "found_at": "2026-07-23 21:51"
  }
 ]
