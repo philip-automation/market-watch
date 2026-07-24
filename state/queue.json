@@ -8903,5 +8903,18 @@
   "desc": "I need a seasoned mechanical designer who can model a complete vessel from scratch directly in SolidWorks. I will supply overall dimensions, process data, and any nozzle or support requirements as soon as we begin. Your job is to translate that information into an accurate, fully-parametric 3D assembly that can be taken straight to fabrication.\n\nThe focus is on getting a clean, well-structured SolidWorks file: parts properly mated, configurations logical, and features named so future edits are painless. If you already have pressure- or storage-vessel experience that will help, but I am open to your recommendations on wall thickness, head style, supports, and stiffeners.\n\nDeliverables when we wrap up:\n• Native SolidWorks assembly and part files  \n• STEP export for sharing with vendors  \n• General-arrangement drawing with main dimensions and nozzle table  \n• PDF views for quick reference  \n\nI will review the model against the supplied specs, check for interference, and confirm that the drawing communicates everything a fabricator needs. Once any tweaks are resolved, the project is complete. Let me know your timeline and a few examples of similar vessel work, and we can get started right away.",
   "query": "data extraction",
   "found_at": "2026-07-24 22:39"
+ },
+ {
+  "id": 40603321,
+  "title": "Habeas Corpus Petition Draft FOR MY SON - 24/07/2026 19:02 EDT",
+  "budget_min": 150.0,
+  "budget_max": 300.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/adobe-acrobat/Habeas-Corpus-Petition-Draft-FOR",
+  "desc": "The task is to craft a complete habeas corpus petition that attacks my son's present indeterminate sentence and argues for resentencing to a determinate 16-year term, creditable at 85 %. The primary ground is ineffective assistance of counsel.\n\nI have no case paperwork in my possession, so the first step will be helping me secure the charging documents, transcripts, minute orders, plea or verdict forms, abstracts of judgment, and any prior motions from the court clerk, appellate court and CDCR records unit. Please include clear instructions or template requests I can sign so those records can be ordered quickly.\n\nOnce the file is assembled, I need:\n\n• A concise memorandum explaining how the record supports an “ineffective assistance” claim, pinpointing the decisive errors and the prejudice analysis under Strickland.  \n• A fully formatted state habeas petition (and, if strategic, a parallel federal petition) ready to print, sign and file, citing the controlling statutes, Cal. Rules of Court, AEDPA timelines, and the line of cases that allow conversion from an indeterminate to a determinate sentence.  \n• A checklist of exhibits with proper authentication language.  \n• Filing directions (court addresses, copies, proof of service, and fee-waiver process).\n\nAcceptance criteria: the petition must be cite-checked, within page limits, include all required declarations and verification, and be delivered in editable Word and searchable PDF versions.\n\nPreferred tools: Word with Table of",
+  "query": "pdf extraction",
+  "found_at": "2026-07-24 23:48"
  }
 ]
