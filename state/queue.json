@@ -10398,5 +10398,57 @@
   "desc": "I’m looking for an original poem that celebrates love in a genuinely romantic voice. Please write it in free verse—no fixed meter or end-rhymes—allowing the emotion to flow naturally through vivid imagery and sound.  \n\nDeliverable: one unpublished poem, supplied as a plain Word or text file, polished and ready to share.  \nI value fresh metaphors, smooth cadence, and authentic feeling; avoid clichés and AI-generated or previously posted lines. A short author’s note (2-3 sentences) on your creative approach would be a welcome bonus, though not required.",
   "query": "ai chatbot",
   "found_at": "2026-07-25 22:13"
+ },
+ {
+  "id": 40604962,
+  "title": "Entry-Level Data Entry Assistant",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/data-management/Entry-Level-Data-Entry-Assistant-40604962",
+  "desc": "I need a reliable virtual assistant to handle pure data entry. At this stage I’m not looking for help with email management or scheduling; your entire focus will be placing information exactly where I need it, quickly and without errors.  \nI am looking for a virtual assistant who is proficient in reading and writing English. The tasks include managing communications, organizing schedules, and assisting with general coordination tasks. Ideal candidates should have strong organizational skills, attention to detail, and excellent written communication abilities.  \nBudget: Please confirm your budget range for this project",
+  "query": "data extraction",
+  "found_at": "2026-07-25 23:16"
+ },
+ {
+  "id": 40605002,
+  "title": "Automotive Water Pump Packaging Design",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/adobe-illustrator/Automotive-Water-Pump-Packaging-Design",
+  "desc": "Professional Packaging Design for Automotive Water Pump Boxes (Adobe Illustrator)\n\nDescription:\n\nI need a professional graphic designer with experience in automotive packaging to design the artwork for my Water Pump product boxes.\n\nThis project includes two different box sizes:\n\n* 30 × 15 × 13 cm\n* 15 × 13 × 13 cm\n\nThe branding and artwork must be exactly the same on both boxes. Only the layout should be adapted to fit each box size.\n\nI will provide:\n\n* Company logo\n* Reference packaging\n* Front and back design references\n* Product information\n* Brand colors\n* Text content\n\nDesign Requirements\n\n* Premium, clean and modern automotive packaging.\n* Japanese-inspired design language.\n* Suitable for a high-end aftermarket automotive brand.\n* The design must be 100% professional and print-ready.\n* I am not interested in AI-generated artwork. I want an original design created by an experienced packaging designer.\n* Attention to detail is extremely important.\n\nDeliverables\n\n* Adobe Illustrator (.AI) editable file\n* Print-ready PDF\n* High-resolution JPG and PNG\n* Fonts (or outlined fonts)\n* Linked images\n* CMYK color mode\n* All artwork properly sized for both box dimensions\n* Files ready for commercial printing\n\nBudget\n\nUS$50\n\nDeadline\n\n24 hours\n\nPlease apply only if you have experience designing professional product packaging and include examples of previous packaging projects in your portfolio.",
+  "query": "ai chatbot",
+  "found_at": "2026-07-25 23:16"
+ },
+ {
+  "id": 40604983,
+  "title": "Zerodha Daily Trade Limit Automation",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010373,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/api/Zerodha-Daily-Trade-Limit-Automation",
+  "desc": "I want a small program that plugs into Zerodha’s Kite Connect API and enforces strict daily discipline when I trade one lot of Bank Nifty futures. Each morning the system should let me place (or it can place) a single position only. As soon as that position hits either –₹1,000 or +₹2,000, it must square off automatically. The moment the square-off happens, a kill switch blocks every further F&O order for the rest of the trading session; order placement has to become impossible until the next market day, when the counters reset by themselves.\n\nNo e-mail or SMS alerts are necessary, and I will handle any other discretionary rules manually, so the logic above is all the automation I need.\n\nDeliverables\n• Clean, well-commented source code that calls Zerodha Kite Connect to check P&L in real time, place/exit the trade, and toggle the kill switch.  \n• A brief read-me explaining the required API keys, environment setup, and how the daily reset is achieved.  \n• Demonstration (video or live session) showing the kill switch locking orders after the first trade is closed under either limit.",
+  "query": "python automation",
+  "found_at": "2026-07-25 23:16"
+ },
+ {
+  "id": 40604975,
+  "title": "Tekla Truss Detailing and design of conncections",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "AUD",
+  "usd_rate": 0.698,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/tekla-structures/Tekla-Truss-Detailing-design",
+  "desc": "I have a complete Simple steel truss model and shop-ready documentation produced in Tekla Structures. The scope covers everything from setting up the 3D model to issuing drawings, all with bolted connections detailed and coordinated.\n\nHere is what I expect:\n\n• A clean, well-organized Tekla model of the truss system  \n• General arrangement drawings showing member sizes and positions  \n• Assembly and single-part drawings with bolt lists and clear bolted connection callouts  \n• A material take-off/BOM extracted directly from the model  \n• All files delivered in native Tekla and IFC/PDF formats so they drop straight into our internal workflow  \n\nThe model has to be clash-free and dimensionally aligned with the grid lines I will supply. If you use custom components or macros, keep them attached so I can reopen the file without missing objects. Please allow a quick revision cycle in case minor tweaks are required once the engineering review is complete.\n\nLet me know your estimated turnaround and any questions you need answered before starting so we can lock the schedule in right away.",
+  "query": "pdf extraction",
+  "found_at": "2026-07-25 23:16"
  }
 ]
