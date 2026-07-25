@@ -9878,5 +9878,70 @@
   "desc": "I'm looking for a skilled Pine Script developer to create an automated trendlines indicator. This indicator should be able to draw trendlines based on recent highs and lows, and should allow for customization of trendline settings. Additionally, it should provide alert notifications when trendlines are broken. \n\nKey Requirements:\n- Drawing trendlines based on recent highs and lows\n- Ability to customize trendline settings\n- Alert notifications when trendlines are broken\n- Implementation based on my specific trendlines drawing strategy\n\nIdeal Skills and Experience:\n- Proficiency in Pine Script\n- Experience with TradingView and developing custom indicators\n- Strong understanding of trendlines and technical analysis\n- Good communication skills for discussing and refining my strategy",
   "query": "python script",
   "found_at": "2026-07-25 13:56"
+ },
+ {
+  "id": 40604450,
+  "title": "USB-C Data Exchange Productivity App",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010373,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/api-developmet/USB-Data-Exchange-Productivity-App",
+  "desc": "I’m looking to build a focused productivity application that lets two computers communicate directly over a USB-C cable. The primary goal is smooth “Apks and desktop IO data exchanges” between connected machines, with the option to recognise simple IoT boards that expose extra I/O for scripting or automation later on.\n\nCore objectives\n• Create a cross-platform desktop client (Windows first; macOS/Linux welcome if the framework makes it easy).  \n• Detect a peer computer or supported IoT board as soon as the USB-C link is plugged in.  \n• Provide an intuitive interface where I can queue, send and receive files—including large .apk packages—while monitoring transfer speed and progress.  \n• Expose a lightweight API or command-line switch so future scripts can trigger transfers or read basic I/O states from an attached board.  \n\nTechnical expectations\n• A clean, maintainable codebase in a commonly supported language or framework (Electron, Qt, C#, Python + PySide—open to your recommendation).  \n• Reliable hand-shaking and error-handling so the connection recovers gracefully if the cable is unplugged.  \n• A build guide plus short README so I can reproduce the binaries on my own machine.\n\nDeliverables\n1. Functional desktop prototype meeting the objectives above.  \n2. Source code and build instructions.  \n3. Brief user guide or screen-capture walkthrough demonstrating a successful computer-to-computer transfer over USB-C.\n\nIf you have experience with USB device classes, bulk transfers",
+  "query": "data extraction",
+  "found_at": "2026-07-25 15:15"
+ },
+ {
+  "id": 40604416,
+  "title": "PDF-to-Word Editing & Cleanup",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010373,
+  "bids": 13,
+  "url": "https://www.freelancer.com/projects/adobe-acrobat/PDF-Word-Editing-Cleanup-40604416",
+  "desc": "I have a clear, legible PDF that was originally produced from an Excel-style layout, and I need it delivered back to me as a fully editable Word document. Once the file is in Word, I want three things handled:\n\n• Text formatting refined so fonts, sizes, spacing, and headings look professional and consistent.  \n• Data correction: fix any typographical errors or numerical inconsistencies you spot during the transfer.  \n• Content reorganization where necessary to improve flow—feel free to merge or split paragraphs, adjust table placements, and generally make the document read smoothly.\n\nBecause the source PDF quality is high, you should be able to use an accurate conversion tool (Adobe Acrobat, Nitro, ABBYY, or similar) without resorting to manual re-typing. However, manual touch-ups are expected to achieve a polished result.\n\nDeliverable: one clean, fully editable .docx file that mirrors the original layout, reflects all requested corrections, and is ready for immediate use. Tracked changes can be included if you prefer, though a finalized version is ultimately what I need.",
+  "query": "data extraction",
+  "found_at": "2026-07-25 15:15"
+ },
+ {
+  "id": 40604455,
+  "title": "Unreal Engine Realistic Game Development",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/3d-game-art/Unreal-Engine-Realistic-Game-Development",
+  "desc": "I'm seeking an experienced Unreal Engine developer to help build my first game. The game features an AI doll that attacks players upon sight, a death screen, a 5-life system, upgrade stations, boss fights, and a coin currency linked to upgrades. Additionally, there will be an objective UI displaying tasks, coins, and upgrade requirements.\n\nKey Requirements:\n- AI development for player interaction\n- UI/UX design for an objective interface\n- Realistic graphics implementation\n- Solid experience in Unreal Engine\n- Third-person gameplay mechanics\n\nIdeal Skills and Experience:\n- Proficiency in Unreal Engine\n- Strong background in AI programming\n- Experience in realistic graphics design\n- Knowledge of UI/UX for games\n- Familiarity with third-person game dynamics\n\nPlease provide a portfolio showcasing similar projects.",
+  "query": "ai chatbot",
+  "found_at": "2026-07-25 15:15"
+ },
+ {
+  "id": 40604437,
+  "title": "Comprehensive Children’s Apparel Market Research",
+  "budget_min": 10000.0,
+  "budget_max": 15000.0,
+  "currency": "INR",
+  "usd_rate": 0.010373,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/data-analysis/Comprehensive-Children-Apparel-Market",
+  "desc": "Scope of Work\n\nThe selected freelancer will conduct comprehensive market research covering:\n\nMarket Overview\nSize of the children's apparel market\nKey consumer trends\nPopular product categories\nSeasonal buying patterns\nFast-growing segments\nCompetitor Analysis\n\nResearch leading local and imported kidswear brands.\n\nFor each major competitor, provide:\n\nBrand name\nCountry of origin\nProduct categories\nPrice range\nQuality positioning\nRetail channels\nStrengths and weaknesses\nRetail & Wholesale Mapping\n\nIdentify:\n\nMajor kidswear importers\nWholesale distributors\nLarge retailers\nDepartment stores\nChain stores\nChildren's boutiques\nOnline retailers\n\nProvide wherever available:\n\nCompany name\nWebsite\nContact person\nEmail\nPhone/WhatsApp\nCity\nProduct focus\nRetail Store Visits\n\nVisit major clothing markets and retail stores in your city (preferably Lagos).\n\nCollect:\n\nProduct photographs (where permitted)\nPrice tags\nPopular brands\nBest-selling product categories\nCustomer observations\nStore positioning\nImport & Supply Chain Research\n\nResearch:\n\nMain source countries for kidswear imports\nImport process\nCustoms duties and taxes\nMajor ports used\nTypical importer practices\nPayment terms commonly used\nMarket Entry Recommendations\n\nProvide practical recommendations including:\n\nBest product categories to launch\nSuggested wholesale price range\nRecommended target customers\nDistribution strategy\nKey opportunities\nMajor risks\nDeliverables\n\nA well-structured research report (PDF or Word)\nExcel spreadsheet",
+  "query": "ai chatbot",
+  "found_at": "2026-07-25 15:15"
+ },
+ {
+  "id": 40604380,
+  "title": "InDesign Newspaper Graphics Placement",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010373,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/infographics/InDesign-Newspaper-Graphics-Placement",
+  "desc": "I have an Adobe InDesign newspaper file that is already written and roughly paginated; what it’s missing are the visuals that bring each page to life. Your task is to drop in and correctly place all of the images and graphics the edition requires—editorial photos, paid advertisements, and a handful of charts/infographics—so the publication looks polished and print-ready.\n\nHere’s how I picture the workflow: you receive the current .indd file along with a folder of high-resolution assets, then flow each element onto its assigned page, scale and crop where necessary, and apply any text wraps or caption styles that keep the design consistent with the paper’s existing style guide. If you notice an obvious spacing or alignment issue along the way, you have the freedom to tweak it so the finished layout feels balanced.\n\nDeliverables  \n• Updated InDesign file with all visuals correctly linked  \n• A pre-flighted, press-ready PDF (CMYK, bleed and crop marks)  \n• A package folder containing fonts, links, and the final .indd for archiving\n\nI’m aiming for clean, newsroom-standard results that require minimal revision at the press check, so attention to detail and solid knowledge of InDesign’s image handling tools are essential. If that sounds like your wheelhouse, let’s get started.",
+  "query": "pdf extraction",
+  "found_at": "2026-07-25 15:15"
  }
 ]
