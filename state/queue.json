@@ -323,5 +323,31 @@
   "desc": "Busco un equipo de call center que pueda atender y cerrar ventas de productos en perfecto Español e Inglés. Mi prioridad es que cada agente sea realmente fluido en ambos idiomas para garantizar una experiencia consistente, tanto en llamadas entrantes como salientes, y maximizar la conversión.\n\nEl trabajo consiste en:\n• Contestar las llamadas entrantes, resolver dudas y guiar al cliente hasta completar la compra.\n• Realizar seguimientos telefónicos a los leads ya generados, con enfoque en cierre.\n• Registrar cada interacción en mi CRM (o en la plataforma que usemos juntos) de forma clara y puntual para que el pipeline esté siempre actualizado.\n\nLa escala de llamadas puede variar; por ahora quiero empezar con un volumen moderado y escalar si los resultados lo justifican, por lo que agradezco flexibilidad para crecer.\n\nValoro experiencia comprobable en ventas de productos, métricas transparentes y un proceso robusto de calidad (scripts, entrenamiento, monitoreo). Si tienes herramientas de marcación, dashboards de reporting y supervisión bilingüe, házmelo saber: será un plus.\n\nEntrega esperada:\n– Equipo listo para operar en ambos idiomas.\n– Script de ventas adaptado a mi oferta (puedo proveer lineamientos).\n– Reporte semanal con conversiones, motivos de rechazo y oportunidades de mejora.\n\nIndícame tu disponibilidad de agentes, horario de cobertura y tu modelo de facturación por minuto, llamada o comisión para avanzar.",
   "query": "python script",
   "found_at": "2026-07-26 16:33"
+ },
+ {
+  "id": 40606201,
+  "title": "Google Sheets Mixed Data Entry",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010373,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/copy-typing/Google-Sheets-Mixed-Data-Entry",
+  "desc": "I have several Google Sheets that contain a mix of text and numerical fields that need to be copied into a consolidated master file. Everything is already in digital form, so no scanning or transcription from paper is required—just careful, accurate transfer and basic cleaning where obvious inconsistencies appear.\n\nYou will:  \n• open each provided Google Sheet,  \n• verify that text strings remain intact (accents, special characters, spacing),  \n• ensure numbers carry over without rounding or format loss, and  \n• keep the column order exactly as in the source.\n\nI will share the source spreadsheets and the blank master sheet via a shared Drive link. Please work directly inside that master so I can follow progress in real time. A short status note at the end of each day is all the reporting I need.\n\nAccuracy matters more than speed, but I would like the first batch—roughly 2,000 rows—completed within 48 hours so I can review your approach before you continue with the rest.",
+  "query": "data extraction",
+  "found_at": "2026-07-26 17:41"
+ },
+ {
+  "id": 40606396,
+  "title": "Custom Flexibility Exercise Routine",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010373,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/yoga/Custom-Flexibility-Exercise-Routine",
+  "desc": "I want a carefully structured flexibility-focused exercise routine that I can follow at home with minimal equipment. The end goal is to improve overall mobility, reduce muscle tightness, and support injury-free movement for my daily activities.\n\nPlease design a progressive program that spans at least four weeks, outlining specific stretches, hold times, rest periods, and recommended frequency. I appreciate clear explanations of form cues and common mistakes to avoid, plus variations for both beginner and intermediate levels so I can track progress. A concise warm-up and cool-down sequence should be included.\n\nDeliverables  \n• A step-by-step routine in PDF or Google Doc format  \n• Short demonstration videos or reference links for each stretch (phone-quality clips are fine)  \n• Tips on measuring flexibility gains week by week  \n\nIf you have experience in yoga, Pilates, physiotherapy, or sports science, please weave that knowledge into the plan so techniques remain safe and evidence-based.",
+  "query": "google sheets automation",
+  "found_at": "2026-07-26 17:41"
  }
 ]
