@@ -349,5 +349,18 @@
   "desc": "I want a carefully structured flexibility-focused exercise routine that I can follow at home with minimal equipment. The end goal is to improve overall mobility, reduce muscle tightness, and support injury-free movement for my daily activities.\n\nPlease design a progressive program that spans at least four weeks, outlining specific stretches, hold times, rest periods, and recommended frequency. I appreciate clear explanations of form cues and common mistakes to avoid, plus variations for both beginner and intermediate levels so I can track progress. A concise warm-up and cool-down sequence should be included.\n\nDeliverables  \n• A step-by-step routine in PDF or Google Doc format  \n• Short demonstration videos or reference links for each stretch (phone-quality clips are fine)  \n• Tips on measuring flexibility gains week by week  \n\nIf you have experience in yoga, Pilates, physiotherapy, or sports science, please weave that knowledge into the plan so techniques remain safe and evidence-based.",
   "query": "google sheets automation",
   "found_at": "2026-07-26 17:41"
+ },
+ {
+  "id": 40606492,
+  "title": "Figma Prototyping Plugin Development",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 20,
+  "url": "https://www.freelancer.com/projects/agile-development/Figma-Prototyping-Plugin-Development",
+  "desc": "I'm looking for a skilled developer to create a custom Figma plugin focused on enhancing prototyping capabilities. \n\nKey functionalities include:\n- Change log: Tracks modifications made by multiple users on Figma slide decks.\n- \"Check Changes\" feature: Allows users to see a list of changes since their last visit to the file.\n- Specifically needs to check for text box adds, image adds, text copy modifications, and deletions. \n- Needs to track 'SHAPE_WITH_TEXT' changes as well, adds, deletions, modifications, duplications \n- Needs to track duplications of existing text boxes\n- List out the changes in 3 sections: Added, Modified, Removed. Then with each change include a \"Jump to Item\" Button that navigated me there in figma slides.\n- Needs to work within Figma SLIDES\n\n- Real time slack notifications would be a bonus\n\nAdditionally:\nI have started developing the plugin myself and can provide initial files as a jumping-off point for reference. However, these files are not functional and should only serve as context.\n\nIdeal skills and experience:\n- Proficiency in Figma API and Figma Slides\n- Experience in developing Figma plugins\n- Strong understanding of prototyping and collaboration tools\n- Attention to detail and good UI/UX design principles\n\nPlease provide examples of previous work and a brief outline of your approach.",
+  "query": "chatgpt api",
+  "found_at": "2026-07-26 18:46"
  }
 ]
