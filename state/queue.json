@@ -1831,5 +1831,70 @@
   "desc": "I have a 2-minute pop vocal demo that I need fully notated. First, transcribe the lead soprano melody exactly as sung, preserving the original key of the recording. Then craft a warm, lively additional alto, tenor, and bass gospel harmony around it—think SATB voicings that would sit comfortably in a contemporary church choir while still complementing a mainstream pop tune.\n\nOnce the arrangement is complete, produce two deliverables:\n\n• Sheet music with shaped notes: PDF plus the editable score file (Sibelius, MuseScore, or Finale—use whichever you prefer as long as I can open and edit it later). The score should show the four harmony parts, with correct lyrics, dynamics, and basic articulation.\n\n• Audio reference: A clean mock-up of all four vocal lines together with recorded voices so I can hear how the harmony sits against the melody.\n\nAccuracy of the transcription and the stylistic flavour of the gospel harmonies will be the key acceptance criteria.",
   "query": "pdf extraction",
   "found_at": "2026-07-27 18:51"
+ },
+ {
+  "id": 40608756,
+  "title": "Microsoft Access Data Entry",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010441,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/data-analysis/Microsoft-Access-Data-Entry",
+  "desc": "I have a Microsoft Access database that needs to be populated with mixed text-and-numeric records pulled from several source documents. The structure of the tables is already in place; what I need is careful, consistent data entry that respects the existing field types, relationships, and any validation rules.  \n\nYou will receive:  \n• The current .accdb file with empty tables ready for input  \n• Scanned and PDF source sheets containing the raw information  \n\nYour task is straightforward but precision-critical: transcribe each record into the appropriate table, double-checking that numbers stay numeric, text fields remain text, and referential links are preserved. I expect the completed database returned along with a brief log noting any uncertainties or anomalies you encountered so I can review them quickly.  \n\nIf you are comfortable working inside Access and can guarantee a high degree of accuracy, I’m ready to get started right away.",
+  "query": "data extraction",
+  "found_at": "2026-07-27 20:40"
+ },
+ {
+  "id": 40608769,
+  "title": "Articolo: l’elettricità nel mondo -- 2",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "EUR",
+  "usd_rate": 1.137045,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/content-writing/Articolo-elettricit-nel-mondo",
+  "desc": "Desidero un articolo coinvolgente che spieghi, con linguaggio chiaro e accessibile, come l’elettricità abbia trasformato il nostro pianeta. Mi rivolgo a lettori generici, quindi il testo deve essere divulgativo: niente gergo tecnico eccessivo, ma informazioni accurate, esempi concreti e curiosità che tengano viva l’attenzione.\n\nIndicazioni pratiche:\n• Lunghezza indicativa: 1.500-2.000 parole.  \n• Tono: narrativo-informativo, capace di guidare il pubblico dalle prime scoperte alle applicazioni odierne.  \n• Struttura suggerita: introduzione d’impatto, sviluppo in paragrafi tematici con titoletti chiari, conclusione che apra a riflessioni future.  \n• Fonti: cita almeno 3 riferimenti attendibili (libri, articoli scientifici, siti istituzionali).  \n• Originalità: il testo deve essere inedito e superare eventuali controlli anti-plagio.\n\nMi farà piacere ricevere anche idee per eventuali immagini o grafici di supporto (non è obbligatorio fornirli, basta indicarne il concept).\n\nAl momento dell’invio allega il file in formato Word o Google Docs con formattazione pulita.",
+  "query": "google sheets automation",
+  "found_at": "2026-07-27 20:40"
+ },
+ {
+  "id": 40608751,
+  "title": "Lettre formelle demande d’offre",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/content-writing/Lettre-formelle-demande-offre",
+  "desc": "Je souhaite recevoir une lettre de demande d’offre parfaitement rédigée, en français, destinée à un particulier afin d’ouvrir une négociation de contrat. Le texte devra adopter un ton formel, clair et persuasif tout en restant concis.\n\nCe que j’attends :\n• Lettre finale prête à être envoyée, rédigée en français soigné.  \n• Version modifiable (Word ou Google Docs) pour que je puisse ajuster dates, montants ou coordonnées.  \n• Mise en forme professionnelle : en-tête, objet, corps de lettre structuré, formule de politesse et signature.  \n• Quelques indications entre crochets pour les éléments variables (par ex. [Nom du destinataire], [Date limite]).  \n\nLa lettre doit :\n– Présenter brièvement mon besoin.  \n– Inviter le destinataire à proposer ses conditions et tarifs.  \n– Souligner l’intérêt mutuel d’un accord, sans paraître pressant.  \n\nMerci de préciser votre expérience en rédaction juridique ou commerciale et de joindre, si possible, un exemple de correspondance formelle que vous avez rédigée.",
+  "query": "google sheets automation",
+  "found_at": "2026-07-27 20:40"
+ },
+ {
+  "id": 40608748,
+  "title": "Πρόγραμμα Excel για Προσφορές",
+  "budget_min": 50.0,
+  "budget_max": 150.0,
+  "currency": "EUR",
+  "usd_rate": 1.137045,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/excel/Excel-40608748",
+  "desc": "Χρειάζομαι ένα αρχείο Excel που να μου επιτρέπει να καταχωρώ προσφορές από διαφορετικούς προμηθευτές και να παίρνω αμέσως χρήσιμες συγκρίσεις. Συγκεκριμένα θέλω:\n\n• Αυτόματο υπολογισμό του συνολικού κόστους κάθε προσφοράς (π.χ. ποσότητα × τιμή μονάδας).  \n• Σύγκριση προσφορών ανά είδος, με αυτόματο χρωματισμό της φθηνότερης τιμής σε κάθε γραμμή.  \n• Παραγωγή αναφορών:  \n  – Συνοπτικός πίνακας που δείχνει τον «νικητή» προμηθευτή ανά είδος.  \n  – Συγκεντρωτικό κόστος ανά προμηθευτή και ανά κατηγορία υλικών.  \n• Φιλική φόρμα ή drop-down λίστες για γρήγορη εισαγωγή νέων εγγραφών.  \n• Κουμπί ή macro (VBA) που ανανεώνει τους υπολογισμούς και τις αναφορές με ένα κλικ.  \n• Δομή που επιτρέπει να προσθέτω επιπλέον είδη ή νέους προμηθευτές χωρίς να χρειάζεται τροποποίηση του κώδικα.\n\nΘέλω το αρχείο έτοιμο προς χρήση· να μπορώ να το ανοίξω, να συμπληρώσω τις στήλες που αφορούν ποσότητες και τιμές και να λάβω αμέσως τις συγκρίσεις και τις αναφορές.",
+  "query": "excel automation",
+  "found_at": "2026-07-27 20:40"
+ },
+ {
+  "id": 40608785,
+  "title": "Japanese Urban Living & Small Space Culture Adaptation",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "EUR",
+  "usd_rate": 1.136815,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/content-writing/Japanese-Urban-Living-Small-Space",
+  "desc": "I have English materials about Japanese urban living and small space culture that need to be adapted into natural, well-written Japanese. The content focuses on how people live in compact apartments, space-saving habits, and the daily realities of city life in Japan.\nTopics include:\n\nLiving in small apartments and maximizing limited space\nCommon space-saving solutions and habits\nDaily routines shaped by urban living\nCultural attitudes toward space, storage, and minimalism\nHow city life influences lifestyle choices\n\nThis is a substantial set of materials covering multiple sections. The goal is to produce clear, natural Japanese versions that keep the original meaning and cultural context.\nWhat I'm Looking For\n\nNative Japanese speaker\nFamiliarity with Japanese urban living is a plus\nAbility to write natural and fluent Japanese\nCareful attention to cultural and practical details\n\nSample Task (include in your proposal)\nAdapt the following English excerpt into natural Japanese. Show your full adapted version in your bid.\nOriginal Excerpt:\nIn many Japanese cities, living space is limited, so people have developed practical ways to make the most of small apartments. Storage solutions are often creative and multi-functional, and there is a strong cultural emphasis on keeping shared and personal spaces organized and uncluttered.\nDeliverables\n\nClean Word document(s) containing the full adapted Japanese content\nNatural, fluent, and culturally appropriate Japanese\nConsistent style and te",
+  "query": "pdf extraction",
+  "found_at": "2026-07-27 20:40"
  }
 ]
