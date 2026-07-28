@@ -2013,5 +2013,44 @@
   "desc": "The project centres on a small, self-propelled barge dedicated solely to transporting deck cargo. Target payload is modest—about 4 tons—so the hull form, scantlings, and propulsion package must be optimised for efficiency rather than brute capacity. I will be operating in sheltered coastal and riverine waters, therefore shallow draft and straightforward maintenance are priorities.\n\nScope of work  \n– Develop the full concept and preliminary naval-architecture package: lines plan, hydrostatics, intact and damaged-stability calculations, weight estimate, and preliminary scantling plan that aligns with a recognised class standard (ABS, BV or equivalent).  \n– Size and specify a compact propulsion system (diesel mechanical or electric-hybrid are both on the table; I’m open to whichever meets the performance and maintenance goals).  \n– Produce a general arrangement drawing that clearly shows deck area, machinery spaces, fuel/electric rooms, wheelhouse, and safety gear.  \n– Provide a concise build specification listing principal materials, coatings, recommended equipment, and any class or flag-state compliance notes that follow naturally from the design choices.\n\nAcceptance criteria  \n1. Documentation supplied as PDF plus editable CAD/Excel files.  \n2. Stability meets the selected rule set with 4-ton deck load distributed evenly or in a single concentrated point load amidships.  \n3. Propulsion calculation demonstrates at least 6 knots in calm water with 10 % power reserve.  \n4. Drawi",
   "query": "excel automation",
   "found_at": "2026-07-27 23:15"
+ },
+ {
+  "id": 40609024,
+  "title": "Photo-Realistic Kitchen VR Rendering",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/3d-animation/Photo-Realistic-Kitchen-Rendering",
+  "desc": "I’m working on a solution that turns kitchen layout data into an immersive virtual-reality tour, rendered with high-detail, photo-realistic quality. The core of the project is an AI-driven 3D visualization pipeline that can ingest plans or sketches and output a VR-ready scene with accurate materials, lighting, reflections, and depth.\n\nHere’s what I need from you:\n\n• Build or integrate the AI model that interprets kitchen measurements and design parameters, generating the geometry and texture maps automatically.  \n• Set up a rendering environment—Unreal Engine, Unity HDRP, Blender with Cycles, or a comparable real-time photoreal tool—that delivers smooth, headset-friendly performance.  \n• Produce a standalone VR tour (Meta Quest / WebXR / SteamVR—whichever you feel is most efficient) that allows users to move freely around the space, open cabinet doors, and toggle alternative finishes.  \n• Optimize assets so the final build maintains high-detail realism without compromising frame rate or causing latency.  \n• Provide the full project files, documented source code, and a short screen-capture walkthrough demonstrating the finished experience.\n\nAcceptance criteria: the tour must launch in VR, load in under 20 seconds on a consumer headset, and display physically based lighting that matches reference photos of quartz counters, stainless appliances, and matte-paint cabinets.\n\nIf this sounds like your area of expertise, tell me which engine or AI framework you’ll leverage and how lon",
+  "query": "data extraction",
+  "found_at": "2026-07-28 00:14"
+ },
+ {
+  "id": 40609000,
+  "title": "Garment Trim Design Specialist",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010441,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/adobe-illustrator/Garment-Trim-Design-Specialist",
+  "desc": "I’m updating our apparel line and need fresh, eye-catching trims created from scratch. The scope is limited to three key items and each must follow a distinctly Colorfull style that feels vibrant and premium while remaining production-ready.\n\nDeliverables\n• Labels – front and back art, full bleed, vector format  \n• Tags – swing tags with die-cut outline and hole placement marked  \n• Wash care instructions – icon grid, multilingual text layout, bleed/trim lines\n\nWhat matters most is print accuracy and brand consistency, so please supply files in AI, PDF, and PNG along with embedded fonts and outlined versions. Colour references should use Pantone Solid Coated codes and CMYK breakdowns for factory proofing.  \n\nI’ll provide the brand guidelines, logos, and size specs as soon as we start; I simply need you to translate them into production-ready trims that pop on the rack yet stay fully legible after manufacturing.\n\nNeed proper content and total brand book in same\nConcept",
+  "query": "ai chatbot",
+  "found_at": "2026-07-28 00:14"
+ },
+ {
+  "id": 40609015,
+  "title": "Pharmaceutical English-Arabic Translation",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/medical-translation/Pharmaceutical-English-Arabic",
+  "desc": "I have a collection of pharmacy research papers in English that must be rendered into accurate, reader-friendly Arabic. Because these are scholarly articles, correct medical and pharmaceutical terminology is critical. I can supply reference glossaries where they exist, but in several areas I will rely on your expertise to recommend the most precise Arabic equivalents before we lock the final wording.\n\nThe documents contain tables and figures whose layouts are not uniform from one paper to the next, so I need you to preserve each original format faithfully. That means maintaining column alignment, captions, footnotes, and any embedded charts exactly as they appear. Arabic text must flow right-to-left while keeping the overall visual structure intact.\n\nMachine translation is off the table—I require a human, professional rendition by someone who has already handled pharmaceutical or clinical material. The final files should arrive in fully editable Microsoft Word, with a matching PDF if I ask for one at the end.\n\nDeliverables  \n• Translated Word documents mirroring all original formatting  \n• Optional PDF copies upon request  \n• A short terminology confirmation sheet for any debated terms we clarify together  \n\nI will review for linguistic accuracy, consistency of technical language, and perfect reproduction of every table and graphic before signing off. If this matches your background and you can commit to meticulous quality, I’m ready to get started.",
+  "query": "pdf extraction",
+  "found_at": "2026-07-28 00:14"
  }
 ]
