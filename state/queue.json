@@ -3326,5 +3326,70 @@
   "desc": "I need a concise, engaging whiteboard animation that clearly explains a technical process to a professional audience. The feel I’m after is classic hand-drawn: marker strokes appearing in real time, subtle hand movements, no flashy digital effects. Think “sketch-on-glass” rather than vector slickness.\n\nThe script is nearly final; I’ll share it once we start so you can build a storyboard that keeps complex points simple without dumbing them down. If you’re comfortable timing illustrations to a supplied voice-over—or providing one that sounds confident, well-paced, and neutral-accented—let me know.\n\nKey deliverables  \n• Rough storyboard for approval  \n• Full-resolution hand-drawn whiteboard animation (HD or better)  \n• Clean background music and synced voice-over track (if you’re handling VO)  \n• One round of revisions for timing or illustration tweaks  \n• Source project files so my team can update small text later\n\nTools like VideoScribe, Doodly, or frame-by-frame drawing in After Effects are all fine, as long as the end result feels authentically hand-rendered and smooth. Accuracy to the script and clarity for specialists matters more than flashy transitions.\n\nPlease include samples that show similar hand-drawn work for professional or technical topics and outline your typical turnaround time for a two-to-three-minute piece.",
   "query": "python script",
   "found_at": "2026-07-28 15:39"
+ },
+ {
+  "id": 40610864,
+  "title": "High-Volume Event Photo Editing",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010461,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/adobe-photoshop/High-Volume-Event-Photo-Editing",
+  "desc": "I have a collection of more than 50 images from a recent event and I need them polished to a professional standard. Every photo should feel cohesive, balanced, and ready for both print and web publication.\n\nThe work I’m looking for covers:  \n• Color correction – consistent white balance, accurate skin tones, and vibrant yet natural overall color.  \n• Retouching – subtle clean-ups such as blemish removal, stray hair fixes, and minor background distractions without losing the authentic event atmosphere.\n\nRaw or high-resolution JPEG files will be supplied via a shared drive. Please return the finished set in the same resolution alongside lightly compressed web-ready versions. If you use Lightroom, Photoshop, or similar tools, let me know so we can keep the workflow smooth. I’ll also need a quick preview of a small batch to approve the style before you proceed with the rest.\n\nTurnaround is flexible but ideally within one week once we kick off.",
+  "query": "web scraping",
+  "found_at": "2026-07-28 17:13"
+ },
+ {
+  "id": 40610889,
+  "title": "AI-Driven PDF Data Extraction Solution",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010461,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/ocr-automation/Driven-PDF-Data-Extraction-Solution",
+  "desc": "AI-Powered PDF Data Extraction & OCR Automation\n\nNeed to extract structured data from complex PDF documents with high accuracy? I can build custom Python-based automation solutions for converting scanned or digital PDFs into Excel, CSV, JSON, or databases.\n\nWhat I Can Build\n\nPDF to Excel / CSV Automation\n\nOCR for Scanned Documents\n\nAI-powered Document Data Extraction\n\nBulk PDF Processing\n\nMulti-language Document Support (English, Hindi, Telugu and more)\n\nDuplicate Detection & Data Validation\n\nIntelligent Error Detection & Record Verification\n\n Offline or Low-Cost Processing Solutions\n\nTechnologies\nPython\nOpenCV\nTesseract OCR / EasyOCR\nPyMuPDF\npdfplumber\nPandas\nOpenPyXL\nAI / Computer Vision\nExcel & CSV Automation\nSuitable Projects\nVoter List Extraction\nInvoice Processing\nBank Statement Extraction\nGovernment Documents\nForms & Applications\nSurvey Reports\nID Cards & Certificates\nProperty Records\nLegal Documents\nCustom PDF Data Extraction Workflows\nWhat You Get\nClean and accurate structured data\nReusable automation scripts\nSource code included\nFast bulk processing\nCustom validation rules\nWell-documented solution\n\nIf you're looking for a reliable Python developer for PDF automation, OCR, or AI-based document extraction, feel free to get in touch. I'll build a solution tailored to your workflow.",
+  "query": "data extraction",
+  "found_at": "2026-07-28 17:13"
+ },
+ {
+  "id": 40610831,
+  "title": "ANAB Consulting for CertNexus Certifications",
+  "budget_min": 750.0,
+  "budget_max": 1500.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/psychometric-testing/anab-consulting",
+  "desc": "I need an ANAB consultant to conduct health and security checks, per the 17024 standard, for three certifications: CertNexus CDSP, CFR, and CAIP. The contractor will receive old reports and new data to create updated reports for submission to ANAB. The contractor must be a psychometrician with statistical skills, knowledgeable in ANAB processes and the 17024 standard. Use of AI tools for report generation is expected.",
+  "query": "data extraction",
+  "found_at": "2026-07-28 17:13"
+ },
+ {
+  "id": 40610797,
+  "title": "B2B FMCG Distribution Dashboard & CRM Build",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010461,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/power-bi/FMCG-Distribution-Dashboard-CRM-Build",
+  "desc": "# Project Title\n\nBuild ODK/googleform Survey + Excel CRM + Power BI Dashboard for B2B Grocery Distribution Business\n\n## Project Overview\n\nI am starting a B2B grocery/FMCG distribution business in Odisha, India. I need an experienced developer or data analyst to build a complete retailer survey, CRM, and reporting system for my field sales team.\n\nThe solution should be simple, scalable, and suitable for managing 5,000–10,000 retailers.\n\n## Scope of Work\n\n### 1. Retailer Survey\n\n* Build a professional retailer survey using **ODK (preferred)** or **Google Forms**.\n* Approximately **50–70 questions**.\n* Mobile-friendly with offline capability (if using ODK).\n* Capture GPS location.\n* Capture shop photo.\n* Mandatory field validation.\n* Skip logic where applicable.\n\nSurvey sections should include:\n\n* Retailer profile\n* Shop information\n* Business details\n* Monthly purchases\n* Product categories\n* Existing suppliers\n* Competitor analysis\n* Credit terms\n* Retailer pain points\n* Interest in becoming our customer\n* Field executive observations\n\n### 2. Excel CRM\n\nDevelop an automated Excel CRM containing:\n\n* Retailer Master\n* Survey Data\n* Sales Executive Master\n* Beat Plan\n* Product Master\n* Order Tracker\n* Visit Tracker\n* Follow-up Tracker\n* Payment Tracker\n* Competitor Analysis\n* Complaint Register\n* Dashboard\n\nAutomation required:\n\n* Automatic Retailer ID (ODM000001, ODM000002...)\n* Duplicate mobile number detection\n* Data validation drop-downs\n* Automatic retailer scoring (A/B/C)\n*",
+  "query": "data extraction",
+  "found_at": "2026-07-28 17:13"
+ },
+ {
+  "id": 40610746,
+  "title": "Complex Submarine in Stormworks",
+  "budget_min": 45.0,
+  "budget_max": 150.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/3d-modelling/Complex-Submarine-Stormworks",
+  "desc": "I'm looking for an experienced Stormworks developer to build a detailed submarine. The submarine will need a variety of functionalities, including but not limited to:\n\n- Diving and surfacing\n- Navigation system\n- Torpedo launch capabilities\n\nIdeal Skills and Experience:\n- Proficiency in Stormworks vehicle creation\n- Strong understanding of submarine mechanics\n- Experience with complex functionalities and systems integration \n\nSTORMWORK VEHICLE COMMISSION: TYPE-T \"TROPICAL RAIDER\" (80s/90s ERA)\n================\nPROJECT OVERVIEW:\nLooking to commission an advanced, fully functional late-Cold War era (1980s/1990s) attack/strike submarine. The vessel is a long-range, specialized missile and special-operations platform optimized for stealthy, shallow running in tropical environments. It must feature a high-detail retro-tech interior, automated water-tight survival loops, and fully functioning VLS and DDS systems.\n----------------------------------------------------------------------\n1. DESIGN & HULL SPECIFICATIONS\n----------------------------------------------------------------------\n* Dimensions: Approx. 280–300 blocks long, 32–36 blocks wide to allow a true double-hull structure with internal crawlspaces.\n* Hull Profile: Teardrop/Albacore-style rounded bow. Entire exterior must be smooth and aerodynamic using 1x2 and 1x4 inverse wedge slopes. No WWII wedge lines or flat wooden decks.\n* Painting/Aesthetic: Uniform matte charcoal black or dark navy blue (anechoic tile texture simul",
+  "query": "gpt integration",
+  "found_at": "2026-07-28 17:13"
  }
 ]
