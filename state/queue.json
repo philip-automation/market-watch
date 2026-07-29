@@ -5016,5 +5016,31 @@
   "desc": "I need a clean, minimalist concept for the living room of my 3 BHK flat. The goal is to hand a clear set of drawings and specifications to my carpenter so execution on-site is smooth and error-free.\n\nScope  \n• Concentrate solely on the living room; the rest of the flat will be tackled later.  \n• Keep every line, surface and colour pared-back to fit a true minimalist aesthetic—think uncluttered sightlines, restrained materials and functional detailing.\n\nWhat I expect from you  \n1. A scaled layout with furniture placement that respects traffic flow.  \n2. Elevations and joinery drawings my carpenter can read without guesswork.  \n3. A concise material and hardware schedule (laminates, veneers, fittings, finishes).  \n4. One round of revisions after I review the first draft.\n\nFormats  \nDWG or PDF for 2-D sheets, plus a simple 3-D view (SketchUp or similar) so everyone visualises the concept the same way.\n\nIf you’ve delivered minimalist living rooms before and can translate design intent into build-ready details, I’m ready to get started.",
   "query": "google sheets automation",
   "found_at": "2026-07-29 19:38"
+ },
+ {
+  "id": 40613544,
+  "title": "Point Cloud to Surface Model Conversion",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/3d-cad/Point-Cloud-Surface-Model-Conversion",
+  "desc": "I will supply a clean, registered point-cloud of an existing house together with its 2D floorplan. From that data I need a reverse-engineered surface model that contains only the solid, concrete elements of the structure:\n\n• Exterior and interior walls  \n• Roof planes  \n• All steps, split-levels and slab changes inside the rooms  \n\nLeave out everything else—no cabinetry, no windows or doors, no furniture, no fixtures.\n\nFinal deliverables  \n• Rhino 3dm file  \n• Identical STEP file, neatly layered  \n\nModel accuracy must follow the point cloud, but the base of the drawings are the floorplan dimensions.  \n\nWhen you place your bid, begin the first line with the words:  \n“I have reverse engineer point clouds before”  \nBids that omit this line will be ignored. Make sure your profile already shows samples of comparable point-cloud conversions or surface reconstructions so I can verify previous experience.\n\nOnce we start, I will share the point-cloud link and the reference plan. I welcome questions that clarify tolerances, coordinate systems or any other detail that helps you deliver a precise, clean model.",
+  "query": "data extraction",
+  "found_at": "2026-07-29 20:39"
+ },
+ {
+  "id": 40613495,
+  "title": "B2B SaaS Technical Project Manager Needed -- 2",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "GBP",
+  "usd_rate": 1.334662,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/system-admin/SaaS-Technical-Project-Manager-Needed",
+  "desc": "Project Title: Technical Project Manager / Operations Node (B2B SaaS Staging Phase)Project Scope & Parameters:HabitIQ Fleet Systems LTD is a fresh UK entity executing an exclusive Closed Alpha Staging Cohort ahead of our mass-market commercial telematics software rollout this November. We are hiring an elite Technical Project Manager / Systems Operator to assume process command over our Week 1 architecture configuration.This position functions on a strict 90/10 division of labor: you will execute 90% of the daily technical and managerial infrastructure labor, while the Managing Director retains exclusive private biometric veto authority over the corporate treasury app.Week 1 Core Deliverables (Fixed-Rate Budget: £560.00 GBP):UK Company Registration: Initialize and secure our official incorporation parameters with Gov.uk Companies House, attaching our pre-funded, prestigious Central London virtual office wrapper for absolute personal privacy.DNS & Server Architecture: Map our Namecheap DNS core, fix all MX, SPF, and DKIM key strings, and fully activate our official corporate mailboxes with zero network delays.CRM Pipeline Engineering: Build our clean B2B lead data registries inside HubSpot, configuring our Direct 50/50 Split Invoicing rules to harvest our upfront client deposits.Workforce Management: Onboard and manage a remote pod of 6 commission-only high-ticket closers. You will extract 600 fresh, verified UK fleet profiles weekly via Apollo, pre-load them onto the reps' di",
+  "query": "data extraction",
+  "found_at": "2026-07-29 20:39"
  }
 ]
