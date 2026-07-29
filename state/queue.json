@@ -4938,5 +4938,83 @@
   "desc": "I need four separate company title blocks prepared in AutoCAD. Two of them already exist and only require clean-up and minor tweaks; the other two must be built from scratch so they match each firm’s logo, border style, and standard information fields.  \n\nOnce the blocks are finished I also want a quick, repeatable workflow that shows me how to pull these title blocks into any new or legacy drawing without breaking references, plus a short explanation of the best way to update attribute text after the block is placed.\n\nDeliverables  \n• DWG files for all four title blocks (clearly named and purged of unused layers, linetypes, etc.)  \n• A sample drawing for each block so I can see it in context  \n• A short, step-by-step PDF or screen-recorded video showing the import and editing process  \n\nFinished files must open error-free in AutoCAD 2021 or later and use standard fonts so nothing substitutes when I share them internally.",
   "query": "pdf extraction",
   "found_at": "2026-07-29 17:59"
+ },
+ {
+  "id": 40613487,
+  "title": "Extract Maharashtra Exercise Data",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.01045,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/json/Extract-Maharashtra-Exercise-Data",
+  "desc": "I am building a digital question bank covering every Maharashtra State Board textbook from Std. 3 through Std. 10. For each chapter I need the complete set of exercises: the Multiple-Choice Questions, the short-answer items, and the long-answer items exactly as they appear in the books.\n\nOrganisation  \n• Keep everything strictly chapter-wise.  \n• MCQs go into a single Excel (.xlsx) file. Include columns for Grade, Subject, Chapter, Question, Option A-D, Correct Option, and any official hints or explanations that appear in the text.  \n• Short- and long-answer exercises go into separate flat-structure JSON files. A simple key set such as grade, subject, chapter, question, and type is enough. The values may remain wrapped in basic HTML tags; I will embed them directly into a webpage later.\n\nAccuracy is critical: copy wording and punctuation exactly, preserve any diagrams or special characters, and double-check option labels against the originals. Use whatever method you prefer—manual entry, OCR plus cleanup, or light scraping—but the final content must be error-free and complete for every chapter.\n\nDeliver all files in one organised folder tree (Std → Subject → Chapter) so I can slot them straight into my system. Let me know your estimated turnaround for the full Std 3-10 set and feel free to ask if any chapter or formatting detail is unclear.\n\nFreelancer should know Marathi. So he or she will understand.",
+  "query": "web scraping",
+  "found_at": "2026-07-29 19:38"
+ },
+ {
+  "id": 40613481,
+  "title": "End-to-End JLCPCB Device Guidance",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/firmware-development/End-End-JLCPCB-Device-Guidance",
+  "desc": "I have an early-stage concept for a board that will handle data collection and processing while staying connected through remote control and communication features. Nothing has been laid out yet—I need someone who can walk me through every milestone, from the first schematic all the way to ordering, assembling, and validating the finished boards on JLCPCB.\n\nHere’s what I expect our collaboration to cover:  \n• Translating my rough idea into a clear requirements sheet and block diagram  \n• Choosing the right components, creating the schematic, and laying out a production-ready PCB that meets JLCPCB design rules  \n• Generating the BOM, Gerber, CPL, and any firmware hooks needed for data handling and wireless or wired comms  \n• Submitting the order to JLCPCB, tracking fabrication, and preparing assembly files  \n• Guiding me through bring-up, basic firmware flashing, and functional testing so the board reliably acquires data and talks to external devices\n\nAcceptance criteria will be:  \n1. JLCPCB confirms the order with no design-rule violations.  \n2. Assembled boards power up and can stream sample data over the chosen interface.  \n3. Source files (schematic, PCB, firmware), documentation, and a quick-start guide are handed over in editable form.\n\nIf you live and breathe PCB design, know JLCPCB’s workflow inside out, and can explain each step in plain language, I’d love to team up.",
+  "query": "data extraction",
+  "found_at": "2026-07-29 19:38"
+ },
+ {
+  "id": 40613420,
+  "title": "Daily Karnataka Political Creatives",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.01045,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/adobe-photoshop/Daily-Karnataka-Political-Creatives",
+  "desc": "Daily creative output for multiple Karnataka political handles is the core of this project. I need each piece to react quickly to state-level news, rallies, constituency visits, policy releases, and breaking developments, then flow straight into my approval queue ready for publication.  \n\nPlatforms in play: Facebook, Twitter and Instagram. The mix leans on image posts for rapid commentary and short video snippets for deeper storytelling; both must feel native to each platform in ratio, resolution, typography and subtitle treatment.  \n\nDeliverables & acceptance criteria  \n• 2–4 image posts and at least one short vertical or square video every day, Monday-Sunday  \n• Editable source files supplied (PSD/AI for images, Premiere/After Effects project + final MP4 for video)  \n• Caption draft in English or Kannada with suggested hashtags  \n• Turnaround on breaking items under two hours; routine pieces by end of day  \n• Visual tone consistent with the candidate’s brand guidelines and Karnataka political culture  \n\nI run approvals through a shared Drive folder and real-time chat; once feedback is folded in, you hand me final, platform-specific exports and I schedule them immediately. Adobe Photoshop, Illustrator, Premiere Pro, After Effects or equivalent tools are expected—use whatever lets you move fastest without sacrificing polish.  \n\nWhen you apply, drop links to at least five recent political or news-reaction graphics/videos so I can see how you handle fast-moving narratives. Flue",
+  "query": "ai chatbot",
+  "found_at": "2026-07-29 19:38"
+ },
+ {
+  "id": 40613345,
+  "title": "AI Face-Swap Instagram Reels",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.01045,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/ai-video-editing/Face-Swap-Instagram-Reels",
+  "desc": "I’m building a line-up of short, vertical Instagram videos that use Hicks Field or Seedence to place my face into engaging scenes, much like the creators I’ll share with you once we start. The final clips should feel casual and friendly while clearly promoting my product and services, so every shot needs to look authentic, upbeat and value-driven rather than salesy.\n\nHere’s what I’m expecting: you use either of those AI tools (or a comparable solution you already master) to generate the face-swap footage, then refine it in your editor of choice—colour, pacing, captions, sound design—so the result is ready to post as an Instagram Reel (1080 × 1920, 30–60 s). I’ll supply reference links, my brand assets, and a folder of high-resolution photos to train the model. You replicate the vibe of those references while keeping the visuals on-brand for me.\n\nDeliverables\n• 3 finished Reels in MP4, plus the editable project files  \n• Clean caption file (.srt or burned-in)  \n• Thumbnail frame that matches each video’s look\n\nAcceptance criteria: the AI face integration must be seamless with no uncanny artefacts, audio must be in sync, and each clip must open with a strong hook that highlights the product benefit within the first three seconds.\n\nIf you’re confident working with Hicks Field or Seedence, have a portfolio of AI-driven social content, and can hit fast Instagram-ready turnaround times, let’s talk and schedule the first batch.",
+  "query": "ai chatbot",
+  "found_at": "2026-07-29 19:38"
+ },
+ {
+  "id": 40613466,
+  "title": "Formation Communautaire en Hygiène et Nutrition",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/learning-management-systems/Formation-Communautaire-Hygi-Nutrition",
+  "desc": "---\n\n**Objet : Candidature – Conception et animation d’une formation communautaire en santé**\n\nMadame, Monsieur,\n\nJe vous adresse ma candidature pour la conception et l’animation de votre formation communautaire consacrée à l’hygiène, à la prévention des maladies, à la nutrition et au bien-être.\n\nMon approche repose sur une éducation sanitaire **pratique, participative et adaptée au contexte local**. L’objectif n’est pas seulement de transmettre des informations, mais d’aider les participant·e·s à adopter des gestes simples et réalistes dans leur vie quotidienne : lavage des mains aux moments clés, stockage sûr de l’eau et des aliments, prévention des maladies courantes, composition de repas équilibrés à partir d’aliments disponibles localement, etc.\n\n### Approche méthodologique proposée\n\nJe propose une démarche en cinq étapes :\n\n1. **Analyse rapide des besoins**  \n   Échange avec les responsables et, si possible, avec quelques membres de la communauté afin d’identifier les pratiques, les croyances, les contraintes et les priorités locales.\n\n2. **Conception d’un programme modulaire**  \n   Création de modules courts, progressifs et accessibles à un public non spécialiste, avec un vocabulaire simple, des illustrations et des exemples issus du quotidien.\n\n3. **Animation participative**  \n   Utilisation de discussions guidées, démonstrations, jeux de rôle, travaux en petits groupes, quiz, mises en situation et ateliers pratiques afin de favoriser la compréhension et la mémorisati",
+  "query": "google sheets automation",
+  "found_at": "2026-07-29 19:38"
+ },
+ {
+  "id": 40613390,
+  "title": "Minimalist Living Room Design Blueprint",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.01045,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/3d-modelling/Minimalist-Living-Room-Design-Blueprint",
+  "desc": "I need a clean, minimalist concept for the living room of my 3 BHK flat. The goal is to hand a clear set of drawings and specifications to my carpenter so execution on-site is smooth and error-free.\n\nScope  \n• Concentrate solely on the living room; the rest of the flat will be tackled later.  \n• Keep every line, surface and colour pared-back to fit a true minimalist aesthetic—think uncluttered sightlines, restrained materials and functional detailing.\n\nWhat I expect from you  \n1. A scaled layout with furniture placement that respects traffic flow.  \n2. Elevations and joinery drawings my carpenter can read without guesswork.  \n3. A concise material and hardware schedule (laminates, veneers, fittings, finishes).  \n4. One round of revisions after I review the first draft.\n\nFormats  \nDWG or PDF for 2-D sheets, plus a simple 3-D view (SketchUp or similar) so everyone visualises the concept the same way.\n\nIf you’ve delivered minimalist living rooms before and can translate design intent into build-ready details, I’m ready to get started.",
+  "query": "google sheets automation",
+  "found_at": "2026-07-29 19:38"
  }
 ]
