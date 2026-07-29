@@ -5107,5 +5107,44 @@
   "desc": "I would like an experienced Ayurvedic practitioner to craft a personalised diet-and-lifestyle roadmap that supports overall wellness, with a clear emphasis on boosting my everyday energy and vitality.  \n\nAfter sharing my current routine, dietary habits, sleep pattern and any relevant dosha information you may request, I expect you to translate classical Ayurvedic principles into a practical plan I can follow without exotic ingredients or unrealistic schedules. Daily meal suggestions, recommended herbs or teas, ideal wake-sleep cycles, and supportive practices such as specific yoga poses or pranayama should all be woven together into one coherent guide I can keep on my phone.  \n\nDeliverables  \n• One consolidated PDF (or Google Doc) that covers:  \n  – Dosha-based rationale for each choice  \n  – Seven-day sample menu with adjustments for seasonality  \n  – Morning-to-evening routine outline highlighting energy-enhancing habits  \n  – Suggested herbal formulations or over-the-counter preparations, plus dosage and sourcing tips  \n• A brief follow-up checklist I can use weekly to track progress and flag questions.  \n\nI’m happy to provide feedback on a first draft; final approval comes once the plan feels sustainable and clearly aligned with the goal of sustained, vibrant energy.",
   "query": "google sheets automation",
   "found_at": "2026-07-29 21:41"
+ },
+ {
+  "id": 40613638,
+  "title": "Database Migration and Optimization",
+  "budget_min": 100000.0,
+  "budget_max": null,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/content-marketing/Database-Migration-Optimization",
+  "desc": "Performance-Based Strategy to Boost Orders\n\nI am seeking a skilled digital marketer or SEO professional who can create a results-driven strategy to significantly increase orders on my website, www.dalin.com. Whether through ads, SEO, or innovative methods, the ultimate goal is clear: generate measurable order growth and payment will only be made once confirmed orders are received.\n\nWhat I Expect:\n\nConcrete and scalable deliverables that lead directly to increased orders.\nResults first—payment is based solely on confirmed improvements in actual orders.\nA commitment to driving consistent revenue growth.\n\nDeliverables:\n\nDevelop and implement robust strategies (SEO, Paid Ads, email campaigns, etc.) tailored for measurable growth.\nProvide reports showing direct impact on orders (e.g., Google Analytics data).\nMaintain communication about progress and adapt as needed to hit targets.\n\nFreelancers confident in delivering proven results under a performance-based agreement are highly encouraged to bid.",
+  "query": "data extraction",
+  "found_at": "2026-07-29 22:43"
+ },
+ {
+  "id": 40613667,
+  "title": "Tron dApp Debug & Integration -- 2",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010446,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/smart-contracts/Tron-dApp-Debug-Integration",
+  "desc": "I already have a deployed smart contract, polished UI files, and a working codebase, but logical errors are blocking the full flow. The dApp must run smoothly inside Trust Wallet, so it needs to:\n\n• connect to the user’s Tron wallet,  \n• check the connected wallet’s energy,  \n• delegate energy automatically through the Catfee endpoints if the balance is too low, and  \n• sign and broadcast the raw transaction that interacts with my contract.\n\nRight now the logical issue touches every step—wallet connection, energy check, and the final signing—so I need a developer who can read the current JavaScript/TypeScript code, trace the faulty logic, and deliver a clean, tested solution that behaves consistently on both mobile and desktop versions of Trust Wallet.\n\nDeliverables  \n1. Corrected source code with clear comments on each fix.  \n2. Working Catfee delegation call integrated into the energy-check routine.  \n3. Verified transaction signing that completes without manual intervention.  \n4. Short README explaining setup, build commands, and any new dependencies.\n\nI will provide:  \n• Figma screens and existing front-end assets.  \n• Current repository access and contract ABI.  \n• Test accounts for end-to-end validation.\n\nPlease let me know your experience with TronWeb, wallet providers inside Trust Wallet, and any similar dApps you have shipped. I’m ready to start as soon as the approach and timeline are clear.",
+  "query": "gpt integration",
+  "found_at": "2026-07-29 22:43"
+ },
+ {
+  "id": 40613655,
+  "title": "Carga, traducción y transcripción precisa",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/translation/Carga-traducci-transcripci-precisa",
+  "desc": "Necesito apoyo continuo para tres tareas fundamentales:\n\n1. Carga de datos  \n   • Ingreso y depuración de información en hojas de cálculo o sistemas online.  \n   • Orden y formato coherente para que los datos queden listos para análisis o publicación.\n\n2. Traducciones  \n   • Trabajo sobre todo con pares inglés ↔ español, aunque puedo enviar textos en otros idiomas según el caso.  \n   • Busco versión final fluida, sin calcos literales y respetando terminología técnica cuando aplique.\n\n3. Transcripciones  \n   • Archivos de audio, video o incluso documentos manuscritos que deben convertirse a texto editable.  \n   • Entrega con marcas de tiempo opcionales y revisión ortográfica.\n\nEntrego los materiales originales y las instrucciones específicas de cada lote; solo pido absoluta confidencialidad, precisión y tiempos de respuesta pactados. Si manejas Excel, Google Sheets, Word y herramientas de apoyo a la transcripción o traducción (p. ej., Trados, Descript, Express Scribe), menciónalo: agiliza el flujo de trabajo.\n\nIndícame tu experiencia en cada área y la capacidad semanal de horas o volumen de palabras que puedes asumir.",
+  "query": "google sheets automation",
+  "found_at": "2026-07-29 22:43"
  }
 ]
