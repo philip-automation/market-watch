@@ -6563,5 +6563,44 @@
   "desc": "I’m finalising a series of pre-rendered cutscenes for our 3D-heavy game and need them subtitled in a specific Latin-American language that is neither Spanish nor Portuguese (I’ll confirm the exact tongue privately after NDA exchange).  \n\nEvery line of dialogue is already transcribed and waiting for you in a clean text document, so the task is purely translation, timing, and file creation. UI strings, menus, and in-game chatter are outside the scope; you’ll work only with the narrative cinematics and story cutscenes.  \n\nYou will receive:  \n• High-quality video reference files for each cinematic  \n• A master text script (.doc) with clear speaker tags and time-coded scene breaks  \n\nDeliverables:  \n• Professionally translated subtitles, accurately timed, in .srt or .sub format (let me know your preference)  \n• One round of revision after internal QA to catch any missed cues or linguistic tweaks  \n\nI use standard tools such as Aegisub and Adobe Premiere, so compatibility with those pipelines is helpful but not mandatory—any widely used subtitle editor will do as long as the timestamps are frame-accurate. If you’re comfortable handling special characters and regional idioms, this should be a smooth collaboration.  \n\nPlease include a brief note on your experience translating into the requested language and any past work on cinematic or game content so I can gauge fit quickly.",
   "query": "python script",
   "found_at": "2026-07-30 19:46"
+ },
+ {
+  "id": 40615863,
+  "title": "Scammer Identity Investigation",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "EUR",
+  "usd_rate": 1.152654,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/digital-forensics/Scammer-Identity-Investigation",
+  "desc": "Digital Investigation – Identify Online Scammer Using Email Address and Related Evidence\r\n\r\nI am looking for an experienced digital investigator or OSINT (Open-Source Intelligence) specialist to assist with identifying an individual who appears to have defrauded me in an online vehicle purchase.\r\n\r\nBackground\r\n\r\nI paid a €10,000 deposit by bank transfer for a BMW that was advertised for sale. After the payment was made, the seller stopped fulfilling his promises, and I have since discovered that the vehicle advertisement, videos, and company information appear to have been fraudulent. Evidence suggests that the seller used the identity of a legitimate BMW dealership and falsely claimed ownership of the vehicle.\r\n\r\nThe matter has already been reported to the police, and I am looking for a professional who can legally gather additional intelligence that may help identify the individual responsible. All work must be conducted using lawful investigative methods.\r\n\r\nInformation Available\r\n\r\nI can provide:\r\n\r\n* The email address used by the suspect.\r\n* Email correspondence.\r\n* Phone number(s), if relevant.\r\n* Bank transfer details.\r\n* Videos and photographs sent by the suspect.\r\n* The sales contract and other supporting documents.\r\n* Any additional information that may assist the investigation.\r\n\r\nScope of Work\r\n\r\nI am looking for someone who can legally investigate the available information and provide a detailed report, including where possible:\r\n\r\n* Verify the authenticity and h",
+  "query": "data extraction",
+  "found_at": "2026-07-30 20:51"
+ },
+ {
+  "id": 40615889,
+  "title": "Modern Cafe Menu Redesign",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/adobe-illustrator/Modern-Cafe-Menu-Redesign",
+  "desc": "Our café’s brand assets are already in place, but the current menu no longer reflects the clean, contemporary vibe we’ve grown into. I need the entire menu redesigned in a modern style that sits perfectly alongside our existing logo, colour palette, and typography guidelines.  \n\nCore requirements  \n• Format: single printable menu (A4 or US Letter) plus a screen-friendly PDF.  \n• Visual tone: modern, uncluttered layouts that still feel warm and inviting.  \n• Content: include every item description we provide and pair categories or key items with simple, on-brand icons or small illustrations—no photos this time.  \n• Files: final press-ready PDF plus the editable source file (Adobe InDesign, Illustrator, or similar).  \n\nI’ll supply the current menu, brand assets, and full text as soon as we start. Please make sure spacing, hierarchy, and readability are spot-on so guests can scan quickly at the counter. A short round of revisions to fine-tune typography or icon placement is part of the scope.  \n\nIf you’ve crafted clean, modern menus before, this should be a straightforward, fun refresh. Let’s make our new café menu look as good as our coffee tastes!",
+  "query": "pdf extraction",
+  "found_at": "2026-07-30 20:51"
+ },
+ {
+  "id": 40615886,
+  "title": "Design a Custom 3D CAD Putter Model",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/3d-cad/Design-Custom-CAD-Putter-Model",
+  "desc": "CAD Modeling for Custom 3D-Printable Mallet Putter (\"The Vulture\")\n​Overview:\nNeed a clean, parametric 3D CAD model (SolidWorks or Fusion 360) and a .step export for a custom mallet putter head based on provided visual references.\n​Core Specs to Model:\n​Head Geometry: Open-frame mallet with solid-slab aero-wings (sharp angular texturing, no lattices) and a traditional flow-neck hosel positioned on the heel.\n​Alignment & Paint-Fill: Center front-to-back alignment channel modeled as a recessed V-shaped groove designed to hold a clean paint-fill.\n​Branding & Text Integration: Leave shallow engraved/recessed pockets (0.5mm depth) for text placement: \"VULTURE\" styled boldly across the rear bumper/edge, and \"BIRDIE DOWN\" lettering cleanly positioned on the bottom sole plate.\n​Weight Pockets: Two 0.5-inch (12.7mm) diameter by 30.0mm deep blind holes inside the rear wings, accessed from the sole plate.\n​Hardware Integration: Model the mouth of the weight pockets to accept standard brass heat-set inserts and flush hex socket screws.\n​Target: Designed to achieve a 350g–360g raw head weight.\n​Deliverables:\n​Parametric source files (.sldprt / .f3d)\n​STEP (.step) file",
+  "query": "api integration",
+  "found_at": "2026-07-30 20:51"
  }
 ]
