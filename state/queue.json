@@ -8071,5 +8071,44 @@
   "desc": "I’m building a completely offline 8-Ball Pool helper for rooted phones running Android 14 or higher and I need a developer who has already worked with game hacking on mobile, especially titles built with Unity. The goal is to intercept the game’s memory in real-time, run the calculations locally, and overlay guidance that Miniclip cannot detect hooking.\n\nCore functions  \n• Live prediction: calculate shot angle, cue-ball end position, and pocketing probability as the player lines up the shot.  \n• Auto-play suite: auto-aim, auto-spin, and auto-shoot toggles that respect a total coin limit I’ll define in code.  \n• Fast-mode and “auto-cue” (automatic cue re-align after each shot) to speed up grinding.  \n\nTechnical expectations  \nYou’ll be writing native C++ hooks combined with a Java/Kotlin wrapper, injecting them through Magisk or a similar root method. Low-level memory scanning, inline function detouring, and Unity IL2CPP offset handling must feel routine to you. The overlay can be done with OpenGL ES or any lightweight rendering layer, as long as it stays invisible to Miniclip’s anti-cheat checks.\n\nDeliverables  \n• Compiled module/APK that works on Android 14+ (root only)  \n• Source code with build script  \n• Video demo on a live account showing successful, undetected play for at least ten consecutive matches  \n• Brief document explaining memory offsets, hook points, and how to update them when Miniclip ships a new version  \n\nI’ll provide reference videos and the current game ",
   "query": "python script",
   "found_at": "2026-07-31 22:39"
+ },
+ {
+  "id": 40618195,
+  "title": "Social Media Promoters for Media Productions",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/content-marketing/Social-Media-Promoters-for-Media",
+  "desc": "We are looking for multiple commission-based social media promoters to help advertise Cash Creatives Media Productions.\n\nWe create professional, AI-assisted cinematic videos, including:\n\n• Children’s fantasy and superhero movies\n• Legacy and memorial films\n• Love-story, proposal, and wedding films\n• Music videos\n• Book trailers\n• Commercials and promotional videos\n• Custom movies and other creative video productions\n\nYour role will be to share our approved promotional posts in relevant Facebook groups, including mom and parenting groups, wedding groups, author groups, entrepreneur and small-business groups, music groups, and any other appropriate groups where our potential clients may be found.\n\nYou may post once daily or as often as each group’s rules allow. All posts must follow the group’s rules and should never be spammed.\n\nThis is a commission-based opportunity. You will receive 15% of every completed sale that comes directly through your posts or personal referral link/code. Commission is paid after the customer’s payment has been received and cleared.\n\nFor example:\n\n• A $500 sale earns you $75\n• A $1,300 sale earns you $195\n• A $2,750 sale earns you $412.50\n• A $6,500 sale earns you $975\n• An $11,000 sale earns you $1,650\n\nWe will provide information about our company, services, pricing, and approved promotional material. We are looking for reliable people who understand Facebook groups, can identify potential customers, and are willing to post consistently.\n\nMultiple ",
+  "query": "ai chatbot",
+  "found_at": "2026-07-31 23:46"
+ },
+ {
+  "id": 40618175,
+  "title": "Assistants, Drivers & Au-Pairs Wanted",
+  "budget_min": 1500.0,
+  "budget_max": 3000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/logistics-shipping/Assistants-Drivers-Pairs-Wanted",
+  "desc": "I run VIP Guru (https://linkedin.com/company/vipguru), a fast-moving software agency trusted by brands such as Apple, Tesla and Calendly. As our client base keeps growing, I’m opening three new tracks to keep every project and household running smoothly.\n\nThe openings  \n• Virtual assistants will handle calendar coordination, inbox triage, light research and client follow-ups, all done remotely with tools like Google Workspace, Slack and Notion.  \n• Truck drivers will support our logistics partners by transporting time-sensitive equipment between client sites on fixed routes, completing digital logs and basic vehicle checks.  \n• Au-pairs will live in with select executive families, providing childcare, homework help and light household duties while immersing themselves in a new culture.\n• Only accepts US residents due to our policy.\n\nWhat I value most across all roles is reliability, clear communication and the ability to work independently under shifting priorities. If you have those qualities and want to grow with an organization that solves problems for some of the world’s most innovative companies, message me here or email cathal[at]vipguru[dot]xyz with your résumé, preferred role and earliest start date. I review every application personally and reply within two business days.",
+  "query": "google sheets automation",
+  "found_at": "2026-07-31 23:46"
+ },
+ {
+  "id": 40618164,
+  "title": "Website UX, SEO & Marketing Overhaul",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010482,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/web-design/Website-SEO-Marketing-Overhaul",
+  "desc": "I recently launched my site mindcourse.in  but the look and feel still feels unfinished, especially on mobile screens. I want the entire user journey polished so visitors on both smartphones and tablets enjoy a fast, fluid experience that encourages them to explore and convert.\n\nHere’s what I need from you:  \n• Re-work the front-end so every page resizes gracefully, buttons are thumb-friendly, and loading times stay snappy on 4G connections.  \n• Tight on-page SEO during the redesign—clean semantic HTML, well-structured headings, image compression, and metadata that can rank.  \n• A launch plan for organic growth and paid reach: keyword research, initial content suggestions, and the first set of Google Ads / Meta Ads campaigns, including pixel setup and basic performance benchmarks.  \n• Guidance on an ongoing social media calendar so the look we create on the site carries through Facebook, Instagram, and any other channels you recommend.\n\nPlease include links to responsive sites you’ve improved, evidence of SEO wins, and a snapshot of ROAS or CTR figures from previous paid campaigns so I can see your impact. I’m happy to break the engagement into clear milestones—design refinement first, then optimisation, then marketing rollout—so we can measure success at each step.",
+  "query": "google sheets automation",
+  "found_at": "2026-07-31 23:46"
  }
 ]
