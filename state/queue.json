@@ -8019,5 +8019,57 @@
   "desc": "I need a reliable call-center team to step in as my front line during candidate phone interviews. Your agents will actually conduct each call, following the structured question set I provide, then complete a short evaluation form in our ATS before handing the applicant back to me for the next stage of onboarding.  \n\nBecause you’ll be the candidate’s first live contact, proven interviewing experience and polished communication skills are essential. Familiarity with common screening techniques, smooth conversational pacing, and accurate note-taking will make the difference. I’ll supply:\n\n• A script outlining the must-ask questions and rating guidelines  \n• Access credentials for our calendar and ATS so you can book, call, and record feedback seamlessly  \n• A brief orientation on our company culture so your team can represent us confidently  \n\nIn return, I expect:  \n\n• Every scheduled call started on time  \n• Complete, unbiased assessments logged immediately after each interview  \n• Quick escalation to me if a candidate asks something outside the script or beyond your remit  \n\nIf your center can consistently deliver professional, well-documented phone interviews, let’s talk and set up a pilot batch this week.",
   "query": "python script",
   "found_at": "2026-07-31 21:32"
+ },
+ {
+  "id": 40618080,
+  "title": "AI Phone Agent Setup",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010482,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/ai-voice-agents/Phone-Agent-Setup",
+  "desc": "Our pest-control company wants every incoming lead to feel as if they are speaking with a friendly, knowledgeable human the moment they pick up the phone. I need an AI voice agent that can answer calls, qualify the caller, give basic service information, gather contact details, and seamlessly hand hot leads to my team or book them into our calendar.  \nThe focus is customer communication by phone only—no email or chat for now.\n\nPlease show past work where you have:  \n• Deployed or customised voice AI (Twilio Voice, Dialogflow CX, Amazon Connect, or comparable platforms).  \n• Trained the agent on industry-specific knowledge or FAQs.  \n• Integrated call transcripts and lead data into a CRM or spreadsheet.\n\nKey tasks ahead:  \n1. Design the conversation flow around typical pest-control questions (pricing, treatment safety, appointment slots, warranties).  \n2. Implement the voice agent, ensure natural tone, minimal latency, and accurate speech-to-text.  \n3. Route qualified calls or booked appointments to our existing phone line and Google Calendar.  \n4. Provide a brief knowledge-base that I can later expand myself.\n\nI will judge success by a live demo that:  \n– Handles at least three common scenarios without human intervention.  \n– Captures caller name, number, suburb, and service need with 95 % accuracy.  \n– Sends an immediate SMS/email summary to me after each call.\n\nIf you can deliver a turnkey solution and fine-tune it during the first week of real calls, let’s talk.",
+  "query": "data extraction",
+  "found_at": "2026-07-31 22:39"
+ },
+ {
+  "id": 40618104,
+  "title": "Asian University Speaking Outreach",
+  "budget_min": 5000.0,
+  "budget_max": 15000.0,
+  "currency": "INR",
+  "usd_rate": 0.010482,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/software-engineering/Asian-University-Speaking-Outreach",
+  "desc": "I’m ramping up my thought-leadership activity in AI and engineering and want to turn that expertise into confirmed guest-lecture slots at universities across Asia. The single goal of this project is to secure speaking engagements, so I need an outreach specialist who can research the right departments, locate decision-makers, craft compelling approaches, and keep conversations moving until dates are locked in.\n\nHere’s what the assignment looks like from my side:\n\n• Target region: Asia only.  \n• Event type: University lectures (I’m happy if you spot a relevant tech conference along the way, but the core KPI remains university slots).  \n• Topic area: Artificial intelligence, machine learning, software engineering, and the broader ethical and societal impact of emerging tech.\n\nDeliverables I’ll review and sign off on:\n\n1. A curated contact list (institution, role, email/phone, notes) for at least 40 qualified universities.  \n2. A tailored outreach sequence: initial pitch email, quick follow-up, and a brief speaker packet you pull from my existing bio and slide deck.  \n3. Weekly status updates summarising opens, replies, and next actions.  \n4. Confirmation documentation for each secured lecture: email thread or official invitation with date, format (in-person or virtual), and any logistical requirements.\n\nI’ll provide my full bio, past talk links, and a core slide deck on acceptance. You bring the persistence, persuasive writing, and relationship-building skills to put those asse",
+  "query": "ai chatbot",
+  "found_at": "2026-07-31 22:39"
+ },
+ {
+  "id": 40618086,
+  "title": "WorldFirst Business Account Setup Help -- 2",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "EUR",
+  "usd_rate": 1.15365,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/compliance/WorldFirst-Business-Account-Setup-Help-40618086",
+  "desc": "WorldFirst Business Account Setup – KYC/AML Compliance Support\n\nI've recently incorporated a UK-registered Ltd company. I'm the sole director and shareholder, but I'm based outside the UK (non-UK resident), and WorldFirst is not letting me complete business account verification.\n\nI'm looking for someone who has successfully guided similar companies (UK Ltd, non-resident director) through WorldFirst's KYC/AML process — someone who knows exactly which documents, wording, and submission sequence their compliance team expects.\n\nScope: This project is limited to account setup and verification only. Once the account is approved, I'll handle day-to-day management myself.\n\nBusiness context: The company runs an e-commerce store (Shopify) selling physical health products to US/UK customers. Happy to share more details if relevant to the compliance documentation required.\n\nDeliverables:\n- A clear checklist of documents/screenshots required for a UK Ltd with a non-UK resident director\n- Hands-on guidance while I upload and submit everything through the WorldFirst dashboard\n- Templated or reviewed emails for any follow-up questions from WorldFirst's compliance team\n- Final confirmation: account status shows \"Verified\" and can receive funds\n\nNice to have (not required for this project): experience with currency exchange setup or payment integration, useful for future work.\n\nAcceptance criterion: WorldFirst business account fully verified and operational.",
+  "query": "gpt integration",
+  "found_at": "2026-07-31 22:39"
+ },
+ {
+  "id": 40618132,
+  "title": "offline 8BP Prediction Tool for root mobile ",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/android-app-development/offline-Prediction-Tool-for-root",
+  "desc": "I’m building a completely offline 8-Ball Pool helper for rooted phones running Android 14 or higher and I need a developer who has already worked with game hacking on mobile, especially titles built with Unity. The goal is to intercept the game’s memory in real-time, run the calculations locally, and overlay guidance that Miniclip cannot detect hooking.\n\nCore functions  \n• Live prediction: calculate shot angle, cue-ball end position, and pocketing probability as the player lines up the shot.  \n• Auto-play suite: auto-aim, auto-spin, and auto-shoot toggles that respect a total coin limit I’ll define in code.  \n• Fast-mode and “auto-cue” (automatic cue re-align after each shot) to speed up grinding.  \n\nTechnical expectations  \nYou’ll be writing native C++ hooks combined with a Java/Kotlin wrapper, injecting them through Magisk or a similar root method. Low-level memory scanning, inline function detouring, and Unity IL2CPP offset handling must feel routine to you. The overlay can be done with OpenGL ES or any lightweight rendering layer, as long as it stays invisible to Miniclip’s anti-cheat checks.\n\nDeliverables  \n• Compiled module/APK that works on Android 14+ (root only)  \n• Source code with build script  \n• Video demo on a live account showing successful, undetected play for at least ten consecutive matches  \n• Brief document explaining memory offsets, hook points, and how to update them when Miniclip ships a new version  \n\nI’ll provide reference videos and the current game ",
+  "query": "python script",
+  "found_at": "2026-07-31 22:39"
  }
 ]
