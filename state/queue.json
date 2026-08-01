@@ -8734,5 +8734,70 @@
   "desc": "I’m planning a brand-new 3D animation video starring Motu and Patlu, aimed squarely at a children’s audience. The goal is to capture the playful, slap-stick humour the series is known for while adding fresh scenarios that keep young viewers engaged from start to finish.\n\nHere’s what I need from you:  \n• Full 3D production—storyboarding, character rigging (faithful to the original designs), animation, lighting, texturing, and final rendering.  \n• A polished edit with music, basic sound effects, and voice tracks ready for publication on YouTube and similar kid-friendly platforms.  \n• Source files for all scenes so minor tweaks or future episodes can be produced efficiently.\n\nPlease share links to past 3D kids’ content you’ve completed, indicate the tools you prefer (Maya, Blender, Cinema 4D, or comparable), and give me an estimated turnaround for a short pilot episode once the script is locked. If you have experience working with licensed characters or adapting existing IPs, highlight that as well.\n\nI’m happy to discuss storyboard length, runtime, and milestones once I see your reel. Let’s bring Motu and Patlu to life in 3D and delight a whole new crowd of youngsters together!",
   "query": "python script",
   "found_at": "2026-08-01 11:08"
+ },
+ {
+  "id": 40619096,
+  "title": "CivicEye Mobile Reporting App",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010482,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/react-native/CivicEye-Mobile-Reporting-App",
+  "desc": "I’m launching CivicEye, a citizen-first platform that lets people spot a pothole, overflowing bin, water leak or failed street-light and send the report straight to city staff from their phone. The scope is mobile-only and the app must run smoothly on both Android and iOS.\n\nCore experience\n• Secure sign-up and login, then a two-tap flow to capture a photo, grab the GPS location automatically and file the issue.  \n• Live ticket timeline showing every status change, with push notifications so users always know when their complaint moves forward.  \n• Map and list views with filters so residents can see open, in-progress and resolved items around them.\n\nBack-office\nI’ll need a lightweight web-based dashboard (you can use React, Angular or the stack you prefer) where authorised staff can triage new submissions, change status, assign them, leave notes and export data. Basic analytics—total reports, average resolution time, heatmaps—should be available at a glance.\n\nTechnical expectations\n• Native or cross-platform codebase (Flutter, React Native, Kotlin/Swift—your call) that compiles into high-performance Android and iOS binaries.  \n• RESTful or GraphQL APIs, written with clean, well-documented code, protected by token-based security.  \n• A relational or document database that scales; please architect it so adding new issue categories or cities later is trivial.  \n• Follow OWASP Mobile Top 10, encrypt data in transit and at rest, and keep third-party dependencies up to date.  \n• CI",
+  "query": "web scraping",
+  "found_at": "2026-08-01 12:15"
+ },
+ {
+  "id": 40619083,
+  "title": "LoRa-4G Ethernet IoT PCB",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010482,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/embedded-systems/LoRa-Ethernet-IoT-PCB",
+  "desc": "I’m putting together a compact communications board and need a full PCB design that integrates every piece of the hardware listed below into one reliable, battery-backed solution.\n\nCore parts to place\n• RP2350 MCU\n• LoRa2021F33-2G4: 2W High-Power, High-Speed Multi-Band LR2021 Wireless Communication Module\nAdditional board on hat to connect with CC1314R10’s 5 W module, \nAll ufl connections and sma for high power output.\n\nLoRa module wired to the RP2350 over SPI\n• EC2000 4 G/LTE modem with onboard GPS\n• 10/100 Ethernet port\n• Dedicated UART for a serial console\n• Li-ion battery, charge circuit and seamless battery-backup power path\n\nFunctionally, this board is all about data communication: Ethernet for wired links, LoRa for long-range low-power, the EC2000 for cellular/GPS, and SPI plus the UART for everything that stays on the board. The design should respect proper RF layout for the 5 W LoRa stage, include ESD and surge protection on the Ethernet magnetics, and route clean power domains so battery operation stays quiet even while the modem is transmitting.\n\nDeliverables\n• Complete schematic (Altium, KiCad or Orcad—your choice, source files required)  \n• Placement and routed PCB layout ready for a four-layer fab  \n• Gerbers, drill files, pick-and-place and 3-D step exports  \n• Clearly marked test points for SPI, UART and power rails  \n• BOM with manufacturer part numbers and at least one in-stock supplier per part  \n• Brief design report covering RF considerations, power budge",
+  "query": "data extraction",
+  "found_at": "2026-08-01 12:15"
+ },
+ {
+  "id": 40619051,
+  "title": "Experienced Azure Data Engineer Needed -- 2",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010482,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/microsoft-powerbi/Experienced-Azure-Data-Engineer-Needed",
+  "desc": "Professional Summary\nResults-driven Azure Data Engineer and Power BI Developer with 13+ years of experience in Business Intelligence, Data Warehousing, Azure Data Platform, Microsoft Fabric, Power BI, SQL Server, SSIS, and Azure Synapse Analytics. Experienced in designing scalable ETL pipelines, developing interactive Power BI dashboards, migrating on-premises solutions to Azure, and delivering enterprise reporting solutions.\nStrong expertise in SQL performance tuning, Azure Data Factory, Synapse Pipelines, Microsoft Fabric, Git, Azure DevOps, and data modeling. Adept at working with global clients in Agile environments and delivering freelance consulting assignments independently.\nKey Skills\n•\tCloud Platforms: Azure Data Factory, Azure Synapse Analytics, Azure SQL, Microsoft Fabric\n•\tDatabases: SQL Server, Azure SQL Database, PostgreSQL\n•\tProgramming: T-SQL, DAX, Python (basic for data analysis)\n•\tBI Tools: Power BI (DAX, Power Query), SSRS, SSIS, SSAS\n•\tData Orchestration Modeling: Dagster, dbt (data build tool) \n•\tData Modeling: Star/Snowflake schema, Tabular Model\n•\tVisualization: Dashboards, KPIs, Drill-down reports\n•\tOthers: Git, Agile methodology, DevOps pipelines for BI deployment\nProfessional Experience\nSenior Azure Data Engineer | Leading IT services company (06/2022 – Present)\n Responsibilities\n•\tDeveloped end-to-end ETL pipelines.\n•\tIntegrated data from disparate sources (SQL, flat files, APIs) into Azure Synapse and built dataflows in Microsoft Fabric.\n•\tAutomate",
+  "query": "data extraction",
+  "found_at": "2026-08-01 12:15"
+ },
+ {
+  "id": 40619035,
+  "title": "PCS7 Specialist for Manufacturing Automation",
+  "budget_min": 250000.0,
+  "budget_max": 500000.0,
+  "currency": "INR",
+  "usd_rate": 0.010482,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/process-automation/PCS-Specialist-for-Manufacturing",
+  "desc": "SIEMENS PCS 7 Expert (preferably engineering & commissioning experience in Steel Plant).\n\nProject engineering development required for a steel plant process.\n\nApproximately engineering time 2 months.\n\nFree lancer requirements.\n\nMoney will be discussed in person. My father is in charge of this project and I have just posted here to connect with freelancers.",
+  "query": "python automation",
+  "found_at": "2026-08-01 12:15"
+ },
+ {
+  "id": 40619036,
+  "title": "My favourite character ",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010482,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/content-creation/favourite-character",
+  "desc": "# Female UGC Creator Needed for Short Videos (Script Provided)\n\n**Project Overview**\n\nI'm looking for a confident female content creator to record short, engaging videos using scripts that I provide.\n\n**Requirements:**\n\n* Female, comfortable speaking on camera.\n* Clear English speaking skills (neutral or understandable accent preferred).\n* Good lighting and video quality (smartphone is fine).\n* Able to deliver natural, authentic, and engaging performances.\n* Follow the provided script with minimal changes.\n* Basic editing (captions are a plus but not required).\n\n**Video Details:**\n\n* Duration: 30–90 seconds per video.\n* Vertical format (9:16) for social media.\n* Script will be provided for every video.\n* Long-term collaboration if the quality is good.\n\n**When Applying, Please Include:**\n\n* A short introduction.\n* Links to previous talking-head or UGC videos.\n* Your rate per video.\n* Your turnaround time.\n\nIf you're reliable, creative, and comfortable on camera, I'd love to work with you on an ongoing basis.",
+  "query": "python script",
+  "found_at": "2026-08-01 12:15"
  }
 ]
