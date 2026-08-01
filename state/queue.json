@@ -609,5 +609,44 @@
   "desc": "This project covers the full interior of a commercial space and centres on creating a detailed, code-compliant fiber conduit layout that will feed our new LED system. I will provide the architectural CAD backgrounds, reflected ceiling plans and the fixture schedule; your task is to engineer a clear pathway that shows conduit sizing, bend radii, pull-box locations, fire-stopping details and proper separation from power and data lines.  \n\nThe design must respect NEC and local fire codes, coordinate with existing HVAC and sprinkler runs, and be delivered in native AutoCAD 2021 (or later). If you prefer working in Revit, please include a DWG export. Supporting load calculations or voltage-drop checks can be submitted as an Excel sheet or PDF.\n\nDeliverables\n• Conduit layout drawings (plan and section views)  \n• Bill of materials with conduit types, counts and lengths  \n• Calculation sheet covering fill capacity and pull tension  \n• Installation notes or legend keyed to the drawings\n\nCompletion will be reviewed against adherence to code, drawing clarity and alignment with the provided floor plans.",
   "query": "data extraction",
   "found_at": "2026-08-01 22:14"
+ },
+ {
+  "id": 40619883,
+  "title": "Portable 4G SIM Bonding Device",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010482,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/embedded-systems/Portable-SIM-Bonding-Device",
+  "desc": "I need a working prototype of a portable SIM-bonding unit that merges multiple 4G LTE links to deliver a single, higher-bandwidth connection and tunnels all traffic through an IPSec VPN.  \n\nScope of work  \n• Hardware: board design, enclosure, integrated high-gain antenna, SIM tray/slots (minimum 4), battery and power-management circuitry.  \n• Firmware: real-time link aggregation logic, automatic cell reselection, fail-over, IPSec client with configurable policies, and a simple captive portal or serial console for first-time setup.  \n• Management software: web UI plus optional CLI/REST API to show bonded throughput, per-SIM stats, signal strength and VPN status, with secure remote firmware-upgrade capability.  \n• Documentation: schematics, BOM, mechanical drawings, firmware source, build instructions, and a quick-start guide.  \n• Validation: lab tests demonstrating bonded bandwidth, seamless hand-over between SIMs, and a stable IPSec tunnel during mobility. Packet-loss, latency and throughput logs must accompany the final report.\n\nAcceptance criteria  \n1. Device boots in under 40 s and automatically brings up an IPSec tunnel.  \n2. At least 100 Mbps aggregated downlink achievable under ideal radio conditions.  \n3. VPN reconnection in <5 s after any single SIM drop.  \n4. Complete documentation and source deliverables provided.\n\nPreferred toolchain includes OpenWrt or Yocto for firmware, strongSwan for IPSec, and KiCad/Altium for PCB, but I’m open to alternatives if they meet the",
+  "query": "web scraping",
+  "found_at": "2026-08-01 23:16"
+ },
+ {
+  "id": 40619893,
+  "title": "Plano 2D Casa Moderna Tropical",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/2d-drafting/Plano-Casa-Moderna-Tropical",
+  "desc": "Quiero desarrollar desde cero el plano arquitectónico 2D de una vivienda unifamiliar de un solo piso en un lote de 30 m de largo × 15 m ancho, ubicado en clima tropical húmedo. El estilo debe ser moderno y la prioridad se centra en la funcionalidad sin sacrificar la estética.  \n\nDistribución deseada  \n• Área social abierta con sala de doble altura (o altura y media), comedor contiguo y cocina en L con isla central y ventanales al jardín.  \n• Dormitorio Master con walk-in closet amplio y baño principal grande (bañera, ducha, lavamanos).  \n• Tres dormitorios secundarios medianos; uno de ellos con baño completo propio y los otros dos compartiendo un baño común.  \n• Iluminación indirecta en cocina, pasillos y zonas principales.  \n• Lavandería discreta al fondo, estacionamiento techado para dos vehículos y entrada principal funcional.  \n\nRequisitos técnicos  \n• Diseño optimizado para ventilación e iluminación en clima tropical húmedo.  \n• Circulaciones claras y vistas hacia patio/jardín.  \n\nEntregables finales  \n- Archivo DWG completamente acotado.  \n- PDF listo para imprimir con todas las medidas.  \n- Distribución funcional que cumpla con lo descrito arriba.  \n\nEspero tu propuesta de presupuesto para  planta baja que combine modernidad, espacios conectados y una organización racional del programa.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-01 23:16"
+ },
+ {
+  "id": 40619890,
+  "title": "Real Estate Cold-Call VA",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/real-estate/Real-Estate-Cold-Call",
+  "desc": "I have a steady stream of warm-to-cold real-estate prospects and need someone who can jump on the phone, in clear American-sounding English, and turn those calls into calendar-ready meetings for me. You’ll be working from a script I provide, so the focus is on your phone presence, persistence, and ability to keep the conversation flowing naturally.\n\nYour primary objective on every call is simple: secure a time on our calendar. While doing that, you’ll also confirm or update each lead’s contact details in the shared CRM. I supply the leads, the script, and the software; you bring the upbeat attitude, a quiet workspace, and a solid internet connection.\n\nYou will receive access to our CRM system and will be making constant updates to that per call. Each agent will be scored based on success\n\nIf you have proven experience in U.S. real-estate phone work, sound genuinely local on the line, and love the thrill of converting cold prospects into booked appointments, let’s get started.\n\nBid rate = Monthly rate for full time work (50 hours a week)\n\nMake sure to tell me in your response that you understand that your bid is your monthly rate and the job is 50 hours a week (or your bid will be ignored).",
+  "query": "python script",
+  "found_at": "2026-08-01 23:16"
  }
 ]
