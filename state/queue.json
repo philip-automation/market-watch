@@ -583,5 +583,31 @@
   "desc": "I'm seeking a skilled team to create live-action episodes featuring five iconic heroes. The series should be action-packed and suitable for family viewing. \n\nRequirements:\n- Experience in live-action production\n- Strong storytelling skills, particularly in action genre\n- Ability to create engaging, family-friendly content\n- Collaboration on script, direction, and production\n\nIdeal skills and experience:\n- Background in film or television production\n- Previous work on action series or films\n- Knowledge of family-oriented programming standards\n\nPlease provide a portfolio showcasing similar projects.",
   "query": "python script",
   "found_at": "2026-08-01 21:05"
+ },
+ {
+  "id": 40619867,
+  "title": "AI-Powered Content Creation & Video Editing",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010482,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/ai-content-creation/Powered-Content-Creation-Video-Editing",
+  "desc": "Hi! I'm Karthik, a dedicated and creative freelancer specializing in AI-powered content creation, video editing, graphic design, social media marketing, and data management.\n\nI create high-quality promotional videos, cinematic AI visuals, Instagram Reels, YouTube Shorts, product advertisements, and professional marketing creatives that help businesses grow their online presence. I also have experience in MIS reporting, Microsoft Excel, data entry, and business documentation.\n\n**My Services:**\n\n* AI Image & Video Prompt Creation\n* Video Editing (Reels, Shorts & Ads)\n* Graphic Design (Social Media Posts, Banners & Flyers)\n* Social Media Marketing\n* Microsoft Excel & MIS Reports\n* Data Entry & Virtual Assistance\n* Content Writing & English-Tamil Translation\n\nI focus on delivering high-quality work, clear communication, and on-time project completion. My goal is to provide creative solutions that exceed client expectations and build long-term professional relationships.\n\nLet's work together to bring your ideas to life!",
+  "query": "data extraction",
+  "found_at": "2026-08-01 22:14"
+ },
+ {
+  "id": 40619838,
+  "title": "Electrical engineer to do LED Fiber Conduit Design",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "AUD",
+  "usd_rate": 0.7014,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/electrical-engineering/Electrical-engineer-LED-Fiber-Conduit",
+  "desc": "This project covers the full interior of a commercial space and centres on creating a detailed, code-compliant fiber conduit layout that will feed our new LED system. I will provide the architectural CAD backgrounds, reflected ceiling plans and the fixture schedule; your task is to engineer a clear pathway that shows conduit sizing, bend radii, pull-box locations, fire-stopping details and proper separation from power and data lines.  \n\nThe design must respect NEC and local fire codes, coordinate with existing HVAC and sprinkler runs, and be delivered in native AutoCAD 2021 (or later). If you prefer working in Revit, please include a DWG export. Supporting load calculations or voltage-drop checks can be submitted as an Excel sheet or PDF.\n\nDeliverables\n• Conduit layout drawings (plan and section views)  \n• Bill of materials with conduit types, counts and lengths  \n• Calculation sheet covering fill capacity and pull tension  \n• Installation notes or legend keyed to the drawings\n\nCompletion will be reviewed against adherence to code, drawing clarity and alignment with the provided floor plans.",
+  "query": "data extraction",
+  "found_at": "2026-08-01 22:14"
  }
 ]
