@@ -1,1 +1,80 @@
-[]
+[
+ {
+  "id": 40619157,
+  "title": "Technology - 01/08/2026 08:50 EDT",
+  "budget_min": 500000.0,
+  "budget_max": 1000000.0,
+  "currency": "INR",
+  "usd_rate": 0.010482,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/angular-js/Technology-EDT",
+  "desc": "1. For Beginners (Easy Projects)Smart to-do list app: It should have the feature of dividing tasks by category (Personal, Work) and setting reminders.Weather Forecast Website: Site that shows live weather and temperature of any city using API.Personal Portfolio Website: An attractive web page to showcase your resume, skills, and projects.Expense Tracker: A simple tool to add, delete and track daily expenses and budget.2. For Intermediate (Medium Projects)E-commerce cart system: This allows users to add items to the cart, change the quantity and view the total bill.Chat Application: A real-time chat room using Firebase or WebSockets.URL Shortener: A tool to shorten long web links and track the number of clicks on those links.Note-Taking Progressive Web App (PWA): A notes app that can work offline on a phone or laptop.3. For Advanced ProjectsAI-based chatbots: Creating a bot for a specific topic (e.g., customer support) using the OpenAI API or LangChain.Smart Agriculture System: Soil moisture measurement and automatic watering of plants using IoT and Arduino.Blockchain Based Voting System: A secure and transparent voting app with unchangeable data.Emotion Recognition: Recognizing the mood (Happy, Sad, Angry) of a person sitting in front of the camera with the help of Python and OpenCV.To keep the conversation going, you can tell me:What class or course are you creatingthis project for (school, college, or job portfolio)? What programming language or technology (e.g. Python, Jav",
+  "query": "web scraping",
+  "found_at": "2026-08-01 15:14"
+ },
+ {
+  "id": 40619313,
+  "title": "Job Description: Senior ERP Functional Consultant (Machinery, Dry Cleaning & Universal SaaS Architecture)",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010482,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/erp/Job-Description-Senior-ERP-Functional",
+  "desc": "# Job Description: Senior ERP Functional Consultant (Machinery, Dry Cleaning & Universal SaaS Architecture)\n\n**Position Type:** Consulting / Advisory (Short-Term / Hourly)\n**Experience Required:** Strictly 15+ Years in ERP Implementation & Business Process Mapping\n\n## Executive Summary\n\nWe are engineering **Bomax**, a revolutionary, multi-tenant Base SaaS ERP designed to handle intense data volumes with \"Tally-like\" ultra-high speeds. Our development team is ready to build, but before a single line of code is written, we need a veteran **ERP Functional Consultant & Subject Matter Expert** to validate and design our business logic, database structure, and operational workflows.\n\nThis is **not** a coding role. We need an architect who has spent over 15 years implementing heavy-duty ERPs (like SAP, MS Dynamics, or Odoo). You will map out the exact standard industry practices and database relationships we need to build a single core engine that simultaneously powers the **Heavy Machinery** industry and the **Dry Cleaning/Laundry** industry.\n\n## The Core Architectural Challenges\n\n### 1. The Multi-Tier SaaS Architecture\n\nOur system must seamlessly scale through four distinct business operational models using the exact same underlying codebase. You will validate the tenant data routing for:\n\n* **Single User / Single Store:** A standalone owner-operator.\n* **Multi-User / Single Location:** Role-based access (cashiers, managers, technicians) operating within one facility.\n* **Multi-Br",
+  "query": "data extraction",
+  "found_at": "2026-08-01 15:14"
+ },
+ {
+  "id": 40619277,
+  "title": "Dragonbone Project III",
+  "budget_min": 2000.0,
+  "budget_max": 5500.0,
+  "currency": "INR",
+  "usd_rate": 0.010482,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/animation/Dragonbone-Project-III",
+  "desc": "**READ BEFORE BID. YOUR BID PRICE IS FINAL. NO CHANGE ALLOWED.***\nMust know Dragonbone software (free) https://dragonbones.github.io/en/animation.html\n\nSee tutorial: https://youtu.be/5L-pECzQBRc?si=cctAOH4Y7t8uYjja\nFirst, We already have one Dragonbone rigged character with the animations Walk, idle, run in .dbproj and JSON formats.\nSecond, We have two custom 2D cartoon characters designed already in layered form. We can provide PSD/.AI files of the characters. - one male and one female- designed as separate body parts for skeletal animation. \nWe need you to create animations of different actions like jump, sit, waving hand, lying down, climbing up and down etc (minimum 5 - 7 sec length) using our characters and exporting them in JSON format. We will also need the original project files.\nHowever, you have to copy the existing bones/rigging to the new characters so that the animations can be interchanged across different characters.\nWATCH THE ATTACHED VIDEO.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-01 15:14"
+ },
+ {
+  "id": 40605517,
+  "title": "NVIDIA AI Control PCBA Design",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010482,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/technical-documentation/Wiper-Motor-Assembly-Workflow-Chart",
+  "desc": "I need a lead-level hardware systems engineer who is comfortable building around NVIDIA AI modules and can take my concept all the way from schematic to assembled boards. The core task is to design, fabricate, and bring-up custom PCBAs that drive a control system while cleanly interfacing with three sensor classes—temperature sensors, motion detectors, and cameras.\n\nForm factor, power budget, and component selection all matter in this build; I already have target size dimensions, allowable power envelope, and a shortlist of preferred parts that we will refine together. Once we lock the architecture you will prepare the complete design package, handle a short prototype run, and validate the hardware with the sensors hooked up.\n\nDeliverables\n• Schematics and PCB layout files\n• Manufacturing outputs (Gerber, drill, pick-and-place, tested BOM)\n• Assembled and first-article-tested boards\n• Sensor integration report confirming stable operation with temperature, motion, and camera inputs\n• Clear build notes and a brief hand-off document so my internal team can start firmware development immediately\n\nAcceptance is based on the prototype boards powering up cleanly, meeting the agreed mechanical envelope, staying within the specified power draw, and correctly driving all three sensor types without signal integrity issues.\n\nIf you live and breathe NVIDIA-centric hardware design and have shipped control-oriented boards before, I’m ready to get started.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-01 15:14"
+ },
+ {
+  "id": 40619340,
+  "title": "Website Purchase Order Creation",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/pdf/Website-Purchase-Order-Creation",
+  "desc": "I need a Purchase Order form to be created and embedded on my website for customer use. The form should collect the following information:\n\n- Customer details: Name, contact information, company name, etc.\n- Item details: Description of items being ordered, quantities, prices, etc.\n- Shipping details: Address, delivery instructions, etc.\n- Signature: Digital signature field\n- Corporate Officer Position: Title/role of the signing officer\n\nThe form should be accessible via an embedded form on my website. \n\nIdeal Skills and Experience:\n- Experience with form creation and integration\n- Familiarity with website embedding techniques\n- Attention to detail to ensure all required fields are accurately captured\n- Ability to provide a user-friendly interface for customers",
+  "query": "gpt integration",
+  "found_at": "2026-08-01 15:14"
+ },
+ {
+  "id": 40619287,
+  "title": "Upload 100 Produk Shopee",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/ecommerce/Upload-Produk-Shopee",
+  "desc": "Saya perlu bantuan mengunggah 100 produk ke toko Shopee saya dalam 7 hari. Semua foto sudah tersimpan di Google Drive; Anda hanya perlu menariknya ke Shopee.\n\nTugas inti:\n• Unggah foto sesuai urutan di folder Google Drive.  \n• Tulis judul yang SEO-friendly agar mudah ditemukan pembeli.  \n• Lengkapi deskripsi, harga, stok, dan variasi produk.  \n• Pastikan kategori dan atribut Shopee tepat.  \n\nYang saya cari adalah orang teliti dan rapi, terbiasa bekerja langsung dari ponsel, serta sudah pernah mengelola katalog Shopee sebelumnya. Saya akan menyediakan akses akun dan contoh entri supaya alur kerja jelas.\n\nHasil dianggap selesai ketika:\n1. Seluruh 100 listing aktif dan tampil publik.  \n2. Judul, deskripsi, harga, stok, variasi, dan kategori sudah diisi lengkap tanpa salah ketik.  \n3. Foto tampil utuh, tidak terpotong, dan urutannya benar.  \n\nJika Anda punya pengalaman serupa, mohon sertakan contoh toko atau screenshot upload terdahulu.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-01 15:14"
+ }
+]
