@@ -141,5 +141,83 @@
   "desc": "I have a MikroTik running RouterOS that I want to turn into a mini-ISP edge. The box will sit behind several uplinks—one of them is a Starlink terminal and I may add fibre, DSL or cable later—so the configuration must bond or load-balance multiple connections and fail over cleanly.\n\nDownstream, each customer plugs in their own router and receives an address via my DHCP pool. I need to be able to set a per-Mbps cap for every client, enforce a sensible firewall policy, and keep management, customer traffic and any future VoIP on separate VLANs.\n\nKey elements I expect from you:\n• Multi-WAN bonding / load balancing that includes Starlink  \n• Fully functional DHCP server handing out the ranges I specify  \n• Bandwidth control per user (simple queues or queue trees—your call)  \n• Robust firewall rules for basic security and DDoS protection  \n• VLAN scheme that isolates management and customer networks  \n\nDeliverables\n1. An import-ready .rsc (or step-by-step CLI script) covering the entire configuration  \n2. A concise guide explaining how to add or remove uplinks, create new speed profiles, and expand VLANs  \n3. A live remote session to load the config, test throughput, verify fail-over and confirm firewall rule hits  \n\nPlease rely only on standard RouterOS features (WinBox or pure CLI is fine). Once your setup lets me plug in a customer router, assign their speed, and watch traffic switch seamlessly between bonded links when one line drops, the job is complete.",
   "query": "python script",
   "found_at": "2026-08-02 15:16"
+ },
+ {
+  "id": 40621147,
+  "title": "SAP FICO Consultant Needed",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010482,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/financial-accounting/SAP-FICO-Consultant-Needed",
+  "desc": "I'm seeking an experienced SAP FICO consultant to assist with the following tasks:\n\n- Financial Accounting (FI) configuration:\n  - General Ledger Accounting\n  - Accounts Payable\n  - Accounts Receivable\n\n- Controlling (CO) configuration: (Specific areas to be determined)\n- Data migration and integration\n\nIdeal Skills and Experience:\n- Proven expertise in SAP FICO\n- Strong background in FI and CO configuration\n- Experience with data migration and system integration\n- Relevant SAP certifications\n- Excellent problem-solving skills\n- Strong communication abilities\n\nPlease provide examples of similar work and relevant certifications.",
+  "query": "data extraction",
+  "found_at": "2026-08-02 16:26"
+ },
+ {
+  "id": 40621205,
+  "title": "Anime writer",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/copywriting/Anime-writer-40621205",
+  "desc": "We need someone to write high-quality dialogue for Anime for the purpose of entertainment.  You must love watching Anime and reading Manga. Create awesome fight scenes with twists. Please prove this knowledge in your application. You should be able to write creative and exciting dialogue. Please provide a sample of your writing for Anime.\n\nThe animation will be set in the present day. Since the idea of the cartoons is such, will have devious and complicated writing not ai and  everyday social situations in with the adventure. \n\nA typical chapter of dialogue will contain 600 words. Your writing should set the scene and describe all actions. Half the time should involve conversations.\n\nYou will submit 2 chapters of dialogues at a time, with payment through agreed method.\n\nAll rights will be transferred to us.\n\nPLEASE QUOTE ON 2CHAPTERS OF DIALOGUE (SO 2 x 600 WORDS).",
+  "query": "ai chatbot",
+  "found_at": "2026-08-02 16:26"
+ },
+ {
+  "id": 40621156,
+  "title": "Video Analyzer Specialist",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/machine-vision-video-analytics/Video-Analyzer-Specialist",
+  "desc": "I have 100+ video analyzing projects and need a skillful freelancer who can view them and answer to AI prompts. \nIf you just good at English, then you can apply to this project.\nThe videos are short ones, normally 10-15 seconds and maximum of 2 mins.\nWill pay 5-10$ to every project.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-02 16:26"
+ },
+ {
+  "id": 40621217,
+  "title": "Performance Marketer for HNI Lead Generation",
+  "budget_min": 7000.0,
+  "budget_max": 8000.0,
+  "currency": "INR",
+  "usd_rate": 0.010482,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/google-ads/Performance-Marketer-for-HNI-Lead",
+  "desc": "Project Brief: Meta & Google Ads Campaign for HNI Lead Generation\n\nWe are looking for an experienced performance marketer to set up and manage a one-month lead generation campaign on Meta (Facebook & Instagram) and Google Ads.\n\nOur Offering\n\nWe provide a premium finance subscription service priced at ₹4,000 per month, which includes:\n\n- Budget Planner\n- Wealth Creation Stock Reports\n- Wealth Creation Elite Sessions\n- 1-on-1 Portfolio Consultation Sessions to help maximize clients' portfolios\n\nObjective\n\nOur primary goal is to generate high-quality HNI (High Net Worth Individual) leads or individuals who have the purchasing capacity and willingness to subscribe to a ₹4,000/month financial service.\n\nThe campaign should focus on:\n\n- Identifying and targeting the right audience.\n- Bringing qualified leads rather than just high lead volume.\n- Optimizing for conversions and lead quality.\n\nCampaign Scope\n\n- Complete campaign setup for Meta Ads and Google Ads.\n- Audience research and targeting strategy.\n- Ad copy and campaign structure recommendations.\n- Continuous optimization throughout the month.\n- Weekly performance reporting with actionable insights.\n\nBudget\n\n- Campaign setup fee: ₹2,500\n- Ad spend: ₹5,000 (provided separately for Meta & Google Ads)\n\nExpected Results\n\nWe expect a minimum of 18 qualified HNI leads per week (approximately 72 qualified leads over one month).\n\nPerformance & Payment Terms\n\nThis is a performance-based engagement. Payment is expected only if the agreed",
+  "query": "google sheets automation",
+  "found_at": "2026-08-02 16:26"
+ },
+ {
+  "id": 40621184,
+  "title": "Instagram Lead Generation Campaign",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010482,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/instagram-marketing/Instagram-Lead-Generation-Campaign-40621184",
+  "desc": "I want to turn Instagram into a steady stream of qualified leads for my business. The focus is 100 % social media—specifically Instagram—so I need someone who can combine sharp strategy with hands-on execution inside Meta Ads Manager.\n\nHere’s what I’m looking for: you’ll research and define the right audience, craft thumb-stopping creative, build and launch the ads, then monitor and optimise them so cost-per-lead drops while volume climbs. Organic touchpoints such as Reels, Stories, or micro-influencer hooks are welcome as long as they feed the lead funnel.\n\nI already have a brand style guide and live landing pages with tracking pixels; the missing piece is your expertise to connect the dots and scale results.\n\nDeliverables  \n• 30-day Instagram lead-gen strategy  \n• 10 ad creatives (static, carousel, or Reels) with copy ready to upload  \n• Complete campaign build in Meta Ads Manager with events tracking verified  \n• Weekly performance report highlighting KPIs and next steps  \n\nAcceptance criteria  \n• Pixel fires correctly on every conversion event  \n• Cost-per-lead is on or below the agreed target by the end of week two  \n\nIf this sounds like the kind of challenge you excel at, let’s get started.",
+  "query": "excel automation",
+  "found_at": "2026-08-02 16:26"
+ },
+ {
+  "id": 40621235,
+  "title": "Evinka 3D-Charakter Rekonstruktion",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "EUR",
+  "usd_rate": 1.15325,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/3d-animation/Evinka-Charakter-Rekonstruktion",
+  "desc": "Ich suche eine erfahrene 3D-Character-Artistin bzw. einen erfahrenen 3D-Character-Artist, der in Blender arbeitet und die Figur „Evinka“ exakt nach den Referenzbildern 01, 02 und 05 rekonstruiert. Neugestaltungen oder stilistische Abweichungen sind ausgeschlossen – jede Ansicht muss aus demselben 3D-Mastermodell entstehen.\n\nWesentliche Vorgaben\n• Ansichten: Front, 45°, Seite, Rückseite und 45° hinten, Kopf stets aufrecht und rund.  \n• Details: Gesicht, Haare, Kleidung, Farben, Schuhe sowie das seitliche Schuhmuster müssen identisch zu den Referenzen sein. Kein Stern an der Seite, keine Naht auf Schuhzunge oder pinkem Vorderteil, flache Sohle.  \n• Keine spezielle Umgebung; das Modell soll neutral stehen.\n\nUmfang der Arbeit\n1. Modellierung des kompletten Körpers inkl. sauberer Topologie.  \n2. UV-Unwrapping und 4K / 8K-Texturen.  \n3. Physikalisch korrekte Materialien und Shader.  \n4. Körper- und Gesichts-Rig, bereit für Animation.  \n5. Hochauflösendes Creator Kit mit:\n   – Turnaround-Render  \n   – Kopf-Close-ups  \n   – Farbpalette  \n   – Hände, Emotionen, Accessoires, Kleidungsvarianten  \n   – Action-Posen  \n   – Einsatzregeln und Stilvorgaben\n6. Endformate:  \n   – .blend (Master)  \n   – FBX, OBJ, GLB  \n   – Transparente PNGs ≥ 6000 px  \n   – Editierbares Layout + PDF/X-4\n\nRahmenbedingungen\n• Lieferung aller Quelldateien und exklusiver Nutzungsrechte.  \n• NDA-Unterzeichnung erforderlich.  \n• Reine KI-Einzelbilder werden nicht akzeptiert; jede Komponente muss handwerklich nachvol",
+  "query": "pdf extraction",
+  "found_at": "2026-08-02 16:26"
  }
 ]
