@@ -648,5 +648,70 @@
   "desc": "I have a steady stream of warm-to-cold real-estate prospects and need someone who can jump on the phone, in clear American-sounding English, and turn those calls into calendar-ready meetings for me. You’ll be working from a script I provide, so the focus is on your phone presence, persistence, and ability to keep the conversation flowing naturally.\n\nYour primary objective on every call is simple: secure a time on our calendar. While doing that, you’ll also confirm or update each lead’s contact details in the shared CRM. I supply the leads, the script, and the software; you bring the upbeat attitude, a quiet workspace, and a solid internet connection.\n\nYou will receive access to our CRM system and will be making constant updates to that per call. Each agent will be scored based on success\n\nIf you have proven experience in U.S. real-estate phone work, sound genuinely local on the line, and love the thrill of converting cold prospects into booked appointments, let’s get started.\n\nBid rate = Monthly rate for full time work (50 hours a week)\n\nMake sure to tell me in your response that you understand that your bid is your monthly rate and the job is 50 hours a week (or your bid will be ignored).",
   "query": "python script",
   "found_at": "2026-08-01 23:16"
+ },
+ {
+  "id": 40619987,
+  "title": "AI Video Creation & Editing",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010482,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/ai-video-editing/Video-Creation-Editing",
+  "desc": "I need a skilled video professional who can tap into the latest AI features—think Runway, Descript, Adobe Premiere’s Sensei, or similar—to turn my raw clips and visual concepts into polished, engaging pieces. You’ll handle the full post-production cycle: refining the narrative flow, cutting footage for pace, adding motion graphics and captions, correcting colour, and exporting in web-ready formats. \n\nBecause I use multiple channels, finished videos should be delivered in both horizontal 1080p and vertical 1080 × 1920. I’ll supply the source media, brand assets, and style references on day one; you return:\n\n• First draft edit (MP4) within 3 days  \n• Up to two rounds of revisions  \n• Final rendered files plus all editable project files (Premiere, Resolve, or equivalent)\n\nAI tools can automate tedious steps, but the end result must still feel crafted and on-brand. If you have a reel that shows how you leverage AI to speed up workflows—noise removal, auto-captions, background replacement—share it so I can see your approach. Let’s create something sharp, modern, and ready to publish.",
+  "query": "web scraping",
+  "found_at": "2026-08-02 01:02"
+ },
+ {
+  "id": 40619933,
+  "title": "ProctorU & Mobius Exam Setup",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "AUD",
+  "usd_rate": 0.7014,
+  "bids": 13,
+  "url": "https://www.freelancer.com/projects/data-integration/ProctorU-Mobius-Exam-Setup",
+  "desc": "The work centres on configuring several practical-skill assessments inside Mobius and pairing each one with live ProctorU supervision. I already have the questions, grading rubrics, and scheduling details; what I need is the technical side handled from end to end.\n\nScope of work  \n• Build the assessment shells in Mobius, upload the existing content, and apply the correct timing, grading, and accessibility rules.  \n• Connect each exam to ProctorU, selecting the appropriate security level, ID verification flow, and environment checks.  \n• Create candidate and proctor accounts, map the correct roles, and confirm that data flows (scores, session recordings, incident reports) remain intact between both platforms.  \n• Run a full dry-run with two test candidates, document the results, and adjust any settings that trigger false flags or access issues.  \n• Supply a concise hand-over guide so my internal team can duplicate the process for future sessions.\n\nAcceptance criteria  \n1. Candidates can launch the assessment from Mobius and are seamlessly handed off to ProctorU for authentication.  \n2. All proctoring safeguards (browser lockdown, screen share, recording) activate without errors.  \n3. Completed attempts appear in Mobius with full ProctorU incident logs attached.  \n4. Provided documentation accurately reflects the final configuration and step-by-step workflow.\n\nExperience with both ProctorU and Mobius is essential because I only require the technical setup, not content creation.",
+  "query": "data extraction",
+  "found_at": "2026-08-02 01:02"
+ },
+ {
+  "id": 40619977,
+  "title": "Expert Microsoft Suite Developer Needed",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 13,
+  "url": "https://www.freelancer.com/projects/microsoft-365/Expert-Microsoft-Suite-Developer-Needed",
+  "desc": "Looking for expert resource who can work with \n\nMicrosoft Graph API\nMicrosoft Dataverse\nMicrosoft AI builder\nMicrosoft power apps\nMicrosoft power automate. \nMicrosoft Copilot agents.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-02 01:02"
+ },
+ {
+  "id": 40619959,
+  "title": "2D Strategy GameMaker Build",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/Strategy-GameMaker-Build-fix",
+  "desc": "I’m hiring a GameMaker Studio developer to build an original 2D post-apocalyptic survival game.\nMain features: exploration, scavenging, inventory, crafting, survival stats, combat, random events, map progression, save/load, and a complete menu/settings system.\n\nI can provide the game concept and may provide art/audio assets. You will handle game development, UI, asset integration, testing, and clean source code delivery.\nPlease share relevant GameMaker or 2D game examples,",
+  "query": "gpt integration",
+  "found_at": "2026-08-02 01:02"
+ },
+ {
+  "id": 40619920,
+  "title": "Handwritten Notes Digitization",
+  "budget_min": 750.0,
+  "budget_max": 1500.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/data-entry/Handwritten-Notes-Digitization-40619920",
+  "desc": "I need assistance with scanning, transcribing, and organizing 20 binders of handwritten notes for my book project. \n\nTasks include:\n- Scanning handwritten notes (highest priority)\n  - Format: PDF\n  - Just need scanned images, no OCR required\n  - A ScanSnap ix2500 scanner is available for use on-site\n\n- Transcribing handwritten notes\n- Organizing notes in Google Workspace and Notebook LM\n\nLocation: Prefer in-person work in Santa Rosa, CA 95409\n\nIdeal skills and experience:\n- Experience with scanning and digitizing documents\n- Proficiency in Google Workspace and Notebook LM\n- Attention to detail and organizational skills\n\nLooking for someone reliable and efficient to help streamline this process.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-02 01:02"
  }
 ]
