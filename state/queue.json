@@ -3898,5 +3898,70 @@
   "desc": "# Professional Promotional Video for Accounting Software\n\nWe are looking for a **highly professional native English-speaking video creator / marketing video specialist** to produce a short, premium promotional video for our cloud-based accounting software.\n\n### About the Project\n\nWe are developing a modern accounting and business management platform designed to make accounting simpler, more powerful, and more connected for businesses.\n\nWe need a **short promotional video of approximately 60 seconds** that clearly communicates what our software is, what makes it different, and why businesses should choose it.\n\nThe video should feel like a **professional SaaS advertisement** — modern, trustworthy, polished, engaging, and suitable for our website landing page as well as YouTube, Facebook, Instagram, LinkedIn, and other digital advertising platforms.\n\n### Key Message – UAE E-Invoicing\n\nOne of the most important features we want to emphasize is our **built-in UAE e-invoicing compliance capability**.\n\nThis should be presented as a major advantage:\n\n**UAE e-invoicing is built directly into our accounting software.**\n\nBusinesses do not need to use our accounting software and then separately find, subscribe to, or manage another ASP/e-invoicing provider just to handle their e-invoicing requirements.\n\nThe concept we want the video to communicate is:\n\n**One accounting platform. Accounting + e-invoicing together.**\n\nCustomers can manage their accounting and their UAE e-invoicing requirem",
   "query": "python script",
   "found_at": "2026-08-04 21:59"
+ },
+ {
+  "id": 40626405,
+  "title": "Standalone IMPS/NEFT Payout Software",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010516,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/dot-net/Standalone-IMPS-NEFT-Payout-Software",
+  "desc": "I need a self-contained Windows application that can handle end-to-end payouts through Indian banking rails—specifically IMPS and NEFT, nothing else. The tool must run locally on a Windows machine without relying on any existing ERP or web platform; everything from beneficiary management to transaction initiation and status tracking should sit inside this standalone executable.\n\nCore flow I have in mind:\n• Secure login for authorised staff.\n• Simple screens to add or import beneficiaries, store IFSC and account details, and mark KYC status.  \n• Batch or single-click payout execution over IMPS or NEFT, selecting the rail automatically by cut-off time or allowing a manual toggle.  \n• Real-time or near real-time acknowledgement retrieval and a clear ledger/history page that can be exported as CSV.  \n• Basic error handling—invalid IFSC, insufficient balance, network failure—surfaced in human-readable alerts.\n\nBecause this is purely for payouts, features such as collections or card processing are out of scope.\n\nTechnical expectations\n• Must install and run on Windows 10/11 with no external dependencies beyond standard runtime libraries.  \n• API keys or SFTP credentials for the bank endpoint will be supplied once the build is proven locally with mock data.  \n• Any mainstream language is fine (C#, .NET, Java, even Python with an embedded interpreter) as long as the final deliverable is a single installer or folder I can copy to a fresh PC and start using.\n\nAcceptance criteria\n• Succ",
+  "query": "web scraping",
+  "found_at": "2026-08-04 23:14"
+ },
+ {
+  "id": 40626393,
+  "title": "Format Documents, Translate, Write Reports",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/report-writing/Format-Documents-Translate-Write-Reports",
+  "desc": "I have a batch of text-based documents that first need a professional facelift—clean layout and margins, clear headers-footers, and a single, consistent style running from cover page to appendix. Once the formatting is locked in, each file must be translated into English, retaining all original meaning, nuance, and any inline graphics or tables. Finally, I want a short, well-structured report for every document that highlights key points, decisions, or data so stakeholders can grasp the content at a glance.\n\nYou are welcome to work in Microsoft Word or Google Docs as long as tracked changes remain visible until final approval. Terminology accuracy, flawless typography, and a tidy hierarchy of headings will be my checkpoints before releasing each milestone.\n\nDeliverables  \n• Fully formatted source file  \n• English version matching the approved layout  \n• One-page executive report per document\n\nIf this workflow fits your expertise, let’s begin with a sample file so we can confirm style and tone before moving on to the rest.",
+  "query": "data extraction",
+  "found_at": "2026-08-04 23:14"
+ },
+ {
+  "id": 40626371,
+  "title": "Device Transfer Expert Needed",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "AUD",
+  "usd_rate": 0.7047,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/ipad/Device-Transfer-Expert-Needed",
+  "desc": "I need help transferring my data from my old iPad and iPhone to new devices. It's crucial that we do not carry over any current issues.\n\nCurrent issues include:\n- Password resets: I have to reset my password on my iPad every morning.\n- Slow performance: My current devices are sluggish and I want to avoid this on the new devices.\n\nI am using the device's default options for managing passwords, and I want to stick to default options. \n\nIdeal skills and experience:\n- Experience with iOS devices\n- Strong troubleshooting skills\n- Ability to set up devices without carrying over existing issues\n\nPlease ensure a smooth transition to new devices without any of the old device problems.",
+  "query": "data extraction",
+  "found_at": "2026-08-04 23:14"
+ },
+ {
+  "id": 40626408,
+  "title": "AI Narrative YouTube Channel Setup - 04/08/2026 18:38 EDT",
+  "budget_min": 750.0,
+  "budget_max": 1500.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/after-effects/Narrative-YouTube-Channel-Setup-EDT",
+  "desc": "I already have a steady flow of personal-development narratives generated by AI; what I lack is a complete, hands-off YouTube workflow. I’m looking for you to open a fresh channel, brand it, and turn each text story into a calm, soothing audio episode that greets the audience as “Everyone” right from the first sentence.  \n\nHere’s the full scope of what I need:  \n• Create and optimise the YouTube channel (name, banner, profile, basic SEO tags).  \n• Select a reliable AI text-to-speech tool, produce studio-quality audio, and ensure the narration consistently uses a gentle, reassuring tone. Each piece should begin with “Everyone,” then flow naturally into the story.  \n• Sync simple visuals (static or subtle motion is fine), render, and upload the finished videos with relevant titles, descriptions, and timestamps.  \n• Set up playlists and end-screens so viewers can move smoothly through the series.  \n• Provide me with a repeatable template so I can drop new AI stories into the process without fuss.  \n\nI’ll supply the raw texts; you handle everything from voice generation to upload. Once we’re live with the first few episodes, the job is done.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-04 23:14"
+ },
+ {
+  "id": 40626381,
+  "title": "Find 50 Remote Jobs    - 21/06/2026 18:27 EDT - 04/08/2026 18:14 EDT",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/data-collection/Find-Remote-Jobs-EDT-EDT",
+  "desc": "I need a well-organized researcher to compile a list of at least fifty (50) currently open full-time positions that are fully remote and expressly permit work from outside the United States. Roles can span any function where an undergraduate business degree is relevant— think non-IT AI related work, project coordination, operations, marketing, finance, analysis, customer success—so long as they meet the criteria below and someone with a business degree can qualify for (jobs that require IT related degrees or work experience are strictly not what I am looking for).\n\nSource requirements  \n• Pull every listing directly from the company’s own career page; no third-party boards or aggregators.  \n• Prioritize companies based in this order: United States first, then Canada, Europe, the Middle East, and finally Asia.\n\nRole requirements  \n• Contract, full time, part time or freelance engagement.  \n• “Remote” or equivalent wording must appear in the post, and there MUST be NO residency restriction to the U.S. or Canada or Europe.  \n• The posting must still be live at the time of delivery.\n-Jobs that require you to be physically in the US or Europe do not qualify.\n-IT related jobs do not qualify\n-Entry level jobs only. Senior or jobs that require many years of experience do not qualify.\n\nDeliverable  \nA Google Sheet (or Excel file) with one row per job and columns for:  \n1. Job title  \n2. Company name  \n3. Company headquarters country  \n4. Direct link to the listing  \n5. Date posted (or",
+  "query": "ai chatbot",
+  "found_at": "2026-08-04 23:14"
  }
 ]
