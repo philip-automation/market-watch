@@ -1233,5 +1233,18 @@
   "desc": "I need a hands-on specialist who can take full control of our Google Ads and Meta Ads accounts, building campaigns that turn e-commerce clicks into measurable revenue. My primary objective is straightforward: generate profitable sales, not just traffic or impressions.\n\nRight now the accounts are active but underperforming, so your first task will be a quick audit to spot wasted spend and untapped opportunities. From there, create fresh search, shopping, and performance-max campaigns in Google Ads alongside high-converting Facebook and Instagram funnels in Meta Ads.  \n\nKey deliverables  \n• Clean account audit with priority fixes  \n• New campaign structure aligned to product categories and buyer intent  \n• Compelling ad copy, creatives, and audience targeting for both platforms  \n• Conversion tracking and pixel/GA4 verification to ensure every sale is attributed correctly  \n• Weekly optimisation (bids, budgets, keywords, audiences, creatives) focused on ROAS growth  \n• Clear performance report each week highlighting wins, issues, and next actions  \n\nTools in play will include Google Ads Editor, Google Merchant Center, Meta Ads Manager, and any supporting software you prefer for creative testing or automated rules—as long as it keeps the campaigns lean and profitable. If you have proven strategies for scaling e-commerce accounts to profitable spend levels, let’s put them to work.",
   "query": "google sheets automation",
   "found_at": "2026-08-05 22:00"
+ },
+ {
+  "id": 40628800,
+  "title": "Custom Garmin Monkey C Watch Face",
+  "budget_min": 750.0,
+  "budget_max": 1500.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/mobile-development/Custom-Garmin-Monkey-Watch-Face",
+  "desc": "I have a fully-specced concept for a bespoke Garmin watch face and now need an experienced Monkey C developer to bring it to life. The design is entirely custom—think beyond the usual digital, analog, or hybrid templates—so the focus is squarely on code craftsmanship rather than generic styling tools.\n\nYou will receive:  \n• Detailed mock-ups, exact color codes, font choices, and all graphical assets.  \n• A written specification explaining every data field, animation cue, and user interaction.\n\nYour task is to translate this package into a polished Connect IQ watch face that runs specifically on the Venu 4. You can assess these, but I have largely address them:  Respects battery constraints, and meets all store submission guidelines. Please apply best practices for layout scaling, memory management, and event handling within the Garmin Connect IQ SDK.\n\nDeliverables:  \n1. Compiled .prg files for each target device family.  \n2. Complete Monkey C source code, cleanly commented.  \n3. A short README outlining setup, build, and deployment steps.  \n4. Confirmation that the project passes the Connect IQ validation tool with no errors or warnings.\n\nI will handle design feedback quickly and supply any additional assets or clarifications you need, so we can keep iterations tight. If you have shipped custom watch faces before or contributed to Connect IQ projects, I’d love to see examples. Let’s build something unique that stands out in the store and on the wrist.",
+  "query": "data extraction",
+  "found_at": "2026-08-05 23:14"
  }
 ]
