@@ -3963,5 +3963,31 @@
   "desc": "I need a well-organized researcher to compile a list of at least fifty (50) currently open full-time positions that are fully remote and expressly permit work from outside the United States. Roles can span any function where an undergraduate business degree is relevant— think non-IT AI related work, project coordination, operations, marketing, finance, analysis, customer success—so long as they meet the criteria below and someone with a business degree can qualify for (jobs that require IT related degrees or work experience are strictly not what I am looking for).\n\nSource requirements  \n• Pull every listing directly from the company’s own career page; no third-party boards or aggregators.  \n• Prioritize companies based in this order: United States first, then Canada, Europe, the Middle East, and finally Asia.\n\nRole requirements  \n• Contract, full time, part time or freelance engagement.  \n• “Remote” or equivalent wording must appear in the post, and there MUST be NO residency restriction to the U.S. or Canada or Europe.  \n• The posting must still be live at the time of delivery.\n-Jobs that require you to be physically in the US or Europe do not qualify.\n-IT related jobs do not qualify\n-Entry level jobs only. Senior or jobs that require many years of experience do not qualify.\n\nDeliverable  \nA Google Sheet (or Excel file) with one row per job and columns for:  \n1. Job title  \n2. Company name  \n3. Company headquarters country  \n4. Direct link to the listing  \n5. Date posted (or",
   "query": "ai chatbot",
   "found_at": "2026-08-04 23:14"
+ },
+ {
+  "id": 40626450,
+  "title": "Intricate Mechanical Part Modeling on Solidworks",
+  "budget_min": 37500.0,
+  "budget_max": 75000.0,
+  "currency": "INR",
+  "usd_rate": 0.010516,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/3d-cad/Intricate-Mechanical-Part-Modeling",
+  "desc": "Modular Hydraulic Goods Lift Design in SolidWorks\n\nNandan GSE has been designing and manufacturing lifting systems for over 23 years. During this period, we have installed more than 500 hydraulic goods lifts.\n\nWe now intend to standardise and modularise our existing goods lift design so that lifts of different capacities, platform sizes and lifting heights can be engineered using a repeatable design system.\n\nThe project will be completed in two phases. (Phase 1 is the current one )\n\nPhase 1: SolidWorks Modelling and Documentation\nThe existing goods lift design is approximately 90% complete. The selected freelancer will convert the available design information into a properly structured and repeatable SolidWorks model.\n\nThe work will include:\n- Parametric 3D modelling in SolidWorks\n- Complete assembly and subassembly models\n- Manufacturing and fabrication drawings\n- Bill of Materials\n- Standardisation of parts and assemblies\n- Creation of a design structure that can be adapted for different capacities, dimensions and lifting heights\n- Submission of all native and fully editable SolidWorks files\n\nThis is primarily a modelling, detailing and standardisation assignment based on an existing and proven design.\n\nPhase 2: Design Automation\nAfter the successful completion of Phase 1, Nandan GSE intends to automate the design process so that drawings, models and Bills of Materials can be generated for different lift specifications in a modular manner.\nPhase 2 will be discussed separate",
+  "query": "data extraction",
+  "found_at": "2026-08-05 00:16"
+ },
+ {
+  "id": 40626433,
+  "title": "AI Class for Clergy and Laypeople",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/ai-ethics/Class-for-Clergy-Laypeople",
+  "desc": "I need an AI class designed for clergy and laypeople. The class should be educational and cover:\n\n- AI basics and history\n- Current AI applications\n- Ethical considerations in AI\n- Theological perspectives on AI\n\nI have a syllabus draft to guide the content.\n\nTeaching methods should include:\n- Lectures and presentations\n- Interactive workshops\n- Group discussions\n\nIdeal skills and experience:\n- Strong understanding of AI\n- Experience in theological education\n- Excellent presentation and facilitation skills\n\nLooking forward to your proposals!",
+  "query": "ai chatbot",
+  "found_at": "2026-08-05 00:16"
  }
 ]
