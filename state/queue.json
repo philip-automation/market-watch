@@ -1103,5 +1103,83 @@
   "desc": "Hello,\nI am looking for a certified/sworn translator (Spanish to English) to translate my official university degrees and academic transcripts. These documents will be submitted to UK ENIC (formerly UK NARIC) for a Statement of Comparability.\nDocuments to be translated:\nUndergraduate Degree in Architecture (1 page) + Official Academic Transcript (approx. 5 pages) from Universidad del País Vasco (UPV/EHU).\nMaster's Degree in Teacher Training / MAES (1 page) + Official Academic Transcript (approx. 2 pages) from Universidad Camilo José Cela (UCJC).\nRequirements:\nYou must be a certified/sworn translator (e.g., Traductor Jurado accredited by the Spanish Ministry of Foreign Affairs - MAEC, or a certified member of UK translation bodies like ITI or CIOL).\nThe final translation must include your official stamp, signature, and the standard certification statement confirming the accuracy of the translation.\nDeliverables must be provided in high-quality PDF format with a digital signature (no physical shipping is required).\ncThank you, and I look forward to your proposals.",
   "query": "pdf extraction",
   "found_at": "2026-08-05 19:04"
+ },
+ {
+  "id": 40628596,
+  "title": "Preferably from Kerala: Part-Time Remote Training, Web Development & Graphics Designing with Digital Marketing",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010517,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/web-development/Preferably-from-Kerala-Part-Time",
+  "desc": "Preferably from Kerala: \nI need an all-rounder who can spend a set number of hours each week guiding our advanced-level learners while still helping me keep real-world projects moving. Training is the heartbeat of this role, so you must be comfortable taking senior developers through deep-dive sessions on modern JavaScript frameworks such as React or Angular, structuring back-end workflows in Node.js or Django, and polishing interfaces with truly responsive, UX-first design principles.  \n\nAlongside the classes, you will occasionally jump into hands-on work—building out full-stack features, refining graphic assets, or shaping our digital marketing funnels—so learners see techniques applied in production. Everything is remote and on a monthly salary, making it perfect if you are already freelancing and want a stable, part-time commitment.\n\nTypical week  \n•   6–8 hours of live advanced coaching with screen-sharing and code reviews  \n•   Preparation of concise lesson outlines, sample repos, and follow-up assignments  \n•   Quick iterations on our own site or campaign creatives to demonstrate best practices  \n•   Short performance reports on each cohort’s progress\n\nAcceptance criteria  \n1. Sessions are delivered on time with recordings and source code uploaded the same day.  \n2. Assignments include clear objectives, starter files, and grading rubrics.  \n3. Any development or marketing task you touch must be committed to Git with clean, well-documented code or assets.\n\nIf you thrive",
+  "query": "web scraping",
+  "found_at": "2026-08-05 20:38"
+ },
+ {
+  "id": 40628686,
+  "title": "Custom 3D Foot Scanning App Prototype",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/ios-development/Custom-Foot-Scanning-App-Prototype",
+  "desc": "# Native iPhone LiDAR Foot Scanning App for Custom Bootmaking (Prototype)\n\n## Project Summary\n\nStewart Boot Company is seeking an experienced **native iOS developer** to build the first prototype of a custom foot-scanning application for iPhone Pro models with LiDAR.\n\nThis application will be used by professional bootmakers to collect foot data for designing custom boots and lasts.\n\nThis is **Phase 1** of a larger project. We are looking for a working prototype that can be expanded over time.\n\n## Required Skills\n\n* Swift\n* SwiftUI\n* ARKit\n* RealityKit\n* Apple LiDAR\n* 3D mesh generation\n* Photogrammetry\n* Computer Vision\n* Experience exporting 3D models (OBJ, STL, USDZ, PLY)\n\n## Phase 1 Requirements\n\nThe app must:\n\n* Create or open a client record.\n* Guide the operator through three separate scan sequences:\n\n  * Full non-weight-bearing 3D foot scan\n  * Weight-bearing foot scan to capture foot splay and dimensional changes\n  * Non-weight-bearing dorsiflexion scan to capture ankle/foot relationship\n* Guide the operator through a required sequence of labeled clinical photographs.\n* Allow additional labeled photographs and voice notes.\n* Record manual foot measurements, including:\n\n  * Foot length\n  * Arch length\n  * Ball width\n  * Ball girth\n  * Instep girth\n  * Short heel measurement (Stewart Boot method)\n  * Heel width\n  * Ankle and calf measurements\n* Generate an initial scaled 3D foot model.\n* Preserve all original photographs and scan data.\n* Save all information under the c",
+  "query": "data extraction",
+  "found_at": "2026-08-05 20:38"
+ },
+ {
+  "id": 40628659,
+  "title": "WhatsApp Message Analysis",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "GBP",
+  "usd_rate": 1.346436,
+  "bids": 20,
+  "url": "https://www.freelancer.com/projects/data-analysis/WhatsApp-Message-Analysis",
+  "desc": "I'm seeking a detailed analysis of WhatsApp messages. The goal is to understand conversation patterns and communication dynamics within a group chat.\n\nKey Focus Areas:\n- Response Time Analysis: How quickly do participants reply?\n- Interaction Frequency: Who talks to whom, and how often?\n- Message Length Patterns: Variations in message lengths among participants.\n- Collaborative Healthy Communication: Identifying positive, constructive exchanges.\n- Non-Collaborative Unhealthy Communication: Spotting negative or destructive interactions.\n- Requests for Transparent Communication: Tracking demands for clarity in discussions.\n\nIdeal Skills & Experience:\n- Experience with data analysis tools\n- Familiarity with sentiment analysis\n- Ability to visualize data patterns\n- Strong analytical skills\n- Background in communication studies is a plus\n\nPlease provide samples of similar work done.",
+  "query": "data extraction",
+  "found_at": "2026-08-05 20:38"
+ },
+ {
+  "id": 40628646,
+  "title": "Weekly OneSignal & Email Marketing",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010517,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/email-marketing/Weekly-OneSignal-Email-Marketing",
+  "desc": "I handle a small but growing app and I’m ready to hand off two repeating tasks: push notifications in OneSignal and the weekly retention-focused email blast to my existing users.\n\nHere’s what I need done every week:\n\n• Plan and schedule OneSignal campaigns that highlight our latest promotions and offers.  \n• Keep the messaging short, compelling, and on-brand; right now I’m sticking to straightforward app notifications—no rich media or extra action buttons yet, though I’m open to adding them later.  \n• Draft, design, and send the corresponding email to the same user segment with an eye on customer retention.  \n• Track open rates, click-throughs, and uninstall/unsubscribe metrics, then give me a concise report with insights and quick wins for the next round.\n\nYou’ll have full access to OneSignal and my email platform, along with last quarter’s performance data to guide your strategy. Consistency is key, so I’m looking for someone who can commit to one well-timed push and one email each week, then iterate based on the numbers.\n\nIf you’ve already run promotional push campaigns and retention emails before, I’d love to see a sample report or short case study when you apply.",
+  "query": "data extraction",
+  "found_at": "2026-08-05 20:38"
+ },
+ {
+  "id": 40628677,
+  "title": "Performance Marketing & Lead Generation Specialist Needed",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/lead-generation/Performance-Marketing-Lead-Generation-40628677",
+  "desc": "Looking for an experienced Media Buyer / Traffic Specialist to drive qualified traffic, engagement, and user registrations for our online platform targeting Bangladesh.\n\nRequirements:\n\nExperience running targeted Facebook Lead/Messenger campaigns or Google Search Ads.\n\nProven experience creating high-converting bridge pages, landing funnels, or quiz funnels.\n\nAbility to optimize CTR, conversion rate, and maintain campaign stability.\n\nBudget & Structure:\n\nMonthly Management Fee: $100 - $200 USD (Milestone based).\n\nPerformance Bonus: Based on performance, contract value will be scaled up.\n\nTo Apply:\nPlease share your strategy for running high-converting lead campaigns and any previous campaign performance screenshots.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-05 20:38"
+ },
+ {
+  "id": 40628621,
+  "title": "Spanish Research Slides Translation",
+  "budget_min": 150.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/academic-writing/Spanish-Research-Slides-Translation",
+  "desc": "I have a PDF deck of research‐focused slides written in Spanish that I need rendered clearly and accurately in English. All text on every slide—headings, bullet points, figure captions, and any embedded notes—must be translated while preserving the existing layout so that the final file is ready for immediate use in an English-language research documentation context.\n\nPlease work directly in the PDF (or convert to PowerPoint if that speeds your workflow) and return a fully formatted English version. Accuracy in technical terminology is critical; natural, academic tone is just as important as literal meaning. If a phrase carries nuance that could affect interpretation of the research, include a brief parenthetical note so nothing is lost.\n\nDeliverable:\n• Completed slide deck in English, same design and slide order, delivered as PDF (PowerPoint source optional but welcome).  \n\nI will be available for quick clarifications and will review the first few slides to confirm style before you proceed with the remainder.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-05 20:38"
  }
 ]
