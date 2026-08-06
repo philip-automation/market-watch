@@ -1246,5 +1246,31 @@
   "desc": "I have a fully-specced concept for a bespoke Garmin watch face and now need an experienced Monkey C developer to bring it to life. The design is entirely custom—think beyond the usual digital, analog, or hybrid templates—so the focus is squarely on code craftsmanship rather than generic styling tools.\n\nYou will receive:  \n• Detailed mock-ups, exact color codes, font choices, and all graphical assets.  \n• A written specification explaining every data field, animation cue, and user interaction.\n\nYour task is to translate this package into a polished Connect IQ watch face that runs specifically on the Venu 4. You can assess these, but I have largely address them:  Respects battery constraints, and meets all store submission guidelines. Please apply best practices for layout scaling, memory management, and event handling within the Garmin Connect IQ SDK.\n\nDeliverables:  \n1. Compiled .prg files for each target device family.  \n2. Complete Monkey C source code, cleanly commented.  \n3. A short README outlining setup, build, and deployment steps.  \n4. Confirmation that the project passes the Connect IQ validation tool with no errors or warnings.\n\nI will handle design feedback quickly and supply any additional assets or clarifications you need, so we can keep iterations tight. If you have shipped custom watch faces before or contributed to Connect IQ projects, I’d love to see examples. Let’s build something unique that stands out in the store and on the wrist.",
   "query": "data extraction",
   "found_at": "2026-08-05 23:14"
+ },
+ {
+  "id": 40628894,
+  "title": "Assistant for $4K Project -- 2",
+  "budget_min": 3000.0,
+  "budget_max": 5000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/administrative-support/Assistant-for-Project",
+  "desc": "I run an ongoing initiative funded at roughly $4,000 each month and I’m ready to bring an Assistant on board for the long haul. The project itself is broad—think research, inbox and calendar management, light data work, meeting coordination, and generally keeping the wheels turning—yet it leaves plenty of room for you to shape the day-to-day alongside me. Because there’s no hard deadline hanging over us, I value reliable follow-through and steady communication more than sprint-style speed.\n\nIf you have solid organisational skills, a proactive mindset, and enough flexibility to pick up new tools or processes as the need arises, you’ll fit right in. Experience in marketing, engineering, admin, or any other discipline is welcome; what matters most is your eagerness to contribute consistently and grow with the project.\n\nWhen you reply, please include a short intro covering:\n• Your background (highlight any assistant or coordination work)  \n• Typical hours and preferred time zone  \n• Tools you are already comfortable with (e.g. Google Workspace, Trello, Slack, Excel)  \n• One example of how you’ve kept a project moving smoothly over time  \n\nI’ll review every message personally and get back to promising candidates to discuss responsibilities, milestones, and a fair share of the monthly budget. Looking forward to meeting the right collaborator.",
+  "query": "data extraction",
+  "found_at": "2026-08-06 00:13"
+ },
+ {
+  "id": 40628859,
+  "title": "YouTube Growth Strategy & Analytics",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "NZD",
+  "usd_rate": 0.588605,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/analytics/YouTube-Growth-Strategy-Analytics",
+  "desc": "I manage a Fitness weekly YouTube channel that must accelerate its reach across New Zealand, Australia and the United States. What I need now is a specialist who can live inside YouTube Analytics, extract the right content-performance insights (CTR, watch-time, retention curves, traffic sources, etc.) and translate them into a clear-headed growth plan.\n\nThe assignment centres on analytics and strategy rather than editing or community moderation. I already have videos in production; your job is to tell me which formats, topics and publishing rhythms actually move the needle and how to amplify that momentum.\n\nKey deliverables:\n• Full channel audit with benchmarks against direct competitors  \n• Actionable monthly strategy deck outlining experiments, optimisation steps and projected KPIs  \n• Easy-to-read dashboard or Google Data Studio report updated weekly  \n\nAcceptance criteria: recommendations must be backed by data pulled from YouTube Studio; each strategy slide should reference at least one metric shift you expect (e.g., +10 % average view duration).\n\nIf you’ve grown channels in NZ/AUS/US markets before and can show the numbers, let’s set up a quick call so I can grant analytics access and kick off the first audit.",
+  "query": "data extraction",
+  "found_at": "2026-08-06 00:13"
  }
 ]
