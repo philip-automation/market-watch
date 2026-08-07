@@ -4249,5 +4249,44 @@
   "desc": "I already have the copy for thirty short promos that showcase each of my products, and now I need those scripts turned into polished, AI-generated videos that feel professional across Instagram, Facebook, LinkedIn, and YouTube.  You’re welcome to propose the most effective production approach—whether that’s an animated treatment, a live-action lookalike style, or a bold text-driven reel—so long as the final result remains on-brand, visually engaging, and consistent in a professional tone.  Each clip should be platform-ready: vertical (9:16) versions for Reels and LinkedIn feeds, plus a widescreen (16:9) cut for YouTube. If an AI voice-over or dynamic captioning will elevate engagement, please build that in; I’m happy to supply brand colours, logos, and any reference footage you might need. Feel free to work with tools you know best—Runway, Synthesia, Pictory, Premiere Pro, CapCut, or similar—as long as the output is sharp, compressed for quick loading, and free of watermarks. Deliverables  • 30 finished MP4 files (vertical + widescreen)  • Integrated graphics, logo, and on-brand colour palette  • Burned-in or separate SRT captions  • Source project files for future edits  I’ll sign off on each video once the visuals align with the script, the pacing fits typical social scroll behaviour, and playback quality is flawless on mobile and desktop. Let me know your timeframe and any milestones you suggest so we can get these promos live quickly.",
   "query": "ai chatbot",
   "found_at": "2026-08-07 22:02"
+ },
+ {
+  "id": 40633279,
+  "title": "HDMI CEC & IR Controller Board Design",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/embedded-systems/HDMI-CEC-Controller-Board-Design",
+  "desc": "Project Brief: ESP32-P4 + ESP32-C6 HDMI  CEC & IR Controller Board\n\n1. Project Overview\nSeeking an experienced PCB designer to create a custom, compact controller board designed to manage media devices via HDMI CEC and external Infrared (IR). The architecture relies on a dual-MCU setup: an ESP32-P4 acting as the primary application processor (handling HDMI protocols and IO) and an ESP32-C6 serving as the wireless (Wi-Fi/BLE) network co-processor.\n\n2. Core Processing & Architecture\n * Main Application Processor: ESP32-P4.\n * Network Co-processor: ESP32-C6.\n * Interconnect: Implement a high-speed communication bus (e.g., SDIO or SPI) between the P4 and C6 for network bridging.\n * Debugging (Optional but recommended): Expose standard JTAG test points or a micro-header for both MCUs to facilitate low-level dual-chip firmware debugging.\n\n3. HDMI Interface (CEC 2.0 & E-DDC Compliant)\n * Connector: 1x HDMI Female connector.\n * CEC Physical Layer (Pin 13):\n   * Route to an ESP32-P4 GPIO capable of utilizing the RMT (Remote Control) peripheral.\n   * Include a 27kΩ (±5%) pull-up resistor to the 3.3V rail.\n   * Include a blocking diode (e.g., Schottky BAT54) in series with the CEC line, oriented per the HDMI specification to prevent the unpowered board from pulling down the host system's CEC bus.\n * E-DDC & I2C Logic Level Shifting (Crucial):\n   * HDMI DDC lines (SDA on Pin 16, SCL on Pin 15) operate at 5V. Include a bidirectional I2C logic level converter (e.g., PCA9306 or BSS138 MOSFE",
+  "query": "data extraction",
+  "found_at": "2026-08-07 22:52"
+ },
+ {
+  "id": 40633265,
+  "title": "Vintage Wooden Furniture for Etsy",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/product-research/Vintage-Wooden-Furniture-for-Etsy",
+  "desc": "# Etsy US Vintage Wooden Furniture — Product Research + 350 Listings\n\nI am looking for a highly experienced Etsy product researcher and listing specialist for a **large, long-term project of approximately 350 physical furniture products** targeting the **US Etsy market**.\n\nThis is NOT a simple listing-copying job.\n\nI need someone who can research the market, identify products with real current demand, create original product visuals, and prepare complete Etsy-ready listings.\n\n## IMPORTANT — ONLY THESE 3 PRODUCT CATEGORIES\n\nThe entire project MUST focus on these three categories:\n\n### 1. Large Custom Wooden Furniture & Wall Pieces\n\nExamples:\n\n* Large statement wooden furniture\n* Custom wood furniture\n* Solid-wood statement pieces\n* Large decorative wooden wall pieces\n* Carved or sculptural wooden pieces\n\n### 2. Luxury / Handmade Wooden Furniture\n\nExamples:\n\n* Solid-wood dining tables\n* Wooden console tables\n* Wooden coffee tables\n* Wooden chairs\n* Wooden benches\n* Custom wooden furniture\n* Premium handmade wood furniture\n\n### 3. Wooden / Sculptural Sofas & Statement Seating\n\nExamples:\n\n* Wooden-frame sofas\n* Sculptural wooden sofas\n* Vintage-style sofas\n* Retro-inspired sofas\n* Wooden lounge chairs\n* Statement seating\n* Premium wooden daybeds\n\n## VERY IMPORTANT — WOOD + VINTAGE ARE REQUIRED\n\nThe products MUST have a strong combination of:\n\n**WOOD + VINTAGE / RETRO / TIMELESS DESIGN**\n\nI am NOT looking for generic modern furniture.\n\nThe collection should focus on products with ",
+  "query": "ai chatbot",
+  "found_at": "2026-08-07 22:52"
+ },
+ {
+  "id": 40633283,
+  "title": "Design a Professional CSR Funding Profile / NGO Impact Report (70 Pages) with 300 Photos",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/indesign/Design-Professional-CSR-Funding-Profile",
+  "desc": "Project Description\n\nWe are looking for an experienced graphic designer who has previously designed NGO Profiles, CSR Proposals, Annual Reports, Impact Reports, or Corporate Presentations.\n\nOur Trust has already prepared the complete content. We need a high-quality, corporate-style CSR profile that can be presented to CSR heads of reputed companies.\n\nThe final design should be clean, premium, visually engaging, and suitable for both digital sharing and high-quality printing.\n\n⸻\n\nProject Details\n\n* Existing content: Approximately 70 pages\n* Total sections: 19\n* Available photographs: Around 300\n* Purpose: CSR Funding, Donor Presentation & Corporate Partnerships\n* Content language: English\n* All text and photographs will be provided.\n\n⸻\n\nScope of Work\n\n* Design a premium CSR/NGO profile.\n* Select and organize photographs professionally.\n* Create an attractive cover and back cover.\n* Design icons, infographics, timelines, and visual elements wherever required.\n* Maintain a consistent corporate theme throughout the document.\n* Ensure excellent typography, spacing, and page hierarchy.\n* Prepare both print-ready and digital versions.\n* Minor revisions based on feedback.\n\n⸻\n\nDeliverables\n\n* Print-ready PDF\n* Low-size PDF (Email version)\n* Editable source files (Adobe InDesign / Illustrator / Figma / Canva, whichever is used)\n* All linked assets and fonts\n\n⸻\n\nPreferred Skills\n\n* NGO Profile Design\n* CSR Proposal Design\n* Annual Report Design\n* Adobe InDesign\n* Adobe Illustrator\n* Fig",
+  "query": "pdf extraction",
+  "found_at": "2026-08-07 22:52"
  }
 ]
