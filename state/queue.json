@@ -3248,5 +3248,83 @@
   "desc": "I need detailed structural drawings for a new commercial building and I need them fast. The architectural layout is finalised, so your focus will be on translating the engineer’s calculations into clear, build-ready plans, elevations, sections and connection details that meet current code requirements.\n\nYou’ll be working on reinforced-concrete and steel framing, so please be comfortable drafting beams, columns, shear walls, footing schedules and any required shop-drawing information. Native AutoCAD files (DWG) plus plotted PDFs are essential; if you also work in Revit or similar BIM tools, that’s a bonus as long as DWG exports remain clean.\n\nBecause timing is critical, I’d like steady progress updates and incremental uploads so any coordination issues can be flagged early. Final deliverables will be checked for:\n\n• Complete structural layout matching the issued architectural grid  \n• Correct member sizes, annotations and dimensions  \n• Layering, line-weights and title blocks ready for direct issue to the contractor  \n• PDF set that plots identically to the DWG files  \n\nIf you have immediate availability and solid experience drafting structural elements for commercial projects, let’s get started today—speed and accuracy are the priorities.",
   "query": "pdf extraction",
   "found_at": "2026-08-07 08:01"
+ },
+ {
+  "id": 40632008,
+  "title": "Customized Android-based Clinic Management App",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010499,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/android-app-development/Customized-Android-based-Clinic",
+  "desc": "I Project Title:\nNeed a Custom Android Clinic Management App (APK Only – Internal Use)\nProject Description:\nI am looking for an experienced Android app developer to build a custom clinic management application for my aesthetic clinic.\nImportant:\nThis app is only for internal use by me and my clinic staff.\nIt is not for the general public.\nNo Play Store publishing is required.\nI only need a working APK that can be installed on Android phones and tablets.\nRequired Features\n1. Patient Management\nAdd/Edit/Delete patient\nSearch patients by name or phone number\nUnique patient ID\nPatient demographics (Name, Age, Gender, Phone, Address)\n2. Medical Records\nConsultation notes\nDiagnosis\nTreatment history\nPrescriptions\nFollow-up notes\n3. Appointment Management\nCreate appointments\nCalendar view\nUpcoming appointment list\nAppointment status (Scheduled/Completed/Cancelled)\n4. Before & After Photos\nCapture photos from camera\nUpload from gallery\nStore multiple photos per patient\nBefore/After comparison\nOrganize photos by treatment and date\n5. Treatment Records\nProcedures performed\nProducts used\nSession number\nNext session date\nCharges\nPayment status\n6. Patient History\nComplete visit history\nPrevious treatments\nPrevious photographs\nNotes from every visit\n7. Dashboard\nToday's appointments\nRecent patients\nQuick search\nBasic clinic statistics\n8. Staff Access\nMultiple staff login\nAdmin account\nStaff permissions (basic)\nTechnical Requirements\nAndroid only\nAPK file required\nWorks offline (preferred)\n",
+  "query": "data extraction",
+  "found_at": "2026-08-07 09:12"
+ },
+ {
+  "id": 40631989,
+  "title": ".NET RESTful API Development",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010499,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/dot-net-core/NET-RESTful-API-Development",
+  "desc": "I need a seasoned .NET backend developer to build a suite of RESTful APIs that will power our next release. The core of the job is pure API development—no UI work—so you should feel completely at home writing clean, well-structured C# code in .NET (preferably .NET 6 or later), wiring it up with Entity Framework or Dapper for data access, and documenting everything with Swagger / OpenAPI.\n\nHere’s what the APIs must handle:  \n• User authentication (token-based, ideally JWT)  \n• Full CRUD operations for our primary data models  \n• Smooth third-party integrations, starting with two vendors that expose JSON endpoints  \n\nI’ll provide the database schema, access credentials, and a concise list of integration endpoints on kickoff. You’ll return:  \n1. Source code in a Git repo with clear commit history  \n2. An up-to-date Swagger spec that reflects every endpoint and model  \n3. A short README explaining local setup, environment variables, and build/run commands  \n4. Postman or RestClient collection for quick testing  \n\nAcceptance criteria: every endpoint returns the agreed payload shape, passes the test suite, and meets a basic performance benchmark (≤200 ms average response on local environment with sample data).\n\nIf this fits your wheelhouse, let’s get started—I’m ready to review your approach and timeline.",
+  "query": "data extraction",
+  "found_at": "2026-08-07 09:12"
+ },
+ {
+  "id": 40631974,
+  "title": "Final Mile: Meta App Review Expertise Needed",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/api-integration/Final-Mile-Meta-App-Review",
+  "desc": "Meta App Review — Final Push to Approval (Tech Provider, Messenger + WhatsApp)\nI'm looking for someone experienced with Meta's App Review process to help finish and successfully submit my app's review for Advanced Access — Facebook Messenger and WhatsApp Business Platform (Cloud API, direct with Meta — not through a BSP).\nImportant context — this is not a \"start from scratch\" job. Most of the hard work is already done:\n- Business Verification: approved\n- Messenger and WhatsApp integrations: fully built and working in real, live testing — real Pages and WhatsApp numbers connected, real messages sending and receiving, real AI-generated replies\n- Privacy Policy, Terms of Service, and Data Deletion Instructions pages: live and published\n- Final permission list already determined (pages_show_list, pages_manage_metadata, pages_messaging, business_management, pages_read_engagement, whatsapp_business_management, whatsapp_business_messaging, public_profile), with written use-case justifications already drafted for each, correctly distinguishing standalone features from dependency permissions\n- A demonstration video already recorded showing the real, working tenant connection and messaging flow\n- Test credentials and reviewer instructions already drafted\nWhat I actually need help with:\n- A final, critical review of everything listed above — catching anything a fresh, experienced set of eyes would flag before submission, not redoing it from zero\n- Confirming the demonstration video and ",
+  "query": "data extraction",
+  "found_at": "2026-08-07 09:12"
+ },
+ {
+  "id": 40631960,
+  "title": "Field Sales for EMR SaaS",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010499,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/sales/Field-Sales-for-EMR-SaaS",
+  "desc": "Our healthcare-tech company is rolling out a cloud-based OPD and EMR platform across tier-1 and tier-2 cities in India, and the next four weeks are critical. I need an experienced, on-the-ground sales professional—someone already comfortable speaking with doctors, practice managers, and clinic owners—to drive adoption through in-person visits.\n\nScope of work  \n• Map and prioritise key clinics, polyclinics, and small hospitals in Mumbai, Pune, Delhi-NCR, Chandigarh–Tri-city, Lucknow, Jaipur, and other major northern hubs.  \n• Schedule face-to-face demos, showcase the product’s appointment, billing, and electronic medical records modules, and handle objections on the spot.  \n• Close agreements and collect onboarding documents; all data must be updated daily in our internal CRM (Zoho or any comparable tool you already use).  \n• Provide concise weekly reports outlining number of visits, demos, conversions, and pipeline status so I can track performance against our monthly target.\n\nAcceptance criteria  \n1. Minimum 50 qualified clinic visits completed within 30 days.  \n2. At least 20 product demos delivered.  \n3. Ten signed subscription agreements (or demonstrable proof of serious intent) recorded in the CRM and verified by me.\n\nA mid-level specialist with 2-5 years of medical or SaaS field selling experience will fit perfectly; an existing network among private practitioners is a strong advantage and should be highlighted in your proposal.\n\nThe timeline is tight, so speed, reliabi",
+  "query": "data extraction",
+  "found_at": "2026-08-07 09:12"
+ },
+ {
+  "id": 40631899,
+  "title": "Nature Themed Hand Tattoo - 07/08/2026 04:09 EDT",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010499,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/digital-art/Nature-Themed-Hand-Tattoo-EDT",
+  "desc": "I’d like a custom tattoo design that captures a strong Nature theme for placement somewhere on my hand. I’m picturing organic lines, leaves, or subtle wildlife elements that wrap naturally with the hand’s contours, but I’m still flexible on the exact spot (fingers, back of the hand, or wrist), so feel free to suggest what best fits your concept.\n\nPlease create the artwork digitally—vector or high-resolution raster is fine—as I’ll be sharing it with my tattoo artist. Include both the finished mock-up on a hand template and the clean line art / shading layers separately so the artist can scale and stencil without losing detail. If you work in Procreate, Illustrator, or another common tool, just export to an editable format like PSD, AI, or layered PNG.\n\nDeliverables:\n• Final coloured (or shaded) design on a hand mock-up  \n• Separate line art layer  \n• Source file in AI, PSD, or layered PNG  \n• One round of minor revisions after first draft  \n\nI’m excited to see how you interpret the Nature concept and make it flow with the hand’s anatomy.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-07 09:12"
+ },
+ {
+  "id": 40631902,
+  "title": "Filipino Voice Tester and Translator Needed",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/filipino-translator/Filipino-Voice-Tester-Translator-Needed",
+  "desc": "Filipino/Tagalog Voice Tester & Translator (Freelance)\nPosition: Native Filipino Voice Tester & Localization Translator\nType: Ongoing Freelance / Remote\nProject: AI Voice Product\nAbout the Role\nWe are seeking native Filipino (Tagalog) speakers to join our AI voice project. You will support phone testing, localization translation, and messaging connectivity checks to ensure our product delivers a natural, high-quality experience for Filipino users.\nResponsibilities\nPhone Testing: Participate in AI/human outbound call testing, evaluate voice quality, naturalness, and accuracy\nLocalization Translation: Translate product content between Filipino (Tagalog) and English/Chinese, ensuring cultural appropriateness and linguistic accuracy\nMessaging Testing: Conduct voice and SMS connectivity checks on messaging platforms\nRequirements\nNative speaker of Filipino (Tagalog), fluent in English\nStrong attention to detail and ability to follow testing guidelines\nReliable internet connection and a smartphone\nAvailable for ongoing freelance assignments (flexible hours)\nPrior experience in QA testing, translation, or voice projects is a plus",
+  "query": "ai chatbot",
+  "found_at": "2026-08-07 09:12"
  }
 ]
