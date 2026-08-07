@@ -4288,5 +4288,44 @@
   "desc": "Project Description\n\nWe are looking for an experienced graphic designer who has previously designed NGO Profiles, CSR Proposals, Annual Reports, Impact Reports, or Corporate Presentations.\n\nOur Trust has already prepared the complete content. We need a high-quality, corporate-style CSR profile that can be presented to CSR heads of reputed companies.\n\nThe final design should be clean, premium, visually engaging, and suitable for both digital sharing and high-quality printing.\n\n⸻\n\nProject Details\n\n* Existing content: Approximately 70 pages\n* Total sections: 19\n* Available photographs: Around 300\n* Purpose: CSR Funding, Donor Presentation & Corporate Partnerships\n* Content language: English\n* All text and photographs will be provided.\n\n⸻\n\nScope of Work\n\n* Design a premium CSR/NGO profile.\n* Select and organize photographs professionally.\n* Create an attractive cover and back cover.\n* Design icons, infographics, timelines, and visual elements wherever required.\n* Maintain a consistent corporate theme throughout the document.\n* Ensure excellent typography, spacing, and page hierarchy.\n* Prepare both print-ready and digital versions.\n* Minor revisions based on feedback.\n\n⸻\n\nDeliverables\n\n* Print-ready PDF\n* Low-size PDF (Email version)\n* Editable source files (Adobe InDesign / Illustrator / Figma / Canva, whichever is used)\n* All linked assets and fonts\n\n⸻\n\nPreferred Skills\n\n* NGO Profile Design\n* CSR Proposal Design\n* Annual Report Design\n* Adobe InDesign\n* Adobe Illustrator\n* Fig",
   "query": "pdf extraction",
   "found_at": "2026-08-07 22:52"
+ },
+ {
+  "id": 40633329,
+  "title": "ESP32 & PAA5100JE Prototype",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/firmware-development/ESP-PAA-Prototype",
+  "desc": "I’m putting together a new product prototype that pairs a PAA5100JE optical-flow breakout board with an ESP32. The goal is to have the ESP32 handle Wi-Fi connectivity, pull motion data from the PAA5100JE, and give me software control of several GPIOs so I can drive LEDs and switch power to an additional sensor on command.\n\nHere’s what I need from you:\n• An advised pin map and any level-shifting guidance for a clean, noise-free hardware hookup.  \n• Well-structured firmware (PlatformIO or Arduino-IDE friendly) that:  \n  – Initializes the PAA5100JE and streams its measurements at a steady rate.  \n  – Publishes those readings over Wi-Fi—MQTT, HTTP, or WebSocket is fine, as long as it’s fast to implement and stable.  \n  – Exposes simple commands or a REST endpoint to toggle GPIOs for the LEDs and sensor power rail.  \n• Clear documentation so I can reproduce the build, flash the board, and extend the code later.\n\nIf you’ve already integrated the PAA5100JE with an ESP32 before, please include a brief note or link to your previous work when you respond.",
+  "query": "data extraction",
+  "found_at": "2026-08-07 23:43"
+ },
+ {
+  "id": 40633294,
+  "title": "JOB TITLE: Textile Pattern Library Audit & Quality Curation — Ka Imi Ola (Apparel)",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 13,
+  "url": "https://www.freelancer.com/projects/textile-design/JOB-TITLE-Textile-Pattern-Library",
+  "desc": "Textile Pattern Library Audit & Quality Curation — Ka Imi Ola (Apparel)\n\nABOUT THE BRAND\n\nKa Imi Ola is a modern Hawaiian aloha shirt brand. Our design direction is focused on bold, graphic textile patterns featuring authentic native Hawaiian plants, rich earth-driven color palettes, and hand-cut silk-screen/linocut aesthetics (in the tradition of Hawaiian printmaking).\n\nTHE PROBLEM & TASK\n\nWe have a master library of ~2,400 image files across 17 folders. This library contains a mix of raw textile patterns, artwork references, design variations, and product photos. Many are duplicates. Some are exceptional pattern references. Most are unusable for production.\n\nWe tried using automated AI scripts and computer vision to sort this library. They failed to capture the nuances of fabric repeat mechanics and brand aesthetic. **We need human design judgment.**\n\nWe are hiring an experienced Surface Pattern / Textile Designer to systematically audit every image in our library, purge the noise, and organize our core assets into a clean, structured database.\n\n**NO AI TOOLS. NO AUTOMATED SCRIPTS.** We will inspect the metadata and reasoning of your audit. This job requires manual visual evaluation by a trained designer.\n\n\n WHAT YOU'LL DO\n\nReview every image in our library (~2,400 images across 17 subfolders) and deliver:\n\n1. **Flag & Isolate Duplicates:** Identify identical or near-identical image files. Note which version has the highest resolution/quality to keep as the master.\n\n2. **Fo",
+  "query": "ai chatbot",
+  "found_at": "2026-08-07 23:43"
+ },
+ {
+  "id": 40633286,
+  "title": "Solar Product Video Ads",
+  "budget_min": 20.0,
+  "budget_max": 250.0,
+  "currency": "GBP",
+  "usd_rate": 1.3492,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/video-ads/Solar-Product-Video-Ads",
+  "desc": "I'm seeking a skilled actor to front video commercials for our solar products. These videos will be used as ads on Facebook and Instagram.\n\nKey Requirements:\n- 5 sites and follow short script for each installation\n- Content should be focused on solar products.\n- Optimize videos for Facebook and Instagram platforms.",
+  "query": "python script",
+  "found_at": "2026-08-07 23:43"
  }
 ]
