@@ -4171,5 +4171,44 @@
   "desc": "I have a continuous flow of documents that must be translated with absolute accuracy to and from Turkish. The work is strictly document-based; no website or app strings are involved.  \n\nThe files vary in nature, so you will regularly handle:  \n• Legal documents  \n• Marketing materials  \n• Technical manuals  \n\nBecause each category has its own tone and terminology, I am counting on you to preserve intent, comply with any formal requirements (particularly for legal texts), and keep all formatting intact. Source files may arrive in Word, PDF, or occasionally Excel; please return the translated version in the same layout unless we agree on a different format in advance.  \n\nQuality, consistency, and timely delivery are the three pillars of this project. If you have native-level Turkish, proven experience across the above document types, and an eye for detail, I would like to hear how quickly you can start and what translation tools, if any, you prefer to use.",
   "query": "excel automation",
   "found_at": "2026-08-07 19:37"
+ },
+ {
+  "id": 40633189,
+  "title": "Network Gateway Software for Raspberry Pi",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/linux/Network-Gateway-Software-for-Raspberry",
+  "desc": "Project Objective\n\nThe objective is to develop a purpose-built network gateway / bridge software running on Raspberry Pi OS (Linux). Using the Waveshare Dual CAN HAT hardware, the gateway will be inserted between the vehicle’s internal CAN network and a diagnostic reader.\n\nThe software must perform real-time filtering and mathematical manipulation of specific telemetry data received from the vehicle, and then transparently forward the modified data to the diagnostic port.\n\n1. Task: OS-Level Configuration and Interface Initialization\n\nRequirements\n\nConfigure the Linux kernel / /boot/config.txt (or the appropriate configuration file for the current firmware version) to enable the SPI interface and load the required MCP2515 overlays, including the correct 16 MHz oscillator configuration.\n\nExpected Result\n\nAfter system boot:\n\n* can0 and can1 network interfaces must automatically come up in the UP state.\n* Both interfaces must use a fixed bitrate of 500,000 baud.\n* The interfaces must initialize reliably without errors.\n\n⸻\n\n2. Task: Real-Time Transparent Bridge\n\nRequirements\n\nDevelop an asynchronous or multithreaded I/O loop that:\n\n* Receives all CAN frames arriving on can0.\n* Immediately forwards them to can1.\n* Preserves all frames unchanged unless they are specifically targeted by the manipulation logic described below.\n* Minimizes communication latency, with a target of less than 2 ms.\n* Prevents buffer overflow and handles sustained CAN traffic reliably.\n\nThe implementation s",
+  "query": "data extraction",
+  "found_at": "2026-08-07 21:18"
+ },
+ {
+  "id": 40633156,
+  "title": "Unified Game Aggregator API Integration -- 2",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/api-developmet/Unified-Game-Aggregator-API-Integration",
+  "desc": "Need a single game aggregator API for an existing PHP/MySQL platform. Need hosted games, game-launch API, seamless-wallet integration, bet/win/refund callbacks, sandbox access and a large catalog including crash, mines, plinko, instant games and slots. Please quote setup fee, minimum monthly commitment and GGR revenue share.",
+  "query": "gpt integration",
+  "found_at": "2026-08-07 21:18"
+ },
+ {
+  "id": 40633186,
+  "title": "I wanted to run a ad campaign for my Random Video Calling app and website for lgbtq community and straight people.",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/advertising/wanted-run-campaign-for-Random",
+  "desc": "I wanted to run a ad campaign for my Random Video Calling app and website for lgbtq community and straight people on adult network like xhamster and also good with facebook or google ads",
+  "query": "google sheets automation",
+  "found_at": "2026-08-07 21:18"
  }
 ]
