@@ -297,5 +297,57 @@
   "desc": "I will hand you complete lesson scripts and need you to transform them into lively 2D animations with supporting motion graphics that keep students aged roughly 7-15 glued to the screen while they learn. The payment will be on a per-video basis, ranging from ₹10000 - ₹15000 INR for each video.  \n\nThe core of the job is visual storytelling: matching each teaching point with clear, memorable imagery, punchy text call-outs, and smooth transitions so the material feels playful rather than lectured. I’m flexible on art direction—cartoonish, semi-realistic, or something stylised—so long as the final look feels age-appropriate and easy to digest. The same goes for characters: animals, humans, or imaginative hybrids can all work if they serve the lesson.\n\nYou’ll receive:\n• Script and lesson objectives\n• Notes on tone, pacing, and any key terminology that must appear on-screen  \n\nYou’ll return:\n• A full-resolution video file ready for publication (voice, SFX, and royalty-free music mixed in)  \n• Source project files (After Effects, Toon Boom, Adobe Animate, or your chosen software) for future edits  \n• One round of revisions based on my feedback to polish timing, colour, or graphics\n\nAnimations must be original, royalty-free, and suitable for classroom or online use worldwide. If you love crafting colourful worlds that make learning fun, let’s chat and get the first lesson moving.",
   "query": "python script",
   "found_at": "2026-08-08 08:57"
+ },
+ {
+  "id": 40634022,
+  "title": "Precision Vacuum Component Selection",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/robotics/Precision-Vacuum-Component-Selection",
+  "desc": "I’m assembling a robot vacuum that must deliver high-precision cleaning on mixed surfaces, and I need an expert to specify every hardware component that makes this possible. I have already decided on a sensor-based navigation approach along with LiDAR and camera mapping, so the component set you propose needs to maximise accuracy through well-chosen proximity, cliff- and dust-sensing technologies.\n\nHere is what I expect from you:  \n• A complete bill of materials covering drive motors, suction module, filtration, battery pack, sensor suite, control board, wheels, brushes and any required gear reductions or mounts.  \n• Key specs for each part (dimensions, voltage/current, torque, airflow, sensor resolution, etc.) alongside brief justifications that show how each item supports both high-precision cleaning and reliable travel across hard floors and carpets.  \n• Suggested vendors, part numbers and indicative pricing so I can source everything quickly.  \n• Integration notes that flag any compatibility issues and outline how the sensor data should be fused for robust navigation.\n\nI will review the list for availability and cost, then sign off. A concise PDF or spreadsheet is fine as long as it is clear and complete.",
+  "query": "data extraction",
+  "found_at": "2026-08-08 09:49"
+ },
+ {
+  "id": 40634085,
+  "title": "Google Game ads ",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/google-ads/Google-Game-ads",
+  "desc": "google  playstore expert for matka app",
+  "query": "google sheets automation",
+  "found_at": "2026-08-08 09:49"
+ },
+ {
+  "id": 40634015,
+  "title": "English-Tamil Manuscript to PDF",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 17,
+  "url": "https://www.freelancer.com/projects/indesign/English-Tamil-Manuscript-PDF",
+  "desc": "I need a printed, bilingual (English–Tamil) manuscript turned into a clean, error-free digital version and delivered as a press-ready PDF. Every line of text must be re-typed—not OCR—so that both languages render perfectly in Unicode.  \n\nThe book also contains several images; I will supply high-resolution scans and I expect them to be inserted exactly where they appear in the original, keeping proportions and captions intact. Page breaks, headings, and any small design touches visible in the print copy should be mirrored so the final PDF looks just like the source—but sharper.\n\nAccuracy in Tamil typing is critical, so please be comfortable with standard Tamil fonts such as Latha, Vijaya, or equivalent. Before finalising, I’ll review a draft PDF for spelling, alignment, and image placement; once approved, you’ll generate the final PDF ready for offset or digital print.\n\nIf you have questions about font embedding, image resolution, or anything else, just let me know early so we can keep the workflow smooth.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-08 09:49"
+ },
+ {
+  "id": 40634048,
+  "title": "Advanced Accounting & Auditing Trainer Needed",
+  "budget_min": 20.0,
+  "budget_max": 80.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/accounting/Advanced-Accounting-Auditing-Trainer",
+  "desc": "I’m arranging a three-day, in-person course titled “Advanced Accounting and Auditing” for a group of mid-senior corporate Accountants and Auditors at the Holiday Inn Berliner in Hamburg. The timetable is set: 25 Aug 2026 and 26 Aug 2026 from 09:00–15:00, then a wrap-up session on 28 Aug 2026 from 09:00–12:00. \n\nThe trainer must be available to conduct the sessions in person at Holiday Inn Berliner, Hamburg. Also, the topics are amenable to suit instructors’ area of knowledge and competence in cognisance of the fact that the start date is close by.\n\nYour brief is to lead the room and deliver practical, up-to-date insight across the following core areas:  \n• Financial Reporting Standards (latest IFRS / GAAP developments)  \n• Tax Planning and Strategy for multinational operations  \n• Corporate Governance frameworks and best practice  \n• Fraud Detection and Forensic Accounting techniques  \n• Internal Control Systems design and evaluation  \n• Risk Assessment Techniques for audits  \n• Audit Reporting that meets regulatory expectations  \n\nI’m looking for an experienced practitioner who can balance theory with hands-on case work, encourage discussion, and leave attendees with immediately usable tools. Please come ready with slide decks, real-world examples, and brief exercises that fit comfortably into the daily schedule.  \n\nDeliverables I’ll need before we start:  \n1. Session outline with timing for each topic  \n2. Presentation slides (PowerPoint or Keynote)  \n3. Participant workboo",
+  "query": "pdf extraction",
+  "found_at": "2026-08-08 09:49"
  }
 ]
