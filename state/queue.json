@@ -505,5 +505,44 @@
   "desc": "I have an original set of clinic plans and a newer version, both in PDF. I need the two reconciled and redrawn in AutoCAD so they read as one clean, up-to-date file. The primary task is to adjust the overall layout and structure—this affects the entire clinic, from reception through patient rooms to offices—reflecting the changes shown on the newer PDF.\n\nI will supply:\n• The old and new PDFs  \n• A furniture schedule covering every piece that must appear on the plan\n\nWhat I expect back:\n• A fully editable DWG that combines the two drawings, shows the revised layout, and locates each furniture item accurately  \n• A final presentation-ready PDF exported from the DWG\n\nPlease keep layer naming tidy and use standard architectural line weights so the file is immediately printable and easy to hand over to contractors.",
   "query": "pdf extraction",
   "found_at": "2026-08-08 11:15"
+ },
+ {
+  "id": 40634268,
+  "title": "Arabic-English Marketing Translation",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/english-translation/Arabic-English-Marketing-Translation-40634268",
+  "desc": "I have a series of Arabic marketing pieces that must read as if they were written originally in English. The audience is the general public, and the primary objective is brand awareness, so every line has to feel natural, persuasive, and culturally spot-on rather than like a literal, word-for-word rendering.\n\nWhat I will send you: polished Arabic copy for ads, short web pages, and social posts.  \nWhat I expect back: fluid English versions that keep the original brand voice intact, use clear consumer-friendly language, and are ready to publish with no extra editing on my side. Accuracy is vital, but creative flair matters just as much.\n\nTo make feedback easy, please return the work in an editable format (preferably Word or Google Docs) with any context notes you feel are helpful. I’m happy to review a brief sample of your previous marketing translations or, if you prefer, translate a short paragraph of my text as a test.\n\nTurnaround and responsiveness are important because these assets will be going live on a rolling schedule. If this first batch goes smoothly there is plenty more waiting.",
+  "query": "web scraping",
+  "found_at": "2026-08-08 11:49"
+ },
+ {
+  "id": 40634210,
+  "title": "Aplikasi Jejaring Sosial Mobile - 08/08/2026 07:01 EDT",
+  "budget_min": 250000.0,
+  "budget_max": 500000.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/backend-development/Aplikasi-Jejaring-Sosial-Mobile-EDT",
+  "desc": "Saya mencari partner pengembang aplikasi yang dapat membangun sebuah aplikasi jejaring sosial untuk Android dan iOS sekaligus.  \n\nGambaran singkat kebutuhan:  \n• Pengguna dapat mendaftar, membuat profil, dan memperbarui foto serta biodata.  \n• Fitur timeline/feed agar pengguna bisa membuat unggahan teks, gambar, atau video pendek.  \n• Sistem pertemanan atau follow-unfollow untuk membangun jaringan.  \n• Pesan pribadi (in-app chat) dengan notifikasi push.  \n• Pencarian pengguna dan konten.  \n• Dasbor admin dasar untuk moderasi laporan, blokir akun, dan manajemen konten.  \n\nTeknologi & gaya kerja:  \nSaya terbuka memakai framework cross-platform populer seperti React Native atau Flutter agar satu basis kode dapat dipaketkan ke kedua platform. Keamanan data pengguna, performa, dan antarmuka yang intuitif menjadi prioritas. Desain UI/UX sederhana namun modern sudah cukup di tahap awal; saya utamakan fungsionalitas stabil terlebih dahulu.  \n\nHarapan deliverable:  \n1. Source code lengkap dan terdokumentasi.  \n2. Build siap uji di TestFlight (iOS) dan APK/Bundle (Android).  \n3. Petunjuk instalasi backend (bila memakai backend sendiri) atau setup Firebase/alternatif serupa.  \n\nBerikan contoh portofolio aplikasi serupa yang pernah Anda kerjakan, perkiraan durasi pengerjaan, serta stack yang Anda rekomendasikan. Saya siap berdiskusi lebih lanjut mengenai detail fitur, arsitektur, dan tahap perbaikan setelah versi pertama rilis.",
+  "query": "data extraction",
+  "found_at": "2026-08-08 11:49"
+ },
+ {
+  "id": 40634274,
+  "title": "Expert Flutter Developer for 3D Avatar Ecosystem",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/dart/Expert-Flutter-Developer-for-Avatar",
+  "desc": "STRICT NOTICE FOR PRO DEVELOPERS ONLY \nProject Title: Senior Pure Flutter & System Architect Needed for AI-Powered 3D Avatar Ecosystem (TITAN X)\nREAD CAREFULLY BEFORE APPLYING:\nWe are building a next-generation, high-performance platform (TITAN X) featuring Real-time 60 FPS 3D Avatars, WebRTC Calling, Encrypted Chat, AI Translation, and a Master Admin Panel.\nDO NOT APPLY IF:\nYou are a beginner, student, or part-time freelancer who gets confused by complex code.\nYou say \"Yes\" on day one and back out after 2 days saying \"Yeh mere bas ki baat nahi hai.\"\nYou rely on low-code tools like FlutterFlow. (We only need Pure Flutter / Dart experts).\nYou cannot handle custom animations, live state management, and real-time backend synchronization.\nWHAT WE WANT:\nWe only need a Master Developer / Elite Coder who has proven experience in building complex, heavy production-grade apps from scratch. You must have deep knowledge of:\nPure Flutter & Dart (Custom UI, GetX/Bloc, High Performance Optimization).\n3D Model Integration (60 FPS, Lip-sync, real-time gestures).\nReal-time Protocols (WebRTC, XMPP, Encrypted Sockets).\nSecure Backend Architecture & Firebase/NodeJS.\nSelection Process (No Time Wasters):\nDo not send automatic copy-paste proposals.\nSend your best GitHub repository link or proof of a complex app you built previously.\nWe will review your technical capability for 1-2 days. If you pass our screening, only then the contract and milestones will be locked.\nIf you are a true expert who lov",
+  "query": "ai chatbot",
+  "found_at": "2026-08-08 11:49"
  }
 ]
