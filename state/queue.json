@@ -570,5 +570,44 @@
   "desc": "I’m preparing a piece that showcases a specific tourist destination and I only need the writing itself—no design, layout, or imagery. The goal is to produce vivid, persuasive copy that makes readers feel the place, picture themselves there, and ultimately want to book a trip.\n\nYou’ll be handling descriptive copy writing focused on a place, so please lean into sensory detail, local color, and clear calls-to-action that suit travel-minded readers. Think engaging storytelling rather than a dry fact sheet; I’m looking for energy, warmth, and accurate information blended into a seamless narrative.\n\nDeliverables  \n• One polished copy-writing piece about the destination (roughly 700–900 words, but I’m flexible if you see a better length).  \n• A brief headline plus sub-head suggestions that match the tone.  \n• Final text supplied in an editable Google Doc or Word file.\n\nAcceptance criteria  \n– Copy is 100 % original, proof-read, and free of fluff.  \n– Tone is inviting and descriptive, with concrete details that highlight what sets the spot apart.  \n– Includes a natural call-to-action that fits the intended traveler audience.  \n– Delivered on or before the agreed deadline.\n\nIf you have travel-writing samples, share a link so I can gauge style alignment. Looking forward to seeing how you bring this destination to life.",
   "query": "google sheets automation",
   "found_at": "2026-08-08 20:52"
+ },
+ {
+  "id": 40635083,
+  "title": "Update 2026 T24 CF1R Report",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/hvac/Update-Report",
+  "desc": "I’m working on an ongoing residential project in the City of West Covina and need our current Title 24 California Energy Report (CF1R) brought up to the 2026 standards. The existing CF1R package is complete through the previous code cycle, and I already have all the underlying energy-efficiency measure data on hand.\n\nYour task is to revise the energy efficiency measures and the compliance documentation so the report aligns with the 2026 Title 24 requirements, including any newly adopted prescriptive or performance criteria. All utility data sections are already in order, so the focus will be on recalculating, re-narrating, and re-formatting the portions that reference measures such as envelope performance, HVAC, DHW, and lighting, then updating the corresponding compliance forms.\n\nDeliverables:  \n• Updated CF1R forms (PDF plus editable source from EnergyPro, CBECC-Res, or equivalent) ready for plan check submission  \n• A concise change log highlighting each adjustment tied to the 2026 code update\n\nPlease allow for a quick round of revisions after municipal feedback. I’m ready to share the current CF1R set and full data set as soon as we start.",
+  "query": "data extraction",
+  "found_at": "2026-08-08 21:40"
+ },
+ {
+  "id": 40635052,
+  "title": "SC Permit Drawing Replication",
+  "budget_min": 1500.0,
+  "budget_max": 3000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/architectural-engineering/Permit-Drawing-Replication",
+  "desc": "I already have a complete set of architectural plans for a new-construction commercial building, but the county will not accept them because they were prepared for another building . I need those same drawings meticulously recreated under an active South Carolina Architecture licence so I can file for permit without delays.  Also MEP stamp South Carolina. \n\nThe assignment is replication, not redesign: every sheet, dimension, note, schedule and detail must match the originals unless a change is required to satisfy South Carolina code or your professional judgement. I will supply the existing PDFs, CAD files, site survey and specifications as your starting point.  \n\nIf you also hold South Carolina MEP licences, let me know—the project will ultimately require a coordinated package and having one professional who can seal the full set would streamline the process.  \n\nDeliverables  \n• Editable CAD (or Revit) files of the replicated architectural set  \n• Stamped and signed PDF sheets formatted for South Carolina’s e-permit system  \n\nAccuracy, code compliance and quick turnaround are critical. When you reply, please confirm your SC licence numbers and share one recent, stamped permit set so I can verify formatting. Looking forward to working together to get this project approved on the first submission.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-08 21:40"
+ },
+ {
+  "id": 40635064,
+  "title": "Recuperar mensajes de WhatsApp",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/data-recovery/Recuperar-mensajes-WhatsApp",
+  "desc": "Necesito volver a acceder a mensajes de texto que se enviaron desde un número de WhatsApp hace aproximadamente un mes. No dispongo de ninguna copia de seguridad, por lo que requiero a alguien con experiencia real en recuperación forense de datos móviles que pueda:\n\n• Extraer y reconstruir todo el hilo de texto correspondiente al periodo indicado.  \n• Presentar el historial en un formato legible (por ejemplo, archivo .txt o .pdf ordenado cronológicamente).  \n• Explicar brevemente el procedimiento seguido y los requisitos técnicos para validar la autenticidad de la información recuperada.\n\nTrabajo con un dispositivo IPhone ; si necesitas datos específicos del modelo o sistema, te los proporcionaré al iniciar la colaboración. Valoraré que cuentes con herramientas como Cellebrite, Dr.Fone, iMyFone D-Back o equivalentes, y que puedas garantizar confidencialidad absoluta durante todo el proceso.\n\nIndícame tu experiencia previa en casos similares, las etapas que sueles seguir y el tiempo estimado para entregarme los resultados.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-08 21:40"
  }
 ]
