@@ -336,5 +336,70 @@
   "desc": "I am looking for a skilled creator who can turn my concepts into eye-catching, AI-generated videos for Instagram Reels and YouTube Shorts. Each clip will centre on product reviews and must feel polished, concise, and unmistakably professional from the first second to the last.\n\nI will hand over the raw idea, key talking points, and any product assets. Your job is to choose the right AI tools—whether that is Runway, Synthesia, Midjourney, or your own mix—then script, generate, edit, and deliver scroll-stopping 9:16 videos that meet current platform specs. Clean motion graphics, snappy captions, royalty-free audio, and colour-corrected footage are all expected so the final export is ready to upload without extra tweaks on my end.\n\nBecause experience matters to me, please lead your bid with examples of short-form work you have already produced in a similar product-review style. A quick note on your workflow, toolset, typical turnaround, and rate structure will help me gauge fit and plan upcoming batches.\n\nDeliverables for each video:\n• A 15-60-second vertical video (1080×1920 or 4K) in .mp4  \n• SRT or burned-in captions that match spoken content  \n• A high-resolution cover thumbnail (1280×720)  \n\nI will review submissions as they come in and reach out to creators whose past experience aligns with the professional tone and quality I’m after. I’m ready to get started as soon as I find the right partner.",
   "query": "ai chatbot",
   "found_at": "2026-08-08 17:53"
+ },
+ {
+  "id": 40634897,
+  "title": "Daily Amazon Scraping Automation",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/scrapy/Daily-Amazon-Scraping-Automation",
+  "desc": "I need a robust, fully automated process that pulls three specific data sets from Amazon every single day:\n\n• Product details (titles, bullet points, specs, ASIN, images)  \n• Customer reviews with ratings and timestamps  \n• Current pricing, including promotions and historical price if visible  \n\nThe solution should run on a schedule without manual intervention, gracefully handle captchas or page-layout changes, and drop the results into a clean, structured file or database table I can query—CSV or JSON is fine. Accuracy and consistency matter more than sheer speed; if a product page fails on one run, the script should log the error and retry.\n\nI’m comfortable working with Python, so Scrapy, Requests/BeautifulSoup, or Selenium are all acceptable. If you prefer another stack that achieves the same reliability, let me know. Please include in your bid:\n\n• A brief outline of your approach to avoiding Amazon’s anti-bot measures  \n• Sample output for one ASIN so I can confirm the field structure  \n• Estimated turnaround to get the first successful daily run in place  \n\nOnce everything is stable, I’ll test the feed against my downstream pipeline before signing off.",
+  "query": "web scraping",
+  "found_at": "2026-08-08 18:52"
+ },
+ {
+  "id": 40634838,
+  "title": "Modern Product Showcase Brochure Design",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 13,
+  "url": "https://www.freelancer.com/projects/print-design/Modern-Product-Showcase-Brochure-Design",
+  "desc": "I have an expanding catalogue of products and need a talented designer to create our very first set of printed brochures. These brochures must feel modern and clean while clearly showcasing each item’s key features, technical specs, and benefits.  \n\nYou will be working with existing logos, colour palettes, and product photos; however, I’m open to subtle refinements that strengthen overall brand consistency. Once the brochure template is perfected, the same visual language will roll out to warranty cards, user manuals, dealer price lists, technical sheets, scheme flyers, and other collateral, so I’m keen on building an ongoing collaboration.  \n\nDeliverables for this initial phase:  \n• Print-ready brochure (press-quality PDF)  \n• Editable source file (cdr, psd, etc)  \n• Web-optimised PDF for email and download  \n\nAcceptance criteria: the final layout must follow the approved colour palette and typography, flow logically from cover to back page, and reproduce accurately on both digital and offset presses. If you have experience translating brochure styles into manuals or tech sheets later on, be sure to mention it—I intend for this project to be the cornerstone of a full brand toolkit.",
+  "query": "web scraping",
+  "found_at": "2026-08-08 18:52"
+ },
+ {
+  "id": 40634911,
+  "title": "Corporate GenAI App UI Design",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/ui-design/Corporate-GenAI-App-Design",
+  "desc": "I already have the GenAI engine running smoothly—what’s missing is a clean, corporate-grade face for it. I need a designer who can craft a professional frontend that feels trustworthy and executive while still being fresh.  \n\nThe palette is set: crisp greens on white, with enough contrast to keep accessibility tight. Within that frame, the interface must highlight three focal points:  \n• User input forms that are streamlined, intuitive, and easy on the eye  \n• Data-rich visualizations that translate AI output into clear, decision-ready graphics  \n• Interactive buttons with subtle feedback that keep the experience engaging without looking playful  \n\nI’ll share the application flow and branding assets once we start; you’ll return high-fidelity screens plus the accompanying component library (Figma or equivalent) ready for hand-off to my dev team. Responsive behaviour for standard desktop and mobile breakpoints should be covered so implementation is painless on our side.  \n\nIf this sounds like your wheelhouse, let’s align and get the UI locked in and budget is around 5K",
+  "query": "data extraction",
+  "found_at": "2026-08-08 18:52"
+ },
+ {
+  "id": 40634888,
+  "title": "Penulis Deskripsi Produk Fashion",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/content-writing/Penulis-Deskripsi-Produk-Fashion-40634888",
+  "desc": "Saya sedang mencari penulis kreatif berbahasa Indonesia yang terbiasa meracik deskripsi produk untuk kategori fashion dan aksesoris. Tugas Anda adalah mengubah detail teknis—seperti bahan, ukuran, dan fitur unik—menjadi teks singkat yang menarik, informatif, dan mendorong pembelian di toko online saya.\n\nApa yang saya butuhkan:\n• Deskripsi produk orisinal dengan nada brand-friendly, tidak terkesan menyalin pabrik.\n• Fokus pada fashion & aksesoris: pakaian, tas, sepatu, perhiasan, hingga item pelengkap gaya.\n• Setiap deskripsi harus mencakup poin manfaat, bahan/komposisi, dan ajakan bertindak singkat.\n• Optimasi kata kunci dasar agar mudah ditemukan di marketplace maupun Google.\n\nProses kerja:\n1. Saya kirimkan daftar produk serta spesifikasi singkatnya.\n2. Anda menulis draf deskripsi sesuai gaya yang disepakati.\n3. Revisi ringan bila diperlukan sampai konten siap tayang.\n\nJika Anda pernah menulis untuk merek fashion, marketplace, atau e-commerce, sertakan contoh portofolio relevan. Saya menghargai penulis yang sigap, komunikatif, dan mampu menjaga konsistensi tone di seluruh katalog.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-08 18:52"
+ },
+ {
+  "id": 40634859,
+  "title": "Children’s Literacy Curriculum Creation",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/content-development/Children-Literacy-Curriculum-Creation",
+  "desc": "I’m developing “Evana10@#K,” an educational initiative for children that nurtures early Language and Literacy skills. I need a creative partner who can help me turn core reading and writing objectives into engaging, age-appropriate learning materials.  \n\nThe scope includes crafting short lessons, playful exercises, and simple assessments that spark curiosity while reinforcing phonics, vocabulary, and basic comprehension. If you’re comfortable blending storytelling, visuals, and interactive elements—whether worksheets, slide decks, or brief videos—we’ll be a great fit.  \n\nDeliverables I’d like to see:  \n• A sequenced mini-curriculum (about 6–8 lessons) with clear learning goals  \n• Printable or digital activity sheets for each lesson  \n• A concise teacher/parent guide explaining how to use the materials and track progress  \n\nPlease share a sample or short outline of how you’d approach one lesson so I can gauge your style. I’m ready to start as soon as we agree on the format and timeline.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-08 18:52"
  }
 ]
