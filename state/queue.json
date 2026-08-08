@@ -1,1 +1,93 @@
-[]
+[
+ {
+  "id": 40633751,
+  "title": "Prototype 2D LiDAR Sensor Development",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/embedded-systems/Prototype-LiDAR-Sensor-Development",
+  "desc": "I am building a proof-of-concept 2D LiDAR unit from the ground up and need a mainland-based embedded electronics engineer who can handle every step of the design and bring-up process. The goal is a compact indoor scanner that excels at obstacle detection and terrain mapping while holding tight, high-accuracy tolerances.\n\nWhat the work involves  \nYou will take the idea from blank sheet to working board: optical layout, high-speed signal processing, motor/galvo drive, power management, firmware, and a simple USB/TTL data interface that streams polar coordinates for fusion in my existing SLAM stack. Expect heavy use of Altium (or KiCad), STM32/ESP32 class MCUs, precise timing control in C/C++, and low-level debugging with J-Link or OpenOCD. I will handle mechanical housing once you define envelope and mounting points.\n\nKey expectations  \n• Accuracy and repeatability must match typical 0.1° angular resolution and ≤3 cm range error across a 6 m indoor span.  \n• Mapping frame rate: ≥10 Hz full sweep.  \n• Sensor should self-calibrate on power-up and deliver clean packets over UART.  \n• All design files remain editable; no locked libraries or black-box binaries.\n\nDeliverables  \n1. Complete schematic, PCB layout, and fabrication files.  \n2. Bill of materials with China-sourced components in mind.  \n3. Compiled and source firmware, plus flashing instructions.  \n4. Lab test report demonstrating accuracy targets met indoors.  \n5. Short video of the unit performing real-time obstacle dete",
+  "query": "data extraction",
+  "found_at": "2026-08-08 07:09"
+ },
+ {
+  "id": 40633728,
+  "title": "E-commerce & Social Media Executive",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 20,
+  "url": "https://www.freelancer.com/projects/digital-marketing/commerce-Social-Media-Executive",
+  "desc": "Key Responsibilities\nManage Instagram, Facebook and other social media platforms.\nPlan and create posts, reels, stories and promotional content.\nDesign social media creatives, banners and product visuals using Canva/Photoshop.\nManage and update products, images, descriptions, pricing and offers on the e-commerce website.\nMonitor website performance and work towards increasing traffic and online sales.\nPlan and execute digital marketing campaigns and product promotions.\nAnalyse social media and e-commerce performance and suggest improvements.\nManage product, inventory and other relevant data on factory/business software.\nCoordinate with internal teams for products, inventory, orders and marketing activities.\nStay updated with social media trends, e-commerce tools and digital marketing techniques.\nRequirements\n1–2 years of experience in Digital Marketing / Social Media / E-commerce.\nGood knowledge of Instagram and Facebook marketing.\nStrong graphic design and content creation skills.\nExperience with Canva, Photoshop or similar tools.\nBasic knowledge of e-commerce website management.\nComfortable learning and working with business/factory software.\nGood communication, creativity and attention to detail.\nAbility to manage multiple tasks independently.",
+  "query": "data extraction",
+  "found_at": "2026-08-08 07:09"
+ },
+ {
+  "id": 39268500,
+  "title": "Manual Data Entry from Digital Files -- 2",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/data-entry/Manual-Data-Entry-from-Digital-39268500",
+  "desc": "I'm looking for a freelancer to assist with manual data entry. The data is mixed (text and numerical) and is sourced from digital files. \n\nIdeal Skills:\n- Attention to detail\n- Proficient in data entry\n- Able to handle mixed data types",
+  "query": "data extraction",
+  "found_at": "2026-08-08 07:09"
+ },
+ {
+  "id": 40633823,
+  "title": "Graphic Designer & Video Editor Needed",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/adobe-illustrator/Graphic-Designer-Video-Editor-Needed",
+  "desc": "Kāli India is seeking a Graphic Designer & Video Editor to work closely with the team to shape and execute the brand’s visual language. This role covers static and motion, creating thoughtful communication across digital and print while keeping clarity, consistency, and a refined design sensibility across all expressions of the house.\n\n\nKey Responsibilities\n\nDesign and execute visual assets across digital and print platforms\nConceptualise and edit video content for social media, campaigns, and brand storytelling\nMaintain and evolve the brand’s visual identity across formats (static and motion)\nCollaborate with internal teams on campaigns, launches, and content\nTranslate ideas into cohesive, well-crafted design and video outputs\n\n\nRequirements\n\nProficiency in Adobe Illustrator, Photoshop, InDesign, Canva and video editing tools (Premiere Pro / After Effects or equivalent)\nFamiliarity with AI tools within the design and video workflow\nStrong understanding of layout, typography, motion, and luxury aesthetics\nAbility to work independently, manage timelines, and maintain strong attention to detail\n\n\nSalary: ₹15,000 – ₹20,000 per month, based on experience and portfolio.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-08 07:09"
+ },
+ {
+  "id": 40633767,
+  "title": "Power App To-Do Automation",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/power-automate/Power-App-Automation",
+  "desc": "I need a to-do app built on Power Apps, optimized for desktop use. This app will help users manage work-related tasks, with the ability to prioritize tasks by due date.\n\nKey Requirements:\n- Desktop optimization\n- Task management for work-related items\n- Prioritization of tasks by due date\n\nIdeal Skills and Experience:\n- Proficiency in Microsoft Power Apps and Power Automate\n- Experience in developing desktop applications\n- Strong understanding of task management systems\n\nLooking for a developer who can efficiently create this app and ensure a smooth user experience.",
+  "query": "python automation",
+  "found_at": "2026-08-08 07:09"
+ },
+ {
+  "id": 40633740,
+  "title": "Remote Airbnb Property Manager",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/airbnb/Remote-Airbnb-Property-Manager",
+  "desc": "I need a reliable, tech-savvy partner to take full day-to-day control of my single-family Airbnb homes. Your core focus will be threefold:  \n\n• Handle all guest communications from pre-booking questions through post-checkout reviews, keeping response times fast and tone consistently warm and professional.  \n• Coordinate cleanings and any on-the-ground maintenance by liaising with my local cleaners, handymen, and landscapers, ensuring turnovers are spotless and any issues are resolved without delay.  \n• Own the listings themselves—updating pricing and availability, refining descriptions, uploading photos, and watching performance metrics so the properties stay high in Airbnb search results.  \n\nEverything can be done remotely as long as you’re comfortable working inside the Airbnb host dashboard (or their mobile app), using common tools like Google Workspace, Slack/WhatsApp for quick updates, and a channel manager if we adopt one later.  \n\nI already have established house manuals, cleaner checklists, and vendor contacts; you’ll tighten the process, keep records tidy, and surface any improvements you spot. Clear weekly activity reports and immediate flagging of guest or maintenance issues will be the main deliverables. If you thrive on proactive communication and have proven experience managing short-term rentals, let’s talk—I’m looking to start hand-off within the next two weeks.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-08 07:09"
+ },
+ {
+  "id": 40633805,
+  "title": "$160 Simple Promo Video (Script Provided)",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "EUR",
+  "usd_rate": 1.156107,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/voice-over/Simple-Promo-Video-Script-Provided",
+  "desc": "I’m looking for someone to record a short video (30-45 seconds) where you’ll be describing the benefits and highlights of a business program. You’ll receive a script with clear talking points — your job is simply to present it confidently and naturally on camera.\n\nThis is a paid presentation, not a personal review or experience. You’re helping us communicate the value of the program like a host or spokesperson would.\n\nWhat you’ll do:\n\t•\tRead and present a short script (30-45 sec)\n\t•\tRecord using your smartphone (no fancy gear or editing needed)\n\t•\tSend raw footage with good lighting and sound\n\nRequirements:\n\t•\tClear, natural delivery\n\t•\tComfortable speaking on camera\n\t•\tAbility to follow simple instructions\n\t•\tMust be based in the U.S.\n\nJust be confident, fluent, and look presentable — we want the message to feel trustworthy and smooth. Thanks!",
+  "query": "python script",
+  "found_at": "2026-08-08 07:09"
+ }
+]
