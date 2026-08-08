@@ -440,5 +440,70 @@
   "desc": "I’m putting together a compact aluminum micro skiff and need a SolidWorks expert to transform my concept sketches into a fully detailed, build-ready model. The end result should let a fabricator jump straight to cutting and welding without guesswork.\n\nScope:  \n- Build a complete parametric 3D model of the hull and structure in SolidWorks, showing every aluminum frame, stringer, and plate.  \n- Flesh out the interior: seating layout, dedicated storage lockers, and a small console with a dashboard. All hinging lids, cut-outs, and access hatches must be present so clearances are obvious.  \n- Keep the construction in aluminum throughout; no plywood or mixed materials.\n\nDeliverables:  \n- Native SolidWorks assembly and part files (.SLDASM / .SLDPRT) with clean feature trees.  \n- Flattened DXF files for every sheet-metal plate, ready for CNC cutting (correct material thickness included).  \n- A brief PDF or marked-up drawing set highlighting bend lines, weld locations, and overall dimensions.\n\nAcceptance Criteria:  \nThe model must rebuild without errors, every DXF must unfold flat at 1:1 scale, and mating of parts in the assembly must be interference-free.\n\nIf you’ve designed welded aluminum boats before, please mention it and feel free to share screenshots or renders.",
   "query": "pdf extraction",
   "found_at": "2026-08-08 19:38"
+ },
+ {
+  "id": 40634995,
+  "title": "Comprehensive E-commerce Site for Hardware Sales -- 2",
+  "budget_min": 37500.0,
+  "budget_max": 75000.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/web-development/Comprehensive-commerce-Site-for-Hardware",
+  "desc": "Job Title: End-to-End E-commerce Website Development for Hardware Equipment Store\n\nCategory: Web Development / E-commerce\n\nProject Overview:\nWe're looking for an experienced full-stack developer or agency to build a complete e-commerce website for selling hardware equipment (tools, machinery, industrial/construction hardware, etc.). The platform should be fully functional, secure, and ready for real customer transactions from day one.\n\nScope of Work:\n\n1. Core E-commerce Platform\n\nProduct catalog with categories, subcategories, filters (brand, price, specifications, etc.)\nProduct detail pages with images, descriptions, specs, and stock availability\nSearch functionality with autocomplete/suggestions\nShopping cart and wishlist\nUser registration/login (email, phone OTP, and/or social login)\nAdmin dashboard for inventory, order, and content management\n\n2. Payment Integration\n\nIntegration with one or more payment gateways (Razorpay, PayU, Stripe, etc.)\nSupport for cards, UPI, net banking, and wallets\nSecure checkout flow (PCI-DSS compliant practices)\nOrder confirmation and invoice generation\n\n3. Delivery & Logistics\n\nShipping options with pin-code/serviceability checks\nIntegration with courier/logistics partners (Delhivery, Shiprocket, or similar) for order tracking\nDelivery cost calculation (by weight/location/COD availability)\nOrder status tracking for customers (processing, shipped, out for delivery, delivered)\n\n4. Additional Requirements\n\nMobile-responsive design across devices",
+  "query": "web scraping",
+  "found_at": "2026-08-08 20:12"
+ },
+ {
+  "id": 40634964,
+  "title": "Home Goods Product Descriptions",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/seo-writing/Home-Goods-Product-Descriptions-40634964",
+  "desc": "I need concise, engaging descriptions for a range of home-goods items that are about to go live in my online store. Each piece should highlight the product’s key features, practical benefits in everyday use, and any unique materials or craftsmanship that set it apart. I’d also like naturally integrated keywords so search engines can pick them up without the copy sounding forced.\n\nPlease deliver:\n• One polished description per product, roughly 80–120 words  \n• A short headline (up to 10 words) that can double as the on-site product title  \n• All copy compiled in a Google Sheet or Word file so it’s easy for my web team to paste straight into the CMS\n\nEvery description must be original, written in fluent English, and geared toward inspiring confidence as well as purchase intent. If this fits your skill set, I’m ready to share the product list and move forward right away.",
+  "query": "web scraping",
+  "found_at": "2026-08-08 20:12"
+ },
+ {
+  "id": 40634981,
+  "title": "Interactive 3D Avatar Setup in UE5",
+  "budget_min": 750.0,
+  "budget_max": 1500.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/unreal-engine/Interactive-Avatar-Setup",
+  "desc": "Project Title: Real-Time Interactive MetaHuman / Avatar Setup for UE5 (Cloud AI Voice Integrated)\n\n1. Project Overview\nWe are building a real-time interactive 3D digital human (MetaHuman) inside Unreal Engine 5 that acts as a live, streaming avatar. \nThe system connects to a cloud-based AI backend (STT  > Gemini LLM > ElevenLabs TTS over WebSockets).\nYour job is to set up the avatar, lighting, shaders, and real-time audio-driven animation pipeline in Unreal Engine 5 to achieve maximum visual photorealism at 60 FPS.\n\n2. Deliverables & Technical Scope\nA. MetaHuman & Asset OptimizationCharacter Setup: Import, configure, and refine a MetaHuman (or custom high-fidelity 3D mesh mapped to the MetaHuman skeletal structure).\nLevel of Detail (LOD): Lock the main avatar to LOD 0 (Cinematic).Groom / Hair: Implement high-quality strand-based groom hair optimized to hold 60 FPS.Shaders & Skin: Fine-tune skin materials (Subsurface Scattering profiles, micro-roughness, specular maps, eye reflections, and teeth/tongue moisture shaders).\nB. Real-Time Lighting & Cinematic SceneLighting Environment: Build a 3-point studio or natural lighting rig using Lumen with Hardware Ray Tracing.Camera Setup: Cinematic virtual camera (35mm / 50mm lens) with depth-of-field (DOF), motion blur tuned for live streaming, and auto-exposure locks.Performance Target: Scene must run at 4K / 60 FPS on a single NVIDIA RTX 4070 Ti Super / RTX 4080 (DLSS Quality enabled).\nC. Real-Time Animation & Audio Sync (Critical)Aud",
+  "query": "ai chatbot",
+  "found_at": "2026-08-08 20:12"
+ },
+ {
+  "id": 40634986,
+  "title": "Denah Rumah 1 Lantai 3KT",
+  "budget_min": 10000.0,
+  "budget_max": 20000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/2d-drafting/Denah-Rumah-Lantai",
+  "desc": "Saya membutuhkan denah rumah satu lantai lengkap dengan tiga kamar tidur dan sebuah garasi. Denah ini cukup sebagai panduan awal untuk mengatur zonasi ruang—mulai dari penempatan kamar tidur, area keluarga, dapur, kamar mandi, hingga akses garasi yang nyaman.\n\nRuang lingkup pekerjaan:\n• Buat sketsa denah 2D skala proporsional dalam format PDF dan file CAD (DWG atau sejenis)  \n• Sediakan keterangan ukuran utama (panjang-lebar tiap ruangan, lebar koridor, bukaan pintu/jendela)  \n• Integrasikan garasi langsung terhubung ke area dalam rumah  \n• Sertakan satu set revisi minor agar tata letak benar-benar pas dengan kebutuhan keluarga kami\n\nSaya terbuka menerima masukan mengenai alur sirkulasi, pencahayaan, maupun efisiensi lahan selama tetap mempertahankan konsep Rumah satu lantai, 3 kamar tidur, dan Garasi.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-08 20:12"
+ },
+ {
+  "id": 40634791,
+  "title": "Re-type Scanned PDF Manuscript",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/copy-typing/type-Scanned-PDF-Manuscript",
+  "desc": "I have a scanned PDF manuscript of roughly 51 – 100 pages that needs to be turned into an editable digital document. The scan is clear and mostly printed text; only a handful of pages include short handwritten annotations that I still need captured—either reproduced verbatim in brackets or clearly flagged so I can review them later.\n\nThe job is straightforward: faithfully type everything exactly as it appears, keep the original section breaks, headings, and any basic formatting, and supply the finished file in Microsoft Word (DOCX). If you prefer to run an OCR pass first, that is fine, but please proofread so the final copy is error-free and consistent throughout.\n\nAcceptance criteria  \n• Complete Word file matching the source content and layout  \n• All handwritten notes transcribed and distinguishable (e.g., [handwritten])  \n• Spelling, punctuation, and paragraphing double-checked for accuracy  \n\nOnce delivered, I will perform a quick spot check across several pages; if everything aligns, we are done.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-08 20:12"
  }
 ]
