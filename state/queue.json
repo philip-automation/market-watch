@@ -505,5 +505,70 @@
   "desc": "I have a scanned PDF manuscript of roughly 51 – 100 pages that needs to be turned into an editable digital document. The scan is clear and mostly printed text; only a handful of pages include short handwritten annotations that I still need captured—either reproduced verbatim in brackets or clearly flagged so I can review them later.\n\nThe job is straightforward: faithfully type everything exactly as it appears, keep the original section breaks, headings, and any basic formatting, and supply the finished file in Microsoft Word (DOCX). If you prefer to run an OCR pass first, that is fine, but please proofread so the final copy is error-free and consistent throughout.\n\nAcceptance criteria  \n• Complete Word file matching the source content and layout  \n• All handwritten notes transcribed and distinguishable (e.g., [handwritten])  \n• Spelling, punctuation, and paragraphing double-checked for accuracy  \n\nOnce delivered, I will perform a quick spot check across several pages; if everything aligns, we are done.",
   "query": "pdf extraction",
   "found_at": "2026-08-08 20:12"
+ },
+ {
+  "id": 40635044,
+  "title": "Power Supply Schematic Cleanup & PCB Design In Orcad",
+  "budget_min": 600.0,
+  "budget_max": 800.0,
+  "currency": "GBP",
+  "usd_rate": 1.3491,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/pcb-layout/Power-Supply-Schematic-Cleanup-PCB",
+  "desc": "Power Supply (BS1001) — OrCAD Schematic Cleanup & PCB Layout\n\nWe need the schematic for our 8A power supply board (BS1001, OrCAD Capture, 5 sheets: Top Level, AC Power, AC/DC Converter, Charger/Boost, Controller) fully cleaned up and then laid out as a PCB.\n\nBackground: This is a continuation of design work already done in-house. The schematic exists and is functional, but needs a DRC cleanup pass (illegal characters in footprint properties, missing pin numbers on several component types, one missing footprint) before it's ready for layout. We've already worked with a freelancer informally on an initial cleanup pass with good results — this project formalizes the remaining work with clear milestones.\n\nMilestone 1 — £150\n- Full DRC cleanup across all 5 schematic sheets: zero illegal-character footprint properties, zero missing pin numbers, zero missing footprints\n- Deliverables: the cleaned .dsn, a fresh DRC report run against that exact file, and a complete BOM (refdes/qty/category/description/value/package/manufacturer/MPN) generated from that same final schematic — not an earlier version\n\nMilestone 2 — £650\n- Full PCB layout per our written PCB spec: 3-zone isolation (Dirty/Clean/Super Clean), defined clearance rules around the isolation barrier, EMI-critical component placement, fusing\n- Layer count, board outline dimensions, and material/copper weight/TG rating to be confirmed or proposed as part of this milestone (currently open items on our side)\n- Deliverables: Gerbers",
+  "query": "data extraction",
+  "found_at": "2026-08-08 20:52"
+ },
+ {
+  "id": 40635033,
+  "title": "Weekly Task Scheduler Desktop App",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/desktop-application/Weekly-Task-Scheduler-Desktop-App",
+  "desc": "I need a straightforward desktop program whose single purpose is to let me schedule and visualise my week. The emphasis is on task scheduling only—no time-tracking dashboards or reminder pop-ups at this stage—so the interface can stay clean and focused.\n\nCore flow  \n• Open the app to a Monday-to-Sunday grid  \n• Add, edit or delete tasks and instantly see them slotted into their chosen day and time block  \n• Save everything to a lightweight local file or embedded database so my plans persist after closing the program  \n\nTech preferences  \nI am on Windows, but if you can deliver a cross-platform build through Electron, .NET MAUI, Qt, or a similarly stable framework, that works for me as well. Feel free to propose what you think suits the scope best.\n\nAcceptance criteria  \n1. Installer or portable executable that launches without extra dependencies.  \n2. Intuitive weekly view with drag-and-drop or quick edit controls.  \n3. Data is stored locally and reloads accurately on start-up.  \n4. Clean, responsive UI—nothing fancy, but no visual glitches.  \n5. Source code and brief build instructions supplied on delivery.\n\nThat is all I need for version one; additional features like time tracking or reminder alerts can wait for a later phase.",
+  "query": "data extraction",
+  "found_at": "2026-08-08 20:52"
+ },
+ {
+  "id": 40635013,
+  "title": "Detailed Excel Data Entry with Online Research",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/data-management/Detailed-Excel-Data-Entry-with",
+  "desc": "I'm looking for a freelancer to do Excel data entry for me. The list contains of 723 out of approximately 20% are not applicable to fill in. Out of the remaining 80% of 723 lists each one of them contain another subfolder of Excel files that will be downloaded separately and added into a master folder Excel list that I want from you. The proceeded Excel file on each varies from 5-200 or higher on each I would estimate but its difficult to say exactly since all list must be downloaded separately to see exact numbers. All these individual subfolder Excel files must be saved in one Excel file too and added into a master folder Excel file too.\n\n3 things needs to be typed in manually from your end on each company lines in Excel. Phone numbers, email address and websites on each individual subfolder company lines. The time consuming part would be that all missing phone numbers and emails addresses must be found online including adding companies websites too if they have. \n\nAll subfolder Excel file information are available from a link that you need to add into the Excel list. This means that a lot of manual typing would be required from your end. Note that some companies do not have an available online email address nor website hence these must be omitted to add into Excel file. Some of the subfolder Excel files do have already phone numbers added in but please considered it to be minority rather than majority of Excel list.\n\nI will instruct you thoroughly step by step and make exa",
+  "query": "data extraction",
+  "found_at": "2026-08-08 20:52"
+ },
+ {
+  "id": 40635039,
+  "title": "Correzione e Scrittura Testi Italiani",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "EUR",
+  "usd_rate": 1.156,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/content-writing/Correzione-Scrittura-Testi-Italiani",
+  "desc": "Ho bisogno di un collaboratore a distanza con padronanza assoluta della grammatica e della letteratura italiana. Il tuo compito principale sarà produrre contenuti originali e revisionare bozze già esistenti, garantendo stile scorrevole, coerenza argomentativa e assenza di errori formali.\n\nCosa farai:\n• Redazione di articoli, saggi brevi o materiali divulgativi in italiano impeccabile.  \n• Correzione di testi forniti, con annotazioni chiare tramite Track Changes (Word) o commenti su Google Docs.  \n• Eventuali suggerimenti di miglioramento lessicale e stilistico basati su riferimenti di letteratura italiana classica e contemporanea.\n\nMi aspetto un’attenzione particolare a:\n• Accuratezza ortografica, sintattica e grammaticale.  \n• Rispetto del tono richiesto (accademico, divulgativo o promozionale).  \n• Consegne puntuali nei formati .docx o .pdf.\n\nSe ami la lingua italiana, conosci bene le sue regole e sai applicarle con rigore, inviami un breve esempio di revisione o un testo originale scritto da te.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-08 20:52"
+ },
+ {
+  "id": 40635018,
+  "title": "Copywriting for Tourist Destination",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/travel-writing/Copywriting-for-Tourist-Destination",
+  "desc": "I’m preparing a piece that showcases a specific tourist destination and I only need the writing itself—no design, layout, or imagery. The goal is to produce vivid, persuasive copy that makes readers feel the place, picture themselves there, and ultimately want to book a trip.\n\nYou’ll be handling descriptive copy writing focused on a place, so please lean into sensory detail, local color, and clear calls-to-action that suit travel-minded readers. Think engaging storytelling rather than a dry fact sheet; I’m looking for energy, warmth, and accurate information blended into a seamless narrative.\n\nDeliverables  \n• One polished copy-writing piece about the destination (roughly 700–900 words, but I’m flexible if you see a better length).  \n• A brief headline plus sub-head suggestions that match the tone.  \n• Final text supplied in an editable Google Doc or Word file.\n\nAcceptance criteria  \n– Copy is 100 % original, proof-read, and free of fluff.  \n– Tone is inviting and descriptive, with concrete details that highlight what sets the spot apart.  \n– Includes a natural call-to-action that fits the intended traveler audience.  \n– Delivered on or before the agreed deadline.\n\nIf you have travel-writing samples, share a link so I can gauge style alignment. Looking forward to seeing how you bring this destination to life.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-08 20:52"
  }
 ]
