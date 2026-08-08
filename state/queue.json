@@ -4379,5 +4379,83 @@
   "desc": "I want to build a small-scale hybrid renewable power system—solar panels, wind turbines and tidal generators all working together—inside SimulIDE, driven solely by an Arduino sketch. The goal is purely educational: I need to show that combining these three sources is feasible and to let students see exactly how each part talks to the others. Because of that, the spotlight is on component interactions rather than chasing perfect efficiency or bullet-proof stability.\n\nYour task is to create the full SimulIDE project and the matching Arduino code so that:\n\n• the three virtual sources feed a common DC bus,  \n• the Arduino reads representative voltage/current sensors for each source, decides which source should be prioritised, and controls simple switch-mode elements (relays or MOSFETs available in SimulIDE) accordingly,  \n• live plots inside SimulIDE clearly illustrate how the sources share the load as conditions change.\n\nPlease stay within the native component library of SimulIDE; no external SPICE or additional microcontrollers. Once the model runs, I also need a concise walkthrough—screenshots plus comments in the code—so others can reproduce the experiment and tweak parameters easily.\n\nDeliverables: the .simu file, the .ino file, and a short PDF or Markdown guide explaining setup, wiring logic and expected classroom talking points.",
   "query": "pdf extraction",
   "found_at": "2026-08-08 00:34"
+ },
+ {
+  "id": 40629462,
+  "title": "High-End Promo Video Editor",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/adobe-premiere-pro/High-End-Promo-Video-Editor",
+  "desc": "I have raw footage that needs to be transformed into a creative, flashy promotional video. I’m aiming for a fast-paced piece that grabs attention right away, uses engaging animation effects throughout, and is driven by the right background music to keep the energy high. \n\nYou’ll handle the full post-production flow—cutting, color grading, motion graphics, and audio sync—so the final export feels polished and agency-quality. The visuals should pop, transitions should feel seamless, and the soundtrack must complement the tone without overpowering the message.\n\nFinal deliverables:\n• One finished promo in 1080p (and 4K if possible) ready for web and social distribution  \n• A separate audio-mixed version if any VO or interview clips are included  \n• Project files (Premiere Pro / After Effects or equivalent) so adjustments can be made later\n\nPlease let me know your turnaround time and link me to a few creative, high-impact promos you’ve cut before so I can get a feel for your style. Looking forward to collaborating!",
+  "query": "web scraping",
+  "found_at": "2026-08-08 02:45"
+ },
+ {
+  "id": 40633452,
+  "title": "Roblox Simulation Game Development",
+  "budget_min": 50.0,
+  "budget_max": 200.0,
+  "currency": "CAD",
+  "usd_rate": 0.71682,
+  "bids": 17,
+  "url": "https://www.freelancer.com/projects/roblox/Roblox-Simulation-Game-Development-40633452",
+  "desc": "I plan to create a simulation-style experience on Roblox that blends realistic mechanics with plenty of creative freedom. The core loop revolves around building and crafting structures and items, managing resources in an intuitive yet challenging way, and offering players deep character customization so they can truly make the world their own.\n\nTo make this work I’ll need clean, efficient Lua scripting for physics-based interactions, smooth UI flows, and a scalable data store setup that keeps player progress safe. Visual assets should feel cohesive and performant on typical Roblox hardware without sacrificing detail.\n\nDeliverables  \n• Playable core prototype featuring building & crafting, resource management, and character customization  \n• All scripts, models, UI elements, and sound assets used in the build  \n• Brief technical documentation that lets me expand or tweak systems later  \n\nOnce the prototype meets those criteria, I can iterate on additional content, monetization, and polishing.\n\nExamples of what i want in thr game and how it works: \n\nhttps://youtu.be/VmVwUdkYaz0?si=IYdEuDgd7dOmpCua\n\nhttps://youtu.be/v59kZeyJkK4?si=21WGHKvdC-uS86dE",
+  "query": "data extraction",
+  "found_at": "2026-08-08 02:45"
+ },
+ {
+  "id": 40633453,
+  "title": "Australia B2B Lead Prospecting",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 13,
+  "url": "https://www.freelancer.com/projects/lead-generation/Australia-Lead-Prospecting",
+  "desc": "I’m building a nationwide Australian B2B prospect list and need someone who can source fresh, accurate decision-maker details across every industry sector—from tech and healthcare through to finance and beyond.  \n\nFor each record I must receive:\n• Contact Name  \n• Company Name  \n• Email Address  \n\nFeel free to lean on a mix of social media outreach, targeted email campaigns and old-fashioned cold calling—whatever is most efficient, provided the data is real, permission-safe and ready for immediate outreach under Australian spam regulations.\n\nDeliver the leads in a clean spreadsheet (Excel or Google Sheets) with no duplicates and an email bounce rate below 5 %. I’ll spot-check a sample on delivery; any errors or hard bounces will need replacing at no extra cost. When you reply, let me know roughly how many qualified contacts you can supply and how long you’ll need to compile them.",
+  "query": "data extraction",
+  "found_at": "2026-08-08 02:45"
+ },
+ {
+  "id": 40633369,
+  "title": "Small-Business IT Systems Manager",
+  "budget_min": 37500.0,
+  "budget_max": 75000.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/asset-management/Small-Business-Systems-Manager",
+  "desc": "We are a 20-person company that now needs a dedicated professional to own our entire IT environment. The core of the job is keeping everyday operations smooth while steadily raising our security posture.\r\n\r\nWe are looking for someone who uses modern tools, ideally with AI, to help automate IT workflows.\r\n\r\nThis is not a full time role. It is for 10-15 hours per week.\r\n\r\nScope of responsibility  \r\n• Devices – enrolment, patching, inventory and lifecycle management for laptops and mobiles.  \r\n• Google Workspace administration – user provisioning, group policies, shared drives, email routing and licence optimisation.  \r\n• Identity & access management – maintain SSO, MFA, least-privilege roles and onboarding/off-boarding processes.  \r\n• Security awareness – schedule brief trainings, run phishing simulations and monitor compliance.\r\n\r\nYou will also co-ordinate with any external vendors, document all procedures, and proactively suggest workflow or tooling improvements that fit a growing team. Most work can be done remotely as long as weekday response times remain prompt.\r\n\r\nDeliverables  \r\n1. A 90-day transition plan outlining immediate fixes and longer-term roadmap.  \r\n2. Monthly health report covering devices, Google Workspace and access controls.  \r\n3. Up-to-date runbooks and asset inventory stored in our shared drive.  \r\n4. Clear escalation channels for incidents.\r\n\r\nIf you have a track record managing devices, Google Workspace, and identity services for small to mid-sized team",
+  "query": "ai chatbot",
+  "found_at": "2026-08-08 02:45"
+ },
+ {
+  "id": 40633475,
+  "title": "Configuración de una Cuenta Google en Bolivia",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/technical-support/Configuraci-una-Cuenta-Google-Bolivia",
+  "desc": "Busco a una persona que se encuentre en Bolivia y que pueda ayudarme a crear y configurar una cuenta de Google según unos requisitos específicos. Proporcionaré todos los detalles e instrucciones necesarios. Ofrezco una remuneración por el tiempo y la ayuda. Si estás interesado, no dudes en contactarme.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-08 02:45"
+ },
+ {
+  "id": 40633416,
+  "title": "Toke ne shitje-land for sale Kosovo",
+  "budget_min": 120.0,
+  "budget_max": 160.0,
+  "currency": "AUD",
+  "usd_rate": 0.7066,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/social-media-marketing/Toke-shitje-land-for-sale",
+  "desc": "Dear Chief Executive Officer,\n\nRe:https://www.facebook.com/vitomirice.peje/, Urgent Social Media Freelancer to adjust Meta ads,  face to face consultation regarding 30 acres of land in Kosovo with accreditation in Meta ads.\n\nWe hope you are well.\n\n\nWe require urgent service agreement under the Australian Consumer Law to include all outlined conditions. \n\nYou get paid after ads are run successfully and after glitches or errors are fixed. The ads will be run using my debit card. \n\nTo set u Meta ads on my name debit card. How much you will charge per hour or per project given it is not Australian project.\n 19 MAY 26 BANNER landscape.pdf\n 19 MAY 26 BANNER landscape.pptx\n\nA lot of land to offer but not many buyers.\n\nDo you take overseas Kosovo freelance projects? PLEASE NOTE THIS IS NOT AUSTRALIAN PROJECT!!!\n\nDo you have Recommendations for Professional Freelancer in Melbourne, with accreditation ind Meta ads? \n\nI attached pdf, jpg and power point ads in Albanian, German and English. For Google only in English. IT MAY TAKE 15 -20 YEARS TO SELL AS KOSOVO ALBANIES ARE RICH ONLY DISASPORA WORKING IN GERMANY, USA, SWEDEN etc.\n\nTHE BUYER NEEDS TO PAY ALL AMOUNT UPFRONT.\n\nGoogle does not approve other languages a part of English, attached ad. IN  META THERE ARE ABOUT 27 COUNTRIES SELECTED TO HAVE ADS.\n\nWe require urgently META VERIEFIED ACCOUNT. \n\n\nBoth Google and Meta is owing me about $550, but my Bank has refunded me META, Google owing fees.\n\nMehul run ads for 3 weeks on Meta and we ",
+  "query": "google sheets automation",
+  "found_at": "2026-08-08 02:45"
  }
 ]
