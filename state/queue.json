@@ -466,5 +466,44 @@
   "desc": "I run a licensed fintech bank and our team has already drafted the full set of compliance documents that govern our new payment-operator / payment-orchestration layer. Before we file them with regulators and connect additional acquiring partners, I need a qualified lawyer to give these papers a final, professional seal of approval and produce a concise legal opinion confirming that the framework is sound.\n\nWhat you will be looking at  \nThe pack consists solely of compliance documents—no commercial contracts or policies outside that scope. They address risk controls, settlement flows, safeguarding of client funds, KYC / AML touchpoints and all operational mechanics of the orchestration layer. Everything is essentially ready; I just need an expert eye to verify that each provision is enforceable and that the overall structure meets current payment-services regulations.\n\nYour job  \n1. Review the documents in detail (they are already well-organised and annotated).  \n2. Flag any weak or missing clauses and propose precise wording where improvement is needed.  \n3. Deliver a written legal opinion, on your letterhead, that states the documents are compliant for a licensed payment operator and identifies any residual risks.\n\nAcceptance criteria  \n• All comments returned in a tracked-changes file or annotated PDF.  \n• A standalone legal-opinion letter suitable for presentation to auditors, banking partners and regulators.  \n• Turnaround time agreed up front, ideally within 3 days.\n\nExp",
   "query": "pdf extraction",
   "found_at": "2026-08-08 10:45"
+ },
+ {
+  "id": 40634230,
+  "title": "Recover InnoDB Data & Backup",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/data-recovery/Recover-InnoDB-Data-Backup",
+  "desc": "My MySQL 5.5.18 instance is limping along after a corruption event—system tables open, but every InnoDB table throws errors. The server is only “partially functional,” so I have powered it down and kept all data files intact (ibdata, ib_logfile*, .frm, .ibd, relay/binlogs, my.cnf). Remote log-in isn’t possible; you will need to walk me through everything step-by-step while I work directly on the box.\n\nWhat I need is a complete, reliable FULL backup of every database, including the damaged InnoDB tables, so I can spin up a fresh 5.7+ server later. I am comfortable following detailed terminal commands; I just need an expert plan and real-time guidance to:\n\n• Mount the data directory in a safe environment (ideally using Percona XtraBackup, mysqlbackup, or a comparable tool).  \n• Set the appropriate innodb_force_recovery level, dump out the data, and verify logical consistency.  \n• Export users, routines, triggers, and events so nothing is lost.  \n• Package the final .sql or .xbstream files, ready for import elsewhere.  \n• Leave me with a short post-mortem outlining what was salvaged and any objects that proved unrecoverable.\n\nDeliverable is the full backup set plus clear commands/scripts and notes so I can reproduce the process if needed. If you have handled 5.5 InnoDB crashes before and can guide over chat or video while I execute, let’s get started right away.",
+  "query": "data extraction",
+  "found_at": "2026-08-08 11:15"
+ },
+ {
+  "id": 40634198,
+  "title": "Database Data Entry to Excel",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/data-management/Database-Data-Entry-Excel",
+  "desc": "I have a set of online databases that need to be mined and transcribed into a single, well-structured Excel spreadsheet. The records contain a mix of text fields and numeric values—company names, addresses, IDs, dates, prices, and similar content—so careful attention to formatting is essential.\n\nI will provide:\n• Direct links or login credentials for each database  \n• A template workbook that defines the exact column order and data-validation rules  \n\nYour job is to:\n• Retrieve each record from the specified sources  \n• Copy every text and number field accurately, preserving spelling, capitalization, and numerical precision  \n• Populate the workbook sheet-by-sheet, adhering to the template’s data types, drop-downs, and conditional formats  \n\nQuality matters more than speed. Before delivery, please run a quick sanity check to confirm row counts match the source and no cells are left blank where data exists. When finished, return the completed Excel file; no additional formats are necessary.\n\nIf you are comfortable with meticulous online research, fast yet precise data entry, and basic Excel validation features, I’d love to work with you.",
+  "query": "data extraction",
+  "found_at": "2026-08-08 11:15"
+ },
+ {
+  "id": 40634228,
+  "title": "Revise Clinic CAD Drawings",
+  "budget_min": 150.0,
+  "budget_max": 200.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 19,
+  "url": "https://www.freelancer.com/projects/2d-drafting/Revise-Clinic-CAD-Drawings",
+  "desc": "I have an original set of clinic plans and a newer version, both in PDF. I need the two reconciled and redrawn in AutoCAD so they read as one clean, up-to-date file. The primary task is to adjust the overall layout and structure—this affects the entire clinic, from reception through patient rooms to offices—reflecting the changes shown on the newer PDF.\n\nI will supply:\n• The old and new PDFs  \n• A furniture schedule covering every piece that must appear on the plan\n\nWhat I expect back:\n• A fully editable DWG that combines the two drawings, shows the revised layout, and locates each furniture item accurately  \n• A final presentation-ready PDF exported from the DWG\n\nPlease keep layer naming tidy and use standard architectural line weights so the file is immediately printable and easy to hand over to contractors.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-08 11:15"
  }
 ]
