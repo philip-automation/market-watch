@@ -89,5 +89,70 @@
   "desc": "I’m looking for someone to record a short video (30-45 seconds) where you’ll be describing the benefits and highlights of a business program. You’ll receive a script with clear talking points — your job is simply to present it confidently and naturally on camera.\n\nThis is a paid presentation, not a personal review or experience. You’re helping us communicate the value of the program like a host or spokesperson would.\n\nWhat you’ll do:\n\t•\tRead and present a short script (30-45 sec)\n\t•\tRecord using your smartphone (no fancy gear or editing needed)\n\t•\tSend raw footage with good lighting and sound\n\nRequirements:\n\t•\tClear, natural delivery\n\t•\tComfortable speaking on camera\n\t•\tAbility to follow simple instructions\n\t•\tMust be based in the U.S.\n\nJust be confident, fluent, and look presentable — we want the message to feel trustworthy and smooth. Thanks!",
   "query": "python script",
   "found_at": "2026-08-08 07:09"
+ },
+ {
+  "id": 40633883,
+  "title": "Nhập Dữ Liệu Excel Tại Nhà",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/data-management/Excel-40633883",
+  "desc": "Tôi cần bạn hỗ trợ nhập dữ liệu đơn giản bằng Excel, hoàn toàn làm từ xa nên rất phù hợp cho học sinh hoặc bất kỳ ai đang tìm việc linh hoạt tại nhà. Công việc chỉ xoay quanh lĩnh vực nhập liệu; tôi không yêu cầu dịch thuật hay thiết kế đồ họa, vì vậy bạn chỉ cần tập trung vào bảng tính.\n\nBạn sẽ nhận file nguồn (văn bản, hình ảnh rõ ràng, link web…) và chuyển nội dung sang workbook Excel do tôi cung cấp sẵn mẫu. Miễn là bạn đã quen thao tác cơ bản trong Excel – điền ô, định dạng, dùng công thức SUM, COUNT, v.v. – là đủ. Kinh nghiệm nhập liệu trước đây không bắt buộc; tôi sẽ hướng dẫn chi tiết quy trình kiểm tra độ chính xác.\n\nDeliverables\n• Các sheet Excel hoàn chỉnh, không lỗi chính tả, đúng định dạng  \n• Báo cáo nhỏ (1-2 dòng) ghi chú chỗ dữ liệu nghi ngờ hoặc thiếu  \n\nChỉ cần máy tính kết nối Internet, tinh thần cẩn thận và sẵn sàng làm việc theo deadline ngắn. Gửi cho tôi một mẫu bất kỳ bạn từng soạn trên Excel (có thể ẩn thông tin nhạy cảm) để tôi đánh giá cách trình bày trước khi trao đổi bước tiếp theo.",
+  "query": "web scraping",
+  "found_at": "2026-08-08 08:03"
+ },
+ {
+  "id": 40633920,
+  "title": "Experienced Data Engineer Needed",
+  "budget_min": 120000.0,
+  "budget_max": 160000.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/sql/Experienced-Data-Engineer-Needed",
+  "desc": "# Data Engineer – Remote Contract\n\nWe are looking for an experienced Data Engineer to join a remote technical project supporting an international client.\n\n### Requirements\n\n• 2–4 years of professional Data Engineering experience\n• Strong Python and SQL skills\n• Hands-on experience with Apache Spark\n• Experience with Airflow, Dagster, or Prefect\n• Experience with dbt and modern data pipelines\n• Knowledge of Snowflake, BigQuery, Redshift, or Databricks\n• Experience with AWS, Azure, or GCP\n• Strong understanding of data modeling and Git workflows\n• Experience working with production data pipelines\n• Strong spoken and written English communication skills\n\n### Nice to Have\n\n• Kafka, Kinesis, or Flink\n• Terraform and CI/CD\n• Docker and Kubernetes\n• Data-quality and observability tools\n• Experience with ML or feature pipelines\n\n### Work Arrangement\n\n• Remote contract position\n• International team collaboration\n• Ability to overlap with US business hours\n• Compensation discussed based on experience and project scope\n\n### Interested?\n\nIf you're interested in the opportunity, **please contact us through Freelancer** to discuss the role, project, and next steps.",
+  "query": "data extraction",
+  "found_at": "2026-08-08 08:03"
+ },
+ {
+  "id": 40633893,
+  "title": "PDF Invoice Data Entry Assistant",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/data-analysis/PDF-Invoice-Data-Entry-Assistant",
+  "desc": "I have a continuous flow of supplier invoices and sales receipts that arrive as PDFs. Each file needs to be opened, read, and its key details—date, vendor, invoice or receipt number, amounts, taxes, and notes—entered into the tracking sheet I provide. The PDFs are text-based, so no OCR setup is required; accuracy and consistency are what matter most.\n\nYou will receive the documents in a shared cloud folder and record the information in either Google Sheets or Excel, whichever you find faster. I’ll review entries at the end of every batch and provide quick feedback so we can keep error rates to an absolute minimum. Data must stay confidential, so please be comfortable signing a simple NDA before we begin.\n\nDeliverables  \n• Updated spreadsheet for every batch of PDFs  \n• A brief message flagging any illegible or missing fields\n\nAcceptance Criteria  \n• 100 % of assigned invoices/receipts entered  \n• Fewer than 1 % transcription errors per batch  \n\nIf you enjoy straightforward data entry and can turn around small sets quickly, let’s get started.",
+  "query": "data extraction",
+  "found_at": "2026-08-08 08:03"
+ },
+ {
+  "id": 40633869,
+  "title": "Aplikasi Akuntansi Gaji Antipenipuan",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/accounting/Aplikasi-Akuntansi-Gaji-Antipenipuan",
+  "desc": "Saya ingin membangun sebuah aplikasi akuntansi berbasis desktop yang fokus pada pengelolaan gaji karyawan di perusahaan teknologi dan mampu meminimalkan potensi penipuan (salary scam).  \n\nGambaran singkat  \n• Platform: desktop software (Windows diutamakan, cross-platform akan menjadi nilai tambah).  \n• Lingkup: modul payroll lengkap—perhitungan gaji pokok, lembur, tunjangan, potongan, pajak; pencatatan jurnal akuntansi otomatis; serta dashboard audit internal untuk mendeteksi anomali pembayaran.  \n• Fitur kunci:  \n  – Login berbasis peran (HR, Finance, Auditor).  \n  – Enkripsi data sensitif dan rekam jejak aktivitas pengguna (audit trail).  \n  – Ekspor laporan keuangan bulanan dan tahunan dalam format PDF/Excel.  \n  – Integrasi opsional dengan API bank untuk proses pembayaran massal.  \n\nYang saya butuhkan dari Anda  \n1. Desain arsitektur aplikasi dan skema basis data.  \n2. Pengembangan MVP fungsional dengan antarmuka pengguna yang intuitif.  \n3. Dokumentasi setup & user manual singkat agar tim internal dapat menguji coba.  \n4. Uji unit dan catatan hasil pengujian dasar untuk modul penggajian.  \n\nKriteria keberhasilan  \n– Semua perhitungan gaji akurat sesuai rumus yang disepakati.  \n– Audit trail menampilkan log setiap perubahan data kritis.  \n– Aplikasi dapat di-install dan dijalankan tanpa error pada Windows 10.  \n\nBila Anda memiliki pengalaman membangun software akuntansi atau payroll di sektor teknologi, terutama di desktop environment, saya akan sangat tertarik melihat po",
+  "query": "data extraction",
+  "found_at": "2026-08-08 08:03"
+ },
+ {
+  "id": 40633912,
+  "title": "Psychological Horror Short Story",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/creative-writing/Psychological-Horror-Short-Story",
+  "desc": "I want to commission a tightly-written psychological horror short story that leaves readers unsettled long after the last line. The narrative should rely on tension, unreliable perceptions, and creeping dread rather than overt gore.  \n\nScope  \n• Length: an agreed-upon short-story range (roughly 3,000–6,000 words; we can fine-tune once we outline).  \n• Tone: claustrophobic, slow-burn suspense that escalates to a shocking but believable climax.  \n• Originality: no tropes lifted directly from existing works—fresh twists only.  \n• Delivery format: editable file in Word or Google Docs, with standard manuscript formatting.\n\nAcceptance Criteria  \n• A complete story arc with a protagonist whose sanity—or perception of reality—erodes convincingly.  \n• Psychological horror elements must drive the plot; any supernatural hints should remain ambiguous unless we decide otherwise during outline approval.  \n• One round of revisions after my initial read-through to polish pacing, characterization, and atmosphere.\n\nOnce we agree on a one-paragraph pitch, you’ll draft a concise outline for sign-off before writing the full piece. Please share a brief sample or link that showcases your horror or dark-fiction style so I can confirm the voice matches the mood I’m after.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-08 08:03"
  }
 ]
