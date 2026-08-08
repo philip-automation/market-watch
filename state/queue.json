@@ -1,1 +1,80 @@
-[]
+[
+ {
+  "id": 40634509,
+  "title": "Business Central AL Customization Project",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/api-developmet/Business-Central-Customization-Project",
+  "desc": "My priority is to build and refine Microsoft Dynamics 365 Business Central through new AL objects, with the spotlight on custom tables and pages. These pages must support clean data entry, run their own validation, trigger custom workflows, and surface key metrics in dashboard-style reports.  \n\nBeyond the UI layer, I need business logic that enforces bespoke validation rules and handles data integration processes so information moves reliably between internal modules and any external systems we connect later.  \n\nAdditional work will include, when required, adjusting RDLC or Word layouts for reports, extending posting and approval workflows, exposing data through APIs or web services, and tuning SQL for performance.  \n\nDeliverables  \n• AL code for tables, pages, and supporting codeunits  \n• Implemented validation rules and workflow logic, fully tested  \n• Dashboard/report layouts and any modified RDLC/Word files  \n• Technical documentation (object list, install steps, test scripts)  \n• Source packaged in a Git repository and a compiled extension ready for deployment  \n\nAcceptance Criteria  \n• Extension installs without compile warnings or permission errors  \n• All test scenarios for data entry, validation, and workflow pass  \n• Performance meets current production benchmarks  \n• Documentation is clear enough for another developer to maintain  \n\nI will provide functional specs and a sandbox; you return weekly progress updates and commit to the agreed timeline and quality gates.",
+  "query": "web scraping",
+  "found_at": "2026-08-08 14:45"
+ },
+ {
+  "id": 40634522,
+  "title": "Comprehensive Web Development & SEO Automation",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 13,
+  "url": "https://www.freelancer.com/projects/autocad-architecture/Comprehensive-Web-Development-SEO",
+  "desc": "### 2D Mimari Proje | 3D Modelleme | Fotogerçekçi Render\n\nMimari projelerinizi **2D teknik çizimden profesyonel 3D modellemeye ve yüksek kaliteli fotogerçekçi renderlara** dönüştürüyorum.\n\n**Sunduğum hizmetler:**\n*  AutoCAD ile 2D mimari çizim ve teknik proje\n*  Kat planı, kesit, görünüş ve detay çizimleri\n*  3ds Max ile profesyonel 3D modelleme\n*  İç ve dış mekân tasarımı\n*  Corona Renderer ile fotogerçekçi render\n*  Mobilya ve özel tasarım modelleme\n*  Mevcut projelerin 3D modele dönüştürülmesi\n*  Konut, villa, ofis, mağaza ve ticari mekân görselleştirmeleri\n*  Proje sunumları ve mimari görselleştirme\n\nHer projede **ölçü doğruluğu, tasarım detayları, malzeme kalitesi, ışıklandırma ve gerçekçi atmosfer** üzerinde titizlikle çalışıyorum.\n\nİster elinizdeki 2D çizimi 3D modele dönüştürmek isteyin, ister sıfırdan bir mekân tasarlayın; projenizi profesyonel ve etkileyici bir görselleştirmeye dönüştürebilirim.\n\nProjenizin detaylarını, ölçülerini ve istediğiniz tarzı gönderin. İhtiyacınıza uygun profesyonel bir çözüm hazırlayalım.\n\n###  Projet Architectural 2D | Modélisation 3D | Rendu Photoréaliste\n\nJe transforme vos projets architecturaux, de **plans techniques 2D à la modélisation 3D professionnelle et aux rendus photoréalistes de haute qualité**.\n\n**Mes services comprennent :**\n\n*  Dessins et plans architecturaux 2D sur AutoCAD\n*  Plans, coupes, façades et détails techniques\n*  Modélisation 3D professionnelle avec 3ds Max\n*  Conception et aménagement intérieur et extérieur\n*  R",
+  "query": "web scraping",
+  "found_at": "2026-08-08 14:45"
+ },
+ {
+  "id": 40634553,
+  "title": "AI Cattle Collar Development",
+  "budget_min": 65000.0,
+  "budget_max": 100000.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/ai-hw-sw/Cattle-Collar-Development",
+  "desc": "I need a working prototype of an AI-enabled collar that keeps real-time watch over a cow’s well-being and daily habits. The collar has to:\n\n• Track health by continuously capturing heart rate, temperature and respiration, flagging anomalies for early intervention.  \n• Record activity patterns—grazing time, walking distance and rest periods—so I can optimise feed plans and pasture rotation.\n\nI am open to your recommended sensor suite, low-power electronics, edge AI models and a simple companion app or dashboard that turns raw readings into clear, actionable insights. Deliver a fully assembled collar with firmware, data pipeline and a short demo showing the metrics streaming accurately from a live test or simulator.  \n\nIf you have previous experience in livestock wearables, embedded ML (TensorFlow Lite, Edge Impulse or similar) and rugged hardware design, I’d like to see it and discuss the timeline to first field trials.",
+  "query": "data extraction",
+  "found_at": "2026-08-08 14:45"
+ },
+ {
+  "id": 40634507,
+  "title": "Organic Makhana Seasoning Blend",
+  "budget_min": 10000.0,
+  "budget_max": 50000.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/sourcing/Organic-Makhana-Seasoning-Blend",
+  "desc": "I need a reliable partner to develop and scale an herbs-and-spices seasoning specifically for makhana snack flavoring. The blend must rely solely on natural, organic ingredients—no synthetics, artificial colors, or anti-caking agents. I already have a taste direction in mind (lightly earthy with a gentle kick), but I am open to your suggestions for achieving a standout profile that will keep consumers reaching for the next handful.\n\nWhat I expect from you:\n• A finished formulation with exact percentages and processing instructions  \n• Guidance on sourcing certified-organic raw materials and possible alternate suppliers for cost control  \n• A small pilot batch (1–2 kg) for sensory and shelf-life testing  \n• Documentation on regulatory compliance and nutritional data suitable for export packaging  \n• Clear scale-up notes so the recipe can move straight into commercial production\n\nExperience with snack-food seasonings, spice milling, and organic certification will be valued highly. If you can demonstrate previous results with clean-label products or have access to extrusion/coating equipment for test runs, please mention it in your proposal along with an estimated timeline to first samples.",
+  "query": "data extraction",
+  "found_at": "2026-08-08 14:45"
+ },
+ {
+  "id": 40634517,
+  "title": "Grow Telegram via Instagram Ads",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/instagram-ads/Grow-Telegram-via-Instagram-Ads",
+  "desc": "I run a Telegram channel for traders and want to fill it with genuinely interested subscribers—not bots or vague “finance” traffic, but people who actively follow trading content. To do this I need a specialist who can plan, launch, and optimise Instagram Explore ads.\n\nYou’ll handle the full campaign inside Meta Ads Manager: research the most responsive trading-focused interests, craft creative that speaks to that niche, set up a clear funnel straight to my Telegram link, and keep a close eye on performance so spend translates into quality joins. Story or Feed placements can remain off for now; the push is squarely on Explore where discovery is highest for new audiences.\n\nPlease ensure all conversions are real humans. I’ll monitor engagement stats on the channel and will pause the project immediately if artificial traffic appears.\n\nDeliverables:\n• Live Explore-placement campaign targeting trading enthusiasts  \n• Compelling image or short-form video ads plus copy  \n• Daily optimisation and budget pacing  \n• Weekly report summarising spend, CPM, CTR, cost-per-join, and overall subscriber growth\n\nShare a quick outline of your approach, any similar Telegram growth results, and the timeframe you expect before the first noticeable bump in subscribers. Let’s drive serious traders into the channel together.",
+  "query": "telegram bot",
+  "found_at": "2026-08-08 14:45"
+ },
+ {
+  "id": 40634556,
+  "title": "Build Android Audio Social App with Live Voice Rooms, Coins, Gifts & Games",
+  "budget_min": 37500.0,
+  "budget_max": 75000.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/android/Build-Android-Audio-Social-App",
+  "desc": "I am looking for an experienced Android/Flutter developer or small development team to build an Android-first audio social app called VIBORA.\n\nIMPORTANT:\nThis is NOT a video streaming app. No video calling or video live streaming is required for the MVP.\n\nThe app will be an audio social platform where users can join live voice rooms, chat, talk with other users, send virtual gifts, use coins, follow hosts/friends and play games.\n\nI have a detailed Developer Requirement Document and UI reference showing the desired style and functionality.\n\nCORE FEATURES:\n\n1. USER AUTHENTICATION\n- Phone/OTP login\n- User registration\n- Profile creation\n- Avatar/profile picture\n- User ID\n- Follow/following\n\n2. HOME SCREEN\n- Live voice rooms\n- Popular rooms\n- New rooms\n- Categories\n- Search\n- Room cards with host, room name and member count\n\n3. LIVE AUDIO ROOMS\n- Real-time multi-user voice room\n- 8/12/15 microphone seats\n- Host seat\n- Speaker/mic status\n- Join/leave room\n- Mute/unmute\n- Invite users to mic\n- Remove/kick users\n- Block users\n- Room announcement\n- Room text chat\n- Room share\n- Report room/user\n- Private room option\n- Room password option\n\n4. COINS SYSTEM\n- User coin balance\n- Coin recharge packages\n- Transaction history\n- Server-side coin ledger\n- Coins must never be controlled by the mobile client\n\n5. VIRTUAL GIFTS\n- Rose\n- Heart\n- Kiss\n- Cake\n- Diamond\n- Rocket\n- Unicorn\n- Castle\n- Other premium animated gifts\n\nUsers can send gifts to hosts/users inside an audio room.\n\n6. HOST SYS",
+  "query": "chatgpt api",
+  "found_at": "2026-08-08 14:45"
+ }
+]
