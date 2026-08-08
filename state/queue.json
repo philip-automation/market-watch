@@ -76,5 +76,31 @@
   "desc": "I am looking for an experienced Android/Flutter developer or small development team to build an Android-first audio social app called VIBORA.\n\nIMPORTANT:\nThis is NOT a video streaming app. No video calling or video live streaming is required for the MVP.\n\nThe app will be an audio social platform where users can join live voice rooms, chat, talk with other users, send virtual gifts, use coins, follow hosts/friends and play games.\n\nI have a detailed Developer Requirement Document and UI reference showing the desired style and functionality.\n\nCORE FEATURES:\n\n1. USER AUTHENTICATION\n- Phone/OTP login\n- User registration\n- Profile creation\n- Avatar/profile picture\n- User ID\n- Follow/following\n\n2. HOME SCREEN\n- Live voice rooms\n- Popular rooms\n- New rooms\n- Categories\n- Search\n- Room cards with host, room name and member count\n\n3. LIVE AUDIO ROOMS\n- Real-time multi-user voice room\n- 8/12/15 microphone seats\n- Host seat\n- Speaker/mic status\n- Join/leave room\n- Mute/unmute\n- Invite users to mic\n- Remove/kick users\n- Block users\n- Room announcement\n- Room text chat\n- Room share\n- Report room/user\n- Private room option\n- Room password option\n\n4. COINS SYSTEM\n- User coin balance\n- Coin recharge packages\n- Transaction history\n- Server-side coin ledger\n- Coins must never be controlled by the mobile client\n\n5. VIRTUAL GIFTS\n- Rose\n- Heart\n- Kiss\n- Cake\n- Diamond\n- Rocket\n- Unicorn\n- Castle\n- Other premium animated gifts\n\nUsers can send gifts to hosts/users inside an audio room.\n\n6. HOST SYS",
   "query": "chatgpt api",
   "found_at": "2026-08-08 14:45"
+ },
+ {
+  "id": 40634602,
+  "title": "Nifty50 Minute OHLC Data -- 2",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/data-collection/Nifty-Minute-OHLC-Data",
+  "desc": "I need a clean, gap-free OHLC data set for the Nifty 50 index on a 1-minute timeframe covering 1 January 2020 right up to the end of the current trading day. I will supply an Excel template that already lists every required timestamp; simply populate the Open, High, Low and Close columns against each row.\n\nKey points  \n• Source must be Zerodha only (Kite historical API or another Zerodha-backed feed).  \n• No extra fields are necessary—just the four price columns.  \n• Final delivery should be the same workbook returned to me in .xlsx format, ready for immediate use.\n\nBefore we wrap up, I’ll verify the file for missing intervals, incorrect time zones (IST), or obvious outliers. Once everything checks out, the job is complete.",
+  "query": "data extraction",
+  "found_at": "2026-08-08 15:14"
+ },
+ {
+  "id": 40634585,
+  "title": "Contabilidad QuickBooks Online Intermedio",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/microsoft-365/Contabilidad-QuickBooks-Online",
+  "desc": "Busco apoyo continuo para llevar la contabilidad diaria de algunas compañias e EEUU en QuickBooks Online. Necesito a alguien con nivel intermedio comprobable que pueda trabajar de forma autónoma, manteniendo una comunicación clara en español y con capacidad de leer y escribir en inglés cuando sea necesario.\n\nLas responsabilidades principales serán:\n• Registrar y conciliar todas las transacciones bancarias de manera oportuna.  \n• Revisar y depurar los estados financieros antes de su presentación.  \n• Gestionar cuentas por pagar y por cobrar, manteniendo la información siempre actualizada.  \n\nValoro especialmente la atención a los detalles, el pensamiento analítico y la iniciativa para proponer mejoras en los procesos. Para completar las tareas cómodamente deberás manejar Excel y las herramientas de Microsoft 365.\n\nSi resides en Latinoamérica será una ventaja por la cercanía de huso horario, aunque estoy abierta a talento de cualquier país mientras cumplas con los requisitos. Indícame tu experiencia específica en QuickBooks Online y casos en que hayas realizado labores similares.",
+  "query": "excel automation",
+  "found_at": "2026-08-08 15:14"
  }
 ]
