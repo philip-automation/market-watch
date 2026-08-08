@@ -4327,5 +4327,57 @@
   "desc": "I'm seeking a skilled actor to front video commercials for our solar products. These videos will be used as ads on Facebook and Instagram.\n\nKey Requirements:\n- 5 sites and follow short script for each installation\n- Content should be focused on solar products.\n- Optimize videos for Facebook and Instagram platforms.",
   "query": "python script",
   "found_at": "2026-08-07 23:43"
+ },
+ {
+  "id": 40633342,
+  "title": "Multifaceted Lead Generation Task",
+  "budget_min": 10.0,
+  "budget_max": 100.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/leads/Multifaceted-Lead-Generation-Task",
+  "desc": "I’m looking for a reliable Lead Generation Specialist to build targeted email lists based on specific categories and locations. These leads will be used across multiple business platforms, so the focus is on high‑quality, verified contacts rather than volume.\n\nResponsibilities\n- Generate targeted email leads based on industry categories (business services, franchises, city - data, senior care, etc.).\n- Collect leads by location (state, city, region).\n- Ensure all leads are valid, active, and verified.\n- Deliver leads in a clean, organized spreadsheet.\n\nRequirements\n- Experience in lead generation and email list building.\n- Ability to source niche‑specific and location‑specific leads.\n- Use only legitimate, compliant methods (no spam lists).\n- Accuracy and attention to detail.\n\nDeliverables\n- Verified email lists categorized by industry and location.\n- Clean formatting and no duplicates.\n\n Ongoing work available for the right freelancer.",
+  "query": "data extraction",
+  "found_at": "2026-08-08 00:34"
+ },
+ {
+  "id": 40633341,
+  "title": "Need 50K Verified Leads",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/data-collection/Need-Verified-Leads",
+  "desc": "I have an upcoming campaign that requires a bulk list of 50,000 fresh, fully verified B2B contacts. I’m open on industry and geography provided the data is current, accurate, and genuinely useful. At minimum every record must contain a working email address; phone number, full name, company, and job title are welcome additions that will strengthen your bid.\n\nQuality is paramount: the final bounce rate must stay under 2 %. Please outline the data sources and verification tools you’ll use—Hunter, NeverBounce, ZeroBounce, Apollo, or similar—so I’m confident the list will be clean and compliant. \n\nDeliverables\n• 50,000 unique, validated contacts in a clearly labeled CSV or XLSX  \n• Verification report showing bounce-check results  \n• Brief log of data sources and date of collection  \n\nWe’ll start with a 1,000-row sample; once it clears my checks we’ll move to the full file. Let me know your timeline and approach, and we can get started right away.",
+  "query": "data extraction",
+  "found_at": "2026-08-08 00:34"
+ },
+ {
+  "id": 40633360,
+  "title": "Realistic AI Lifestyle Imagery",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/ai-art-creation/Realistic-Lifestyle-Imagery",
+  "desc": "I need a collection of AI-generated lifestyle images that I can drop straight into the flyers and brochures for our next marketing push. The look has to be convincingly realistic—think natural lighting, authentic expressions, and environments that feel lived-in rather than staged.  \n\nHere’s what I’m aiming for:  \n• 12–15 high-resolution images (minimum 4K) delivered as layered PNGs or editable PSDs so I can tweak text overlays later.  \n• Consistent color palette and mood across the whole set to keep the printed pieces cohesive.  \n• Subjects and settings that match typical everyday scenarios for our target demographic (casual home, café, outdoor leisure).  \n\nFeel free to use the AI tool you prefer—Midjourney, Stable Diffusion, DALL·E, or a combination—so long as the final files are print-ready and royalty-free for commercial use.  \n\nAcceptance criteria  \n• Zero noticeable AI artifacts when zoomed to 200%.  \n• CMYK versions supplied alongside RGB originals.  \n• Signed confirmation that all imagery is free of licensing restrictions.  \n\nOnce approved, I’ll slot the images into the layouts immediately, so quick turnaround is a plus.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-08 00:34"
+ },
+ {
+  "id": 40633358,
+  "title": "SimulIDE Arduino Hybrid Power Design",
+  "budget_min": 750.0,
+  "budget_max": 1500.0,
+  "currency": "AUD",
+  "usd_rate": 0.7066,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/SimulIDE-Arduino-Hybrid-Power-Design",
+  "desc": "I want to build a small-scale hybrid renewable power system—solar panels, wind turbines and tidal generators all working together—inside SimulIDE, driven solely by an Arduino sketch. The goal is purely educational: I need to show that combining these three sources is feasible and to let students see exactly how each part talks to the others. Because of that, the spotlight is on component interactions rather than chasing perfect efficiency or bullet-proof stability.\n\nYour task is to create the full SimulIDE project and the matching Arduino code so that:\n\n• the three virtual sources feed a common DC bus,  \n• the Arduino reads representative voltage/current sensors for each source, decides which source should be prioritised, and controls simple switch-mode elements (relays or MOSFETs available in SimulIDE) accordingly,  \n• live plots inside SimulIDE clearly illustrate how the sources share the load as conditions change.\n\nPlease stay within the native component library of SimulIDE; no external SPICE or additional microcontrollers. Once the model runs, I also need a concise walkthrough—screenshots plus comments in the code—so others can reproduce the experiment and tweak parameters easily.\n\nDeliverables: the .simu file, the .ino file, and a short PDF or Markdown guide explaining setup, wiring logic and expected classroom talking points.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-08 00:34"
  }
 ]
