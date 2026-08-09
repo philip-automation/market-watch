@@ -2806,5 +2806,44 @@
   "desc": "I have raw footage that needs to become an eye-catching 9:16 short, perfect for YouTube Shorts or Instagram Reels and aimed squarely at a teenage audience.  \n\nHere’s exactly what the finished file must include:  \n• Clean, punchy cuts that keep the pace fast.  \n• On-screen captions or dynamic text timed to the beat.  \n• Trend-appropriate background music (royalty-free).  \n• Smooth, modern transitions and a touch of basic motion graphics or effects where they add energy.  \n• Colour-corrected and noise-balanced visuals.  \n• Exported as a high-quality 1080 × 1920 px H.264 .mp4, ready to upload without extra tweaks.\n\nYou’ll receive the raw clips (and any brand assets) via Google Drive, along with a quick outline of the key moments I want highlighted. Please trim the footage down to the strongest 15–60 seconds, add the elements above, and return both the final edit and the project file so future tweaks are easy.\n\nI’m happy if you prefer Premiere Pro, Final Cut, DaVinci Resolve or even CapCut—use whichever lets you move fastest while preserving quality. Turnaround within three days of receiving the files would be ideal.  \n\nSend a recent short you’ve cut for social (preferably one that resonated with teens) so I can gauge style fit, and let’s get started.",
   "query": "google sheets automation",
   "found_at": "2026-08-09 20:47"
+ },
+ {
+  "id": 40636764,
+  "title": "Colaborador para Prospección Manual de Empresas",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "EUR",
+  "usd_rate": 1.156573,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/research/Colaborador-para-Prospecci-Manual",
+  "desc": "Buscamos una persona para colaborar de forma recurrente en la búsqueda y prospección manual de empresas de sectores específicos.\n\nNosotros proporcionaremos en cada proyecto el sector, ubicación y los criterios exactos que deben cumplir las empresas seleccionadas.\n\nEl trabajo consistirá en investigar manualmente cada negocio y registrar la información en una hoja de cálculo.\n\nLos datos solicitados podrán incluir nombre de la empresa, web, ubicación, email de contacto, teléfono, redes sociales, número aproximado de profesionales, servicios ofrecidos y otros criterios específicos que proporcionaremos según cada campaña.\n\nNo buscamos una extracción masiva de bases de datos. Necesitamos contactos reales, revisados y que cumplan los criterios establecidos.\n\nPresupuesto: 50 USD por cada 150 contactos cualificados.\n\nUn contacto contará como válido únicamente cuando corresponda realmente al perfil solicitado y la información proporcionada sea correcta y suficientemente completa.\n\nComenzaremos con un primer lote y, si el trabajo y la calidad son buenos, existe posibilidad de colaboración recurrente, ya que realizamos prospección para diferentes sectores y mercados. Para saber qué has leído el post, escribe “AZUL” y valoraremos tu candidatura.\n\nEn vuestra propuesta indicad brevemente vuestra experiencia realizando prospección, qué herramientas utilizáis, cómo verificáis los datos y si estáis de acuerdo con el presupuesto indicado.",
+  "query": "web scraping",
+  "found_at": "2026-08-09 21:18"
+ },
+ {
+  "id": 40636754,
+  "title": "Minimal Conceptual Logo for InfiniKraft",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010505,
+  "bids": 13,
+  "url": "https://www.freelancer.com/projects/branding/Minimal-Conceptual-Logo-for-InfiniKraft",
+  "desc": "InfiniKraft needs a symbol that feels like it rolled straight out of a world-class branding studio—minimal, intelligent and unmistakably premium. I want a 2-dimensional mark built on clean, rectangular geometry that subtly captures our 360° way of thinking and endless capacity for innovation. The idea is to weave in references to infinite creativity, evolution, connection and craftsmanship, yet keep those messages hidden within smart negative-space moves and refined geometry rather than anything literal or obvious.\n\nThe silhouette must lock in at a glance and still read perfectly when scaled down for favicons, social avatars and tiny UI elements. A wordmark will exist later, so the icon must stand proudly on its own.\n\nPreferred look and feel: modern, timeless, strategic and quietly artistic—something you’d expect from Pentagram or Collins. Elegant line weight, deliberate proportion, no gradients or 3-D tricks.\n\nI value a thoughtful creative process. Show me early concept sketches or digital roughs that explain your rationale before we refine and polish.\n\nDeliverables on approval:\n• Final logo in vector (AI, PDF, SVG) plus high-res PNG\n• Monochrome, inverted and clear-space versions\n• Brief one-page usage guideline highlighting grid, proportions and minimum size\n\nIf you thrive on intelligent geometry and love hiding big ideas inside subtle forms, let’s make something iconic together.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-09 21:18"
+ },
+ {
+  "id": 40636752,
+  "title": "Categorize 10k FMCG Products",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010505,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/data-management/Categorize-FMCG-Products",
+  "desc": "I have an Excel master list of roughly ten thousand fast-moving consumer goods. Your task is simple but detail-critical: open the sheet, leave every existing item code untouched, and populate only the Category and Sub-category columns with the correct values from the predefined taxonomy I will send you in a separate Excel file.  \n\nThat taxonomy already covers every valid option, so please do not invent new labels. Where a product does not clearly fit, add a short “Review” flag in the notes column rather than guessing. I will also share a brief set of basic guidelines that clarify how to interpret edge cases.  \n\nBecause accuracy outweighs speed, I want the work returned in manageable checkpoints: upload the updated sheet in batches of 1,000 products so I can spot-check and clear up any misclassifications early. We will repeat the cycle until all 10,000 lines are finalized.  \n\nDeliverables  \n• Batch files of 1,000 rows each, with Category and Sub-category columns completed  \n• A running list of all rows you flagged for review  \n• A final consolidated file once every batch is approved  \n\nAcceptance criteria  \n• 98 % or higher category accuracy per batch  \n• Zero changes to original item codes, descriptions, or pricing fields  \n• All uncertain items clearly flagged, not left blank or mis-assigned  \n\nExcel proficiency and an eye for retail product nuances are essential. If that sounds like you, let’s get started.",
+  "query": "excel automation",
+  "found_at": "2026-08-09 21:18"
  }
 ]
