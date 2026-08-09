@@ -2325,5 +2325,70 @@
   "desc": "I need a simple, reliable document-scanner that runs on both Android and iOS and ships to the Play Store and App Store without hiccups. The core task is straight-forward: open the camera, capture one or multiple pages, detect the edges automatically, crop, enhance, then save or share the result as a single PDF.\n\nKey functions I must see working smoothly:  \n• Auto-cropping and page-boundary detection so users don’t have to fiddle with manual corners.  \n• Local file management: folders, rename, quick search and the option to delete or re-order pages before final export.  \n• One-tap “Save as PDF”. No OCR or deep editing—just clean scans.  \n• Although “cloud storage integration” was ticked, I actually want files to stay on the device for now, so please implement local mobile storage with the architecture left open for future Google Drive / Dropbox / OneDrive hooks.\n\nDeliverables  \n1. Source code (Flutter, React Native, Kotlin/Swift, or another well-supported approach—your call, as long as review and future maintenance are easy).  \n2. Test builds for Android and iOS that demonstrate the full scan-to-PDF flow.  \n3. Final store-ready packages plus a brief setup document covering build steps, entitlements, and camera permissions.\n\nAcceptance criteria: the app launches, scans multi-page documents in less than 10 seconds per page on a mid-range phone, auto-detects edges accurately under normal indoor lighting, produces a single PDF under 300 dpi, stores it locally, and lets me move, re",
   "query": "gpt integration",
   "found_at": "2026-08-09 14:56"
+ },
+ {
+  "id": 40636343,
+  "title": "DIGITAL GROWTH, SEO, AEO, GEO & LEAD GENERATION EXECUTIVE REMOTE ",
+  "budget_min": 240.0,
+  "budget_max": 2000.0,
+  "currency": "HKD",
+  "usd_rate": 0.127514,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/seo/DIGITAL-GROWTH-SEO-AEO-GEO-40636343",
+  "desc": "DIGITAL GROWTH, SEO, AEO, GEO & LEAD GENERATION EXECUTIVE\n\nLong-Term Monthly Retainer | Remote\n\nCompany: Valusage Business Advisors\nWebsite: https://valusage.com/\nEngagement: Long-Term Monthly Retainer\nReporting: Daily, Weekly and Monthly\nPerformance: KPI-Based\n\nIMPORTANT: READ THE FULL PROJECT BEFORE BIDDING\n\nDo not submit random, automated, copied, misleading, or placeholder bids.\n\nDo not bid first and ask about the scope later.\n\nDo not submit a low bid and increase your price after discussion.\n\nYour bid must represent your FINAL MONTHLY PRICE.\n\nIf you have not reviewed the complete scope, do not have relevant experience, or do not have enough time to handle this role properly, DO NOT BID.\n\nSpam, misleading, irrelevant, or random bids may be reported through Freelancer.\n\nThis is NOT a one-time SEO project.\n\nWe are looking for one serious professional for a long-term monthly engagement who will take responsibility for Valusage's ongoing digital growth, visibility, lead generation, and client acquisition activities.\n\nOBJECTIVE\n\nYour role is to:\n\n• Increase Valusage online visibility\n• Improve Google rankings\n• Improve AI search visibility\n• Generate qualified UAE business leads\n• Book consultations\n• Support client acquisition\n• Track measurable results\n• Continuously improve performance\n\nCORE RESPONSIBILITIES\n\n1. SEO\n\nManage complete SEO for valusage.com, including:\n\n• Technical SEO audits\n• On-page SEO\n• Off-page SEO\n• Keyword research\n• UAE competitor analysis\n• Internal l",
+  "query": "data extraction",
+  "found_at": "2026-08-09 15:40"
+ },
+ {
+  "id": 40636298,
+  "title": "Full-Service Fashion Brand Marketing",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/digital-marketing/Full-Service-Fashion-Brand-Marketing",
+  "desc": "Clothing Brand Growth & Digital Marketing\n\nWe are looking for an experienced digital marketing agency to manage and grow our clothing brand’s online presence and increase overall sales.\n\nThe project will include complete social media management, performance marketing, content creation, and e-commerce growth strategy.\n\nKey Requirements\n\n- Develop and execute a strong digital marketing strategy focused on sales and brand growth.\n- Plan, manage, and optimize Meta Ads and other relevant paid advertising campaigns.\n- Handle complete Instagram and social media management, including posts, stories, reels, and campaigns.\n- Conduct regular professional photoshoots and video/reel shoots for our products and brand.\n- Create engaging and trend-based content that is suitable for our target audience.\n- Develop a monthly content calendar and social media strategy.\n- Analyze ad performance, customer behavior, and sales data and continuously optimize campaigns.\n- Suggest which products, designs, categories, colors, and collections we should introduce based on market trends and customer demand.\n- Provide guidance on product pricing, positioning, offers, and promotional strategies.\n- Help improve our website/e-commerce store conversion rate and overall customer journey.\n- Build strategies for customer acquisition, retargeting, repeat purchases, and long-term brand growth.\n- Provide regular reports covering ad spend, leads/orders, ROAS, sales, engagement, and overall performance.\n\nMain Goal\n\nOur",
+  "query": "data extraction",
+  "found_at": "2026-08-09 15:40"
+ },
+ {
+  "id": 40636313,
+  "title": "PDF Text Transfer to Excel",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/data-annotation/PDF-Text-Transfer-Excel",
+  "desc": "I need the complete text from a collection of PDFs moved into an Excel workbook. The files contain only text—no tables or images—so the task is a straightforward copy-across of every word, not just selected excerpts or keywords.  \n\nAll I’m after in the spreadsheet is plain, unstyled text. No bolding, italics, or heading hierarchy is required; consistency and accuracy matter more than formatting flair. As long as each PDF’s content is clearly separated (one sheet per file or another logical structure you propose), I’m flexible on how you organise the rows and columns.  \n\nThe deliverable is a clean .xlsx file containing the full text from every PDF, double-checked for completeness and stripped of any hidden characters or line-break glitches that sometimes sneak in during conversion. If you use tools like Adobe Acrobat, Python‐based PDF extractors, or reliable OCR for tricky pages, let me know—speed is welcome, but precision is essential.",
+  "query": "python automation",
+  "found_at": "2026-08-09 15:40"
+ },
+ {
+  "id": 40636340,
+  "title": "Japan Movie Review Monitor",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/data-entry/Japan-Movie-Review-Monitor",
+  "desc": "I need a Japan-based contributor who can dedicate a short block of time each day to track fresh entertainment coverage—specifically movie reviews—across major Japanese online outlets, blogs, and streaming platforms. Politics and technology pieces are outside the scope; celebrity gossip or music updates can be skipped as well. The spotlight is on reviews that dig into plot analysis, so comments on acting or visual effects matter only when they help explain the storyline.\n\nHere’s how I see the work flowing: scan reputable Japanese sources, capture every new review, pull out the reviewer’s key plot points, and distill them into concise English notes. Add the source URL, publication date, critic name, and a quick one-sentence verdict from the original article. Everything goes into a shared Google Sheet, with a screenshot or PDF as backup so I can reference the native text later. \n\nDeliverables  \n• Daily sheet with fresh review links, critic and outlet info  \n• 150–200-word English summary emphasising plot analysis  \n• Archived screenshot/PDF of each article  \n• End-of-week trend note (recurring themes, standout releases)\n\nA reliable internet connection, native-level Japanese, and solid written English are essential. Familiarity with Google Workspace or similar collaboration tools will make the hand-off smooth. The workload is light but requires consistency: plan on one to two hours per weekday, though launch weeks for big titles may run slightly longer.\n\nI will review the first t",
+  "query": "google sheets automation",
+  "found_at": "2026-08-09 15:40"
+ },
+ {
+  "id": 40636304,
+  "title": "Reforestación Corporativa Bosque de Vida",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/environmental-consulting/Reforestaci-Corporativa-Bosque-Vida",
+  "desc": "Busco apoyo profesional para cumplir con la Ley 2173 y nuestro programa “Bosque de Vida”.  \nEl objetivo es reforestar áreas designadas por nuestra empresa —y las de algunos socios— con especies 100 % nativas, garantizando la supervivencia mínima exigida por la normativa.\n\nAlcance principal  \n• Diseño del plan de reforestación, incluyendo selección de especies nativas apropiadas para cada micro-sitio y cronograma de actividades.  \n• Ejecución de la plantación manual: apertura de huecos, siembra, aplicación inicial de abono orgánico y tutorado.  \n• Reporte fotográfico y georreferenciado de cada jornada para auditoría ambiental y seguimiento corporativo.  \n• Capacitación breve a nuestro equipo interno sobre mantenimiento y monitoreo post-siembra.\n\nCriterios de aceptación  \n1. Todas las plántulas provienen de viveros certificados y cuentan con documentos fitosanitarios.  \n2. Tasa de supervivencia inicial ≥ 90 % verificada 30 días después de la siembra.  \n3. Entrega de informe final en formato PDF y Excel con coordenadas, número de individuos por especie y recomendaciones de riego/mantenimiento.\n\nSi ya has trabajado con reforestación empresarial o proyectos similares bajo la Ley 2173, menciona ejemplos concretos. Espero tu propuesta para coordinar fechas, insumos y alcances específicos.",
+  "query": "excel automation",
+  "found_at": "2026-08-09 15:40"
  }
 ]
