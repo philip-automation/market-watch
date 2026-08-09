@@ -2780,5 +2780,31 @@
   "desc": "I already have the full bill of materials for a small ESP32-C5 project and will be routing the PCB myself; what I’m missing is a clean, professionally organised schematic showing every connection exactly as it should be. This must be done on EasyEDA.  \r\n\r\nKey points you’ll need to capture  \r\n• Core: ESP32-C5 with dual PCB antennas for 2.4 GHz and 5 GHz (antennas to be designed).  \r\n• Display: Winstar WEO012864D 128×64 OLED on the 30-pin ZIF header, running over I2C.  \r\n• IR section: TSOP38238 receiver plus TSAL6100 and TSAL6200 LED emitters.  \r\n• Power: simultaneous support for 5 V through USB-C and a Li-Ion cell managed by a TP4056, with a downstream 3.3 V LDO.  \r\n• Controls: two momentary buttons tied to power on/off functionality and a separate slide switch.  \r\n\r\nDeliverables  \r\n- Editable schematic file in EasyEDA format.  \r\n- PDF export for quick review.  \r\n- Clear net names and annotation so I can drop the design straight into my board layout stage without hunting for signals.  \r\n\r\nNo PCB layout, footprints, or placement work is required—just a logically arranged, error-free schematic that adheres to best-practice wiring and shows any recommended supporting passives for power rails, reset lines, decoupling, USB-C CC pins, and antenna matching where relevant.  \r\n\r\nIf something in the parts list needs an extra component to meet datasheet recommendations, flag it in the design rather than leaving it out. Once the schematic checks out, I’ll take it from there.",
   "query": "pdf extraction",
   "found_at": "2026-08-09 19:51"
+ },
+ {
+  "id": 40636711,
+  "title": "Lifestyle Instagram Photography Shoot",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/social-media-marketing/Lifestyle-Instagram-Photography-Shoot",
+  "desc": "I need a fresh set of lifestyle-focused images featuring real people, created specifically for Instagram. The shots should feel candid and relatable—think natural lighting, everyday settings, and genuine interactions that spark engagement in the feed and Stories alike.\n\nThe assignment covers the entire process: planning a simple concept that fits my brand mood, directing the models on location, capturing high-quality photos, and finishing each image with a light, consistent edit that preserves true-to-life color. All files must be delivered in both high-resolution and Instagram-ready crops (1:1 and 4:5).\n\nDeliverables  \n• Minimum 75 fully retouched photos, web-optimized and ready to post  \n• Corresponding high-resolution originals (RAW or 300 dpi JPG)  \n\nWork is complete once the final set meets these criteria and the files are transferred. If you already shoot lifestyle portraits for Instagram, share a link to that work so I can gauge fit.",
+  "query": "web scraping",
+  "found_at": "2026-08-09 20:47"
+ },
+ {
+  "id": 40636725,
+  "title": "YouTube Shorts & Reels Editing",
+  "budget_min": 10.0,
+  "budget_max": 1000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/motion-graphics/YouTube-Shorts-Reels-Editing",
+  "desc": "I have raw footage that needs to become an eye-catching 9:16 short, perfect for YouTube Shorts or Instagram Reels and aimed squarely at a teenage audience.  \n\nHere’s exactly what the finished file must include:  \n• Clean, punchy cuts that keep the pace fast.  \n• On-screen captions or dynamic text timed to the beat.  \n• Trend-appropriate background music (royalty-free).  \n• Smooth, modern transitions and a touch of basic motion graphics or effects where they add energy.  \n• Colour-corrected and noise-balanced visuals.  \n• Exported as a high-quality 1080 × 1920 px H.264 .mp4, ready to upload without extra tweaks.\n\nYou’ll receive the raw clips (and any brand assets) via Google Drive, along with a quick outline of the key moments I want highlighted. Please trim the footage down to the strongest 15–60 seconds, add the elements above, and return both the final edit and the project file so future tweaks are easy.\n\nI’m happy if you prefer Premiere Pro, Final Cut, DaVinci Resolve or even CapCut—use whichever lets you move fastest while preserving quality. Turnaround within three days of receiving the files would be ideal.  \n\nSend a recent short you’ve cut for social (preferably one that resonated with teens) so I can gauge style fit, and let’s get started.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-09 20:47"
  }
 ]
