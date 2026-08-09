@@ -2845,5 +2845,31 @@
   "desc": "I have an Excel master list of roughly ten thousand fast-moving consumer goods. Your task is simple but detail-critical: open the sheet, leave every existing item code untouched, and populate only the Category and Sub-category columns with the correct values from the predefined taxonomy I will send you in a separate Excel file.  \n\nThat taxonomy already covers every valid option, so please do not invent new labels. Where a product does not clearly fit, add a short “Review” flag in the notes column rather than guessing. I will also share a brief set of basic guidelines that clarify how to interpret edge cases.  \n\nBecause accuracy outweighs speed, I want the work returned in manageable checkpoints: upload the updated sheet in batches of 1,000 products so I can spot-check and clear up any misclassifications early. We will repeat the cycle until all 10,000 lines are finalized.  \n\nDeliverables  \n• Batch files of 1,000 rows each, with Category and Sub-category columns completed  \n• A running list of all rows you flagged for review  \n• A final consolidated file once every batch is approved  \n\nAcceptance criteria  \n• 98 % or higher category accuracy per batch  \n• Zero changes to original item codes, descriptions, or pricing fields  \n• All uncertain items clearly flagged, not left blank or mis-assigned  \n\nExcel proficiency and an eye for retail product nuances are essential. If that sounds like you, let’s get started.",
   "query": "excel automation",
   "found_at": "2026-08-09 21:18"
+ },
+ {
+  "id": 40636759,
+  "title": "Mobile App Development with Flutter Flow",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010505,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/android/Mobile-App-Development-with-Flutter-40636759",
+  "desc": "I'm looking for an experienced Flutter Flow developer to create a mobile app for both Android and iOS platforms. The app is intended for testing purposes and requires a robust and user-friendly design.\n\nKey Requirements:\n- Develop a mobile app using Flutter Flow\n- Ensure compatibility with Android and iOS\n- Focus on a clean, intuitive user interface\n- Implement essential testing functionalities\n\nIdeal Skills and Experience:\n- Proficiency in Flutter and Flutter Flow\n- Experience with mobile app development for Android and iOS\n- Strong UI/UX design skills\n- Familiarity with testing protocols and methodologies\n- Ability to deliver within budget constraints\n\nPlease provide a portfolio showcasing similar projects. Looking forward to your bids!\n\nI am looking for an experienced FlutterFlow developer to develop a cross-platform mobile app pilot. The app has a data-driven architecture, AI/API integration, reusable dynamic screens, and requires Android/iOS deployment. I have prepared a detailed development brief and would like a fixed-price quotation and timeline. Please share 2–3 relevant FlutterFlow projects you have personally developed.\n\nIndia-based individual/small-team developers preferred",
+  "query": "data extraction",
+  "found_at": "2026-08-09 21:55"
+ },
+ {
+  "id": 40636783,
+  "title": "Cross-Platform Mobile App Development with FlutterFlow",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010505,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/flutter-flow/Cross-Platform-Mobile-App-Development",
+  "desc": "FlutterFlow Developer Required — Cross-Platform Mobile App Pilot\n\nI am looking for an experienced FlutterFlow developer to develop a cross-platform mobile app pilot.\n\nThe application has a data-driven architecture, AI/API integration, reusable dynamic screens and database-driven content, and will require deployment to both Android and iOS.\n\nI have prepared a detailed development brief covering the application flow, architecture, functionality, AI integration, testing, source-code ownership and app-store deployment.\n\nI am looking for an India-based, preferably Chennai-based, individual developer or small development team with proven experience in:\n\n* FlutterFlow\n* Supabase and/or Firebase\n* AI/API integration\n* Dynamic and data-driven mobile applications\n* Reusable components and database-driven screens\n* Android and iOS deployment\n* Google Play Store and Apple App Store submission\n\nPlease provide:\n\n1. 2–3 FlutterFlow projects you have personally developed, preferably live apps or projects you can demonstrate.\n2. Your experience with AI/API integration and database-driven applications.\n3. Your recommended technology stack for this project.\n4. Your fixed-price quotation for the pilot.\n5. Estimated development timeline and key milestones.\n6. Confirmation that the project can be developed in a client-owned FlutterFlow account/project.\n7. Confirmation that complete source/project files and associated development assets will be handed over to the client.\n8. Your charges, if any, fo",
+  "query": "data extraction",
+  "found_at": "2026-08-09 21:55"
  }
 ]
