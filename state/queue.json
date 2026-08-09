@@ -2949,5 +2949,44 @@
   "desc": "I need a qualified civil designer to prepare a complete gravity-sewer extension and service stub for an existing lot in Redlands, Queensland. The design must be ready for lodgement and works approval with Redlands City Council, so it has to follow all current SEQ Code and Council standards. Sewer and Water services are constructed by Redlands Waater.\n\nScope  \nThe job is limited to pipe work only—no manholes (existing in place) or junction structures are needed. You will determine the optimum alignment, grade and cover, size the pipes, and show the tie-in to Council’s existing main. All drawings, long-sections and supporting calculations must be supplied in a format the Council accepts (DWG/PDF plus editable spreadsheets). I typically work in AutoCAD Civil 3D, but you can use any equivalent platform so long as the final deliverables are compatible.\n\nDeliverables  \n• Layout plan and long–section showing pipe extension and lot stub  \n• Design calcs confirming capacity, minimum grades, clearances and cover  \n• Connection detail at the existing gravity main  (Manhole on adjoining property with permission on hand. Inver levels and survey complete)  \n• Red-lined service location ready for As-Constructed conversion  \n• Completed Redlands Council forms and schedule of quantities\n\nRequirements\n• The civil engineer must be certified in Queensland. Experience working with Redlands Council is preferred but not mandatory.\n\nAcceptance  \nI will consider the task complete once the submission ",
   "query": "pdf extraction",
   "found_at": "2026-08-09 22:43"
+ },
+ {
+  "id": 40636859,
+  "title": "Google Ads Setup for Appliance Repairs",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010505,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/google-ads/Google-Ads-Setup-for-Appliance",
+  "desc": "I need my Google Ads account fully verified under Google’s advertiser verification program and then configured into a results-oriented Search Network campaign that brings me qualified washing-machine-repair leads in my local area.  \n\nOnce the verification is approved, the job rolls straight into campaign build-out. I want tightly themed ad groups, carefully chosen repair-intent keywords and negatives, and concise text ads that spotlight our “expert technicians” promise. Geo-targeting must be restricted to my city and its immediate surroundings, with call-extension and lead-form tracking so I can see which clicks turn into booked repairs.  \n\nDeliverables that will let me sign the project off:  \n• Completed advertiser verification with confirmation screenshot or ID in the account  \n• A live Search campaign with ad groups, ads, extensions and negatives clearly documented  \n• Conversion actions created (call, form, or both) and tested  \n• A short hand-off guide showing daily budget recommendation, bid strategy, and optimisation tips  \n\nIf everything passes Google’s policy checks and the first week’s performance data shows impressions, clicks and tracked calls/forms, the work is done.",
+  "query": "data extraction",
+  "found_at": "2026-08-09 23:14"
+ },
+ {
+  "id": 40636865,
+  "title": "Medium-Business Lead Lists",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "EUR",
+  "usd_rate": 1.15572,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/lead-generation/Medium-Business-Lead-Lists",
+  "desc": "I need a fresh, accurate list of medium-sized companies that match my ideal customer profile so I can roll out a cold-email and cold-call campaign right away. The list has to include verifiable decision-maker details—name, role, direct email, phone, company website, industry, headcount or revenue band, and the source you used (LinkedIn Sales Navigator, Apollo, ZoomInfo, Crunchbase, etc.).  \n\nQuality is more important than volume: every contact must be current, reachable and sit within a company large enough to fit the “medium-sized” bracket. Bounce-free emails and direct lines will be checked before I release final approval.  \n\nI’m moving quickly, so please tell me how many clean leads you can deliver, the tools you’ll rely on, and attach examples of similar lead lists you’ve built in the past. I’d like the first batch in my inbox ASAP, with the full file delivered in CSV or Google Sheet format.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-09 23:14"
+ },
+ {
+  "id": 40636848,
+  "title": "LoRa RGB LED Cue System",
+  "budget_min": 1500.0,
+  "budget_max": 3000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 17,
+  "url": "https://www.freelancer.com/projects/lora/LoRa-RGB-LED-Cue-System",
+  "desc": "My lighting software can already stream a simple serial string for every cue it fires. I now need that string to travel wirelessly over LoRa to a tiny, battery-powered receiver that drives a single addressable RGB LED. The goal is straightforward: when a specific cue (“GO 1”, “GO 2”, etc.) is triggered on the laptop, the LED on the remote unit must flash instantly in sync with the show.  \n\nI don’t mind which LED family we use—WS2812, APA102, SK6812 or any other part that is readily available in your market is fine—so long as it is easy to source and delivers reliable colour changes from a 3 V–5 V battery pack. Please recommend the part you feel is most suitable.\n\nWhat I need from you:  \n• Hardware guidance: exact LoRa modules (e.g., SX127x-based boards or similar), the RGB LED part, a compact battery solution, and any supporting components.  \n• Firmware:  \n  – A lightweight serial-to-LoRa transmitter sketch or script that runs on a USB-attached microcontroller at the laptop end.  \n  – Receiver code that listens continuously, decodes the incoming cue string, and drives the LED with a clear flash pattern.  \n• I need up to 175 receivers and the complete transmitter side built Clear build documentation: wiring diagrams, parts list with links\n• Test routine: a simple utility or instruction set I can run to prove the link works at 10 m through a wall, with an LED response time under 100 ms.  \n\nIf you can keep power consumption low enough for several hours of show time on a small Li",
+  "query": "python script",
+  "found_at": "2026-08-09 23:14"
  }
 ]
