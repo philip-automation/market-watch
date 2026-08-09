@@ -2390,5 +2390,44 @@
   "desc": "Busco apoyo profesional para cumplir con la Ley 2173 y nuestro programa “Bosque de Vida”.  \nEl objetivo es reforestar áreas designadas por nuestra empresa —y las de algunos socios— con especies 100 % nativas, garantizando la supervivencia mínima exigida por la normativa.\n\nAlcance principal  \n• Diseño del plan de reforestación, incluyendo selección de especies nativas apropiadas para cada micro-sitio y cronograma de actividades.  \n• Ejecución de la plantación manual: apertura de huecos, siembra, aplicación inicial de abono orgánico y tutorado.  \n• Reporte fotográfico y georreferenciado de cada jornada para auditoría ambiental y seguimiento corporativo.  \n• Capacitación breve a nuestro equipo interno sobre mantenimiento y monitoreo post-siembra.\n\nCriterios de aceptación  \n1. Todas las plántulas provienen de viveros certificados y cuentan con documentos fitosanitarios.  \n2. Tasa de supervivencia inicial ≥ 90 % verificada 30 días después de la siembra.  \n3. Entrega de informe final en formato PDF y Excel con coordenadas, número de individuos por especie y recomendaciones de riego/mantenimiento.\n\nSi ya has trabajado con reforestación empresarial o proyectos similares bajo la Ley 2173, menciona ejemplos concretos. Espero tu propuesta para coordinar fechas, insumos y alcances específicos.",
   "query": "excel automation",
   "found_at": "2026-08-09 15:40"
+ },
+ {
+  "id": 40636394,
+  "title": "Editorial Fashion Lifestyle Photoshoot",
+  "budget_min": 1500.0,
+  "budget_max": 3000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/lighting-design/Editorial-Fashion-Lifestyle-Photoshoot",
+  "desc": "I’m putting together a small editorial feature and need a photographer who can work seamlessly in both a studio and outdoor location. The look is lifestyle-driven—a blend of fashion, fitness and intimate portrait moments—with no more than three outfit changes, so quick scene and lighting adjustments are key.\n\nI expect magazine-ready results: colour-balanced, lightly retouched images that work in print and on the web. You should feel at ease directing simple poses, capturing movement for the fitness element, and balancing available light with strobes or continuous fixtures when the scene calls for it.\n\nDeliverables  \n• Contact sheet of all viable frames within 48 hours for selects  \n• 10–15 fully edited high-resolution images plus web-optimised copies  \n• Raw files archived for at least three months\n\nThe shoot is slated for next month, exact date flexible to match your schedule. Wardrobe and permits are handled; please come with your own lighting kit and preferred modifiers. Share links to similar editorial work and your typical turnaround time, and let’s create something striking together.",
+  "query": "web scraping",
+  "found_at": "2026-08-09 16:15"
+ },
+ {
+  "id": 40636358,
+  "title": "BGMI & Free-Fire Android Tournaments",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 13,
+  "url": "https://www.freelancer.com/projects/android-app-development/BGMI-Free-Fire-Android-Tournaments",
+  "desc": "I need a production-ready Android application that lets gamers enter Free Fire and BGMI single-elimination tournaments using a dual-currency system. Players will spend coins to register, earn diamonds for every kill and final position, then redeem those diamonds for Amazon, Flipkart, or Google Play gift cards inside the app.\n\nCore experience  \n• Clean, modern UI with separate weekly and monthly leaderboards that reset automatically.  \n• Email-and-password login only; no social or phone auth is required.  \n• Coins and diamonds must be handled by a secure, server-side wallet so no values are stored locally.  \n• Offerwalls (Timewall, CPAlead, Monlix) should credit coins instantly once their callbacks fire.  \n• I will supply my unity account—ads keep the app completely free for users, so interstitial and rewarded formats must be placed thoughtfully.  \n\nAdmin tools  \nA web-based panel should let me create rooms, set entry fees, push results, manage user balances, issue gift-card codes, schedule notifications, and pull CSV reports.\nFor 1k users i want automatic gift card generation via woohoo voucher website \n\nExpected hand-off  \n1. Signed, build-ready Android Studio project with full Kotlin/Java source, all assets, and the JKS file.  \n2. Deployed admin panel (PHP/Laravel or Node preferred, whatever you are quickest in) with database scripts.  \n3. Clear README covering server setup, Firebase/FCM configuration, and how to swap ad or offerwall IDs.  \n4. One test tournament proving th",
+  "query": "web scraping",
+  "found_at": "2026-08-09 16:15"
+ },
+ {
+  "id": 40636363,
+  "title": "Netlify oldal befejezése",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/web-development/Netlify-oldal-befejez",
+  "desc": "Már elkészült egy többoldalas, statikus Netlifyra saját domainen. Arra keresek megbízható fejlesztőt vagy ügynökséget, aki professzionálisan befejezi a rendszert, majd havi szinten üzemelteti és karbantartja.\n\nFeladatok – egyszeri bevezetés\n• Finomhangolás: reszponzív layout és pixelpontos UI, hogy a mobilbarát kialakítás legyen a technikai SEO elsődleges pillére.  \n• Blog beüzemelése: szerkeszthető Netlify CMS (vagy hasonló) felület oktatóanyagok publikálásához.  \n• Űrlapok: Netlify Forms (vagy más megbízható megoldás) bekötése visszajelzések gyűjtésére, spam-szűréssel és e-mail értesítéssel.  \n• Stripe-előfizetések: fizetési flow, wekhookok, teszt– és éles környezet.  \n• Online időpontfoglalás: egyszerű, kalendáralapú foglaló komponens integrációja.  \n• Technikai SEO + analitika: Search Console, Google Analytics/GA4, strukturált adatok, sitemap, gyorsítótárazás.  \n\nHavi üzemeltetés\n• Verziófrissítések (dependency-k, Node, Netlify plug-inek).  \n• Rendszeres biztonsági ellenőrzések, uptime-monitoring.  \n• Tartalmi támogatás: blogposzt-feltöltés, oktatóanyag-oldalak formázása.  \n• Kis fejlesztések: új űrlapmezők, A/B tesztek, SEO-finomítások.  \n\nKérek\n1. Külön árat az egyszeri bevezetésre és a havi karbantartásra.  \n2. Konkrét Netlify/Jamstack referenciákat – link és rövid leírás elegendő.  \n3. Tervezett technológiai stacket, ha eltér a fentiektől.  \n\nOlyan partnert keresek, akinek már rutinszerű a Netlify, Stripe és statikus site workflow, és aki proaktívan jelez, ha optimali",
+  "query": "google sheets automation",
+  "found_at": "2026-08-09 16:15"
  }
 ]
