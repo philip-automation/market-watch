@@ -726,5 +726,31 @@
   "desc": "Busco apoyo de un especialista en Meta Ads que me ayude a convertir nuevos clientes potenciales en ventas para mis trámites y prestaciones de servicios.  \n\nQué necesito de ti  \n• Definición de la estrategia de conversión: segmentación precisa para audiencias frías que aún no conocen mi marca.  \n• Creación y lanzamiento de campañas en Facebook Ads e Instagram Ads, configurando objetivos de “Ventas/Conversiones”.  \n• Instalación y verificación correcta del píxel y eventos (API de Conversiones incluida si es recomendable).  \n• Diseño o adaptación rápida de los anuncios (copys, formatos, llamados a la acción) orientados a resultados.  \n• Optimización continua: ajustes de presupuesto, testeos A/B, análisis de métricas y reporting semanal para escalar lo que funcione.  \n\nEntregables esperados  \n1. Plan de campaña con segmentaciones, creatividades sugeridas y calendario.  \n2. Configuración completa de las campañas dentro de mi Business Manager.  \n3. Informe de rendimiento y recomendaciones de mejora al finalizar el primer ciclo de pruebas.\n\nValoro experiencia demostrable en generación de leads o ventas de servicios, dominio de la plataforma Meta Ads, y comunicación clara. Si puedes aportar casos de éxito similares, menciónalos en tu propuesta.",
   "query": "chatgpt api",
   "found_at": "2026-08-08 23:38"
+ },
+ {
+  "id": 40635198,
+  "title": "Cross-Platform AI Trading Console",
+  "budget_min": 75000.0,
+  "budget_max": 150000.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/api/Cross-Platform-Trading-Console",
+  "desc": "I am architecting “GoD Console,” an end-to-end trading platform that has to work seamlessly on both desktop (Windows, macOS, Linux) and mobile (iOS, Android). The system ingests real-time Telegram signals and YouTube live-stream commentary, routes them through an AI instruction-and-memory layer, then drives a strategy engine capable of back-testing, paper trading and live execution through multiple broker APIs.  \n\nCore modules that need to be engineered and wired together:  \n• Signal ingestion: high-throughput Telegram reader and live-caption/ASR pipeline for YouTube streams.  \n• AI layer: pluggable provider model with automatic fail-over and the option to “bring your own host” so local/offline models can slot in when cloud APIs such as OpenAI, Google Cloud AI or AWS AI are unavailable.  \n• Strategy, risk and market-data engines that can operate offline, yet sync safely to the cloud when back online.  \n• Trade lifecycle: back-testing, paper mode and live mode, each feeding unified logs and metrics.  \n• SaaS wrapper: authentication, subscription billing, admin panel, role-based access.  \n• Plugin framework so third-party modules can extend data feeds or execution venues without touching core code.  \n• Security, logging, monitoring and a CI/CD pipeline from the outset.  \n\nWhat I need from you is a detailed project proposal that spells out architecture, technology choices, milestone plan, testing approach and delivery timeline. Please highlight any similar systems you have built",
+  "query": "data extraction",
+  "found_at": "2026-08-09 00:36"
+ },
+ {
+  "id": 40635137,
+  "title": "MATLAB EEG Data Analysis Expert",
+  "budget_min": 20.0,
+  "budget_max": 250.0,
+  "currency": "GBP",
+  "usd_rate": 1.3491,
+  "bids": 20,
+  "url": "https://www.freelancer.com/projects/matlab/MATLAB-EEG-Data-Analysis-Expert",
+  "desc": "I need a MATLAB expert to analyze EEG data from a research experiment. \n\nKey requirements include:\n- Experience with various EEG analysis techniques, especially ERP, frequency, or connectivity analysis.\n- Proficiency in EEG signal preprocessing like filtering, artifact removal, normalization, and epoch extraction.\n- Ability to handle and interpret complex datasets.\n- Strong background in neuroscience or related fields is a plus.\n\nPlease provide detailed analysis methods and tools you plan to use in your bid.",
+  "query": "data extraction",
+  "found_at": "2026-08-09 00:36"
  }
 ]
