@@ -1142,5 +1142,83 @@
   "desc": "The city has returned my plans with a short list of comments and I need the full permit set revised so it sails through re-submittal.  \n\nScope of work  \n• Written content – Update every description, keynote and general note called out in the plans, incorporate the new compliance statements, and refresh the material specifications exactly as red-lined by the reviewer.  \n• Site plan – Insert a clear, scaled site plan that meets the latest submittal standards.  \n• Code check – Verify the entire set against the current code year the city is enforcing and flag any additional tweaks I may have missed.  \n• Electrical – Adjust the drawings only for wiring modifications; no outlet layout changes or panel upgrades are required.  \n\nDeliverables  \n1. PDF and original CAD of the revised permit set, including the new site plan.  \n2. A concise change log referencing the city comment numbers so the reviewer can see how each note was addressed.  \n\nI will consider the job complete when the document set is ready for immediate re-upload to the city portal and all comments tied to written text, wiring modifications, and code year have been fully resolved.",
   "query": "pdf extraction",
   "found_at": "2026-08-09 05:31"
+ },
+ {
+  "id": 40635507,
+  "title": "Optimize Baileys WhatsApp Web",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/api-developmet/Optimize-Baileys-WhatsApp-Web",
+  "desc": "My Baileys-based WhatsApp integration is working, but it is starting to lag under heavier traffic. I need an experienced developer who knows the Baileys library inside out to:\n\n• Profile the current code, identify the CPU, memory and I/O bottlenecks, and refactor or re-architect where necessary to improve throughput and lower latency.  \n• Verify that every optimised change remains fully compatible with the Web version of WhatsApp, including session handling, QR login, message sending/receiving, media uploads and reconnection logic.  \n• Provide a concise report of the issues discovered, the steps taken to fix them and before-and-after performance metrics (e.g. average response time, messages per second, memory footprint).\n\nAcceptance criteria  \n– Messages and media must send and arrive in under two seconds in a sustained test with at least 200 concurrent conversations.  \n– No functional regressions when accessed exclusively through WhatsApp Web.  \n– Clear documentation and commented code so future maintenance is straightforward.\n\nYou will have direct access to the current repository and a staging server for load testing. I can spin up extra test nodes or supply sample data if needed. Once optimisation and compatibility checks are complete, we will run a final stress test together before sign-off.",
+  "query": "web scraping",
+  "found_at": "2026-08-09 06:25"
+ },
+ {
+  "id": 40635566,
+  "title": "Scientific Nutrition Advice Article",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/scientific-writing/Scientific-Nutrition-Advice-Article",
+  "desc": "I’m looking for a writer who can craft a well-researched, scientifically grounded article that delivers practical nutritional advice. The piece should translate current research into clear, actionable guidance that an educated lay reader can trust.\n\nScope  \n• Format: 1,200–1,500 words, Microsoft Word or Google Docs  \n• Tone: scientific and informative—evidence first, jargon explained plainly  \n• Focus: nutritional advice supported by recent, reputable studies (preferably within the last five years)  \n• Structure: engaging introduction, logical sub-headings, concise takeaway section, full reference list in APA style  \n• Originality: 100 % plagiarism-free, properly cited data and quotations\n\nWhat I’ll review  \n1. Depth and accuracy of research  \n2. Clarity of explanations for non-specialist readers  \n3. Smooth flow and professional grammar  \n4. Correct citation and formatting\n\nPlease include a short note on your experience with nutrition writing and one sample of a similar science-oriented piece when you apply. I prioritise accuracy, punctual delivery, and overall quality, and I’m ready to move quickly once the right freelancer is found.",
+  "query": "data extraction",
+  "found_at": "2026-08-09 06:25"
+ },
+ {
+  "id": 40635565,
+  "title": "Tally Prime Data Entry and Validation",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/data-management/Tally-Prime-Data-Entry-Validation",
+  "desc": "All sales invoices, purchase bills, and daily bank transactions from the current quarter have to be entered directly into my existing Tally Prime company file. The ledgers are already created; what’s missing is the careful voucher posting that keeps the GST, narrations, and cost-centre tags consistent with my past records.\n\nOnce the entries are in, I will generate the financial statements myself, so the core of this job is accurate, audit-ready data entry. If you notice a mismatch while posting—say, an invoice total that doesn’t agree with its payment—flag it straight away so we can correct it on the spot. Although my immediate need is data entry, experience with reconciliation or report generation in Tally Prime will be appreciated, as I may extend the work later.\n\nDeliverables:\n• Clean, validated voucher entries for sales, purchases, and bank transactions in my live Tally Prime file\n• A brief summary of any discrepancies or missing paperwork discovered during posting\n\nSuccessful completion will be confirmed once every document I provide appears in Tally Prime with matching values and dates, and no suspense entries remain.",
+  "query": "data extraction",
+  "found_at": "2026-08-09 06:25"
+ },
+ {
+  "id": 40635545,
+  "title": "Comprehensive PLS-CADD Project Execution",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/database-management/Comprehensive-PLS-CADD-Project-Execution",
+  "desc": "I’m looking for a seasoned PLS-CADD specialist who can carry a transmission-line assignment from the first data check right through to the final design package. I already hold partial survey and structure data, yet it is dated and needs a careful review before any modelling begins. From that point onward, I need the full line model built, every structure analysed for strength and clearance, and a clean set of design reports generated for engineering sign-off and construction use.\n\nYou will work directly in PLS-CADD (and, where helpful, PLS-POLE or PLS-Tower) to:\n• verify and update the existing centre-line, LiDAR and structure library;\n• model the complete route, conductor and hardware;\n• run sag-tension, loading and clearance checks;\n• perform structure capacity and interaction analysis; and\n• output the full suite of standard PLS-CADD reports as well as any custom summaries I may request.\n\nDeliverables\n• Updated project database and all native PLS-CADD files  \n• Finalised line model reflecting verified field data  \n• Structural and clearance analysis output (PDF and original REP files)  \n• Consolidated design / construction report bundle  \n• Short handover note describing assumptions, versions and key settings  \n\nAcceptance\nThe job is complete once the files open without errors in PLS-CADD, all clearances and loading factors meet governing code limits, and the reports match the final model. If you can collaborate over a brief screen-share to walk me through your file set be",
+  "query": "data extraction",
+  "found_at": "2026-08-09 06:25"
+ },
+ {
+  "id": 40635536,
+  "title": "AI-Generated Viral Shorts -- 2",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/ai-video-editing/Generated-Viral-Shorts",
+  "desc": "I’m building an ongoing catalogue of 30- to 60-second entertainment pieces that will debut first on YouTube Shorts and later be repurposed for Instagram Reels and TikTok. Each clip must feel as if it was shot on a real set: believable lighting, natural motion, and zero uncanny-valley giveaways.  \n\nHere’s the flow I’m after. I give you a prompt or micro-script; you run it through your preferred generative platform—Runway, Pika, Kling, Veo, or any comparable tool—to craft realistic or cinematic visuals. You layer an English or Hindi AI voice-over that sounds human, weave in caption graphics that match the beat, add smooth transitions, and finish with royalty-free background music. The final render comes back to me in crisp 1080p, ready for immediate upload.  \n\nBecause shorts move fast, I need someone who can turn around multiple videos a week without sacrificing polish. When you reply, link to a few AI-generated samples that show the realism you can achieve and let me know which tools are in your current toolkit. If you can meet rapid deadlines, maintain consistent quality, and keep audiences hooked in the first three seconds, we’ll be working together for the long haul.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-09 06:25"
+ },
+ {
+  "id": 40635539,
+  "title": "Architectural Thesis 3D Modeling Support",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/revit/Architectural-Thesis-Modeling-Support",
+  "desc": "I’m advancing my architectural thesis and need a skilled hand to turn my concept drawings into accurate, presentation-ready 3D models. The core of the assignment is modelling; I already have 2D plans in AutoCAD, and I’d like the workflow to start from those files. You can choose the modelling environment you’re most comfortable with—Revit, SketchUp, or any other professional tool—as long as the geometry stays true to the CAD base and the exported results (renders, walkthroughs, or orthographic views) integrate cleanly back into AutoCAD sheets.\n\nThere’s no strict deadline, so we can prioritise precision and iterative feedback over speed. Along the way, I may ask for occasional Photoshop or Canva touch-ups for board layouts, but the primary deliverable remains a fully detailed, well-textured 3D model that convincingly communicates form, materiality, and spatial quality.\n\nTo make sure we stay aligned, please be ready to:\n\n• import my .dwg set and confirm dimensions  \n• build the massing, structure, and key interior elements in 3D  \n• add realistic materials, lighting, and entourage suitable for studio juries  \n• hand over native model files plus high-resolution renders and any supplemental graphics\n\nIf that scope fits your expertise in AutoCAD-driven modelling, I’d love to collaborate, review progress in stages, and produce a thesis package that stands out.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-09 06:25"
  }
 ]
