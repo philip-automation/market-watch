@@ -2286,5 +2286,44 @@
   "desc": "Project Description\nPremium B2B Sustainability Proposal Design\nI am looking for a professional graphic designer to design an 7-page B2B sustainability proposal for a luxury sustainability and hydration company based in Qatar.\nThe proposal presents a tailored ten-location hydration infrastructure solution for a high-end client. The goal is for the final document to feel premium, sophisticated, strategic and highly credible — not like a generic sustainability presentation or standard corporate template.\nI will provide:\nOur complete company profile\nBrand guidelines\nThe complete proposal copy, already structured page-by-page\nRelevant visual and brand assets\n\nYour role is to:\nCreate a polished, cohesive proposal design based on our brand\nEstablish strong visual hierarchy and typography\nMake the document compelling and easy for a senior decision-maker to navigate\nDesign tables, comparisons, metrics and information-heavy sections in a sophisticated way\nUse imagery/graphics where they genuinely enhance the content\nMaintain a luxury + sustainability + wellness aesthetic\nEnsure the final document is fully editable\nDeliver both the editable source file and a professional PDF-ready version\nImportant: The content and strategic structure have already been developed. I am looking for someone to bring the content to life through high-end design, not rewrite the proposal or apply a generic template.\nI am particularly interested in designers with experience creating premium proposals, pitch de",
   "query": "pdf extraction",
   "found_at": "2026-08-09 14:16"
+ },
+ {
+  "id": 40636286,
+  "title": "Web Society Maintenance Portal Development",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 20,
+  "url": "https://www.freelancer.com/projects/web-development/Web-Society-Maintenance-Portal",
+  "desc": "I want to bring all day-to-day society operations into one intuitive web application. The portal should sit on a PHP or JSP backend connected to a MySQL database, and it must be fully responsive so residents can use it comfortably from any modern browser.\n\nCore modules I need up and running are:  \n• House registrations (add, edit, transfer units)  \n• Society team directory with role management  \nEmployee record  \n• Deposit tracking with automated balance updates  \n• Expense entry, categorisation and reporting  \n• Admin dashboard for full configuration and analytics  \n• Resident-facing user dashboard with payment history and notices\n\nEach section has to support basic CRUD, search, export to CSV/PDF, and role-based access. Clean UI, secure authentication, and clear code documentation are a must. I’m fine if you introduce a front-end framework such as React, Angular, or Vue for the interface, as long as the server side remains in PHP or JSP and data lives in MySQL.\n\nPlease outline your proposed tech stack, estimated timeline for each module, and any similar projects you have delivered. I’ll review demos or screenshots before we lock in milestones and move to production.",
+  "query": "web scraping",
+  "found_at": "2026-08-09 14:56"
+ },
+ {
+  "id": 40636247,
+  "title": "Simple PDF-to-Word Data Entry",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/proofreading/Simple-PDF-Word-Data-Entry",
+  "desc": "I have a stack of PDF files that contain straightforward text paragraphs. Your job is to re-type their content into a clean, well-formatted Word document, making sure every character matches the source. Where copying and pasting is possible, feel free to do so, but please proofread carefully—accuracy is the priority.  \n\nThe workflow is simple:  \n1. Open the supplied PDF.  \n2. Transfer each paragraph into Word, preserving original line breaks and basic formatting.  \n3. Double-check spelling, punctuation, and paragraph order.  \n\nThe final deliverable is one Word document per PDF (or a single merged file if that is easier), all searchable and error-free. No advanced software skills are needed, just fast, accurate typing and an eye for detail. If this sounds like a task you can handle quickly and precisely, I look forward to working with you.",
+  "query": "data extraction",
+  "found_at": "2026-08-09 14:56"
+ },
+ {
+  "id": 40636269,
+  "title": "Android & iOS PDF Scanner",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/android-app-development/Android-iOS-PDF-Scanner",
+  "desc": "I need a simple, reliable document-scanner that runs on both Android and iOS and ships to the Play Store and App Store without hiccups. The core task is straight-forward: open the camera, capture one or multiple pages, detect the edges automatically, crop, enhance, then save or share the result as a single PDF.\n\nKey functions I must see working smoothly:  \n• Auto-cropping and page-boundary detection so users don’t have to fiddle with manual corners.  \n• Local file management: folders, rename, quick search and the option to delete or re-order pages before final export.  \n• One-tap “Save as PDF”. No OCR or deep editing—just clean scans.  \n• Although “cloud storage integration” was ticked, I actually want files to stay on the device for now, so please implement local mobile storage with the architecture left open for future Google Drive / Dropbox / OneDrive hooks.\n\nDeliverables  \n1. Source code (Flutter, React Native, Kotlin/Swift, or another well-supported approach—your call, as long as review and future maintenance are easy).  \n2. Test builds for Android and iOS that demonstrate the full scan-to-PDF flow.  \n3. Final store-ready packages plus a brief setup document covering build steps, entitlements, and camera permissions.\n\nAcceptance criteria: the app launches, scans multi-page documents in less than 10 seconds per page on a mid-range phone, auto-detects edges accurately under normal indoor lighting, produces a single PDF under 300 dpi, stores it locally, and lets me move, re",
+  "query": "gpt integration",
+  "found_at": "2026-08-09 14:56"
  }
 ]
