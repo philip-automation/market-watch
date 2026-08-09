@@ -2520,5 +2520,70 @@
   "desc": "My WhatsApp Business number has shown “pending delete” inside the Meta Business API for almost two years. Each time I attempt to register it I receive the pop-up: “WhatsApp currently unavailable. Please try again after 1 hour.” The message never clears and the number cannot be reused anywhere else in the WhatsApp ecosystem.\n\nI have already exhausted the typical self-service paths:  \n• Contacted WhatsApp support on several occasions  \n• Opened tickets with Meta Business Support and followed their instructions  \n• Worked through our WhatsApp BSP (Business Solution Provider)  \n• Attempted to delete and re-add the number from the Meta Business platform  \n\nDespite all of that, the status remains unchanged.\n\nWhat I need now is someone who can take over the escalation directly with Meta / WhatsApp, navigate their internal processes, and return the number to an “approved” state (or, if impossible, secure a clean removal so it can be re-registered). Please let me know your experience dealing with Meta Business Manager or WhatsApp API escalations and how quickly you believe you can unlock or reset the number. Acceptance is simple: the number must either appear as “Connected” in Meta Business Manager or be freed so it can be freshly registered without the “currently unavailable” error.",
   "query": "chatgpt api",
   "found_at": "2026-08-09 17:00"
+ },
+ {
+  "id": 40636492,
+  "title": "Consistent AI Avatar Workflow",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/ai-video-editing/Consistent-Avatar-Workflow",
+  "desc": "I’m ready to level-up my production stack with a rock-solid LTX 2.3 + ComfyUI pipeline that keeps both the face and the voice perfectly locked from the first frame to the last. The end goal is a reusable workflow I can drop into:\n\n• UGC-style ads that feel authentic yet never drift  \n• Short narrative pieces  \n• Full-length films  \n\nMy priority is absolute character and audio consistency—no jitter, morphing, or timbre shifts even in multi-minute takes. Platform-wise, I want the solution to stay flexible enough to deploy on web, mobile, and desktop front-ends as the projects demand.\n\nKey expectations  \n1. A repeatable LTX 2.3 / ComfyUI graph (or set of graphs) that handles face-locking, lip-sync, and stable voice generation in a single pass.  \n2. An example project that proves it works: one talking-head clip and one multi-scene sequence, each rendered without visual or audio drift.  \n3. Clear documentation: installation notes, recommended GPU/driver settings, and step-by-step usage so I can hand it to any editor on my team.  \n4. Source presets or checkpoints for maintaining character appearance across episodes or campaigns.  \n\nAcceptance criteria  \n• Same character model matches reference stills at ±1 pixel tolerance across every shot.  \n• Voice fingerprint deviation ≤ 3 % on standard speaker-verification metrics for clips up to 10 minutes.  \n• Rendered clips play without desync on a vanilla playback test (VLC, Safari, Android).\n\nIf you already ship bulletproof talking-head sy",
+  "query": "web scraping",
+  "found_at": "2026-08-09 17:42"
+ },
+ {
+  "id": 40636462,
+  "title": "All-in-One US Tax Platform",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 13,
+  "url": "https://www.freelancer.com/projects/agile-development/All-One-Tax-Platform",
+  "desc": "I’m building a single cloud solution that lets U.S.-based and foreign entities seamlessly calculate, file, and strategize their taxes. The first release must satisfy the needs of large corporations—complex, multi-state operations with consolidated returns—while remaining expandable to individuals and small businesses later on.\n\nScope of work  \n• Develop calculation engines for income, property, and sales tax that stay current with IRS and state rules.  \n• Integrate e-file workflows that generate ready-to-submit federal and state forms.  \n• Add real-time advisory features: scenario modeling, credit optimization, and audit-trail reporting.  \n• Provide role-based dashboards, multi-entity management, and SOC-2-ready security.\n\nPreferred tech (open to suggestions)  \nReact/Next.js front end, Python or Node micro-services, PostgreSQL, AWS, plus integration with the IRS Modernized e-File (MeF) API or similar tax SDKs.\n\nKey deliverables  \n1. Technical architecture and data model  \n2. Clickable UI prototype  \n3. MVP with automated tests  \n4. Deployment scripts and CI/CD pipeline  \n5. Documentation and final hand-off\n\nAcceptance criteria  \n• Accurate 2023-24 calculations for federal and at least two pilot states across income, sales, and property taxes.  \n• Successful end-to-end e-file in a sandbox environment.  \n• Advisory module delivers savings scenarios within 2 % of CPA-verified models.  \n• Codebase meets OWASP Top 10, GDPR/CCPA, and SOC-2 controls.\n\nIf you’ve launched fintech or r",
+  "query": "data extraction",
+  "found_at": "2026-08-09 17:42"
+ },
+ {
+  "id": 40636520,
+  "title": "I need Apis-- Casino API Integration Needed",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010511,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/api-integration/need-Apis-Casino-API-Integration",
+  "desc": "I’m building a PHP + React gaming platform and I’m ready to expand it with live game feeds. The first milestone is to wire in the Spribe Zilli Evolution API so that every casino title in their catalogue plays flawlessly on my site—secure wallet hand-offs, real-time odds, player history, everything.  \n\nOnce that is running smoothly I’ll roll out the same architecture for Aviator, Limbo-style, Chicken Road and the rest of the Daman Games catalogue, but right now Spribe’s casino suite is the proving ground.  \n\nI’m interested in developers who have walked this road before. In your message, highlight the similar casino integrations you have completed and the obstacles you solved along the way; past experience with session management, risk control, or React front-end embedding will stand out.  \n\nDeliverables  \n• Fully functional Spribe Zilli Evolution integration on my PHP backend and React front end  \n• Clean, well-commented code and endpoint documentation  \n• Short hand-over call or video to demonstrate live gameplay and admin controls  \n\nIf you can plug it in, secure it, and keep latency low, let’s talk.",
+  "query": "gpt integration",
+  "found_at": "2026-08-09 17:42"
+ },
+ {
+  "id": 40636515,
+  "title": "Cerita Romantis untuk Penggemar",
+  "budget_min": 750.0,
+  "budget_max": 1500.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/creative-writing/Cerita-Romantis-untuk-Penggemar",
+  "desc": "Saya ingin menerbitkan rangkaian cerita romantis khusus untuk para penggemar yang gemar membaca kisah ringan namun tetap emosional. Fokus utamanya adalah menghadirkan alur yang menghangatkan hati, tokoh yang mudah dicintai, dan dialog yang terasa nyata—sehingga pembaca terpikat sejak paragraf pertama sampai akhir episode.  \n\nRuang lingkup pekerjaan:  \n• Menulis satu cerita lengkap bertema romantis (±1.500–2.000 kata) yang dapat dibagi menjadi beberapa bagian pendek jika diperlukan.  \n• Menyusun judul, ringkasan singkat, serta hook menarik di awal tiap bagian agar pembaca langsung tertarik.  \n• Memastikan gaya bahasa konsisten, alur rapi, dan tidak mengandung plagiarisme.  \n• Menyerahkan file akhir dalam format Word atau Google Docs, lengkap dengan penomoran bab/episode.  \n\nHal yang saya butuhkan dari Anda saat melamar:  \n• Proposal proyek yang terperinci—jelaskan ide dasar cerita, pendekatan penulisan, dan perkiraan waktu penyelesaian.  \n• Contoh tulisan sejenis (jika ada) untuk membantu saya menilai kecocokan gaya.  \n\nSaya menghargai kreativitas dan ketepatan waktu. Kirimkan proposal terbaik Anda, dan mari kita buat kisah romantis yang akan terus diingat pembaca!",
+  "query": "google sheets automation",
+  "found_at": "2026-08-09 17:42"
+ },
+ {
+  "id": 40636518,
+  "title": "Modern Ranch Exterior & Revit Package",
+  "budget_min": 750.0,
+  "budget_max": 1500.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/3d-architecture/Modern-Ranch-Exterior-Revit-Package",
+  "desc": "I already have a fully developed 3,600 sq ft Modern Ranch floor plan and core design concepts; what I now need is the complete exterior package that will let me move straight into construction documents and client presentations.  \n\nYour brief is to translate the existing plans into a cohesive, build-ready exterior design, modeled natively in Revit. I’m looking for detailed architectural elements—not just massing—so rooflines, trim profiles, window surrounds, and eave treatments should all read clean and intentional. The material palette is fixed: board-and-batten wood siding, a complementary brick, and natural wood beams and columns for key accents. Show me how these work together with realistic proportions and connections.  Roof materials are to have a lower 1st floor roof in metal and a 2nd floor roof in asphalt shingles.\n\nWhen the model is complete, export coordinated CAD backgrounds for my consultants and create a set of photo-realistic renderings that capture the home from the main approach, rear patio, and at least one dusk view.  Drone shots will be provided to model the house on its existing lot.\n\nDeliverables  \n• Revit model (version 2022 or newer) with organized worksets and materials applied  \n• DWG backgrounds in plan, elevation, and section views  \n• 5-10 high-resolution, fully textured renderings (day and evening)  \n\nI will supply the floor plan in PDF/Bluebeam and a mood board on award. Please include a short note on similar Revit-based residential exteriors yo",
+  "query": "pdf extraction",
+  "found_at": "2026-08-09 17:42"
  }
 ]
