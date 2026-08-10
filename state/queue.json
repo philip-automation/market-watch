@@ -4847,5 +4847,83 @@
   "desc": "Saya membutuhkan bantuan menulis deskripsi produk yang singkat dan padat. Fokusnya adalah menyorot manfaat utama, fitur kunci, serta ajakan bertindak yang jelas untuk katalog online saya.\n\nLingkup pekerjaan:\n• Saya akan mengirimkan daftar produk berisi nama, spesifikasi dasar, dan target pasar.  \n• Anda menulis deskripsi unik ±40–60 kata per produk, bebas plagiarisme, SEO-friendly, dan menggunakan bahasa Indonesia persuasif.  \n• Serahkan hasil dalam Google Docs atau file .docx, satu tabel atau paragraf per produk.\n\nKriteria penerimaan:\n• Nada konsisten dan mudah dipahami.  \n• Struktur ringkas tanpa kalimat berulang.  \n• Maksimal dua revisi per deskripsi.  \n• Rata-rata 10 deskripsi per hari atau sesuai kesepakatan.\n\nCantumkan contoh tulisan serupa agar saya bisa menilai gaya dan kecocokan Anda.\nCantumkan contoh tulisan serupa agar saya\nbisa menilai gaya dan kecocokan Anda.",
   "query": "google sheets automation",
   "found_at": "2026-08-10 22:16"
+ },
+ {
+  "id": 40639351,
+  "title": "Data Organization & Cleaning Support",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010483,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/data-management/Data-Organization-Cleaning-Support",
+  "desc": "I have a mixed set of Excel spreadsheets, Word documents, and plain-text files that need to be brought under one clean, excel data cleaning,consistent structure. The work is equal parts data entry, careful typing, and data cleaning: transferring scattered values into the right columns, fixing obvious errors, standardising formats, and ensuring every sheet or document lines up with the same headings and conventions.  \n\nMy end goal is simple—when you hand the files back, I want to be able to open any spreadsheet or document and know that the information is complete, accurate, and ready for analysis. You’ll be working mainly inside Excel and Word, so solid command of formulas, filtering, and basic text-processing tricks is important.  \n\nDeliverables I expect:  \n• A master Excel workbook where all records are neatly organised and de-duplicated.  \n• Cleaned Word or text files, free of stray characters and spelling issues, aligned to the same naming and date formats used in the spreadsheet.  \n• A brief change log (a few lines per file) noting any major corrections or assumptions.  \n\nIf that sounds straightforward to you and you enjoy the precision of tidying data, I’d love to get this moving quickly.",
+  "query": "data extraction",
+  "found_at": "2026-08-10 23:01"
+ },
+ {
+  "id": 40639334,
+  "title": "Robust Python Data Analysis Tool",
+  "budget_min": 75000.0,
+  "budget_max": 150000.0,
+  "currency": "INR",
+  "usd_rate": 0.010483,
+  "bids": 13,
+  "url": "https://www.freelancer.com/projects/pandas/Robust-Python-Data-Analysis-Tool",
+  "desc": "I am building a full-featured data analysis tool and am looking for a Python developer who can take it from concept to deployment with clean, well-structured, and fully tested code.\n\nScope of work  \nThe core of the project is a pipeline that handles  \n• data cleaning  \n• data visualization  \n• statistical analysis  \n\nAll stages should be written in Python using Pandas for wrangling, Matplotlib for visual output, and Scikit-learn where modelling or advanced statistics are required. I want the codebase organised for long-term maintainability, with clear documentation, type hints where useful, and unit tests that cover critical paths.\n\nBeyond core development I will need help with debugging, automated testing, and packaging/deployment (a Docker image or similar solution that lets me spin the tool up quickly in staging and production). Familiarity with automation scripts, RESTful APIs, or light AI/ML integration is a bonus and may be folded in as we refine the roadmap.\n\nProject plan & deliverables  \nPlease outline:  \n1. A timeline broken into logical milestones (e.g., data ingestion layer, cleaning module, viz dashboard, final deployment).  \n2. The percentage or amount you would release at each milestone, along with an overall cost estimate.  \n3. Your approach to version control, CI/CD, and any additional tooling you propose.  \n\nI will review proposals based on clarity of the timeline, demonstration of past work with Pandas/Matplotlib/Scikit-learn, and evidence of writing product",
+  "query": "data extraction",
+  "found_at": "2026-08-10 23:01"
+ },
+ {
+  "id": 40639327,
+  "title": "Python Financial Data Automation Pipeline",
+  "budget_min": 75000.0,
+  "budget_max": 150000.0,
+  "currency": "INR",
+  "usd_rate": 0.010483,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/data-analysis/Python-Financial-Data-Automation",
+  "desc": "I am building an end-to-end Python solution that automatically ingests, processes, and reports on financial data pulled from CSV files, SQL databases, and live APIs. Clean, well-structured, and easily maintainable code is essential because the system will be extended over time.\n\nScope of work  \nYou will take the project from initial design through deployment. That includes setting up the data-collection pipeline, writing transformation and analysis modules, implementing robust error handling and logging, building unit / integration tests, and preparing a production-ready deployment script or container. The stack is entirely Python, so I expect idiomatic use of tools such as pandas, SQLAlchemy, asyncio, and, where it adds value, lightweight AI/ML components for anomaly detection or forecasting.\n\nKey expectations  \n• Development, debugging, and refactoring must follow PEP-8 and modern best practices.  \n• Automated test coverage should be high enough to protect against future regressions.  \n• The final package must run with a single command on a clean machine (Docker or similar).  \n• Documentation: clear docstrings, a concise README, and inline comments where logic is non-trivial.  \n• A realistic timeline broken into milestones with an accompanying cost estimate before we begin.\n\nProposed milestones  \n1. Architecture & data-source connectors  \n2. Core automation logic and transformations  \n3. Testing suite and CI setup  \n4. Deployment packaging and hand-over\n\nPlease confirm your",
+  "query": "data extraction",
+  "found_at": "2026-08-10 23:01"
+ },
+ {
+  "id": 40639358,
+  "title": "AutoCAD & SketchUp Residential Model",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/google-sketchup/AutoCAD-SketchUp-Residential-Model",
+  "desc": "I need a fully detailed 3-D model of a residential building produced in both AutoCAD and SketchUp. The purpose is architectural design, and I want to explore and refine every aspect of the house, inside and out.  \n\nScope  \n• Exterior: accurate massing, façade elements, roof geometry, site topography, and basic landscaping so the model sits naturally in context.  \n• Interior: room-by-room layout, walls, floors, ceilings, staircases, built-ins, and representative furniture blocks to check clearances and flow.  \n\nDeliverables  \n• Native AutoCAD (.dwg) and SketchUp (.skp) files, neatly organised with layers/tags for structure, finishes, fixtures, furniture, and site.  \n• Two rendered perspective images—one exterior, one interior—to illustrate material intent.  \n• A brief PDF sheet set with floor plans, two elevations, and one section generated from the model.  \n\nAcceptance criteria  \n1. Dimensions follow the metric grid I will provide (tolerance ±10 mm).  \n2. All major objects are grouped/components for easy edits.  \n3. No missing faces, reversed normals, or orphan layers/tags.  \n\nI will supply existing 2-D drawings and a materials palette once we start. Let me know your turnaround time and any sample work that shows similar residential interiors and exteriors.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-10 23:01"
+ },
+ {
+  "id": 40639339,
+  "title": "Actualización Planos de Subdivisión",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 17,
+  "url": "https://www.freelancer.com/projects/2d-drafting/Actualizaci-Planos-Subdivisi",
+  "desc": "Cuento con el master plan y los planos previos de cuatro lotes; necesito que los actualices para reflejar una nueva idea de distribución que ya definí. El alcance es únicamente esquemático: basta con que el resultado muestre con claridad la nueva ubicación y los tamaños corregidos de cada lote, sin entrar en detalles constructivos ni cálculos técnicos adicionales.\n\nEntrego los DWG originales y una marca en PDF con mis indicaciones. Tú me devuelves:\n\n• El master plan actualizado.  \n• Un archivo por cada uno de los cuatro lotes con sus nuevos contornos y cotas básicas.  \n• Todo en AutoCAD, limpio y con capas organizadas.\n\nAcepto una ronda rápida de ajustes menores para afinar medidas o etiquetas. Mientras cumplamos lo anterior, el trabajo se considerará completo.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-10 23:01"
+ },
+ {
+  "id": 40639328,
+  "title": "Looking for Proven Automated Strategy (NTSL) for Profit Nelogica (WIN & WDO)",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/backtesting/Looking-for-Proven-Automated-Strategy",
+  "desc": "I am looking for an experienced Nelogica developer who already has a proven, validated, and profitable automated trading strategy (NTSL script) for WIN (Mini Index) and WDO (Mini Dollar) on Profit.\n\nRequirements:\n\nProven Track Record: The strategy must have verified backtests (at least 12 months) and real/simulated track record showing consistency.\n\nProp Firm Ready: Must comply with Brazilian prop firm rules \n\nCode & Parameters: Fully functional NTSL source code in English syntax, including optimal parameter presets for WIN and WDO.\n\nSupport: Assistance with setup and parameter tuning.\n\nPlease attach backtest reports or performance proof with your proposal.",
+  "query": "python script",
+  "found_at": "2026-08-10 23:01"
  }
 ]
