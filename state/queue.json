@@ -4808,5 +4808,44 @@
   "desc": "Cerco un esperto in sicurezza informatica con comprovata esperienza nella gestione e protezione di account Google e Apple. Ho bisogno di: • Analisi approfondita dei miei account per identificare app, autorizzazioni sospette e possibili vulnerabilità • Segnalazione dettagliata di eventuali anomalie o rischi rilevati • Breve formazione personalizzata sulle migliori pratiche di sicurezza per mantenere protetti i miei account in futuro L’esperto ideale ha già gestito casi simili, conosce strumenti di auditing per Google e Apple e sa spiegare in modo semplice le procedure di sicurezza.",
   "query": "google sheets automation",
   "found_at": "2026-08-10 21:22"
+ },
+ {
+  "id": 40639290,
+  "title": "SEO Growth Strategist Needed for AI-Powered Travel Platform (US Market) -- 2",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010493,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/internet-marketing/SEO-Growth-Strategist-Needed-for-40639290",
+  "desc": "We are building BookWithAI.in, an AI-powered flight discovery and travel planning platform focused on the US market. We are looking for a long-term SEO Growth Strategist who understands modern SEO, authority building, AI search, and scalable organic growth. This is not a basic SEO or backlink-building project.\n\nOur platform is built around an AI chat interface. One of the key objectives is to keep the conversational experience while making the website highly crawlable and search-engine friendly.\n\n#Scope of Work\n\nWe are looking for someone who can:\n\n1. Develop a long-term SEO growth strategy for an AI-powered travel platform.\n2. Improve Technical SEO, crawlability, indexing, schema, internal linking, Core Web Vitals, and site architecture.\n3. Keep the AI chat interface while adding crawlable SEO content around it.\n4. Create SEO-optimized landing pages that naturally guide users to the AI chat experience.\n5. Build a scalable Programmatic SEO strategy, including route pages, airport pages, destination pages, airline pages, and travel-intent landing pages.\n6. Develop content clusters and publish SEO-optimized blogs on the same domain that drive users into the AI chat.\n7. Increase Domain Authority and Domain Rating through high-quality, white-hat authority building.\n8. Focus on increasing the number of quality referring domains.\n9. Acquire editorial backlinks from reputable travel, AI, technology, SaaS, startup, and news websites.\n10. Avoid spam backlinks, PBNs, automated link bui",
+  "query": "web scraping",
+  "found_at": "2026-08-10 22:16"
+ },
+ {
+  "id": 40639287,
+  "title": "Multi-Company WhatsApp API Integration",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010493,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/api-developmet/Multi-Company-WhatsApp-API-Integration",
+  "desc": "I’m upgrading our Laravel-based CRM so every client company can plug in its own WhatsApp Business number through Meta’s official Cloud API, not a reseller platform. The job starts with setting up Meta Embedded Signup inside our app, continues through webhook handling and message-template management, and ends with production-ready token storage that survives refreshes and keeps each tenant isolated.  \n\nYou’ll be working on:  \n• Meta Embedded Signup flow embedded in our existing onboarding wizard  \n• Webhook endpoints that route messages and events to the correct tenant context  \n• Template creation, approval syncing, and marketing-style broadcast support inside the CRM UI  \n• Secure, encrypted token lifecycle management for multiple numbers across companies  \n\nAcceptance is simple: a new tenant should be able to sign up, connect its number, send and receive templated or session messages, and view logs—all without touching the codebase.  \n\nIf you’ve shipped something similar, send over a link or demo, your estimated timeline, and a quote broken into milestones. I’m ready to start as soon as I see a proven track record with Meta’s Cloud API in a multi-tenant setting.",
+  "query": "gpt integration",
+  "found_at": "2026-08-10 22:16"
+ },
+ {
+  "id": 40639274,
+  "title": "Penulisan Deskripsi Produk Ringkas -- 2",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/content-writing/Penulisan-Deskripsi-Produk-Ringkas-40639274",
+  "desc": "Saya membutuhkan bantuan menulis deskripsi produk yang singkat dan padat. Fokusnya adalah menyorot manfaat utama, fitur kunci, serta ajakan bertindak yang jelas untuk katalog online saya.\n\nLingkup pekerjaan:\n• Saya akan mengirimkan daftar produk berisi nama, spesifikasi dasar, dan target pasar.  \n• Anda menulis deskripsi unik ±40–60 kata per produk, bebas plagiarisme, SEO-friendly, dan menggunakan bahasa Indonesia persuasif.  \n• Serahkan hasil dalam Google Docs atau file .docx, satu tabel atau paragraf per produk.\n\nKriteria penerimaan:\n• Nada konsisten dan mudah dipahami.  \n• Struktur ringkas tanpa kalimat berulang.  \n• Maksimal dua revisi per deskripsi.  \n• Rata-rata 10 deskripsi per hari atau sesuai kesepakatan.\n\nCantumkan contoh tulisan serupa agar saya bisa menilai gaya dan kecocokan Anda.\nCantumkan contoh tulisan serupa agar saya\nbisa menilai gaya dan kecocokan Anda.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-10 22:16"
  }
 ]
