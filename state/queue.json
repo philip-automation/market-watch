@@ -6147,5 +6147,70 @@
   "desc": "4-Layer ESP32 Hardware Optimization, LTspice/ANSYS Thermal Simulation & Production PCB Package\n\n                  ******Project Budget is 30-60 USDS Best offer within this budget wins.********\n\n\nIMPORTANT: NO PLACEHOLDER BIDS, Proposals starting with generic templates or placeholder quotes will be immediately declined and reported. To prove you have read and understood the entire project scope, your proposal MUST start with the exact phrase: HARDWARE-EXPERT\n\nProject Overview: We are seeking an expert Senior Embedded Hardware / PCB Design Engineer to finalize, simulate, optimize, and release a high-reliability, 4-layer ESP32-based industrial electronic system. This project demands strict adherence to engineering standards, component lifecycle management, galvanic isolation, and rigorous CAD validation. Zero ERC/DRC errors in KiCad are mandatory.\n\nScope of Work & Deliverables Milestone 1:\nSchematic Optimization & Electrical Simulation: LTspice PDN & Circuit Simulation: Perform transient load, startup analysis, and simulate power delivery stability between the HLK Network module, secondary power modules, and ESP32-S3.\n\nSchematic Audit & Protection: Integrate WM8960 codec. Implement robust hardware protection (OVP, TVS diodes, fuses, surge protection).\n\nSafety & Isolation: Establish a Galvanic Isolation strategy with defined Creepage & Clearance limits between high-power AC/DC lines and RF/logic circuits.\n\nM1 Deliverables: Native editable KiCad schematic source files, custom comp",
   "query": "pdf extraction",
   "found_at": "2026-08-11 15:44"
+ },
+ {
+  "id": 40641185,
+  "title": "Automated Label Editing & Barcode Tool",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "GBP",
+  "usd_rate": 1.35049,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/python/Automated-Label-Editing-Barcode-Tool",
+  "desc": "# Developer Needed – Automated Label Editing & Barcode Generation Tool\n\nI'm looking for a developer to build a tool that can automatically edit predefined label templates using information supplied by the user.\n\nI will provide **example/reference labels showing exactly which parts of each template need to be changed and how the finished output should look**. The fields and positions will not initially be provided as programmatic coordinates/specifications — they will need to be recreated from the supplied examples.\n\n### Basic workflow\n\nThe tool will receive information such as:\n\n- Tracking/reference numbers\n- Addresses/names\n- Various other custom text/numeric fields\n\nCertain supplied values will also need to be converted into the appropriate machine-readable barcode format.\n\nThe tool should then:\n\n1. Take the original label template.\n2. Replace the relevant information based on the supplied reference/example.\n3. Generate the required barcode(s) from the supplied data.\n4. Place the barcode(s) in the correct locations.\n5. Match the positioning, sizing, fonts and general appearance of the reference.\n6. Return the completed label as an image/PDF.\n\nThere will be **multiple different label templates**, with different fields and layouts.\n\nFor each template, I will provide examples demonstrating what information needs changing and where it should appear.\n\n### Interface\n\nIdeally this would operate through a simple bot or web interface.\n\nExample:\n\n**Choose template → enter requested f",
+  "query": "web scraping",
+  "found_at": "2026-08-11 16:41"
+ },
+ {
+  "id": 40641151,
+  "title": "Anamorphic Imagery for Event LED",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010486,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/adobe-illustrator/Anamorphic-Imagery-for-Event-LED",
+  "desc": "Need anamorphic content for Event LED visuals. Quantity will be in bulk throughout the year. 2D Vector or Ai generated art will be provided.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-11 16:41"
+ },
+ {
+  "id": 40641117,
+  "title": "Junior Product Designer",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010486,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/ui-design/Junior-Product-Designer",
+  "desc": "We are looking for a Junior Product and UI/UX Designer to work closely with the Founder on Zufffy, a product helping local shops get online and manage their digital experiences.\n\nThe designer will help design end-to-end product experiences, including onboarding, mobile interfaces, front-end experiences and back-end dashboards.\n\nWhat we need:\n\nUI/UX and product-design fundamentals\nFigma skills\nAbility to turn complex requirements into simple, intuitive interfaces\nWireframing, prototyping and high-fidelity UI design\nMobile-first thinking and one-handed usability\nExperience creating reusable components/design-system patterns\nAbility to explain design decisions clearly and iterate from feedback\nCuriosity about AI-assisted design workflows\nA strong portfolio demonstrating actual design thinking and execution\n\nImportant: This is an in-person role in Chembur, Mumbai (400071) with direct, day-to-day collaboration with the Founder. The working schedule is Monday–Saturday, 9:00 AM–6:00 PM.\n\nWe especially value designers who are curious about how real local businesses operate and can bring practical observations into product decisions.\n\nIdeal experience: 0–2 years. Strong student, freelance, internship or self-initiated product-design work is welcome. This project is primarily intended to identify a designer for a longer-term working relationship with Zufffy.\n\nPlease share your portfolio, relevant product-design work and examples of mobile/UI/UX projects. We are more interested in the q",
+  "query": "ai chatbot",
+  "found_at": "2026-08-11 16:41"
+ },
+ {
+  "id": 40641133,
+  "title": "Home Assistant MQTT Voice Integration",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010486,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/mqtt/Home-Assistant-MQTT-Voice-Integration",
+  "desc": "I need to setup a VPS ready and Home Assistant. My next step is to add a rock-solid MQTT layer so I can trigger relay modules through voice commands issued from Amazon Alexa, Google Assistant, and Apple Siri. The relays must respond to simple ON/OFF requests and support dimming where hardware allows.\n\nHere’s what I need you to handle:\n\n• Recommend and install a production-grade MQTT broker on the VPS, configure secure remote access (SSL/TLS and user auth) and verify message flow with Home Assistant.  \n• Create the necessary automations/intents inside Home Assistant so each of the three assistants recognises the devices and exposes the ON/OFF plus dimming capabilities.  \n• Supply clean, well-commented Arduino (ESP32) code that subscribes to the chosen topics and drives the relay boards accordingly. I should be able to flash the sketch, power up the module, and watch the relays respond instantly.  \n• Run live tests with at least one virtual and one physical device to confirm that commands from every assistant reliably operate the switches and dimmers.  \n• Provide concise documentation: broker install steps, topic structure, example Home Assistant YAML, and a short troubleshooting checklist.\n\nAcceptance is tied to a demo session where I issue voice commands from Alexa, Google, and Siri and observe the relays toggle and dim in real time on both the dashboard and the physical board.\n\nYou will not be provided server VPS credentials and you need to work online via anydesk ir similar",
+  "query": "gpt integration",
+  "found_at": "2026-08-11 16:41"
+ },
+ {
+  "id": 40641166,
+  "title": "Bilingual WhatsApp Support Assistant",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/customer-service/Bilingual-WhatsApp-Support-Assistant",
+  "desc": "I manage a growing customer base that contacts us almost exclusively through WhatsApp, so I need someone who can keep that channel professional, friendly, and always on. Your core mission will be customer service: greeting users, answering their most common questions, and making sure every conversation ends with the client feeling heard and helped.\n\nThe work is straightforward but demands consistency and a polished tone. Most inquiries revolve around order status, shipping times, payment options, and basic product details. You’ll reply in whichever language the customer uses—fluent, natural Spanish or English—without letting the switch slow you down.\n\nWhile the focus is on FAQs, I also count on you to flag anything that falls outside the usual script so I can step in or update our knowledge base. Quick responses (within a few minutes during the agreed-upon schedule) and concise, well-written answers are essential.\n\nDeliverables  \n• Real-time WhatsApp support during your shift, with ≥95 % of messages answered in under five minutes  \n• Daily chat log export with notes on recurring questions or potential improvements  \n• Weekly summary highlighting trends, unresolved issues, and suggestions for updating our automated replies or FAQ sheet\n\nIf you enjoy helping customers, write clearly in both languages, and can keep calm under the steady ping of WhatsApp notifications, let’s get started.",
+  "query": "python script",
+  "found_at": "2026-08-11 16:41"
  }
 ]
