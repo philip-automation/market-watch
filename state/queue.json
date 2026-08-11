@@ -4938,5 +4938,31 @@
   "desc": "I’m adapting my upcoming non-fiction book into a series of live-action videos, released chapter by chapter (Video Part 1, Part 2, etc.). Each segment should feel like a polished documentary: serious, informative, and supported by a professional, authoritative voice-over that guides viewers through the material without distraction.\n\nWhat I’ll provide  \n• The draft manuscript and any supporting research or images for each chapter as it’s completed.  \n• My own outline of key points that must appear on screen.\n\nWhat I’m counting on you for  \n• Translating each chapter into a concise shooting script, proposing locations or stock footage where needed.  \n• Filming or sourcing high-quality live-action footage, B-roll, stills, and subtle on-screen graphics to maintain viewer engagement.  \n• Securing and directing an authoritative narrator, then mixing the voice-over cleanly with music and natural sound.  \n• Editing, colour-grading, and delivering one finished video per chapter in 4K and 1080p, ready for online platforms.\n\nAcceptance criteria  \n1. Narrative stays faithful to the book’s facts and tone.  \n2. Visual pacing keeps viewer attention for the full runtime.  \n3. Audio mix is broadcast-ready with clear, well-balanced narration.  \n4. Each chapter video is delivered on the agreed milestone schedule.\n\nIf you have documentary credits, showreels, or voice-over samples that match a serious, authoritative style, please include them so I can evaluate fit quickly. Looking forward to colla",
   "query": "python script",
   "found_at": "2026-08-10 23:47"
+ },
+ {
+  "id": 40639406,
+  "title": "Professional Male Voice Artist",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "AUD",
+  "usd_rate": 0.705791,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/audio-engineering/Professional-Male-Voice-Artist",
+  "desc": "I'm looking for a skilled voice artist to create voice prompts for my AI call assistant program. The ideal candidate will have:\r\n- A professional tone\r\n- An Australian accent\r\n- Male voice\r\n\r\nExperience in voice-over work and a high-quality recording setup are preferred.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-11 00:39"
+ },
+ {
+  "id": 40639440,
+  "title": "3D Topography STEP Model",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "AUD",
+  "usd_rate": 0.705791,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/3d-cad/Topography-STEP-Model",
+  "desc": "I have a block of land that has already been surveyed, and I now need the ground profile translated into a workable 3-D STEP file so my construction team can begin grading, earthworks, and drainage studies.\n\nThe main survey information I can provide is a **PDF containing contour lines and site information**, so the terrain model will need to be created from the levels and contours shown on that PDF.\n\nMedium-level detail is fine. Every significant elevation change, slope, breakline, retaining wall, roadway, and other major site feature shown on the survey should be represented. There is no need for photorealistic textures, vegetation, or minor cosmetic details. Accuracy and clean, usable geometry are much more important.\n\nI would also like the **basic structure/form of the proposed house modelled into the site**, using the information I provide. The surrounding ground/earthworks should then be shaped reasonably closely around the house so that the model gives a realistic indication of how the building will sit within the existing terrain. This does not need to be an architectural-detail model; the main goal is to accurately represent the house footprint, main levels/form, and its relationship to the ground.\n\n### Preferred workflow\n\nYou are free to work in Civil 3D, Revit, Rhino, Blender, or another suitable terrain/CAD modelling package, provided the final model is clean and can be supplied as a STEP/STP file that imports reliably into Autodesk products.\n\n### Deliverables\n\n• 1",
+  "query": "pdf extraction",
+  "found_at": "2026-08-11 00:39"
  }
 ]
