@@ -1558,5 +1558,70 @@
   "desc": "I’m starting from an empty lot and need a complete residential design package for a new-build home in a traditional style. From initial concept sketches through the final construction set, I want the full architectural workflow handled: site planning, code-compliant floor plans, elevations that capture classic proportions, and any structural details a contractor will require.\n\nI will share a rough brief of room counts, preferred square footage, and local zoning information as soon as we begin. Your drawings should be delivered in both editable CAD (DWG or Revit) and ready-to-print PDF formats so my builder and local authorities can use them without extra conversion.\n\nKey things I’ll review for approval:\n• A clear, space-efficient layout that meets the brief.  \n• Exterior elevations that read undeniably “traditional” while respecting modern building codes.  \n• A coordinated set that includes floor plans, roof plan, elevations, basic sections, and a window/door schedule.  \n\nIf you can also provide optional 3D visuals or material suggestions, let me know—those extras would be a bonus but are not mandatory for this stage.\n\nPlease outline your typical timeline for schematic, design development, and final construction documents when you respond, along with any recent examples of traditional residential projects you have completed.",
   "query": "pdf extraction",
   "found_at": "2026-08-12 19:52"
+ },
+ {
+  "id": 40643818,
+  "title": "Tailored 3D Suit Customizer - CRM System",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/3d-modelling/Tailored-Suit-Customizer-CRM-System",
+  "desc": "PROJECT: Custom 3D MTM/Bespoke Suit Configurator + CRM\n\nOVERVIEW\nI own Magnolia Bespoke, a Made-to-Measure (MTM)/bespoke menswear business. Clients come to me IN PERSON for appointments. I want a professional web-based 3D configurator + CRM used on a large monitor/TV during appointments.\n\nGoal: open a client profile, create his realistic body/avatar, enter measurements and build the suit in real time. Changes to fabric, lapel, buttons, pockets, trousers, lining, etc. update the 3D garment immediately. The final configuration, measurements, price, quote, order and fitting history are saved to the CRM.\n\nReferences:\n3D Ideas/Ash Tailor: https://3d-ideas.de/3ddemo/ash-tailor/final/\nHockerty: https://www.hockerty.uk/en-uk/men/custom-suits/personalize\n\n1. 3D CLIENT AVATAR\n    The client should see a realistic male avatar resembling him. Adjustable factors:\n\n* Height and body proportions/build\n* Shoulder width/slope\n* Chest, waist/abdomen, hip\n* Arm/leg proportions\n* Skin tone\n* Other relevant body-shape variables\n\nAI may assist with body-shape/photo analysis, but must NEVER replace my professional measurements, which are authoritative and editable.\n\nSupport front/back/side/3/4 views and ideally 360° rotation.\n\n2. REALISTIC 3D CLOTHING\n    The garment must look premium and realistic, NOT like a cartoon or simple 2D image, and conform visually to the customized body. Support realistic fabric color/texture, solids, herringbone, stripes, checks/plaids/windowpane, weight/appearance wher",
+  "query": "web scraping",
+  "found_at": "2026-08-12 20:57"
+ },
+ {
+  "id": 40643789,
+  "title": "Business & Economics Research Assistant",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010488,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/academic-writing/Business-Economics-Research-Assistant",
+  "desc": "I’m assembling background material for a series of business-and-economics manuscripts and academic papers and need help extracting the most relevant insights from printed sources. The work revolves around classic and contemporary books, government-issued reports, and other authoritative print materials rather than online blogs or random web articles.  \n\nYou’ll be expected to:  \n• Locate and secure hard-copy or scanned chapters, tables, and appendices from key business and economics titles.  \n• Verify every figure, quotation, and citation against the original pagination.  \n• Produce concise chapter-by-chapter summaries, noting frameworks, data points, and any contradictions across authors.  \n• Record bibliographic details in Zotero or EndNote and log quantitative data in Excel or Google Sheets for quick reference.  \n• Flag gaps where supplemental sources might strengthen the argument—though the primary corpus must remain book-based.  \n\nAcceptance criteria  \n• All summaries are delivered in clear academic prose, free of plagiarism, with page numbers cited.  \n• Data tables align 100 % with the original text; spot checks will be performed.  \n• Zotero/EndNote library is fully populated and exportable.  \n\nWhen you respond, attach a detailed project proposal outlining your research workflow, sample timeline, and any previous experience handling print-first studies in business or economics. I’ll review proposals this week and invite the strongest match to a short kickoff call.",
+  "query": "web scraping",
+  "found_at": "2026-08-12 20:57"
+ },
+ {
+  "id": 40643788,
+  "title": "AI-Powered Advertisements Creation",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010488,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/ai-content-creation/Powered-Advertisements-Creation",
+  "desc": "We are looking for an experienced **AI Ads Creator** to create high-quality, engaging advertisements using AI tools.\n\n**Requirements:**\n\n* Create AI-powered video advertisements for products, brands and social media\n* Experience with AI video and image generation tools\n* Ability to create cinematic product ads and promotional videos\n* Strong skills in AI prompting, storytelling and visual direction\n* Experience with tools such as Runway, Kling, Veo, Sora, Midjourney, Flux, Pika or similar\n* Create videos optimized for Instagram Reels, YouTube Shorts and TikTok\n* Add professional voiceovers, music, sound effects, captions and transitions\n* Ability to create attention-grabbing hooks in the first few seconds\n* Good understanding of marketing, branding and social-media trends\n* Deliver high-quality content quickly and handle revisions\n\n**Please provide:**\n\n* Your AI advertising portfolio\n* Examples of AI-generated advertisements you have created\n* Tools you use\n* Your price per video/ad\n\nWe are interested in **long-term collaboration** with a creative AI Ads Creator.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-12 20:57"
+ },
+ {
+  "id": 40643780,
+  "title": "Professional AI Video Creation Wanted",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010488,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/ai-video-editing/Professional-Video-Creation-Wanted",
+  "desc": "We are looking for a skilled **AI Video Creator** to produce high-quality, professional and engaging videos using the latest AI video generation tools.\n\n**Requirements:**\n\n* Experience with AI video generation and AI content creation\n* Proficiency with tools such as **Runway, Kling AI, Veo, Sora, Pika, Luma, or similar**\n* Ability to create realistic cinematic AI videos from text prompts and images\n* Strong skills in AI image generation, animation and video editing\n* Ability to create characters, environments, product visuals and cinematic scenes\n* Good understanding of camera movements, lighting, transitions and storytelling\n* Ability to combine multiple AI-generated clips into a professional final video\n* Add voiceovers, background music, sound effects and subtitles when required\n* Strong creativity and attention to detail\n* Ability to deliver projects on time\n\n**Please provide:**\n\n* Your AI video portfolio/demo reel\n* Examples of your best AI-generated videos\n* List of AI tools you are experienced with\n* Your expected price per video/project\n\nWe are looking for someone reliable for **long-term collaboration** if the quality of work is excellent.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-12 20:57"
+ },
+ {
+  "id": 40643796,
+  "title": "Vidéo publicitaire Facebook & TikTok",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 17,
+  "url": "https://www.freelancer.com/projects/video-editing/Vid-publicitaire-Facebook-TikTok",
+  "desc": "J’ai besoin d’une courte vidéo publicitaire percutante destinée à être diffusée sur Facebook et TikTok. \n\nCe que j’attends :\n• Un concept créatif clair ainsi qu’un script concis adapté aux deux plateformes.  \n• La réalisation complète de la vidéo : tournage (ou utilisation de séquences libres/de stock), montage dynamique, motion design léger et bande-son libre de droits.  \n• Deux formats livrables : 1:1 pour Facebook et 9:16 vertical pour TikTok, chacun exporté en HD avec des sous-titres incrustés.  \n\nLe ton doit être accrocheur, moderne et cohérent avec une campagne publicitaire. Merci d’inclure dans votre proposition un lien vers vos réalisations similaires et de préciser votre délai de livraison estimé.",
+  "query": "python script",
+  "found_at": "2026-08-12 20:57"
  }
 ]
