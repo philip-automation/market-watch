@@ -48,3 +48,4 @@
 2026-08-05 06:22:57 UTC | в очереди: 326 | отправлено: 3 | AI Voice Agent Development for E-commerce Order Processing, BigQuery & Looker Studio Setup, PDF Bank Statements to Excel
 2026-08-08 06:05:40 UTC | в очереди: 372 | отправлено: 3 | Google Sheets Data App -- 2, Exact PDF-Excel Layout Conversion, Extract PDF Text to Excel
 2026-08-08 14:04:40 UTC | в очереди: 59 | отправлено: 3 | UK FEC PHONE NUMBERS, Database Data Entry to Excel, PDF Invoice Data Entry Assistant
+2026-08-12 06:06:21 UTC | в очереди: 535 | отправлено: 3 | Airtable Database Integration Specialist, Invoice Formatting & Excel Data, Power BI Attrition Dashboard Automation
