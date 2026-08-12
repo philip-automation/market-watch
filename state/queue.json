@@ -6693,5 +6693,83 @@
   "desc": "Got it! Here's the updated version with the correct deadline and single event:\n\n---\n\nVideo Editor Needed – Women in Business Documentary (Relaxed, Inspiring Vibe)\n\nI'm looking for a freelance video editor for a short documentary (approx. 10–15 min) celebrating women in business. I need the final footage delivered by 8:00 AM this Friday (Aug 14) , so I need someone who can work fast and communicate clearly.\n\nWhat I have:\n\n· 4 interview recordings (women entrepreneurs/leaders)\n· B-roll footage from one networking event I attended the Women Thrive Conference (includes shots of me at the event)\n\nWhat I need:\n\n· Seamlessly weave together interview clips with the Women Thrive Conference footage\n· Create a relaxed, warm, inspiring feel not stiff or overly serious. Think conversational, human, empowering.\n· Clean audio, subtle music, gentle transitions, and a flowing narrative that highlights key moments from the interviews + event energy.\n\nStyle references: Documentary meets vlog polished but approachable.\n\nMust-haves:\n\n· Available to start immediately and deliver by Friday 8:00 AM sharp.\n· Experience with documentary or event/interview editing.\n· Good communication – I'll share a rough outline/script to guide you.\n\nTo apply: Please send your rate, availability, and a link to 1–2 relevant samples (interview + event style preferred).",
   "query": "python script",
   "found_at": "2026-08-12 02:37"
+ },
+ {
+  "id": 40640916,
+  "title": "Telegram Forex Channel Growth",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/analytics/Telegram-Forex-Channel-Growth",
+  "desc": "I run a Forex-focused Telegram channel where I share live trading signals and practical tips every day. My goal is simple: attract a substantial number of genuine, engaged subscribers—beginner, intermediate, and advanced traders alike—without resorting to fake accounts or spam tactics.\n\nHere is what I need from you:  \n• A clear, ethical promotion strategy designed specifically for the Forex niche on Telegram.  \n• Steady, measurable growth in real members who interact with posts, not bots.  \n• Transparent reporting (join sources, daily/weekly growth data, engagement metrics) so I can see exactly how each campaign performs.  \n\nAcceptance criteria  \n1. All new subscribers must remain after 14 days and show at least one measurable interaction (view, reaction, or click).  \n2. No violation of Telegram’s terms or my channel risks; organic or paid ad methods are fine so long as subscribers are real.  \n3. A brief handover note outlining what was done and suggestions for continued growth.\n\nIf you have hands-on experience promoting Forex or trading groups on Telegram—and proof of previous success—let’s get started.",
+  "query": "data extraction",
+  "found_at": "2026-08-12 04:29"
+ },
+ {
+  "id": 40638372,
+  "title": "Android Memory Optimizer & Antivirus",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.01048,
+  "bids": 13,
+  "url": "https://www.freelancer.com/projects/android/Android-Memory-Optimizer-Antivirus",
+  "desc": "I need a single Android application that combines two core utilities: an efficient memory optimizer and an antivirus module.  \n\nOn the cleaning side, the app should intelligently free RAM, close unnecessary background processes, and provide clear before-and-after stats so users see how much memory was reclaimed. The process must be quick, unobtrusive, and light on battery.\n\nFor safety, I want a built-in antivirus engine offering real-time scanning and automatic definition updates. As soon as a new file is downloaded, installed, or modified, it should be checked against the latest signatures and heuristics without noticeable lag. Updates to the virus database have to run silently in the background over Wi-Fi or mobile data, with fallback scheduling if the network is unavailable.\n\nI’d like modern Android coding standards (Kotlin preferred, but Java is fine), compatibility from Android 8.0 upward, and a clean Material-design interface. Please integrate Play-services–compliant permissions handling and provide me with:\n\n• Release-ready APK  \n• Source code in Git  \n• Brief setup/compile guide  \n\nTesting will focus on successful memory optimization results, real-time threat detection, and seamless auto-update behaviour across multiple devices.",
+  "query": "data extraction",
+  "found_at": "2026-08-12 04:29"
+ },
+ {
+  "id": 40641945,
+  "title": "Repair Inaccessible Outlook OST File",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.01048,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/data-recovery/Repair-Inaccessible-Outlook-OST-File",
+  "desc": "My main Outlook data file (.ost) suddenly refuses to open, and every quick-fix I have tried has failed. I need someone who knows the inner workings of Microsoft Outlook data structures to bring the file back to life and return all my mail, contacts, and folders exactly as they were.\n\nHere is what you should know:\n• The file belongs to Microsoft Outlook (desktop).  \n• The problem is simple but critical—I cannot open the OST at all; Outlook stops with an error each time.  \n• I already attempted the usual ScanOST/ScanPST utilities and a couple of demo recovery tools, but nothing produced a usable result.\n\nWhat I need from you\n1. Diagnose the corruption and recover the full mailbox data.  \n2. Supply a working file I can open directly in Outlook, or a clean PST/OST export containing every item intact and de-duplicated.  \n3. Provide a brief outline of what you did so I can understand the steps in case this happens again.\n\nAcceptance criteria\n• The repaired file loads in my current version of Outlook with no error messages.  \n• All folders, messages, attachments, calendar items, tasks, and contacts are present and readable.  \n• No duplicates, missing items, or obvious corruption artifacts.\n\nIf additional information is required—file size, Outlook build, server type—let me know right away and I’ll provide it. I’m ready to share the file via a secure transfer method as soon as we agree on the approach.",
+  "query": "data extraction",
+  "found_at": "2026-08-12 04:29"
+ },
+ {
+  "id": 40642027,
+  "title": "Third-Person Mobile Action Game",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.01048,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/unity/Third-Person-Mobile-Action-Game-40642027",
+  "desc": "I have an idea for a fast-paced third-person action title built specifically for iOS and Android. I’m looking for a developer who can take the concept from a rough design document all the way to a polished APK/IPA that passes store submission. Core mechanics will centre on short, intense combat encounters, fluid character movement and a progression loop that keeps players coming back.\n\nYou will need to handle character control, enemy AI, level spawning, UI, basic VFX/SFX integration and in-app purchases. I expect a build that runs smoothly on mid-range devices without sacrificing visual flair, so optimisation experience for mobile GPUs is important. I’m open to Unity or Unreal—choose whichever engine you feel delivers the best performance for a third-person camera system, touch controls and rapid iteration.\n\nArt assets can begin with placeholders; final art will be provided once the greybox prototype confirms feel and pacing. Along the way I’ll need weekly test builds and source control access so we can iterate quickly on combat balance and responsiveness.\n\nFinal deliverables: project source files, store-ready builds, and clear documentation covering project setup, dependencies and any custom tools or shaders you create.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-12 04:29"
+ },
+ {
+  "id": 40641956,
+  "title": "ServiceNow Hardware Asset Tracking",
+  "budget_min": 125.0,
+  "budget_max": 135.0,
+  "currency": "AUD",
+  "usd_rate": 0.705545,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/asset-management/ServiceNow-Hardware-Asset-Tracking",
+  "desc": "I need an experienced ServiceNow HAM developer to configure and customise the ServiceNow HAM module focused on lifecycle stages, stockroom and CI reconciliation. The work centres on giving our asset team a single place inside ServiceNow to see every device’s location, status, and change history.\n\nYou will:\n• Integrate HAM with the CMDB, Discovery and ITSM modules.\n• Build workflows, business rules and scripts using Flow Designer, JavaScript and Glide APIs.\n• Support configuration audits.\n• Maintain ServiceNow HAM integration with procurement and inventory systems.\n• Manage HAM related incidents.\n\nAn NV1 Australian Government security clearance is required. Work is based in Canberra, Sydney or Melbourne, Australia. Overseas candidates are not able to be sponsored to work in Australia.\n\nPlease share relevant HAM or inventory-audit projects you have delivered and why you are a suitable candidate for this role.",
+  "query": "gpt integration",
+  "found_at": "2026-08-12 04:29"
+ },
+ {
+  "id": 40642001,
+  "title": "Trendy Instagram Reels Editor",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.01048,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/after-effects/Trendy-Instagram-Reels-Editor-40642001",
+  "desc": "I film short, vertical clips for my brand and want them transformed into attention-grabbing Reels in CapCut. The vibe is trendy and fast-paced: quick cuts, upbeat pacing, and an overall style that instantly hooks viewers in the first seconds.\n\nText overlays are a must. I’m after stylized animations—think kinetic titles that pop on beat, complement the footage, and reinforce the message without overwhelming it. Feel free to mix colors, motion, and timing so the text feels native to Instagram’s current reel culture.\n\nYou’ll receive raw footage, a rough script for the captions, and any brand assets (fonts, colors, logo). I’ll count on you to:\n\n• Edit in CapCut, keeping vertical 1080×1920 resolution.  \n• Add stylized animated text overlays that stay readable on mobile.  \n• Match pacing to trending audio or supplied tracks.  \n• Deliver a polished .mp4 plus the CapCut project file so I can make tweaks later.\n\nPlease share a couple of past Reels that show fast-paced edits with animated text so I can gauge fit. Looking forward to seeing your creative spin!",
+  "query": "python script",
+  "found_at": "2026-08-12 04:29"
  }
 ]
