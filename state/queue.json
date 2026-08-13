@@ -687,5 +687,44 @@
   "desc": "I require a Chinese speaker to revise the content for my rehabilitation business. This encompasses:\n\n• Content of the website\n• Marketing materials\n• Business documents\n\nOptimal qualifications and expertise:\n• ⁠Bilingual in both English and Chinese\n• ⁠Proven experience in content writing and reform\n•⁠ ⁠Comprehension of the terminology used in the rehabilitation industry\n• ⁠Demonstrates a comprehensive comprehension of the requirements of the intended audience\n\nWe are in search of an individual who can improve the clarity, engagement, and professionalism of our content.\n\nIf you cant bid on this projects because of the $20 kindly apply using the PDF/docs attached to this project",
   "query": "pdf extraction",
   "found_at": "2026-08-13 11:34"
+ },
+ {
+  "id": 40645329,
+  "title": "IS 456 Design Tutorial Recording",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010483,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/civil-engineering/Design-Tutorial-Recording",
+  "desc": "I’m preparing an educational tutorial that walks viewers through a full IS 456 structural design example—right from opening the spreadsheet and code book to completing the final reinforcement check. Your job is to capture the entire process on-screen, narrating each step so that civil engineering students can follow along without pausing to decipher silent clicks.\n\nYou are free to work with whatever screen-recording tool you’re comfortable with—Camtasia, OBS Studio, or any other—as long as the final video is crisp (1080p), the cursor movements are visible, and the audio is clear and evenly leveled. I will supply the design data, the sequence of calculations, and a rough script; you simply focus on recording, zooming into key clauses of IS 456 when referenced, and keeping the pacing smooth.\n\nDeliverables:  \n• One edited MP4 video, 10–15 minutes, 1080p, with voice-over  \n• Raw project files in case minor tweaks are needed  \n\nOnce I review and confirm that every step is audible, legible, and aligns with the provided script, the project is complete. We need someone to record their screen while working through our structural engineering platform StructLearn Pro (structlearnpro.com ).",
+  "query": "data extraction",
+  "found_at": "2026-08-13 12:35"
+ },
+ {
+  "id": 40645342,
+  "title": "Generate AI-Written Content",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 19,
+  "url": "https://www.freelancer.com/projects/ai-content-creation/Generate-Written-Content",
+  "desc": "I’m ready to tap generative-AI for fresh, publish-ready copy and I’d like an experienced freelancer to guide the entire process—model selection, prompt design, and final polishing. Because my exact mix of formats is still open, I’m interested in seeing how you can use tools such as ChatGPT / GPT-4, Jasper, or a comparable large-language-model setup to create several content types (articles, social captions, product blurbs) and fine-tune each piece so it sounds natural, accurate, and on-brand.\n\nHere’s what I need from you:  \n• A short discovery call to pin down themes, target audience, and voice.  \n• A sample pack containing three long-form article drafts, five social media captions, and ten product description variants so I can evaluate style versatility.  \n• A concise prompt library and style guide explaining how each piece was produced, allowing me to scale output internally after the project.  \n• All text fact-checked, plagiarism-free, and delivered in editable Google Docs or Word files.\n\nIf you have a proven track record in AI copy generation, can iterate quickly based on feedback, and understand how to balance creativity with accuracy, I’d love to see your approach and a couple of recent examples.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-13 12:35"
+ },
+ {
+  "id": 40645316,
+  "title": "Viscous-Oil Rover Blueprint",
+  "budget_min": 37500.0,
+  "budget_max": 75000.0,
+  "currency": "INR",
+  "usd_rate": 0.010483,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/cad-solidworks/Viscous-Oil-Rover-Blueprint",
+  "desc": "I am building a proof-of-concept rover whose only job is to prove that controlled, repeatable motion is possible inside transformer oil. To make that happen I need a complete blueprint package—detailed engineering drawings rather than a simple overview—showing exactly how to propel, steer, and recover a small test vehicle submerged in this highly viscous fluid.\n\nRather than propellers, tracks, or wheels, I want the craft to move by exploiting buoyancy. Your design should use the density difference between the rover and the oil to generate thrust and directional control. This should not create any bubbling in oil while movements.\n\nCritical elements of the buoyancy control system that must appear clearly in the drawings  \n• Adjustable weights  \n• Air / water pumps  \n\nEverything else—housings, seals, electronics, tethering or wireless links—is up to you, so long as the rover can be driven on demand, stopped, turned, and brought back to its starting point without contaminating the oil.\n\nDeliverables  \n1. Complete set of CAD drawings (native + PDF) covering chassis, buoyancy modules, control surfaces, and sealing solutions.  \n2. Simulation or calculation notes that confirm stability, expected speed, and manoeuvrability in oil with a viscosity close to 15 cSt at 25 °C.  \n3. Bill of Materials with part numbers, suppliers, and realistic cost estimates so I can source everything immediately.  \n4. Short operation guide explaining start-up, trim adjustment, and safe retrieval.  \n\nAccept",
+  "query": "pdf extraction",
+  "found_at": "2026-08-13 12:35"
  }
 ]
