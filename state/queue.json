@@ -2494,5 +2494,44 @@
   "desc": "I’m ready to move from concept to fabrication for a 60 ft-long × 50 ft-wide portal-frame cattle shed with 15 ft eaves. The structure will be in mild steel, so every calculation, drawing and schedule needs to reflect that material choice.\n\nScope  \nYour package should take the shed from initial member sizing all the way to workshop fabrication, leaving nothing for my fabricator to guess. I require:  \n\n• Steel member sizing and haunch geometry, fully calculated and clearly referenced.  \n• Connection detailing (beam-to-column, rafter apex, base plates, side-rail and purlin fixings). Weld sizes and bolt grades must be specified to current standards.  \n• General Arrangement drawings at “detailed layout with dimensions” level—plan, elevations and sections sufficient for statutory approval and site set-out.  \n• Elevation drawings highlighting roof pitch, eaves height and cladding lines.  \n• Fabrication drawings for every frame, including plate developments, hole positions and weld symbols.  \n• A consolidated steel cutting list tied to member marks.  \n• Master material list covering steel, fixings and consumables.\n\nDeliverables should be supplied in PDF for issue and native CAD (DWG or similar) for future edits. If you use design software such as Tekla, Advance Steel or similar, please also export IFC. Structural calculations may be in PDF or spreadsheet but must be traceable.\n\nAcceptance  \nI’ll review for completeness, dimensional accuracy, consistency between drawings and lists, and",
   "query": "pdf extraction",
   "found_at": "2026-08-14 21:35"
+ },
+ {
+  "id": 40648124,
+  "title": "Formato experto para informes",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/google-docs/Formato-experto-para-informes",
+  "desc": "Tengo un borrador de informe / estudio que necesita pasar de texto crudo a un documento presentable. Busco a alguien que domine herramientas como Microsoft Word o Google Docs y pueda:\n\n• Organizar la estructura general (portada, índice automático, numeración de secciones).  \n• Aplicar un estilo uniforme de fuentes, márgenes y encabezados.  \n• Redactar y colocar un resumen ejecutivo claro al inicio.  \n\nEntrego el contenido principal ya escrito; tu tarea es pulirlo visual y lógicamente, asegurando que todo quede alineado, sin errores de formato y listo para compartir en PDF y editable. Si has trabajado antes con informes técnicos o académicos y puedes demostrar precisión y rapidez, me encantará colaborar contigo.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-14 22:02"
+ },
+ {
+  "id": 40648133,
+  "title": "Revitalizing Harbour: Concept Design & 3D Visualization",
+  "budget_min": 30.0,
+  "budget_max": 100.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/3d-visualization/Revitalizing-Harbour-Concept-Design",
+  "desc": "We are looking for an experienced architect / landscape architect / 3D visualizer to develop a concept design for an existing harbour in Addu City, Maldives.\n\nThe harbour is already constructed. The objective is not to redesign or rebuild the harbour structure, but to develop a modern, attractive and functional waterfront concept around the existing harbour infrastructure.\n\nThe concept should demonstrate how the harbour area can be transformed into a vibrant public and commercial waterfront destination for residents, visitors, fishermen and tourists.\n\nScope of Work\n\nThe freelancer should develop a conceptual masterplan incorporating suitable facilities such as:\n\n* Waterfront pedestrian promenade\n* Attractive public seating and shaded areas\n* Passenger waiting area\n* Café / small restaurant\n* Fish market and fish-selling area\n* Fish butchery / fish preparation area\n* Boat waiting and boarding area\n* Sports fishing boat facilities\n* Small commercial kiosks\n* Traditional Maldivian boat / dhoni display area\n* Landscaping and greenery\n* Street furniture\n* Pedestrian lighting\n* Decorative harbour lighting\n* Signage and wayfinding\n* Parking / drop-off arrangements where appropriate\n* Public toilets and basic supporting facilities\n* Waste-management facilities\n* Attractive waterfront railings and safety features\n\nThe design should make maximum use of the existing harbour infrastructure and should be practical for the Maldivian environment.\n\nDesign Direction\n\nWe are looking for a conc",
+  "query": "google sheets automation",
+  "found_at": "2026-08-14 22:02"
+ },
+ {
+  "id": 40648113,
+  "title": "Plan Immobilier Saisonnier Rentable",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/business-strategy/Plan-Immobilier-Saisonnier-Rentable",
+  "desc": "Je recherche un expert capable de transformer mon envie d’investir dans l’immobilier – plus précisément la location saisonnière – en un plan d’action concret et rentable.\n\nVotre mission :\n• Analyser le marché des locations courte durée (zones touristiques, saisonnalités, niveau de concurrence).\n• Définir une stratégie d’acquisition : critères de sélection des biens, estimation du budget global, options de financement, calcul du cash-flow et du retour sur investissement prévisionnel.\n• Structurer un plan opérationnel : étapes juridiques, travaux éventuels, ameublement, mise en ligne sur Airbnb/Booking, calendrier de lancement.\n• Fournir un modèle financier dynamique (Excel ou Google Sheets) pour simuler différents scénarios de revenus et de dépenses.\n• Ajouter un mémo fiscal et réglementaire propre à la location saisonnière en France (régime fiscal, obligations locales, assurance).\n\nLivrables attendus :\n1. Rapport PDF détaillé (10-15 pages) couvrant étude de marché, stratégie d’acquisition, et plan opérationnel.\n2. Tableau financier interactif.\n3. Checklist prête à l’emploi pour la mise en location.\n\nJe valoriserai une approche pragmatique, des exemples chiffrés récents, et des références de missions comparables.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-14 22:02"
  }
 ]
