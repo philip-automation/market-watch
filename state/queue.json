@@ -2533,5 +2533,57 @@
   "desc": "Je recherche un expert capable de transformer mon envie d’investir dans l’immobilier – plus précisément la location saisonnière – en un plan d’action concret et rentable.\n\nVotre mission :\n• Analyser le marché des locations courte durée (zones touristiques, saisonnalités, niveau de concurrence).\n• Définir une stratégie d’acquisition : critères de sélection des biens, estimation du budget global, options de financement, calcul du cash-flow et du retour sur investissement prévisionnel.\n• Structurer un plan opérationnel : étapes juridiques, travaux éventuels, ameublement, mise en ligne sur Airbnb/Booking, calendrier de lancement.\n• Fournir un modèle financier dynamique (Excel ou Google Sheets) pour simuler différents scénarios de revenus et de dépenses.\n• Ajouter un mémo fiscal et réglementaire propre à la location saisonnière en France (régime fiscal, obligations locales, assurance).\n\nLivrables attendus :\n1. Rapport PDF détaillé (10-15 pages) couvrant étude de marché, stratégie d’acquisition, et plan opérationnel.\n2. Tableau financier interactif.\n3. Checklist prête à l’emploi pour la mise en location.\n\nJe valoriserai une approche pragmatique, des exemples chiffrés récents, et des références de missions comparables.",
   "query": "google sheets automation",
   "found_at": "2026-08-14 22:02"
+ },
+ {
+  "id": 40648158,
+  "title": "Real-Time Call-Center Voice Changer",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/asterisk-pbx/Real-Time-Call-Center-Voice",
+  "desc": "I need a production-ready, real-time voice-changing application for my call-center environment. Agents must be able to switch among six high-quality U.S.-accented voices—three male and three female—without audible lag while they are on live VoIP calls. Clean, natural-sounding tone modulation is essential; the result should feel like a genuine human voice rather than a gimmick.\n\nThe desktop client has to run smoothly on both Windows and macOS and sit between the agent’s headset and any softphone, SIP desk phone, or WebRTC browser tab. Latency must remain low enough that neither party notices a delay, even during high-traffic periods.\n\nAn accompanying web-based admin panel lets me create, suspend, and delete user accounts, set seat limits, and pull usage reports by user, date range, and chosen voice. CSV or JSON export for those reports is preferred so I can feed them into our BI tools later.\n\nI am open to whichever DSP, AI, or machine-learning stack you feel delivers the most natural result—whether that’s C++ with a custom neural network, a Rust audio engine, or a Python/TensorFlow backend—as long as deployment for both operating systems is straightforward.\n\nDeliverables\n• Agent-side application for Windows & macOS (installer or signed package)  \n• Web admin portal with user-management and reporting features  \n• Documentation covering installation, configuration, and an API (if exposed)  \n• A brief demo session that proves the voices work in real-time on a live SIP or WebRTC c",
+  "query": "web scraping",
+  "found_at": "2026-08-14 22:36"
+ },
+ {
+  "id": 40648154,
+  "title": "VA for Podcast Lead Generation",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 13,
+  "url": "https://www.freelancer.com/projects/lead-generation/for-Podcast-Lead-Generation",
+  "desc": "I run a podcast editing service for solo finance and investing hosts. I need a detail-oriented VA or lead generation professional to build me a clean, verified lead list of podcasters who fit a specific profile. This is research + verification work, not scraping — I'm paying for quality, and I check every row.\n\nWhat you'll do\nFind solo-hosted podcasts in the personal finance / investing / money / entrepreneurship space and log qualifying ones into a spreadsheet I provide. Each lead must be verified against my checklist before you add it.\n\nA lead only qualifies if ALL of these are true:\n\nSolo host (one main voice — skip co-hosted and interview panel shows)\nTopic is finance, investing, money, or entrepreneurship\nPublished a new episode within the last 21 days\nHas at least 10 episodes total\nAudio sounds unedited or rough (background noise, uneven volume, echo, no clean intro)\nYou can find a real contact method — direct email preferred, or an active personal Instagram/Twitter/website contact\nNot already professionally edited (no \"edited by\" credit, no polished produced intro)\n\nFor each lead, log:\n\nPodcast name\nHost name\nShow topic / niche\nContact method (email or profile link)\nWhere it's hosted (Apple, Spotify, etc.) + link\nLast episode date\nTotal episode count\nOne line: what sounds wrong with the audio\n\nWhat I'm looking for\n\nCareful, honest work — I'd rather get 10 real leads than 50 padded ones\nGood enough English to judge topic and listen for audio quality\nComfortable using Go",
+  "query": "web scraping",
+  "found_at": "2026-08-14 22:36"
+ },
+ {
+  "id": 40648165,
+  "title": "Email Marketing for Customer Engagement",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/content-strategy/Email-Marketing-for-Customer-Engagement",
+  "desc": "I’m looking to strengthen relationships with the customers who already know and trust my brand by sending them well-crafted email newsletters. Your job is to take full ownership of that channel—from mapping a clear content calendar through to writing, designing, scheduling, and reporting on every send.\n\nHere’s what I need you to handle:\n• Strategy & calendar – define the cadence and themes that will keep subscribers looking forward to each message.  \n• Copy & layout – write concise, on-brand content and lay it out attractively inside Mailchimp, Klaviyo, HubSpot, or a similar platform you’re comfortable with.  \n• Segmentation & automation – group subscribers logically so each newsletter feels personal and relevant.  \n• Performance tracking – after every send, provide key metrics and brief insights so we know what to tweak next time.\n\nYou’ll have access to our existing subscriber list, style guidelines, and any imagery or product updates you require. I value clear communication, quick iterations, and data-backed decisions; as long as those boxes are ticked, you’ll have plenty of creative freedom.\n\nIf this sounds like your wheelhouse, tell me which platform you prefer and share an example of a newsletter you’ve recently produced that drove solid engagement.",
+  "query": "data extraction",
+  "found_at": "2026-08-14 22:36"
+ },
+ {
+  "id": 40648159,
+  "title": "Earphone & Headphone Market Research",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/data-analysis/Earphone-Headphone-Market-Research",
+  "desc": "I need help gathering reliable, up-to-date information on earphones and headphones. Your task is to compile product specifications, price comparisons, and genuine user reviews/ratings into an easily digestible format I can use for future listings and content.\n\nHere’s what the job involves:\n\n• Product specifications – driver size, frequency response, connectivity options, battery life, build materials, special features, etc.  \n• Price comparisons – current retail prices across major online stores or local vendors, noting discounts or bundle deals where relevant.  \n• User reviews and ratings – summarise common pros, cons, and overall sentiment (no copy-paste; short, original syntheses only).\n\nDeliverables:  \n1. A spreadsheet (Excel/Google Sheets) containing the data points above for each model you research.  \n2. A brief summary document highlighting stand-out products and any noticeable pricing trends.\n\nYou will need a smartphone or computer, an internet connection, and enough English to present clear, concise notes. Accuracy and on-time delivery are essential; I’m flexible with schedules as long as we agree deadlines in advance.  \n\nThe payment is negotiable per batch of accessories you cover. Send me a short message outlining any past research or data-entry work and when you can start. If all goes smoothly we may extend the scope later to cases, covers, chargers, and other accessories.",
+  "query": "data extraction",
+  "found_at": "2026-08-14 22:36"
  }
 ]
