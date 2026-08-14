@@ -2325,5 +2325,70 @@
   "desc": "I need a team skilled in leveraging ChatGPT for ad campaigns and organic growth. The focus will be on creating engaging conversational ads and optimizing ChatGPT to attract and convert leads effectively. This will be a monthly collaboration with a budget of €50.",
   "query": "chatgpt api",
   "found_at": "2026-08-14 19:19"
+ },
+ {
+  "id": 40648004,
+  "title": "Jamini Roy Style Illustration",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/adobe-illustrator/Jamini-Roy-Style-Illustration",
+  "desc": "I’m developing a children’s book and want the first illustration rendered in the vibrant, folk-inspired Jamini Roy style. The artwork must be created entirely in Adobe Illustrator so I receive a clean, fully scalable vector file that still feels like a rich digital painting.\n\nScope\n• Produce one full-colour scene or character piece (exact layout shared after award).  \n• Follow Jamini Roy traits—bold outlines, flattened perspective, earthy yet striking colour palette.  \n• Deliver within 5 days of project start.\n\nDeliverables\n• Original, well-organised .AI file (CS6 or newer) with editable layers.  \n• High-resolution PNG/JPEG ready for print and web.  \n• Colour profile and bleed set to my printer’s specs (I’ll supply).  \n\nIf this first piece matches the vision and quality, I plan to commission you for the remaining pages of the book, so think of this as the beginning of a longer collaboration.\n\nWhen you bid, please include:\n1. A link to at least one illustration that shows comparable folk or Jamini Roy influence.\n2. A short note on your creative process and how you ensure colour accuracy in Illustrator.\n3. Confirmation you can meet the 5-day turnaround.\n\nLooking forward to seeing your unique take on this timeless style!",
+  "query": "web scraping",
+  "found_at": "2026-08-14 20:06"
+ },
+ {
+  "id": 40647987,
+  "title": "Jamini Roy Inspired Digital Artwork",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/digital-art/Jamini-Roy-Inspired-Digital-Artwork-40647987",
+  "desc": "I need one original digital painting that captures the bold lines, simplified forms, and folk-art charm of Jamini Roy. My budget is modest, so the scope is intentionally focused on a single finished illustration.\n\nWhat I’m after  \n• A high-resolution (300 dpi or higher) artwork ready for both print and web  \n• Creative freedom on subject and canvas size—portrait, landscape, or still-life all work as long as the piece feels unmistakably “Jamini Roy”  \n• Final deliverables: flattened PNG/JPEG plus the layered source file (PSD, Procreate, or Illustrator)\n\nSchedule  \n• Concept preview within two days of project start  \n• Final artwork delivered no later than four days from award\n\nKey points  \n• Faithful use of limited color palettes, thick outlines, and flat fills  \n• Clean, well-organized layers for easy edits  \n• Openness to one quick round of tweaks after the preview\n\nShare a couple of samples that show you can work in a similar aesthetic and mention the software you’ll use. I’m easygoing about rates and revisions—let’s create something striking together without overcomplicating the process.",
+  "query": "web scraping",
+  "found_at": "2026-08-14 20:06"
+ },
+ {
+  "id": 40647953,
+  "title": "Playwright Automation Test Suite",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/cicd/Playwright-Automation-Test-Suite",
+  "desc": "I need an experienced automation engineer (around 4-10 years working with Playwright in both JavaScript and TypeScript) to build and maintain a solid test suite for my web application.\n\nScope  \n• Target platform is strictly Web.  \n• The suite must run reliably on Chrome and Firefox—cross-browser parity is essential.  \n• Coverage spans all three layers: end-to-end flows, critical integration points, and a handful of fast unit tests around our helper utilities.  \n\nDay-to-day you will wire Playwright into an existing Node/TypeScript repo, design a clean folder structure, and implement sensible fixtures, mocks, and test data factories. The code must be readable, reusable, and commit-ready with meaningful assertions and screenshots on failure. I will also rely on you to add concise README notes so any developer can execute npm test locally or inside our CI (GitHub Actions).  \n\nDeliverables  \n1. Configured Playwright project (tsconfig, playwright.config.ts, custom reporter).  \n2. Sample E2E, integration, and unit test suites that demonstrate best practices.  \n3. CI workflow file triggering tests on every pull request, reporting results back to GitHub.  \n4. Documentation covering setup, execution commands, and how to extend the suite.  \n\nI’ll review the merge request, run the pipeline, and accept once all tests pass on both browsers and the code follows our lint rules.",
+  "query": "web scraping",
+  "found_at": "2026-08-14 20:06"
+ },
+ {
+  "id": 40648012,
+  "title": "Single-Leg Options Exit Strategy",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/trading/Single-Leg-Options-Exit-Strategy",
+  "desc": "I trade simple, single-leg options—straight puts and calls—and I’m looking for a clear, rule-based exit strategy I can apply to every position I open. I will already have chosen the option chain; what I need is an objective, repeatable set of rules that tells me when to close the trade for either a loss or a win.\n\nHere’s what I have in mind so far  \n• Close the trade if price slips below a predefined level or if technicals signal that a bounce is unlikely.  \n• Lock in profits once a target dollar amount—calculated from current technical conditions—is reached.  \n\nI’m open to having this logic built directly into a 3rd-party platform such as Option Omega, OptionStack, ORATS, or even within my existing Tastytrade account—whichever gives the cleanest implementation at a reasonable cost. If your solution involves a different tool, just explain why it’s the better fit.\n\nDeliverables  \n1. A documented exit model (rules + parameter values) that I can understand and adjust over time.  \n2. Implementation of those rules—either as a coded strategy inside a supported platform or a step-by-step template I can follow manually in Tastytrade.  \n3. A brief walk-through (video call or written guide) so I’m confident using it on live trades.\n\nKeep the complexity manageable; I’m comfortable interpreting basic indicators but don’t need a black-box system. Let me know what data source or platform access you’ll require from my side, and include an estimated turnaround time for first draft and final ",
+  "query": "data extraction",
+  "found_at": "2026-08-14 20:06"
+ },
+ {
+  "id": 40647997,
+  "title": "Emotive Narrative Audio with SFX",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/voice-acting/Emotive-Narrative-Audio-with-SFX",
+  "desc": "I have a written story that I want to hear come alive as a fully produced piece of audio. Your task is to voice the narrative with genuine feeling at every beat and then enhance it with nature-themed sound effects—think flowing water, wind through trees, soft rain, distant birds—mixed so they support the mood without overpowering the performance.\n\nYou’re free to use the voice-over tools, vocal processing, and DAW you prefer (Audacity, Reaper, Pro Tools, Adobe Audition, etc.), as long as the final result is a clean, professional master. Please deliver:\n\n• One mastered stereo WAV (48 kHz/24-bit) ready for streaming or podcast use  \n• A high-quality MP3 for quick review  \n• A short cue sheet listing the SFX you included and their timestamps  \n\nI’ll provide the script in text format as soon as we start. The timing and pacing should feel natural, with smooth transitions between narration and ambient layers. If you have sample reels of past narrative work—especially pieces that showcase expressive delivery and environmental sound design—send them along; they’ll speed up the selection process.",
+  "query": "python script",
+  "found_at": "2026-08-14 20:06"
  }
 ]
