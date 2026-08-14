@@ -2390,5 +2390,70 @@
   "desc": "I have a written story that I want to hear come alive as a fully produced piece of audio. Your task is to voice the narrative with genuine feeling at every beat and then enhance it with nature-themed sound effects—think flowing water, wind through trees, soft rain, distant birds—mixed so they support the mood without overpowering the performance.\n\nYou’re free to use the voice-over tools, vocal processing, and DAW you prefer (Audacity, Reaper, Pro Tools, Adobe Audition, etc.), as long as the final result is a clean, professional master. Please deliver:\n\n• One mastered stereo WAV (48 kHz/24-bit) ready for streaming or podcast use  \n• A high-quality MP3 for quick review  \n• A short cue sheet listing the SFX you included and their timestamps  \n\nI’ll provide the script in text format as soon as we start. The timing and pacing should feel natural, with smooth transitions between narration and ambient layers. If you have sample reels of past narrative work—especially pieces that showcase expressive delivery and environmental sound design—send them along; they’ll speed up the selection process.",
   "query": "python script",
   "found_at": "2026-08-14 20:06"
+ },
+ {
+  "id": 40648074,
+  "title": "B2B Escrow Marketplace for African Diaspora",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 20,
+  "url": "https://www.freelancer.com/projects/full-stack-development/Escrow-Marketplace-for-African-Diaspora",
+  "desc": "Full-Stack Developer Needed – Marketplace & Escrow MVP\n\nI am looking for an experienced full-stack developer to build the first MVP version of a B2B marketplace and trust/escrow platform for the African diaspora.\n\nThe platform will allow diaspora clients to purchase services such as land acquisition, construction, and other local services, with an optional verification/protection upgrade.\n\nMain Requirements\n\n- Client, Provider, and Proxy user roles\n- Marketplace with service listings and categories\n- Service/product detail pages\n- Client checkout and Shield upgrade options\n- Basic transaction and escrow status management\n- Proxy dashboard for field verification\n- Mobile-friendly PWA for Proxy users\n- Live camera/video capture from mobile\n- GPS location capture when recording\n- 50-meter GPS geofence verification using the Haversine formula\n- Upload video + GPS + timestamp metadata\n- Basic transaction approval/dispute workflow\n- Airwallex API integration for payments/payouts\n- Airwallex webhook handling for payout status\n- Provider and Proxy payout calculations\n- Basic admin dashboard\n- Email/SMS notification integration\n- Secure backend/database architecture\n\nMVP Scope\n\nFor the initial phase, we will focus on the Day-One marketplace categories and the core transaction → verification → approval → payout workflow. Additional categories and advanced functionality can be added in later phases.\n\nDeveloper Requirements\n\nPlease apply only if you have experience with:\n\n- Full-stack we",
+  "query": "web scraping",
+  "found_at": "2026-08-14 20:50"
+ },
+ {
+  "id": 40648062,
+  "title": "Android Field Employee GPS Tracker",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/android-app-development/Android-Field-Employee-GPS-Tracker",
+  "desc": "I need a small Android-only solution that keeps a field employee’s GPS location streaming in real time for a full 10-hour shift. The phone should start tracking with a single tap, run quietly in the background, and push live latitude-longitude data to an endpoint I can inspect as it happens—no cell-tower or Wi-Fi fallbacks, pure GPS.\n\nPlease build a lightweight app or service that:\n\n• Requests the necessary foreground/background location permissions once and keeps them alive.  \n• Publishes location updates continuously (no noticeable gaps) for up to 10 hours without killing the battery or losing accuracy.  \n• Lets me specify the update frequency before deployment—default can be every 5–10 seconds.  \n• Saves a local log as a safeguard if the connection drops, then syncs automatically when coverage returns.\n\nDeliverables I’m expecting:  \n1. Signed APK and full Android Studio source (Java or Kotlin).  \n2. Simple README explaining how to change the server URL and rebuild.  \n3. Quick test video or screenshots proving a 10-hour uninterrupted tracking session.\n\nIf any clarification is needed on the endpoint format or update interval, just ask and we’ll lock it in before you start.",
+  "query": "data extraction",
+  "found_at": "2026-08-14 20:50"
+ },
+ {
+  "id": 40648059,
+  "title": "Full-Cycle B2B Sales Specialist for GCC Market – AI AutomationFull-Cycle B2B Sales Closer - AI SaaS for Clinics (GCC Market)",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/business-development/Full-Cycle-Sales-Specialist-for",
+  "desc": "We are looking for an experienced Full-Cycle B2B Sales Specialist / Business Development Specialist to help us acquire new paying clients across the GCC market.\n\nWe provide an AI automation service designed specifically for clinics and appointment-based healthcare businesses. The service helps businesses manage customer inquiries, automate follow-ups, improve communication, and convert more interested prospects into appointments.\n\nThis is a full-cycle sales role.\n\nThe selected freelancer will be responsible for finding potential clients independently, reaching decision-makers, introducing our service, conducting sales conversations, following up, handling objections, negotiating, and closing the deal.\n\nWe will NOT provide a ready-made list of leads. The freelancer is expected to research and identify suitable prospects and manage the sales process from prospecting to payment.\n\nTarget Clients:\n• Aesthetic and beauty clinics\n• Dental clinics\n• Laser and skincare centers\n• Medical centers\n• Healthcare businesses that rely heavily on appointments and bookings\n\nTarget Markets:\n• Saudi Arabia\n• United Arab Emirates\n• Qatar\n• Kuwait\n• Bahrain\n• Oman\n\nResponsibilities:\n• Research and identify suitable potential clients.\n• Find clinic owners, managers, and relevant decision-makers.\n• Contact prospects through appropriate B2B channels such as WhatsApp, email, phone, LinkedIn, or other relevant channels.\n• Introduce our service and explain its value clearly.\n• Understand the prospect's ",
+  "query": "ai chatbot",
+  "found_at": "2026-08-14 20:50"
+ },
+ {
+  "id": 40648041,
+  "title": "Professional Short-Form Video Editor — Motion Graphics & Storytelling",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/sound-design/Professional-Short-Form-Video-Editor",
+  "desc": "You’ll be the dedicated editor turning our raw footage into thumb-stopping Instagram Reels built around high-retention cinematic storytelling and personal-brand content. Each month you will own the entire post-production pipeline—motion graphics, professional colour grading, text animation and typography, SFX / sound design, tasteful VFX & transitions, plus razor-sharp pacing that keeps viewers watching to the very last second.\n\nThe work is 100 % short-form, optimised for Instagram, so creative judgement matters more than simply dropping presets on a timeline. I need someone who understands story beats, knows when to cut for emotion or humour, and can add subtle visual flourishes without overwhelming the narrative.\n\nKey details\n• Long-term, full-month commitment with salary starting at ₹15 000 for the first month; performance, consistency and quality can raise this to ₹30 000.  \n• You’ll collaborate directly with me, delivering finished Reels in the correct aspect ratios, codecs and bitrates, ready for upload.  \n• Preferred toolset is Premiere Pro and After Effects (or DaVinci Resolve or capcut if that’s where you excel).  \n\nAcceptance criteria for every Reel\n1. Engaging hook in the first 3 seconds.  \n2. Cohesive story arc with seamless pacing; no dead frames.  \n3. Cinematic colour grade that fits the brand palette.  \n4. Clean, on-brand typography with dynamic text animation.  \n5. Layered SFX and balanced mix; loudness normalized for mobile.  \n6. Final export delivered in bot",
+  "query": "excel automation",
+  "found_at": "2026-08-14 20:50"
+ },
+ {
+  "id": 40648053,
+  "title": "Pennsylvania Residential Site Plan Seal",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/civil-engineering/Pennsylvania-Residential-Site-Plan-Seal",
+  "desc": "I already have a completed  site plan for a property in Pennsylvania that show a new driveway layout. Before I submit it to the city I need a Pennsylvania-licensed design professional to give it a final technical review and place their professional seal on the drawing.\n\nThe drawing is finished, so I’m not looking for design changes—just a careful check to confirm it meets state and local requirements, followed by your approval stamp.\n\nDeliverables  \n• Marked-up PDF (if you find any minor corrections)  \n• Final signed and sealed PDF ready for municipal submission  \n\nPlease let me know your turnaround time, and any questions you have about the file format or city submittal standards.\n\nWithin a budget, I just need drawings sealed.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-14 20:50"
  }
 ]
