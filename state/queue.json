@@ -492,5 +492,18 @@
   "desc": "I want to build (or license) an AI-driven workflow that can turn written concepts into finished, ready-to-stream TV-show style videos for my OTT platform. The core need is a system that can:\n\n• Accept a short brief or script and automatically create full-length episodic video content – visuals, voice-overs, music, basic edits and captions included.  \n• Export in broadcast-ready resolution so the episodes slot straight into my OTT catalogue, while also letting me pull shorter cuts that suit social-media teaser posts.  \n• Let me tweak pacing, voice style, branding graphics and end-slates without touching a traditional editing suite.  \n\nI’m open to whichever combination of tools you prefer (Runway, Pika, Stable Video, Synthesia, custom Python, etc.) as long as you demonstrate a working prototype and provide clear hand-off documentation: project files, code, and a step-by-step guide so my in-house team can reproduce future episodes.\n\nAcceptance criteria  \n1. A sample episode (5–10 min) generated purely by the AI pipeline.  \n2. Source assets and reproducible instructions delivered in an organized folder.  \n3. Guidance on scaling the workflow for a full season of content.\n\nIf you’ve already built similar AI video generators or have relevant demo reels, share them and outline which parts are automated versus manual.",
   "query": "ai chatbot",
   "found_at": "2026-08-15 21:32"
+ },
+ {
+  "id": 40649797,
+  "title": "Full-Stack Mobile Developer to Build MVP for Niche Chess Mobile App (iOS & Android) -- 2",
+  "budget_min": 37500.0,
+  "budget_max": 75000.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/mobile-app-development/Full-Stack-Mobile-Developer-Build",
+  "desc": "We are seeking an experienced mobile app developer to build a performant, cross-platform chess application focused on [insert unique value proposition, e.g., AI-guided blunder training / chess roguelike mechanics / gamified daily challenges]. The initial phase is an MVP designed for fast market validation and user retention.\n\nCore Scope & Deliverables:\n\nFrontend: Built with Flutter, React Native, or Unity for smooth 60fps board rendering, piece animations, and drag-and-drop mechanics.\n\nChess Logic & Engine: Integration of the open-source Stockfish engine (or chess.js / custom rule validator) for move generation, legal move validation, FEN/PGN import-export, and dynamic AI difficulty levels.\n\nGame Modes for MVP:\n\nPlayer vs. AI (adjustable ELO/difficulty).\n\n[Specific Core Feature: e.g., Interactive Puzzle System / Asynchronous or Live PvP].\n\nBackend & Accounts: Lightweight backend (Firebase / Supabase or Node.js) handling user authentication, profile ratings, game state saving, and analytics.\n\nMonetization Architecture: Integration of RevenueCat / Stripe / Google Play & Apple In-App Purchases for subscriptions or cosmetic unlocks.\n\nRequired Qualifications:\n\nDemonstrated experience developing mobile board games or turn-based multiplayer apps.\n\nProven experience integrating chess libraries (chess.js, Stockfish engine, or WebSockets for real-time play).\n\nClean code architecture with clear documentation and source code handoff.\n\nBudget & Milestones:\n\nMilestone 1: UI/UX wireframe se",
+  "query": "ai chatbot",
+  "found_at": "2026-08-15 21:53"
  }
 ]
