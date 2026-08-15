@@ -115,5 +115,18 @@
   "desc": "Tôi muốn xây dựng một phiên bản Mu Online chạy mượt trên Windows, Mac và Mobile (iOS/Android). Dự án cần hoàn thiện cả client lẫn server, bảo đảm đồng bộ dữ liệu nhân vật và vật phẩm giữa các nền tảng.\n\nGiao diện sẽ được thiết kế lại hoàn toàn để tự căn chỉnh theo từng thiết bị, giữ đúng tinh thần Mu Online nhưng tối ưu cho màn hình desktop lẫn cảm ứng.\n\nCác tính năng trọng tâm tôi cần có ngay trong bản đầu tiên:\n• Chế độ chơi nhiều người với cơ chế party, guild và PK thời gian thực.  \n• Hệ thống vật phẩm và trang bị phong phú, rớt ngẫu nhiên, có cấp độ nâng cấp.  \n• Các nhân vật có thể tùy chỉnh ngoại hình, kỹ năng và cây thuộc tính.\n\nYêu cầu kỹ thuật:\n– Codebase thống nhất (Unity, Unreal hoặc engine cross-platform tương đương) để dễ bảo trì.  \n– Server backend ổn định, phân cụm được, có API rõ ràng cho ứng dụng mobile.  \n– Cơ sở dữ liệu bảo mật, hỗ trợ mở rộng số lượng người chơi.  \n– Tài liệu build, hướng dẫn triển khai và bộ source đầy đủ.\n\nƯu tiên bạn đã từng làm MMORPG hoặc game đa nền tảng. Hãy cho tôi biết công nghệ bạn định dùng, mốc thời gian ước tính và ví dụ sản phẩm tương tự bạn từng hoàn thành.",
   "query": "chatgpt api",
   "found_at": "2026-08-15 15:31"
+ },
+ {
+  "id": 40649404,
+  "title": "PhD Co Author plus reviewer for Deep Learning Paper",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 19,
+  "url": "https://www.freelancer.com/projects/data-analysis/PhD-Author-plus-reviewer-for",
+  "desc": "My current manuscript applies neural-network models to protein research, and I want to elevate it to a publishable, high-impact journal submission. The technical groundwork is in place—data collected, models built in PyTorch—but I need a seasoned, PhD-level mind to refine the methodology, strengthen the theoretical framing, and share full co-authorship on all resulting publications.  \n\nYou would collaborate with me on each stage of the writing cycle: sharpening the literature review, validating the experimental design, running supplementary analyses, and polishing the final text to meet journal standards in computational biology and AI. Because I’m planning a series of follow-up studies, I’m looking for a long-term scholarly partnership; your willingness to act as a professional reference for future academic or industry applications is an essential part of this relationship.  \n\nKey deliverables  \n• Revised and annotated model code with reproducible results  \n• Co-written manuscript ready for peer review (LaTeX or Word format)  \n• Response letters for reviewer comments, if needed  \n• Formal reference letter once our collaboration is established  \n\nFamiliarity with protein sequence datasets, Python, TensorFlow, PyTorch, and standard statistical packages will let us move quickly. I’m flexible on meeting schedules and authorship order as long as responsibilities are shared equitably and deadlines are met. If contributing cutting-edge neural network research and building an ongoin",
+  "query": "data extraction",
+  "found_at": "2026-08-15 15:53"
  }
 ]
