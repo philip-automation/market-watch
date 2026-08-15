@@ -2962,5 +2962,70 @@
   "desc": "We are a travel agency seeking an expert in digital marketing to generate calls and leads from social media platforms (Facebook, Instagram, LinkedIn) and Google Ads. The target audience is USA-based travelers. Your role would include:\n\n1. Creating engaging ad campaigns tailored to entice USA travelers.\n2. Managing ad strategies across Facebook, Instagram, LinkedIn, and Google platforms.\n3. Conducting keyword research and SEO planning specific to the travel niche.\n4. Optimizing campaigns to maximize Return on Investment (ROI).\n5. Providing an analytics report on campaign performance with recommendations.\n\nIdeal Candidate:\n- Experience with lead generation in the travel industry.\n- Proficiency in managing paid ad campaigns on social media and Google.\n- Strong knowledge in targeting USA audiences effectively.\n\nPlease share your past experience or successful case studies related to similar campaigns.",
   "query": "google sheets automation",
   "found_at": "2026-08-15 04:40"
+ },
+ {
+  "id": 40648446,
+  "title": "Danzel free money",
+  "budget_min": 100000.0,
+  "budget_max": null,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/web-development/Danzel-free-money",
+  "desc": "Saya ingin membangun sebuah game kasual berbasis web yang mampu menghasilkan pendapatan. Permainan harus mudah dimainkan, tetap menantang, dan dilengkapi fitur sosial agar pemain betah kembali.  \n\nFokus utama saya:  \n• Platform: Web (desktop dan mobile browser).  \n• Fitur wajib: papan peringkat pemain, pembelian dalam aplikasi, dan mode multiplayer.  \n\nRuang lingkup yang saya harapkan:  \n1. Merancang konsep permainan kasual yang simpel namun adiktif.  \n2. Membuat antarmuka dan aset dasar yang ringan diunduh.  \n3. Mengembangkan game Web (HTML5, JavaScript, atau engine setara seperti Unity WebGL) lengkap dengan:  \n   – Sistem akun ringan atau login tamu.  \n   – Mode multiplayer (realtime atau asynchronous, mana yang paling stabil).  \n   – Papan peringkat yang tersinkron otomatis.  \n   – Integrasi pembelian dalam aplikasi untuk item kosmetik, power-up, atau nyawa tambahan.  \n4. Menyiapkan back-end ringan untuk menyimpan data pemain, transaksi, dan skor.  \n5. Menyediakan dashboard sederhana agar saya dapat memantau statistik dan pendapatan.  \n6. Dokumentasi build, cara deploy, dan panduan pemeliharaan.  \n\nKriteria penerimaan: game dapat dimainkan lintas browser modern tanpa bug kritis, transaksi in-app berfungsi di lingkungan produksi, dan papan peringkat memperbarui skor secara real-time.  \n\nJelaskan pengalaman Anda membangun game kasual web, terutama yang melibatkan multiplayer dan monetisasi, serta perkiraan durasi pengerjaan.",
+  "query": "web scraping",
+  "found_at": "2026-08-15 05:11"
+ },
+ {
+  "id": 40648373,
+  "title": "Numeric Data Entry Project",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010477,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/data-extraction/Numeric-Data-Entry-Project",
+  "desc": "I need hundreds of numeric records transferred accurately from specific online databases into my master Google Sheet. The job is straightforward but demands sharp attention to detail: each figure must be copied exactly as it appears, without transposition or rounding, and placed into the correct columns I will provide.\n\nHere is how the work will flow. I’ll share login credentials for the source sites and a template sheet that already contains the field headers. Your task is pure data extraction and entry—no formatting, formulas, or text commentary—just reliable number capture. Clear, prompt communication is important so we can resolve any ambiguous cases quickly and keep the sheet moving.\n\nDeliverables  \n• Fully populated Google Sheet with every numeric field filled in, spot-checked for accuracy  \n• Daily progress note (brief message is fine) confirming rows completed and any issues encountered  \n\nAccuracy and consistency matter more than speed, but I’d like to see steady progress each day until the list is done. I’m ready to start as soon as you are.",
+  "query": "data extraction",
+  "found_at": "2026-08-15 05:11"
+ },
+ {
+  "id": 40648455,
+  "title": "High-Torque Industrial Motor Design",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010477,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/3d-cad/High-Torque-Industrial-Motor-Design",
+  "desc": "I need a complete electric-motor design tailored for heavy-duty industrial machinery where sustained, high torque is the overriding requirement. The project covers the full engineering cycle—from concept sketches and electromagnetic calculations right through to detailed 3D CAD models, winding data, thermal analysis and a bill of materials ready for prototyping.\n\nKey objectives  \n• Deliver continuous high torque at typical industrial supply voltages  \n• Maintain reliability in harsh, high-duty-cycle environments  \n• Meet common efficiency standards—compactness and energy savings are welcome bonuses, but raw torque matters most\n\nYour package should include:  \n1. Electromagnetic design files (Maxwell, Motor-CAD or equivalent) with clear performance plots  \n2. Mechanical drawings and 3D models (SolidWorks, Inventor or similar) showing stator, rotor, housing and cooling layout  \n3. Thermal and structural FEA results validating the design under full-load conditions  \n4. A concise report summarising calculations, material grades and manufacturing assumptions\n\nAcceptance criteria  \n• Rated torque and speed achieved within ±5 % of your predictions  \n• Temperature rise stays inside insulation class limits after 1 h full-load simulation  \n• All files open error-free in the stated software versions\n\nIf you have questions about power ratings, duty cycles or available mounting space, feel free to flag them early so we can refine the specification together.",
+  "query": "data extraction",
+  "found_at": "2026-08-15 05:11"
+ },
+ {
+  "id": 40648443,
+  "title": "Build Roblox UGC Box Trading Game",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "CAD",
+  "usd_rate": 0.720643,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/game-design/Build-Roblox-UGC-Box-Trading",
+  "desc": "I’m building a Roblox UGC “box-opening” experience where every new player selects a starter style—Girl, Boy, or Rare—before diving into the world of Common, Rare, and Legendary boxes. The core loop I’m after is lively trading and social interaction, with collection acting as a satisfying side quest.\n\nFor the very first release I want to zero in on two pillars:\n\n• Rewards & Progression – a clear levelling path that hands out in-game currency and the occasional bonus box or item as milestones are hit.  \n• Trading – a secure, player-to-player system that lets users swap any box or reward they’ve earned.\n\nEverything else on the feature list (daily login streaks, play-time bonuses, referral programs, donation booths, creator/partner growth initiatives) can wait for later sprints, but the codebase and data structures you set up now should be future-proof enough to slide them in smoothly.\n\nKey notes for the build\n– All systems must meet current Roblox platform and UGC compliance requirements.  \n– Starter-box choice needs to trigger the correct inventory, avatar visuals, and future reward tables.  \n– Boxes themselves are inventory items, not passes, so keep them tradable from day one.  \n– I’ll provide the 3D assets; you wire up the scripts, UI, and data stores.  \n– Clean, well-commented Lua code is a must so I can extend the project once we move past the MVP.\n\nHand-off deliverables\n1. Roblox Studio place file with functioning Rewards & Progression loop and Trading UI.  \n2. Module scr",
+  "query": "data extraction",
+  "found_at": "2026-08-15 05:11"
+ },
+ {
+  "id": 40648447,
+  "title": "External Painting Quantity Measurement",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010477,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/quantity-surveying/External-Painting-Quantity-Measurement",
+  "desc": "I have a high-rise project that needs its external wall painting quantities worked out from scratch and then tied back to the contractor’s bill. The scope covers tower-wise and elevation-wise take-off of gross paintable area, deduction of windows and other openings, and preparation of a clean net paintable area statement.  \n\nAll documentation must live in Excel because that is the platform I use for quantity control. Keep the sheets in a basic, easy-to-read summary format—no complex formulas or long comment fields. Break the summary down by elevation so each façade can be reviewed independently against both drawings and on-site checks.  \n\nSpecific tasks and deliverables:  \n• External wall painting quantity measurement  \n• Elevation-wise area calculations with opening deductions  \n• Net paintable area statement in Excel (basic summary layout)  \n• Contractor bill verification and reconciliation to the BOQ  \n\nAccuracy in cross-checking site measurements against drawings is essential; I will be spot-verifying random elevations before sign-off. Once the reconciled quantities align with the BOQ, the job is complete and the billing sheet will form the basis for payment certification.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-15 05:11"
  }
 ]
