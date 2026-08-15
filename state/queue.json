@@ -115,5 +115,18 @@
   "desc": "Tôi muốn có một phiên bản MU Online chạy trên PC, hoàn thiện theo định hướng riêng của tôi và sẵn sàng đưa vào vận hành. Trò chơi phải hỗ trợ chế độ trực tuyến nhiều người chơi với khả năng quản lý nhân vật, quái vật, vật phẩm và sự kiện giống như bản gốc, nhưng tôi linh hoạt cải tiến nội dung hoặc hệ thống nhiệm vụ khi cần.\n\nTrọng tâm của dự án là phần Server. Tôi cần:\n• Mã nguồn server rõ ràng, chú thích đầy đủ, dễ mở rộng.  \n• Các bảng cơ sở dữ liệu mẫu (SQL hoặc tương đương) kèm tập lệnh khởi tạo.  \n• Tài liệu hướng dẫn cài đặt môi trường, biên dịch và triển khai server trên Windows.  \n• Công cụ hoặc script hỗ trợ quản trị cơ bản (tạo tài khoản, reset nhân vật, theo dõi log).  \n\nPhần Client chỉ cần ở mức tối thiểu để có thể kết nối, đăng nhập, di chuyển, đánh quái và kiểm chứng tính ổn định của máy chủ; tôi sẽ tự tinh chỉnh giao diện và hiệu ứng sau. Nếu bạn có sẵn engine hoặc framework phù hợp (ví dụ Unity, Unreal, C++ thuần, .NET), hãy nêu rõ để tôi cân nhắc.\n\nYêu cầu chung:\n• Kết nối ổn định, đồng bộ hoá dữ liệu nhân vật theo thời gian thực.  \n• Cấu trúc module hoá: Login, Game World, Chat, Event, Item Shop tách riêng.  \n• Có thể thêm bản đồ, class hoặc sự kiện mới mà không phải viết lại lõi server.  \n• Bảo mật cơ bản: mã hoá gói tin đăng nhập, giới hạn flood, ghi log thao tác quản trị.\n\nVui lòng gửi kèm:\n– Thời gian bạn cần để bàn giao bản chạy thử.  \n– Công nghệ bạn đề xuất và lý do.  \n– Ví dụ dự án liên quan (nếu có).\n\nTôi mong hợp tác lâu dài để cập nhật và bảo trì",
   "query": "python script",
   "found_at": "2026-08-15 07:01"
+ },
+ {
+  "id": 40648621,
+  "title": "Algoritma Perdagangan Untuk Indeks Nifty dan Bank Nifty",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/cplusplus-programming/Algoritma-Perdagangan-Untuk-Indeks-Nifty",
+  "desc": "Deskripsi Proyek\n \nSaya membutuhkan algoritma perdagangan (trading) lengkap dan siap pakai untuk strategi intraday pada indeks Nifty dan Bank Nifty. Logika utamanya harus murni berbasis mengikuti tren (trend-following).\n \nApa yang harus dibuat & diserahkan:\nKode sumber lengkap & rapi – berisi aturan masuk pasar, keluar pasar, dan manajemen risiko yang ketat. Ditulis dengan komentar yang mudah dipahami, boleh menggunakan Python, Pine Script, C/C++.\nLaporan hasil uji coba historis (backtest) – mencakup kinerja strategi pada data masa lalu yang representatif beserta metriknya.Panduan pengaturan & penggunaan – langkah demi langkah agar bisa saya jalankan sendiri di perangkat saya.\n \nSyarat penerimaan:\n \n- Kode berjalan lancar tanpa kesalahan.\n- Sinyal perdagangan sesuai dengan logika yang didokumentasikan.\n- Hasil uji coba bisa direproduksi dengan akurat di komputer saya.\n \nKeahlian yang dibutuhkan:\nPemrograman Python / C / C++, Arsitektur Perangkat Lunak, Pengembangan Sistem Trading, Analisis Pasar Saham",
+  "query": "data extraction",
+  "found_at": "2026-08-15 07:39"
  }
 ]
