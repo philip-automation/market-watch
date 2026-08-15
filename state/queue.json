@@ -388,5 +388,44 @@
   "desc": "Amazon India & Flipkart Product Research Specialist – Long-Term\n\nI am looking for an experienced **Amazon India & Flipkart Product Research Specialist** to help me build and scale a new e-commerce business.\n\nObjective\n\nMy goal is to identify the right products, launch them on **Amazon India and Flipkart**, and work toward achieving **₹10 lakh/month in sales within the next 3 months**, with the aim of entering the **2026 Diwali festive season** with strong products already launched and gaining traction.\n\nI am looking for someone who can take ownership of the **product research, market analysis, validation, and product-selection process**.\n\nWhat I Need\n\n* Research Amazon India and Flipkart across **multiple product categories**.\n* Identify products with strong demand, manageable competition, good margins, and scalability.\n* Find products that a new seller can realistically enter and compete in.\n* Analyse competitor listings, pricing, ratings, reviews, sales indicators, and market trends.\n* Identify customer pain points, gaps, and opportunities for differentiation.\n* Estimate realistic monthly sales and revenue potential.\n* Analyse sourcing/manufacturing costs, MOQ, and supplier availability.\n* Calculate Amazon/Flipkart fees, logistics, advertising costs, returns, and realistic net margins.\n* Evaluate seasonality and **Diwali/festive demand potential**.\n* Identify products suitable for private label/own-brand development.\n* Rank opportunities based on overall business potential.",
   "query": "data extraction",
   "found_at": "2026-08-15 19:39"
+ },
+ {
+  "id": 40649704,
+  "title": "Indoor Cycling 3D Character and Bike Models",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/3d-modelling/Indoor-Cycling-Character-Bike-Models",
+  "desc": "3D Cyclist Characters + Road Bike — Technical Brief\n\nMy budget is 100 USD; I'll only place a bid within that amount.\n\n**Project:** real-time indoor-cycling race screen (WebGL2, Android TV box)\n**Deliverables:** 4 rigged cyclist characters + 1 road bike, with LODs\n\n---\n\n## 0. Read this first — where these models will run\n\nThese are **not** for rendering stills. They run in a live WebGL2 scene on a low-power\nAndroid TV box (PowerVR B-Series BXM-4-64 GPU) at 1920×1080, with **up to 20 cyclists\non screen at once**, at 30 fps.\n\nWe have measured this hardware. The numbers below are not guesses:\n\n\n\n## 1. Characters required\n\nFour separate characters:\n\n| # | who | notes |\n|---|---|---|\n| 1 | Male cyclist A | base male |\n| 2 | Male cyclist B | **same body, same kit, same rig as #1 — different face and hair only** |\n| 3 | Female cyclist A | base female |\n| 4 | Female cyclist B | **same body, same kit, same rig as #3 — different face and hair only** |\n\n\"Different face\" means the two men must be recognisably different people when seen from\n2–4 metres in a three-quarter front view. Different facial structure, skin tone, and hair\n(a beard on one of them is welcome). Body proportions, clothing geometry and skeleton must\nbe **identical** between A and B so they stay interchangeable.\n\nWhere the difference can be achieved **in the texture rather than in the geometry, prefer\nthe texture** — it costs us nothing at runtime.\n\n---\n\n## 2. File format\n\n**Primary deliverable: `.glb` (glTF 2.0 binary),",
+  "query": "data extraction",
+  "found_at": "2026-08-15 20:00"
+ },
+ {
+  "id": 40649702,
+  "title": "Arab Speaking Telecom Talent Recruiter",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/recruitment/Arab-Speaking-Telecom-Talent-Recruiter",
+  "desc": "I am looking for Arabic speaking recruiters who know the telecom market and can quickly find Arab telecom professional for several on-site positions. We are seeking talent with hands-on experience in:\n\n- Fiber Network / Fiber Optics\n- OSP (Outside Plant) Networks\n- Data Center Infrastructure & Connectivity\n\nFor each vacancy I will share a detailed job description and within 5 calendar days of receiving it, I expect a shortlist of three to four qualified CVs matching at least 90% with the JD.\n\n* All roles are full-time, on-site based in Damascus- Syria, with a reputable GCC telecom operator, so every candidate you present must either already reside in Syria or willing to relocate to Damascus- Syria.*\n\nDeliverables (per role)  \n3–4 potential CVs that map clearly to the JD.  \n \nSuccess for this engagement is met when at least two candidates are shortlisted by our team per role who match the stated criteria. I am ready to move fast and will provide immediate feedback on every profile you submit.",
+  "query": "data extraction",
+  "found_at": "2026-08-15 20:00"
+ },
+ {
+  "id": 40649719,
+  "title": "Classical Residential Interior Design",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/3d-visualization/Classical-Residential-Interior-Design",
+  "desc": "I’m looking to present my client with a cohesive, classically inspired interior scheme that runs seamlessly through the living room, all bedrooms, and the kitchen. The brief is to evoke timeless elegance while keeping the atmosphere light and airy with a palette rooted in soft pastel shades.\n\nYou’ll begin with concept development—mood-boards, precedent imagery, and material samples that capture a refined classical look without feeling dated. Once the overall direction is approved, we’ll move into detailed spatial planning and 3D visuals so the client can experience each room before any purchasing decisions are made. Precise furniture specifications, lighting plans, and decorative details (mouldings, trims, fixtures) should all align with the classical theme and pastel colour story.\n\nTo keep the project organised, please deliver:\n\n• Concept mood-board and colour palette  \n• Scaled floor plans with furniture layouts (living room, bedrooms, kitchen)  \n• 3D renders or high-quality visuals for each space  \n• A curated shopping/specification list with supplier links and pricing  \n• Final styling guide to ensure on-site execution matches the design intent  \n\nAll files can be shared in PDF for presentation, plus editable source formats (DWG/SketchUp/3ds Max or equivalent) so we can hand them straight to contractors. Clear communication is essential—weekly progress checkpoints will help us stay on track and give my client confidence in every decision.\n\nIf you’re ready to bring classic",
+  "query": "pdf extraction",
+  "found_at": "2026-08-15 20:00"
  }
 ]
