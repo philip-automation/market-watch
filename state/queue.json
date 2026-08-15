@@ -479,5 +479,18 @@
   "desc": "# Compact 12S BMS / Active Balancing Board — Ready-Made or PCB Design\n\nWe are developing a **12S drone battery system** \n\nWe are looking for someone who already has a **compact 12S BMS design or board** suitable for a high-performance drone application.\n\n### Required specifications\n\n* **12S Li-ion / LiPo**\n* Target PCB size: **maximum 50 × 60 mm**\n* **Active cell balancing** required\n* Individual monitoring of all 12 cells\n* Over-charge / cell over-voltage protection\n* Over-discharge / cell under-voltage protection\n* Over-current protection\n* Short-circuit protection\n* Over-temperature / under-temperature protection\n* Individual cell voltage monitoring\n* Pack voltage and current monitoring\n* **CAN / CAN-FD communication**\n* SOC monitoring\n* Battery fault/status reporting\n* Compact design suitable for UAV/drone battery integration\n* Preferably hardware watchdog / independent protection\n* Preferably event/fault logging\n\n### We are interested in\n\n**Option 1 — Ready-made board**\n\nIf you already manufacture or have a working **12S compact BMS board**, we are interested in purchasing samples and evaluating it for our application.\n\n**Option 2 — Existing PCB design**\n\nIf you already have a proven 12S BMS PCB design, we are interested in purchasing/licensing the design files, including:\n\n* Schematic\n* PCB/Gerber files\n* BOM\n* Pick-and-place/CPL if available\n* Firmware, if available\n* Manufacturing documentation\n\nWe prefer an **existing tested design**, rather than starting completely ",
   "query": "gpt integration",
   "found_at": "2026-08-15 21:02"
+ },
+ {
+  "id": 40649779,
+  "title": "AI OTT TV Show Generator",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/ai-video-editing/OTT-Show-Generator",
+  "desc": "I want to build (or license) an AI-driven workflow that can turn written concepts into finished, ready-to-stream TV-show style videos for my OTT platform. The core need is a system that can:\n\n• Accept a short brief or script and automatically create full-length episodic video content – visuals, voice-overs, music, basic edits and captions included.  \n• Export in broadcast-ready resolution so the episodes slot straight into my OTT catalogue, while also letting me pull shorter cuts that suit social-media teaser posts.  \n• Let me tweak pacing, voice style, branding graphics and end-slates without touching a traditional editing suite.  \n\nI’m open to whichever combination of tools you prefer (Runway, Pika, Stable Video, Synthesia, custom Python, etc.) as long as you demonstrate a working prototype and provide clear hand-off documentation: project files, code, and a step-by-step guide so my in-house team can reproduce future episodes.\n\nAcceptance criteria  \n1. A sample episode (5–10 min) generated purely by the AI pipeline.  \n2. Source assets and reproducible instructions delivered in an organized folder.  \n3. Guidance on scaling the workflow for a full season of content.\n\nIf you’ve already built similar AI video generators or have relevant demo reels, share them and outline which parts are automated versus manual.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-15 21:32"
  }
 ]
