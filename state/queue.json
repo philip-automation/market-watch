@@ -440,5 +440,44 @@
   "desc": "Urgent React Native / Expo / TypeScript launch sprint for an existing production mobile app.\n\nWe are launching Orchy, an AI-first social/real-world planning app, publicly on 30 Aug 2026. Mobile binary needs to be release-ready around 22–23 Aug.\n\nThis is not a greenfield build. We already have an existing React Native + Expo + TypeScript app, TypeScript backend, Supabase/Postgres infrastructure, automated tests, iOS/Android release setup, and External TestFlight approval.\n\nI need a strong senior engineer who can take ownership of launch-critical work including:\n\nReact Native / Expo / TypeScript implementation\nAI/voice/chat product integration\nonboarding, profile and verification UX\nevent creation, solo and group flows\nmaps / places / discovery\nnotifications, deep links and lifecycle handling\nreservation and Razorpay/payment integration\nphysical iOS + Android debugging/testing\nEAS/App Store/Play Store release preparation\n\nSome functionality already exists, some needs hardening, and some requires meaningful implementation.\n\nRequirements\n\nCan start within 24 hours\nCan work meaningfully through Aug 23, including weekend if needed\nHas personally shipped production React Native/Expo apps\nReal App Store and Google Play release experience\nComfortable taking over an existing codebase quickly\nStrong debugging/API integration skills\nPhysical iPhone + Android access strongly preferred\nAI-assisted development/agents are welcome if they improve delivery speed and quality\n\nThis will be a fix",
   "query": "ai chatbot",
   "found_at": "2026-08-15 20:34"
+ },
+ {
+  "id": 40649772,
+  "title": "Pixhawk GPS/NMEA Serial Configuration",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/arduino/Pixhawk-GPS-NMEA-Serial-Configuration",
+  "desc": "•\tPixhawk 2.4.8 clone running ArduRover 4.7.0\n\t•\tDFRobot RTK LoRa kit (Quectel LC29H, NMEA output over UART) — base and rover, LoRa link confirmed working, rover shows solid RTK lock\n\t•\tConnected to the Pixhawk’s GPS port\n\nProblem: Mission Planner shows “EKF3 waiting for GPS config data” and never acquires a position. Already tried:\n\n\t•\tGPS_TYPE = 5 (NMEA), SERIAL3_PROTOCOL = 5\n\t•\tGPS_AUTO_CONFIG = 0\n\t•\tEvery supported baud rate on SERIAL3_BAUD, rebooting each time\n\t•\tSwapping TX/RX (original orientation confirmed correct — receiver lost lock when reversed)\n\t•\tConfirmed the module’s I2C/UART switch is set to UART\n\nLooking for someone with hands-on ArduPilot experience to diagnose over a screen-share session. I can provide parameter files, logs, and photos of the wiring. Remote only — I’ll do the physical work on my end.\n\nSkills: ArduPilot / Mission Planner, Pixhawk, GNSS/NMEA, embedded serial debugging",
+  "query": "data extraction",
+  "found_at": "2026-08-15 21:02"
+ },
+ {
+  "id": 40649767,
+  "title": "Tulisan Wisata Danau Ranau Lampung",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/content-writing/Tulisan-Wisata-Danau-Ranau-Lampung",
+  "desc": "Saya ingin sebuah artikel tertulis berbahasa Indonesia, panjang 1.500–2.000 kata, yang sepenuhnya berfokus pada Danau Ranau di Lampung. Tujuan utamanya adalah memberikan informasi wisata yang lengkap dan akurat, bukan sekadar cerita perjalanan pribadi.\n\nRuang lingkup yang saya harapkan mencakup:\n• Gambaran umum Danau Ranau—lokasi, sejarah singkat, dan keunikan alamnya  \n• Rute dan opsi transportasi dari kota-kota besar terdekat  \n• Rekomendasi penginapan, tempat makan, dan kisaran biaya terkini  \n• Aktivitas populer di area danau: berenang, memancing, trekking, hingga spot foto ikonik  \n• Tips waktu kunjungan terbaik, etika berwisata, serta hal-hal yang perlu dihindari  \n• Info tambahan seperti festival lokal, budaya masyarakat sekitar, dan oleh-oleh khas\n\nGaya penulisan harus informatif, mengalir, dan ramah pembaca—ideal untuk orang yang sedang merencanakan perjalanan pertama ke Danau Ranau. Sertakan data faktual, sumber tepercaya bila mengutip, dan heading yang terstruktur agar mudah dipindai. Artikel diserahkan dalam format .docx atau Google Docs.",
+  "query": "data extraction",
+  "found_at": "2026-08-15 21:02"
+ },
+ {
+  "id": 40649761,
+  "title": "Design/Supply 12S BMS & Active Balancing Board",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/embedded-systems/Design-Supply-BMS-Active-Balancing",
+  "desc": "# Compact 12S BMS / Active Balancing Board — Ready-Made or PCB Design\n\nWe are developing a **12S drone battery system** \n\nWe are looking for someone who already has a **compact 12S BMS design or board** suitable for a high-performance drone application.\n\n### Required specifications\n\n* **12S Li-ion / LiPo**\n* Target PCB size: **maximum 50 × 60 mm**\n* **Active cell balancing** required\n* Individual monitoring of all 12 cells\n* Over-charge / cell over-voltage protection\n* Over-discharge / cell under-voltage protection\n* Over-current protection\n* Short-circuit protection\n* Over-temperature / under-temperature protection\n* Individual cell voltage monitoring\n* Pack voltage and current monitoring\n* **CAN / CAN-FD communication**\n* SOC monitoring\n* Battery fault/status reporting\n* Compact design suitable for UAV/drone battery integration\n* Preferably hardware watchdog / independent protection\n* Preferably event/fault logging\n\n### We are interested in\n\n**Option 1 — Ready-made board**\n\nIf you already manufacture or have a working **12S compact BMS board**, we are interested in purchasing samples and evaluating it for our application.\n\n**Option 2 — Existing PCB design**\n\nIf you already have a proven 12S BMS PCB design, we are interested in purchasing/licensing the design files, including:\n\n* Schematic\n* PCB/Gerber files\n* BOM\n* Pick-and-place/CPL if available\n* Firmware, if available\n* Manufacturing documentation\n\nWe prefer an **existing tested design**, rather than starting completely ",
+  "query": "gpt integration",
+  "found_at": "2026-08-15 21:02"
  }
 ]
