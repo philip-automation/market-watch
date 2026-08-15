@@ -3027,5 +3027,70 @@
   "desc": "I have a high-rise project that needs its external wall painting quantities worked out from scratch and then tied back to the contractor’s bill. The scope covers tower-wise and elevation-wise take-off of gross paintable area, deduction of windows and other openings, and preparation of a clean net paintable area statement.  \n\nAll documentation must live in Excel because that is the platform I use for quantity control. Keep the sheets in a basic, easy-to-read summary format—no complex formulas or long comment fields. Break the summary down by elevation so each façade can be reviewed independently against both drawings and on-site checks.  \n\nSpecific tasks and deliverables:  \n• External wall painting quantity measurement  \n• Elevation-wise area calculations with opening deductions  \n• Net paintable area statement in Excel (basic summary layout)  \n• Contractor bill verification and reconciliation to the BOQ  \n\nAccuracy in cross-checking site measurements against drawings is essential; I will be spot-verifying random elevations before sign-off. Once the reconciled quantities align with the BOQ, the job is complete and the billing sheet will form the basis for payment certification.",
   "query": "google sheets automation",
   "found_at": "2026-08-15 05:11"
+ },
+ {
+  "id": 40648511,
+  "title": "LinkedIn Lead Generation Specialist",
+  "budget_min": 37500.0,
+  "budget_max": 75000.0,
+  "currency": "INR",
+  "usd_rate": 0.010477,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/lead-generation/LinkedIn-Lead-Generation-Specialist-40648511",
+  "desc": "I need a proactive LinkedIn specialist who can turn Sales Navigator into a steady stream of qualified conversations with medium-sized enterprises across North America. The goal is simple: fill my pipeline with decision-makers who match my ideal client profile.\n\nHere’s how I picture the work unfolding. You will research companies that sit between the “small start-up” and “large corporate” brackets, pinpoint the right contacts, and craft personalised connection requests and follow-ups that feel human, not automated. I already have headline value propositions and a clear service offer; your job is to translate that into short, compelling outreach sequences that spark replies.\n\nBecause this is a performance-driven assignment, I’ll be looking for tangible proof that the numbers are moving in the right direction. Each week I expect a concise report showing accounts targeted, messages sent, connection acceptance rate, and—most importantly—new leads booked for a call. If something isn’t landing, I want you to adjust the copy, experiment with new filters, and keep me in the loop.\n\nDeliverables  \n• 200+ well-qualified connection attempts per week, focused on North-American midsize companies  \n• A three-step messaging sequence per prospect (connection note + 2 follow-ups)  \n• Weekly spreadsheet or CRM update with lead status, contact details, and next actions  \n• Brief weekly summary highlighting wins, challenges, and optimisation ideas  \n\nI use HubSpot to track leads, so being comforta",
+  "query": "data extraction",
+  "found_at": "2026-08-15 05:45"
+ },
+ {
+  "id": 40648505,
+  "title": "Daily Power BI Customer Dashboard",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010477,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/power-bi/Daily-Power-Customer-Dashboard",
+  "desc": "I have a set of regularly-updated Excel/CSV files and I need them transformed into a single, interactive Power BI dashboard that spotlights customer sales trends, demographic break-downs, and behavior patterns. \n\nHere’s the flow I have in mind: the raw files drop into a shared folder each evening, Power BI pulls them in automatically, refreshes every day, and presents clean visuals that let me slice performance by age group, region, purchase channel, and any other attributes already stored in the spreadsheets. Sales curves, retention funnels, cohort analyses—anything that helps me read where revenue is surging or slipping and why—should be easy to see at a glance.\n\nTo make hand-off smooth, I’ll need the finished .pbix file, a short write-up of the data model, and clear steps (or a quick screen-share) showing how to modify data sources should column names change down the line. If you have clever DAX techniques for daily rolling averages or segment comparisons, bring them on; the cleaner and faster the experience, the better.\n\nLet’s keep the design intuitive, fast to refresh, and ready for daily decision-making.",
+  "query": "data extraction",
+  "found_at": "2026-08-15 05:45"
+ },
+ {
+  "id": 40647346,
+  "title": "Whatsapp Api Limit 100k to Unlimited on Meta",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 19,
+  "url": "https://www.freelancer.com/projects/api-integration/Whatsapp-Api-Limit-Unlimited-Meta",
+  "desc": "I need the daily outbound quota of my registered WhatsApp Business API number lifted from the current 100 k ceiling to the maximum tier Meta allows (ideally “unlimited”). The work concerns sending only; incoming traffic is already handled smoothly. The phone number is a single, fully verified WABA line that sits inside an active Meta Business Manager, and we already run approved message templates and signature‐based authentication on every call to /messages.\n\nYour task is to analyse our present setup, determine the quickest compliant route to the top-tier limit, and execute the required steps—whether that involves sending the additional quality/volume signals Meta’s system expects, submitting further documents, coordinating with a BSP, or optimising our existing Cloud API configuration.\n\nDeliverables  \n• Documented step-by-step changes applied to Business Manager, WABA, and the Cloud/API project  \n• Confirmation from Meta dashboard that the number now shows the highest sending tier  \n• Post-change test proving a mass send above 100 k succeeds without rate errors\n\nAcceptance criteria  \n1. Meta console reflects the upgraded tier within the agreed timeline.  \n2. All previous authentication hooks continue to pass.  \n3. No drop in quality rating occurs during or after the change.\n\nFamiliarity with WhatsApp Business Cloud API, Meta policy workflows, and high-volume message compliance is essential.",
+  "query": "chatgpt api",
+  "found_at": "2026-08-15 05:45"
+ },
+ {
+  "id": 40648490,
+  "title": "Engaging eBook for Young Adults",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 19,
+  "url": "https://www.freelancer.com/projects/book-writing/Engaging-eBook-for-Young-Adults",
+  "desc": "I need a talented writer who can take a topic we agree on and turn it into a polished, reader-friendly eBook aimed squarely at young adults. The manuscript must be completely original, flow naturally in clear English, and be structured with logical chapters and sub-headings so the content is easy to navigate.\n\nStrong command of grammar and spelling is essential, and I will look for engaging storytelling or examples that resonate with a younger audience. Once the draft is complete, please proofread it thoroughly before submitting the final file in either Word (.docx) or PDF format.\n\nTurnaround is important to me, so I’m looking for someone who can deliver within 3–5 days while maintaining quality. If you have experience in eBook writing, content creation, or article writing—and you enjoy crafting informative yet captivating material—I’d love to see samples of your past work and discuss the topic to get started.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-15 05:45"
+ },
+ {
+  "id": 40648498,
+  "title": "Formal Scripted Reels Creator",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010477,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/adobe-premiere-pro/Formal-Scripted-Reels-Creator",
+  "desc": "I am putting together a series of short, vertical Reels that follow a talking-head format. Each clip will be fully scripted in advance—the goal is to entertain viewers while still maintaining a polished, formal delivery.  \n\nYou will appear on camera, shoot the footage in a clean, well-lit setting, and deliver both the raw takes and an edited cut sized for Instagram Reels (9:16, 1080 × 1920). Clear audio, stable framing, and crisp on-screen text or burned-in captions are essential. I’ll supply the script and any key brand guidelines; you bring the engaging on-camera presence, lighting, mic, and editing skills to pull everything together.  \n\nAccepted files:  H.264 MP4 for the final edit plus the uncompressed source clips. Turnaround will be agreed per script, but I’m aiming for fast, reliable delivery so the publishing schedule stays on track. If you enjoy performing straight-to-camera pieces, know your way around Premiere Pro, Final Cut, or CapCut, and can keep a formal yet lively tone, I’d love to see a sample Reel (or similar) that shows your style.",
+  "query": "python script",
+  "found_at": "2026-08-15 05:45"
  }
 ]
