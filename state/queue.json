@@ -1,1 +1,67 @@
-[]
+[
+ {
+  "id": 40645279,
+  "title": "concert poster , logo designing",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 13,
+  "url": "https://www.freelancer.com/projects/logo-design/concert-poster-logo-designing",
+  "desc": "The task is to turn our upcoming music concert into something people can’t scroll past. I need a striking advertising poster, polished photos, and a short, high-energy promo video that all work together under one visual theme.  \n\nHere’s the scope I have in mind:  \n• Poster – A3 print-ready and web versions, bold typography, clear date/venue, and space for sponsor logos.  \n• Photo edits – Retouch and colour-grade the artist shots so they drop straight into the poster and our socials.  \n• Promo video – 30-60 seconds, cut from the raw clips I’ll supply, synced to the headline track, ending on the event details.  \n\nEverything should carry the same look and feel so our audience recognises the concert instantly, whether they see it on a street wall, Instagram story, or YouTube ad. I’ll share brand colours, fonts, and footage as soon as we start.  \n\nDelivery deadline: any time within the next month, but the sooner the better so we can start the ad run. Source files (PSD/AI, Lightroom presets, Premiere/After Effects project) should be included with the finals.  \n\nIf this sounds like your kind of creative sprint, let’s make some noise.",
+  "query": "web scraping",
+  "found_at": "2026-08-15 14:35"
+ },
+ {
+  "id": 40649243,
+  "title": "Wedding Entrance & Tribute Videography",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/audio-engineering/Wedding-Entrance-Tribute-Videography",
+  "desc": "The reception will take place in an indoor hall and I want guests to enjoy a real-time view of our grand entrance on the big screen. I’ll rely on you to capture the moment, stream it live to the supplied projector or large TV, and make sure the feed is smooth, well-lit and clearly audible from the first step through the doors to our arrival at the head table.\n\nAhead of the day, I also need a short pre-dance tribute video that we can play just before our first dance. Think of it as a heartfelt montage set to romantic music—photos, short clips, and any candid footage we provide—edited into a polished piece that flows naturally with the chosen soundtrack and finishes at the perfect cue for us to take the floor.\n\nDeliverables  \n• Live multi-camera (or single-camera if you’re confident) coverage of the entrance, streamed to the in-hall screen/projector in HD or better, with backup recording for later use.  \n• Final edited “pre-dance tribute” video, 3–5 minutes long, colour-graded, mixed with the romantic track, delivered in MP4 (1080p) and a web-ready version.  \n• All raw footage transferred to us on a drive or secure download link within a week of the event.\n\nAcceptance Criteria  \n• Zero noticeable lag or dropouts on the live stream.  \n• Tribute video approved after one round of minor tweaks.  \n• Audio levels balanced for both live stream and edited video.\n\nIf you already work with switchers such as ATEM Mini, stable streaming encoders, and full-frame or 4K cameras that downscale",
+  "query": "web scraping",
+  "found_at": "2026-08-15 14:35"
+ },
+ {
+  "id": 40649297,
+  "title": "Precise PDF-to-Docs Transcription",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/data-entry/Precise-PDF-Docs-Transcription",
+  "desc": "I have a short PDF of roughly 540 words that must be reproduced in Google Docs exactly as it appears now. Every word, line break, and piece of basic formatting (bold, italics, paragraph spacing) needs to carry over so the final document mirrors the source—no additions, omissions, or typos.\n\nWhat I will share:\n• The original PDF file.  \n• A blank Google Docs link with edit permission.\n\nWhat I need back:\n• The Google Docs file populated with the text, accurately transferred.  \n• A quick note confirming you have double-checked the word count and formatting.\n\nBecause the content is text-only, no image handling is involved. A keen eye for detail and a clean copy-and-paste workflow using a PDF reader and Google Docs will keep this simple yet precise. If you can finish promptly without sacrificing accuracy, that’s all I ask.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-15 14:35"
+ },
+ {
+  "id": 40649258,
+  "title": "Customize Nano/Micro MDM Deployment Policies",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/ansible/Customize-Nano-Micro-MDM-Deployment",
+  "desc": "I run a Linux-based instance of both nanoMDM and microMDM and I need a developer who can dive into their configuration layer to fine-tune software-deployment policies. My main goal is to enforce granular permissions management—who can install what, when, and under which conditions—across enrolled Apple devices without disrupting the existing enrollment workflow.\n\nYou will be working directly on the Linux host, updating configuration files and, when necessary, adjusting the Go code behind nanoMDM/microMDM to expose the policy controls I need. Expect to handle token-based authentication, profile signing, and the overall packaging pipeline so that newly approved apps propagate automatically while anything outside the policy is silently blocked.\n\nDeliverables\n• Updated nanoMDM/microMDM configs (or patched source) reflecting the new permissions rules  \n• A short, repeatable script or Ansible role to apply the changes on fresh servers  \n• Verification report showing successful deployment and denial scenarios on at least two test devices\n\nAcceptance Criteria\nThe final setup must push approved software with no manual touches, log any blocked attempts, and survive a full system reboot on Ubuntu 22.04 LTS.\n\nIf you have recent experience bending nanoMDM or microMDM to your will—and you’re comfortable debugging on Linux—let’s get started.",
+  "query": "python script",
+  "found_at": "2026-08-15 14:35"
+ },
+ {
+  "id": 40649253,
+  "title": "Faceless Educational YouTube Editing",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/adobe-premiere-pro/Faceless-Educational-YouTube-Editing",
+  "desc": "I’m producing a series of faceless YouTube videos and need an editor who can turn my script, stock footage, and B-roll into an engaging educational piece. The finished video should flow smoothly, use text overlays to highlight key points, and feature background music that supports the learning mood without distracting viewers.  \n\n\nHi, I’m looking for a video editor experienced in creating faceless YouTube videos about natural disasters, especially tornadoes.\n\nI’m specifically looking for someone who knows how to effectively use survivor footage/interviews, archival news footage, storm-chasing footage, real disaster footage, maps, weather graphics, photos, sound effects, and cinematic documentary-style editing.\n\nIf you have edited similar tornado or natural-disaster videos before, please send me your portfolio and relevant examples.\n\nI’ll supply:  \n• A detailed script with on-screen cue notes  \n• Curated footage and images (royalty-free)  \n• Branding guidelines for fonts and colours  \n\nYou’ll handle:  \n• Assembling the visuals to match the narrative timing  \n• Designing clear, on-brand text overlays for titles, facts, and calls to action  \n• Selecting or mixing background music that fits an educational tone and is copyright-safe  \n• Basic colour correction, light motion graphics, and sound balancing so everything feels polished  \n\nNo voice-over is required for this edit; the visuals and text carry the lesson. The final deliverable is a 1080p MP4 plus the editable project file ",
+  "query": "python script",
+  "found_at": "2026-08-15 14:35"
+ }
+]
