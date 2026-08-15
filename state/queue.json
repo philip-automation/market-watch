@@ -531,5 +531,31 @@
   "desc": "I need an experienced SEO specialist who also writes compelling copy to give my site a measurable lift in organic traffic across the United States. The work spans strategy and execution, so I’m looking for someone comfortable moving from keyword research straight through to publishing in WordPress.\n\nHere’s what I’d like you to tackle:\n• Keyword research tailored to our niche, focused on terms that will drive national-level traffic.  \n• On-page optimisation—titles, meta descriptions, H-tags, image alt text, and smart internal linking—implemented directly in WordPress using tools like Yoast SEO or similar.  \n• Fresh, SEO-friendly content: engaging blog posts and persuasive landing- or product-page copy, weighted equally so neither channel is neglected.  \n• Clear, periodic progress reports showing rankings, impressions, clicks, and next-step recommendations via Google Search Console or equivalent analytics.  \n\nIdeal background:\n• Proven success increasing organic traffic for a national audience.  \n• Strong, natural writing style that sounds human first, search-engine-smart second.  \n• Hands-on familiarity with Yoast SEO, Google Search Console, and WordPress publishing workflows.  \n\nDeliverables will be reviewed against traffic growth, on-page health, and content quality. If this sounds like a fit, I’m ready to start right away and collaborate closely on priorities and timelines.",
   "query": "google sheets automation",
   "found_at": "2026-08-15 22:32"
+ },
+ {
+  "id": 40649837,
+  "title": "Stroke Audit Data Integrator",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 17,
+  "url": "https://www.freelancer.com/projects/power-automate/Stroke-Audit-Data-Integrator",
+  "desc": "I have three Excel-based stroke-audit reports that land in our network each month. Some of the files share identical column layouts while others arrive with extra or differently named fields, yet they all describe the same underlying patient journey. I need a single, plug-and-play workbook in Microsoft 365 that can:\n\n• Ingest any of the three source spreadsheets through Power Query, harmonise the mismatched column names and structures, and load everything into one clean “MetaData” table.  \n• Preserve refresh-ability so that dropping updated files into a folder and clicking Refresh updates the MetaData sheet without further manipulation.  \n• Expose that consolidated table so Power BI can connect to it directly- but dont need the power bi build.\n\nIn an ideal state we be able to flag an event/case for escalation to the medical director or quality team for review and input. While the primary trigger will be missing critical fields, I want the rule set to remain configurable so threshold breaches or other anomaly logic can be added later without rewriting the queries.\n\nWhen a row is flagged, an automated notification (email or Teams message—whichever is simpler within the Microsoft 365 stack) should be sent to our reviewer. The message needs to include a link back to the workbook or a lightweight form so the reviewer can complete the missing data. but the reviewer should only be able to see events assigned to them to protect pHI.  Once saved, the status in the MetaData table must ",
+  "query": "data extraction",
+  "found_at": "2026-08-15 22:55"
+ },
+ {
+  "id": 40649830,
+  "title": "Lead Hunter & Closer for Marketing Platform Sales Closer – Commission-Based (Remote)",
+  "budget_min": 1500.0,
+  "budget_max": 3000.0,
+  "currency": "CAD",
+  "usd_rate": 0.720643,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/lead-generation/Lead-Hunter-Closer-for-Marketing",
+  "desc": "What You'll Be Doing\n\nYou will be responsible for finding your own leads — companies that need marketing automation — and closing them.\n\nYour job is to:\n\n· Prospect companies that fit our ideal customer profile (B2B service businesses, agencies, SaaS, professional services)\n· Reach out via cold email, LinkedIn, or phone\n· Get them on a free trial or a demo\n· Handle objections and close the deal\n· Hand off to our onboarding team once they have signed up\n\nImportant: You are not just getting them to sign up — you are closing them on a paid subscription. Commission is earned when the user converts to paid after the 7-day free trial. If they do not convert, the deal does not count and you do not get paid.\n\nYou are not running ads. You are not getting leads handed to you. You are finding them yourself and closing them.\n\n---\n\nWho You Are\n\nTrait Why It Matters\nHungry You want to make serious money\nIndependent You do not need hand-holding\nPersuasive You can handle objections and close\nOutgoing You are comfortable on the phone and in DMs\nResilient You do not get discouraged by rejection\n\n---\n\nCommission Structure\n\nTier Deals Closed / Month Commission Rate Example Payout (1 Deal)\nTier 1 1–4 15% $375\nTier 2 5–9 20% $500\nTier 3 10+ 25% $625\n\nCommission is earned when the user converts to paid after the 7-day free trial. If the user does not convert, the deal does not count and no commission is paid.\n\nExamples:\n\n· 1 deal = $375\n· 5 deals = $2,500\n· 10 deals = $6,250\n· 20 deals = $12,500\n\nY",
+  "query": "python automation",
+  "found_at": "2026-08-15 22:55"
  }
 ]
