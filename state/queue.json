@@ -674,5 +674,44 @@
   "desc": "I’m preparing an entertainment-style vlog and need a single thumbnail that viewers can’t resist clicking. The overall feel should be simply “attractive” rather than locked into something strictly minimalistic, boldly colourful, or overly elegant; think modern, clean and undeniably eye-catching.\n\nYou’ll receive a high-resolution photo and the exact text I want featured. Please combine that photo with strong text emphasis and supportive icons or graphics so the image, copy, and design all work together to sell the video at a glance. Photo emphasis is important, but I still want the wording to pop for mobile viewers.\n\nFinal artwork must:\n• Be YouTube-ready at 1280 × 720 px (16:9), under 2 MB  \n• Retain sharp detail at smaller preview sizes  \n• Come with an editable layered file (PSD or AI) plus a flattened PNG/JPG  \n\nIf this sounds like a quick creative win for you, I’m eager to see how you can make the thumbnail both unique and instantly clickable.",
   "query": "ai chatbot",
   "found_at": "2026-08-15 10:43"
+ },
+ {
+  "id": 40648933,
+  "title": "Amazon India & Flipkart Product Research Expert",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/amazon/Amazon-India-Flipkart-Product-Research",
+  "desc": "Looking for an experienced Amazon India & Flipkart Product Researcher.\nNeed someone who can research and identify profitable products to sell online.\nInitial focus: Artificial Jewellery, but open to other high-potential categories.\nAnalyse demand, competition, pricing, sales potential and customer reviews.\nCalculate product cost, marketplace fees, advertising cost, profit margin and ROI.\nIdentify products with high demand + low/medium competition.\nProvide 10–20 product recommendations with proper data and reasoning.\nResearch should be based on Amazon India & Flipkart, not generic global trends.\nExperience with Helium 10, Jungle Scout, Keepa, SellerApp or similar tools preferred.\nLooking for someone for long-term work, not a one-time generic report.\nPlease share previous product research samples/work experience.",
+  "query": "data extraction",
+  "found_at": "2026-08-15 11:02"
+ },
+ {
+  "id": 40648948,
+  "title": "Eye2Serve SAP Instant Bid Software",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/sap/Eye-Serve-SAP-Instant-Bid",
+  "desc": "I need a small Windows-based utility that logs into the Eye2Serve (SAP) freight tender portal, waits for a chosen contract to open, and fires our pre-calculated bid the very first millisecond the system allows it. The site awards freight lanes strictly on a first-come-first-served basis, so raw speed and rock-solid reliability matter more than anything else.\n\nHow I picture the workflow  \n• I enter one or more contract numbers and their ready-made prices (CSV or an on-screen table is fine).  \n• The tool authenticates with our usual SAP credentials, keeps the session alive, and monitors the status of each contract.  \n• The exact moment bidding goes live it submits the stored price, confirms acceptance, and logs the server timestamp so we can prove our place in line.  \n• If the bid fails or the site throws a captcha/timeout, the software should retry instantly with sensible back-off rules and alert me.\n\nTechnical notes  \n• Must run on Windows 10/11.  \n• I did not lock the build to any one language or technique; browser automation (Selenium, Playwright, etc.), direct API calls, or a hybrid approach are all acceptable as long as they hit the speed target. Feel free to recommend what you believe will shave off the most milliseconds.  \n• Include a simple UI that lets my team load new contracts without touching code, plus a log file we can export.  \n• Source code and a brief setup guide are part of the hand-off.\n\nAcceptance criteria  \n1. From the instant the “bid” button appears to c",
+  "query": "python automation",
+  "found_at": "2026-08-15 11:02"
+ },
+ {
+  "id": 40648937,
+  "title": "College Notes Handwriting Needed -- 2",
+  "budget_min": 37500.0,
+  "budget_max": 75000.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/photography/College-Notes-Handwriting-Needed",
+  "desc": "I need up to ten pages of clear, neatly handwritten notes for a college assignment. The content is ready; what I’m missing is a tidy, easy-to-read script that looks like authentic student work rather than computer printouts.  \n\nHere’s what will make the job a success for me:  \n• Use standard A4 or US-letter lined paper and a dark, smudge-free pen.  \n• Keep spacing consistent and headings underlined so the material is easy to scan quickly.  \n• Deliver high-resolution scans or photos (JPEG or PDF) that are flat, well-lit, and free of shadows.  \n\nIf you’re confident in your handwriting and can return the pages within two days of receiving the text, I’d love to work with you.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-15 11:02"
  }
 ]
