@@ -505,5 +505,31 @@
   "desc": "We are seeking an experienced mobile app developer to build a performant, cross-platform chess application focused on [insert unique value proposition, e.g., AI-guided blunder training / chess roguelike mechanics / gamified daily challenges]. The initial phase is an MVP designed for fast market validation and user retention.\n\nCore Scope & Deliverables:\n\nFrontend: Built with Flutter, React Native, or Unity for smooth 60fps board rendering, piece animations, and drag-and-drop mechanics.\n\nChess Logic & Engine: Integration of the open-source Stockfish engine (or chess.js / custom rule validator) for move generation, legal move validation, FEN/PGN import-export, and dynamic AI difficulty levels.\n\nGame Modes for MVP:\n\nPlayer vs. AI (adjustable ELO/difficulty).\n\n[Specific Core Feature: e.g., Interactive Puzzle System / Asynchronous or Live PvP].\n\nBackend & Accounts: Lightweight backend (Firebase / Supabase or Node.js) handling user authentication, profile ratings, game state saving, and analytics.\n\nMonetization Architecture: Integration of RevenueCat / Stripe / Google Play & Apple In-App Purchases for subscriptions or cosmetic unlocks.\n\nRequired Qualifications:\n\nDemonstrated experience developing mobile board games or turn-based multiplayer apps.\n\nProven experience integrating chess libraries (chess.js, Stockfish engine, or WebSockets for real-time play).\n\nClean code architecture with clear documentation and source code handoff.\n\nBudget & Milestones:\n\nMilestone 1: UI/UX wireframe se",
   "query": "ai chatbot",
   "found_at": "2026-08-15 21:53"
+ },
+ {
+  "id": 40649823,
+  "title": "Azure Environment Replication via Anydesk",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/web-development/Azure-Environment-Replication-via",
+  "desc": "I have a live web application running in Azure together with its supporting resources. My goal is to create an identical copy inside a separate Azure account so I can test new changes safely. While production stays untouched, the replica must mirror the current App Service plan, databases, functions, storage, networking, and any other dependencies exactly.\n\nWe will perform the entire process through an interactive AnyDesk session so I can follow each step and ask questions in real time. You will:\n\n• Re-create every resource and configuration required by the site (connection strings, managed identities, access policies, custom domains, SSL bindings, etc.).  \n• Verify the copied environment works end-to-end by browsing the site, running key workflows, and confirming data connectivity.  \n• Explain the reasoning behind each action and note any pitfalls, limits, or cost implications I should be aware of.  \n• Leave me with a concise set of written steps or an ARM/Bicep/Terraform template I can reuse for future refreshes.\n\nAcceptance criteria  \n1. The duplicated environment loads successfully in a browser with no runtime errors.  \n2. Background jobs/functions trigger as expected.  \n3. Database reads and writes operate independently of production.  \n4. I can tear down and rebuild the test setup using the provided template or notes.\n\nOnly seasoned Azure specialists, please begin your bid with “CW” so I know you read the brief.",
+  "query": "web scraping",
+  "found_at": "2026-08-15 22:32"
+ },
+ {
+  "id": 40649814,
+  "title": "SEO & Copywriting Boost Project",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 20,
+  "url": "https://www.freelancer.com/projects/analytics/SEO-Copywriting-Boost-Project",
+  "desc": "I need an experienced SEO specialist who also writes compelling copy to give my site a measurable lift in organic traffic across the United States. The work spans strategy and execution, so I’m looking for someone comfortable moving from keyword research straight through to publishing in WordPress.\n\nHere’s what I’d like you to tackle:\n• Keyword research tailored to our niche, focused on terms that will drive national-level traffic.  \n• On-page optimisation—titles, meta descriptions, H-tags, image alt text, and smart internal linking—implemented directly in WordPress using tools like Yoast SEO or similar.  \n• Fresh, SEO-friendly content: engaging blog posts and persuasive landing- or product-page copy, weighted equally so neither channel is neglected.  \n• Clear, periodic progress reports showing rankings, impressions, clicks, and next-step recommendations via Google Search Console or equivalent analytics.  \n\nIdeal background:\n• Proven success increasing organic traffic for a national audience.  \n• Strong, natural writing style that sounds human first, search-engine-smart second.  \n• Hands-on familiarity with Yoast SEO, Google Search Console, and WordPress publishing workflows.  \n\nDeliverables will be reviewed against traffic growth, on-page health, and content quality. If this sounds like a fit, I’m ready to start right away and collaborate closely on priorities and timelines.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-15 22:32"
  }
 ]
