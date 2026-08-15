@@ -2767,5 +2767,31 @@
   "desc": "I have a clear photograph of a double-sided PCB taken from an automotive control module and I need that board faithfully recreated from scratch. There is no schematic, component list, or labelled photo available—only the image itself—so the job calls for full reverse-engineering talent.\n\nWhat I need from you is a complete, manufacture-ready package: the schematic you derive from the picture, the routed board layout matching the original dimensions and hole placements, and production files (Gerber, drill, pick-and-place). A concise BOM based on the components you can visually identify will round off the hand-over. Accuracy is critical: track widths, via sizes, and copper pours must respect typical automotive reliability standards.\n\nYou are free to work in KiCad, Altium, Eagle, or any other mainstream tool, as long as the exports are industry-standard and ready for fabrication. Before final delivery I will print the board outline at 1:1 to confirm dimensions, so please be prepared for one feedback cycle to fine-tune mechanical fit.\n\nDeliverables:\n• Schematic in native tool format and PDF  \n• Gerber & drill files matched to the photo  \n• Pick-and-place file and basic BOM  \n\nIf you have a background in automotive electronics and have handled double-sided reverse-engineering projects before, your experience will be a perfect fit. Let’s bring this legacy board back to life.",
   "query": "pdf extraction",
   "found_at": "2026-08-15 02:01"
+ },
+ {
+  "id": 40648340,
+  "title": "Data Security & Compliance Audit",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010477,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/compliance/Data-Security-Compliance-Audit",
+  "desc": "I need an experienced security professional to examine our current environment and bring it in line with GDPR, SOC and India’s upcoming DPDP requirements. We already have a security program in place, but many of the controls no longer meet best-practice standards, so the primary objective is a full-scale assessment that shows the exact gaps and then guides us through remediation.\n\nWhere we feel weakest is encryption of data at rest and in transit, granular role-based access management, real-time monitoring, incident response playbooks and a stronger defence against external intrusion attempts. I expect a thorough review of policies, configurations and toolsets (think SIEM, IDS/IPS, DLP, MFA, privileged-access management) followed by a clear, actionable roadmap.\n\nDeliverables  \n• Gap-analysis report mapped to GDPR, SOC and DPDP clauses  \n• Risk-ranked remediation plan with timelines and ownership suggestions  \n• Updated policy documents and control matrices ready for audit  \n• Proof-of-concept configurations or scripts for critical fixes (e.g., encryption, log forwarding, alerting)  \n• Final compliance readiness scorecard and executive summary\n\nAcceptance criteria  \nAll findings must reference the exact regulatory articles or controls, and recommended actions should be technically feasible within our existing cloud/on-prem hybrid stack. Documentation must be audit-ready, written in plain English, and validated in a review walkthrough with our internal team.",
+  "query": "data extraction",
+  "found_at": "2026-08-15 03:00"
+ },
+ {
+  "id": 40648337,
+  "title": "Social Media Engagement Drive",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010477,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/content-creation/Social-Media-Engagement-Drive",
+  "desc": "I’m ready to launch a fresh, engagement-focused campaign on LinkedIn (and possibly on Facebook, Instagram, Twitter). My priority is sparking genuine conversations—replies, shares, reactions, and comment threads that show real community involvement—rather than simply pushing follower counts higher.\n\nContent mix\n• Short-form videos (reels, stories, teasers)  \n• Eye-catching image posts and carousels  \n• Snappy text updates, polls, and conversation starters  \n\nScope of work\nI’ll supply brand guidelines, past creative assets, and core messaging points. You’ll translate them into a four-week content calendar, craft the posts, schedule them, and optimise timing and hashtags for maximum interaction on each platform. I’d like data-driven tweaks along the way based on performance insights from native analytics or tools you already trust (e.g., Meta Business Suite, Hootsuite, Buffer).\n\nAcceptance criteria\n• Calendar covering at least three posts per week per platform, balanced across the three content types.  \n• Copy and visuals pre-approved 48 h before posting.  \n• Mid-campaign report highlighting top-performing posts, engagement rate improvements, and next-step recommendations.  \n• End-of-campaign summary with clear engagement metrics compared to baseline.\n\nIf you have ideas to weave in user-generated content, influencer collaborations, or emerging features such as Instagram Collabs or Twitter Spaces, feel free to suggest them—creative initiative is appreciated as long as it serves t",
+  "query": "data extraction",
+  "found_at": "2026-08-15 03:00"
  }
 ]
