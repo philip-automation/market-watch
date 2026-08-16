@@ -544,5 +544,18 @@
   "desc": "I need a customized Excel sheet to track my daily transactions, both income and expenses. The sheet should include:\n\n- Date of transaction\n- Category of transaction\n- Amount\n\nI want to categorize transactions by type (e.g., groceries, rent), payment method (e.g., cash, credit card), and source (e.g., salary, freelance). \n\nIdeal skills and experience:\n- Proficiency in Excel\n- Experience in creating financial tracking sheets\n- Attention to detail and organizational skills",
   "query": "google sheets automation",
   "found_at": "2026-08-16 19:38"
+ },
+ {
+  "id": 40651390,
+  "title": "Windows OS Installation Assistance",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/technical-support/Windows-Installation-Assistance",
+  "desc": "I’m looking for a technician who can remotely guide me through a clean installation of Windows on a desktop PC. The goal is to move from my current unstable setup to a fresh, fully activated Windows environment without data-loss on a secondary drive.\n\nHere’s what I need from you:\n• Help preparing bootable media and choosing the correct Windows edition for my licence  \n• Step-by-step guidance during BIOS/UEFI configuration and the actual install process  \n• Post-install tasks: driver updates, Windows activation, initial security settings, and quick validation that all hardware is recognised\n\nI have a reliable internet connection and can share my screen via any remote-support tool you prefer (TeamViewer, AnyDesk, Microsoft Quick Assist, etc.). Please let me know your availability and how long the full session typically takes in your experience.",
+  "query": "data extraction",
+  "found_at": "2026-08-16 19:59"
  }
 ]
