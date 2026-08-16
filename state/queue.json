@@ -947,5 +947,31 @@
   "desc": "I have between one and fifty customer information forms on paper that must be transcribed with absolute accuracy into a clean, well-structured Excel file. Each form contains typical contact and account details—names, addresses, phone numbers, email, purchase notes—nothing overly complex, but I need every field captured exactly as it appears on the page.\n\nYou will receive high-resolution scans of the forms. I expect you to:\n\n• create a single .xlsx workbook with clear column headers that mirror the form fields  \n• enter all data without omissions, spelling mistakes, or formatting inconsistencies  \n• cross-check your work before sending it back so I can import it immediately without further edits\n\nConfidentiality is essential because the sheets contain personal information. A quick turnaround is appreciated; let me know how soon you can comfortably deliver once you see the material.",
   "query": "data extraction",
   "found_at": "2026-08-16 04:47"
+ },
+ {
+  "id": 40650165,
+  "title": "Georgia Stamped Stormwater Plans",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/structural-engineering/Georgia-Stamped-Stormwater-Plans",
+  "desc": "I need a Georgia-licensed civil engineer to prepare a full, permit-ready drawing package for a small site that requires three components: \n\n• Storm-water management layout showing flow paths, structures, and any detention or treatment details.  \n• Retaining-wall design sized for the on-site soils, complete with footing, reinforcement, drainage, and safety notes.  \n• Updated contour and spot-elevation map that ties the new work back to existing topography for accurate grading.\n\nPlease deliver PDF sheets suitable for county submittal plus the native CAD files. All sheets must carry your current Georgia PE stamp and signature. I will provide the survey, preliminary site concept, and any municipal checklists as soon as we start. If you have questions on local ordinances or need additional data, let me know early so we stay on schedule.",
+  "query": "data extraction",
+  "found_at": "2026-08-16 05:15"
+ },
+ {
+  "id": 40650154,
+  "title": "Exoskeleton Prototype for Glasses -- 2",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/prototyping/Exoskeleton-Prototype-for-Glasses",
+  "desc": "I need an exoskeleton prototype designed to protect prescription glasses during football. I have an AI Generated image of this but i require this to be modelled and ready for 3D printing.  This exoskeleton should be lightweight, durable, and flexible.\n\nRequirements:\n- Material: Composite\n- Key Features: Lightweight, Durability, Flexibility\n- Attachment Method: Open to suggestions (clips, wraparound design, elastic bands)\n\nIdeal Skills & Experience:\n- Experience in prototyping with composite materials\n- Background in wearable technology design\n- Knowledge of structural integrity and flexibility in sports equipment",
+  "query": "ai chatbot",
+  "found_at": "2026-08-16 05:15"
  }
 ]
