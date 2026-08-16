@@ -739,5 +739,31 @@
   "desc": "I need a custom trend-based indicator written in Pine Script that can live on any TradingView stock chart and fire clear buy and sell signals. The logic is up to you, as long as it consistently reads the prevailing trend and translates it into on-chart arrows or color changes that traders can act on immediately.  \n\nWhat matters to me is accuracy and ease of use: no repainting, minimal lag, adjustable sensitivity settings, and commentary in the code so I can tweak parameters later. Once the script is finished, I’ll load it into TradingView and expect the signals to display properly on intraday and daily stock time frames.  \n\nDeliverables  \n• Complete, well-commented Pine Script (.pinescript)  \n• A short read-me explaining the inputs, recommended default values, and how signals are generated  \n• Quick walkthrough call or written guide so I can verify the indicator compiles and behaves as expected on live stock charts  \n\nI’ll consider the job done when the script compiles without errors, plots the trend-based buy/sell markers, and matches the described behavior on several stock symbols.",
   "query": "python script",
   "found_at": "2026-08-16 21:29"
+ },
+ {
+  "id": 40651537,
+  "title": "PhD Energy Systems Validation & Manuscript Extraction",
+  "budget_min": 750.0,
+  "budget_max": 1500.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/renewable-energy-design/PhD-Energy-Systems-Validation-Manuscript",
+  "desc": "PhD Energy Systems Expert: Technical Audit & Q1 Journal Manuscript Extraction (EnergyPLAN / SAM)\n\nProject Overview:\nI am seeking a PhD-level Academic Researcher / Energy Systems Technical Consultant on a 100% paid, fee-for-service consulting basis to assist in adapting my 320-page PhD thesis into a high-impact Q1 journal manuscript targeting top-tier publications such as Applied Energy or Energy (Elsevier). The primary author retains 100% single authorship of the publication.\n\nThesis Research Scope & Tools:\n\nTitle/Subject: Modelling of The Saudi Arabia Energy System with The Future 100% Renewable Energy Systems Scenarios for Power Supply for All Sectors Coupled with Transport Sector Electrification.\n\nRequired Software Expertise: Hands-on proficiency auditing output datasets from EnergyPLAN and NREL's System Advisor Model (SAM).\n\nTechnical Domains: 8,760-hour national energy balance modeling, battery storage capacity optimization (kWh/MWh), sector coupling (EV fleet integration & Power-to-X), and macro-energy economics (LCOE calculations, CAPEX/OPEX, interest/discount rate sensitivity analyses).\n\nRequired 4-Phase Execution Workflow:\n\nTechnical Audit: A complete technical audit of the thesis datasets, figures, tables, and 8,760-hour dispatch logic to evaluate data accuracy, system performance, and energy output projections.\n\nNovelty Extraction & Manuscript Planning: Isolating core novel contributions regarding Saudi Arabia's energy transition, defining clear research gaps again",
+  "query": "data extraction",
+  "found_at": "2026-08-16 22:32"
+ },
+ {
+  "id": 40651533,
+  "title": "Canadian Firms Benefits Provider Research",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "CAD",
+  "usd_rate": 0.720848,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/telemarketing/Canadian-Firms-Benefits-Provider",
+  "desc": "I need daily help phoning medium-to-large Canadian firms (about 100–500+ staff) to find out one simple fact: which carrier currently handles their group benefits or pension plan. Think Manulife, Sun Life, Canada Life and similar names. No selling, no pitching—just polite, professional fact-finding.\n\nHere’s how the flow works. You ring the main line, reach the HR or payroll contact and note the provider they mention. If you land in voicemail, just try again later rather than leaving a message. As soon as you have the answer, you open the shared Google Sheet and log three items—company name, benefits/pension provider, and province (flagging Québec, Ontario or other). That’s it.\n\nI’m aiming for at least 100 fresh, fully completed records every week. An entry-level caller with a clear phone manner will do fine; fluent English is essential and any French you have is a welcome bonus when you’re dealing with Québec numbers.\n\nYou’ll need a reliable phone setup and be comfortable updating Google Sheets in real time. If that sounds straightforward, let’s get started right away so we can build a clean dataset together.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-16 22:32"
  }
 ]
