@@ -89,5 +89,57 @@
   "desc": "I have a short commercial in production and I need a confident, authoritative voice that still connects naturally with teenagers. The final spot will run primarily on social media, so the read has to be punchy, memorable, and instantly engaging for a Gen-Z audience while retaining the credibility of a professional brand voice.\n\nWhat I already have:\n• Final script in standard English, roughly 60 seconds  \n• Storyboard with timing cues and mood references  \n• Brand guidelines outlining pace, energy, and pronunciation of two trademarked terms  \n\nWhat I need from you:\n• A clean, broadcast-quality recording (24-bit / 48 kHz WAV plus a high-quality MP3)  \n• Two full takes: one at normal pacing, one slightly faster for cut-downs  \n• Light processing—noise removal and basic EQ—while leaving enough headroom for our mix engineer  \n• A short pick-up session (up to 15 words) included in the fee, should wording or emphasis change after review  \n\nAcceptance criteria:\n1. Read meets the “Commercial” objective with an unmistakably authoritative tone.  \n2. Delivery style resonates with a teenage demographic—no overly formal inflection.  \n3. Audio is free of pops, clicks, and background noise, and peaks no higher than –3 dBFS.  \n\nIf this sounds like a fit, please send a brief sample—your existing reel is fine—as long as it demonstrates the authoritative style I’m after. I’ll move quickly on selection so we can get this spot wrapped and into post.",
   "query": "python script",
   "found_at": "2026-08-16 15:02"
+ },
+ {
+  "id": 40651025,
+  "title": "Canva Flip Book Creation",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/book-design/Canva-Flip-Book-Creation",
+  "desc": "I need a spiral-bound flip book designed on Canva for educational purposes aimed at the general public. \n\nKey Requirements:\n- Designed on Canva\n- Spiral-bound flip book format\n- Educational content for the general public\n\nIdeal Skills and Experience:\n- Proficiency in Canva\n- Experience in designing flip books\n- Strong design skills for engaging educational material\n\nPlease share your portfolio with your bids.\n\nHello. I am writing a flip book with wisdom and quotes of the old saints. IT is 123 pages and would be spiral bound, I think, and would be something you would keep on your desk or night stand. I have put all the text in place but get lost in the editing, fonts and borders. Even when I use AI it seems very inconsistent. I need HELP! Lol. Any editing I could get would be so helpful with this project. I would like to self publish once I am done. \nThank you !\n\nStuart",
+  "query": "ai chatbot",
+  "found_at": "2026-08-16 15:32"
+ },
+ {
+  "id": 40650990,
+  "title": "High-Realism indian mythology character 3D Sculpt",
+  "budget_min": 37500.0,
+  "budget_max": 75000.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/blender/High-Realism-indian-mythology-character",
+  "desc": "I already have a Meshy AI V2 base mesh and full concept references for my original KARNA collectible figure inspired by Indian mythology. What I need now is a skilled ZBrush or Blender artist to rebuild and refine that draft into a factory-ready digital sculpt.\n\nKey focus areas are the overall anatomy and proportions, facial details and expressions, plus all clothing and accessories. The finished piece must look high-realism, not semi-realistic or stylized, and it will ship in a neutral standing pose—so please balance the weight naturally and hide any key cuts or joints with that stance in mind.\n\nYou will receive:\n• The current OBJ/ZTL base model  \n• Turnaround sketches and weapon refs  \n• Size specs for the final figure  \n\nDeliverables:\n• Clean ZTL and/or .blend with subdivision levels intact  \n• Watertight, decimated STL keyed for print or molding  \n• Separate subtools for armor, fabric, hair, and weapon pieces  \n• Quad-based retopo and UVs if produced in Blender  \n• A simple render set (front, side, back, ¾) for approval  \n\nKeep layers and file names organized so my manufacturing partner can jump straight into slicing and tooling. If you’ve taken collectibles to production before, send over a sample and your estimated turnaround time. Happy to answer any technical or artistic questions once you dive into the mesh.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-16 15:32"
+ },
+ {
+  "id": 40651002,
+  "title": "SIM-Based Order Confirmation SMS",
+  "budget_min": 10000.0,
+  "budget_max": 20000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/iphone-app-development/SIM-Based-Order-Confirmation-SMS",
+  "desc": "I need a straightforward SIM-based gateway that can automatically send order-confirmation texts the moment a purchase is completed on my e-commerce platform. Cloud SMS providers won’t suit this project—I want the messages to originate from a physical GSM modem or similar device with my own SIM card so customers always see a local number.\n\nHere’s the workflow I am after:  \n• My store fires a webhook/HTTP call when an order is marked paid.  \n• Your service picks up that payload, formats the confirmation message, and pushes it through the SIM-based modem.  \n• Delivery status (sent / failed) is written back to the store’s admin panel or logged to a simple dashboard so I can track each message.\n\nAcceptance criteria  \n• Plug-and-play integration with my current e-commerce platform (Shopify, WooCommerce, or PrestaShop—the final one can be discussed).  \n• Reliable queuing so no order confirmation is lost, even if the modem is briefly offline.  \n• Clear instructions for configuring additional sender SIMs, changing message templates, and exporting delivery logs.  \n• Tested end-to-end on at least 20 consecutive orders with 100 % delivery success.\n\nIf you have prior experience with GSM modems, AT commands, or building lightweight SMS gateways in Node.js, Python, or PHP, that will help us move fast.  \nLet me know the hardware you recommend, any open-source libraries you prefer, and how soon you can run a pilot on my store.",
+  "query": "gpt integration",
+  "found_at": "2026-08-16 15:32"
+ },
+ {
+  "id": 40650993,
+  "title": "Telugu Educational Book Proofreading",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/content-writing/Telugu-Educational-Book-Proofreading",
+  "desc": "I have a Telugu-language education book that is ready for its final polish and I need a sharp eye to make sure every page reads flawlessly. Your brief is straightforward:\n\n• Work directly in the manuscript (Word or PDF—let me know which you prefer) and flag or correct any issues with grammar and punctuation, spelling and vocabulary, as well as overall sentence structure and readability.  \n• Keep the natural flow of Telugu intact while ensuring it remains clear and engaging for students and teachers alike.  \n• Return two files: one clean copy and one with all changes tracked so I can review every edit at a glance.  \n\nIf you have previous experience proofreading long-form Telugu educational material, please mention it when you start—we can move faster once I know your background. Looking forward to seeing this book shine with your expertise.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-16 15:32"
  }
 ]
