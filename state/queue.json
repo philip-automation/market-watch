@@ -310,5 +310,44 @@
   "desc": "I need a quick favour inside the Android game “Ninja Progenitor.” When the game is opened from the Brazilian Google Play Store the in-app prices must display in Brazilian reais (R$). Your task is simply to reach the purchase screen on an Android smartphone, capture a clear screenshot of every real-denominated price tier, and send it to me.  \n\nAs soon as I confirm the screenshot matches the Brazilian storefront I will award the project. If you are also able to complete a specific purchase for me right after, I will reimburse the exact amount spent and add an extra €30 on top.  \n\nYou can do this either because you are physically in Brazil or by creating a fresh Google account through a BR-based VPN; the method is up to you as long as the prices appear natively in reais. The whole process should take under five minutes for someone familiar with Google Play region switches.  \n\nDeliverable: one unedited screenshot (PNG or JPG) showing all in-game purchase options in R$.  \n\nI’m ready to move quickly—send the screenshot and we’ll proceed with the purchase step immediately.",
   "query": "google sheets automation",
   "found_at": "2026-08-16 17:38"
+ },
+ {
+  "id": 40651225,
+  "title": "MLM Binary & AI Training",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/machine-learning/MLM-Binary-Training",
+  "desc": "I’m putting together a hands-on training series for my team that already has a working knowledge of software development and network marketing concepts. The goal is to guide them, step by step, through building and optimising a full-scale MLM binary tree system while weaving in the latest AI technologies for forecasting, lead scoring and automated support.\n\nI want the sessions to be run as interactive workshops—live, project-based and code-heavy—so participants can implement concepts in real time and leave each module with a working feature. Written guides or recorded videos can be added later if you think they’ll reinforce the lessons, but the core delivery method must remain workshop-style.\n\nKey areas we must cover  \n• Practical design and scaling of the MLM binary tree structure, including spill-over handling, commission calculations and real-time genealogy visualisation.  \n• Integration of current AI tools (e.g., TensorFlow, PyTorch, OpenAI APIs) to add predictive analytics, chatbot onboarding and fraud detection layers to the platform.\n\nThe audience is solidly at an intermediate level—they know their way around Git, REST APIs and basic data structures—so you can skip beginner explanations and focus on architecture decisions, optimisation tricks and AI model fine-tuning.\n\nBy the end of the programme I expect:  \n1. A complete workshop schedule with objectives and sample code for each session.  \n2. Source files and datasets used during demonstrations, neatly organised in a ",
+  "query": "data extraction",
+  "found_at": "2026-08-16 18:00"
+ },
+ {
+  "id": 40651221,
+  "title": "Custom Article Writing Task",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/research-writing/Custom-Article-Writing-Task",
+  "desc": "I need a well-structured, engaging article produced from scratch. While I have not yet locked down the exact format—whether a blog post, news piece, or more formal research-style write-up—I do know I want clear, reader-friendly prose backed by solid research and free of fluff.  \n\nHere’s how I’d like to proceed: once we agree on a topic and angle, you’ll outline the key points, incorporate reputable sources, then craft a polished draft of roughly 1,000 words (flexible if the subject demands more or less). Citations should be included where appropriate, and the final file can be delivered in Word or Google Docs so I can leave comments.  \n\nQuality, originality, and an approachable tone are top priorities. If you have specific domain expertise or writing samples that showcase your style, feel free to reference them when we discuss the topic so I can steer the assignment toward your strengths.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-16 18:00"
+ },
+ {
+  "id": 40651239,
+  "title": "Modern Airbnb Farmhouse 2D Plan",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/2d-drafting/Modern-Airbnb-Farmhouse-Plan",
+  "desc": "I need a clear, builder-ready 2D floor plan for a small-scale farmhouse that will operate as a commercial Airbnb. The look must be unmistakably modern, and the layout has to maximise rental appeal while staying practical to construct.\n\nKey spaces I want to see worked into the design are:\n• An airy, open-plan kitchen and living area that feels welcoming as soon as guests walk in.  \n• Multiple bedrooms laid out for privacy and easy access to shared bathrooms.  \n• An outdoor lounging zone that flows naturally from the interior, encouraging guests to spend time outside.\n\nPlease deliver a dimensioned 2D plan (PDF and editable DWG or equivalent) showing walls, windows, doors, basic furniture placement and clear room labels. One round of revisions is included so we can fine-tune circulation, bedroom count or furnishing tweaks. If you have experience optimising compact modern rentals, your insight on traffic flow, storage and guest comfort will be especially valued.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-16 18:00"
  }
 ]
