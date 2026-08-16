@@ -1714,5 +1714,31 @@
   "desc": "We are looking for a talented **lettering / brand identity designer** to develop a distinctive custom wordmark for a new lifestyle brand.\n\nAt this stage, the brand name and full concept will be shared privately with selected candidates.\n\n## What we are looking for\n\nThe main focus of this project is **custom lettering / wordmark design**.\n\nWe are NOT looking for a generic logo created by simply combining an existing font with an icon.\n\nWe want typography that feels genuinely designed and gives the brand its own recognizable personality.\n\nThe final wordmark should feel:\n\n* Modern and contemporary\n* Premium\n* Young and fresh\n* Clean and relatively minimal\n* Slightly playful, but not childish\n* Distinctive and memorable\n* Strong enough to become a recognizable brand asset\n* Suitable for both packaging and digital use\n\nThe brand will use different colors across its product range, so the wordmark needs to work well in **multiple colors as well as monochrome**.\n\n## Creative direction\n\nWe appreciate brands that achieve recognition through **simple, intelligent and distinctive design details** rather than complicated graphics.\n\nWe already have some preliminary concepts and visual experiments.\n\nThese will be shared privately with shortlisted designers as references, but they should **not be treated as finished designs to reproduce**.\n\nWe want someone capable of looking at our ideas critically and developing them into something considerably stronger.\n\n**Creative input is welcome.**\n\n## ",
   "query": "ai chatbot",
   "found_at": "2026-08-16 11:31"
+ },
+ {
+  "id": 40650721,
+  "title": "Custom Digital Onboarding System",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/web-development/Custom-Digital-Onboarding-System",
+  "desc": "I need a complete onboarding system built from the ground up. The core purpose is to welcome, educate, and guide newcomers through a structured flow, whether they are employees, clients, or general users. At this stage the platform is still open—web, mobile, or even a lightweight desktop build could work—so I’m happy to weigh your recommendation once you understand the requirements and audience size.\n\nKey capabilities I already have in mind include secure account creation, the ability to monitor progress through each step, and an engaging tutorial experience that can mix text, video, and quick-check quizzes. If there are smarter ways to keep people motivated or to surface analytics for admins, please propose them; I’m not locked into any single feature set yet.\n\nWhat I need from you:\n• A clear technical plan outlining your chosen tech stack, data model, and any third-party services  \n• UI/UX wireframes that show the complete flow from first visit to full completion  \n• A working, tested build with admin controls, plus deployment instructions or an automated script  \n• Brief documentation so my internal team can extend or localise the system later\n\nI’ll review milestones based on tangible progress—initial architecture, clickable prototype, beta launch, then final hand-off—so be ready to demonstrate visible results at each stage. If you’ve shipped similar onboarding or learning portals before, links or screenshots will help me see how you tackle usability and scalability challe",
+  "query": "web scraping",
+  "found_at": "2026-08-16 11:53"
+ },
+ {
+  "id": 40650726,
+  "title": "Desktop UI to place orders in Zerodha",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 13,
+  "url": "https://www.freelancer.com/projects/desktop-application/Desktop-place-orders-Zerodha",
+  "desc": "Hi All,\n\nI am looking for a developer who can design and develop a UI that can place and manage orders directly in my Zerodha trading account.\n\nThe key requirements are as follows:\n\nThe UI should monitor the Nifty Futures LTP and place 2–3 orders based on predefined conditions.\nOnce the orders are placed, they should be displayed at the bottom of the UI.\nThe UI should provide an option to modify the existing orders.\nThere should be an Exit All button to close/cancel all active orders.\nThe interface should be simple, user-friendly, and responsive.\nIntegration with the Zerodha trading account/API will be required.\n\nPlease let me know if you have any questions or require further clarification regarding the requirements.\n\nThanks & Regards,\nNaveen",
+  "query": "gpt integration",
+  "found_at": "2026-08-16 11:53"
  }
 ]
