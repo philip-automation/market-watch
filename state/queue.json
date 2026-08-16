@@ -635,5 +635,31 @@
   "desc": "The project is simple: record yourself at home performing short, light-hearted stand-up routines. You must be an older gentleman based somewhere in Europe, as the accent and mature presence are part of the charm I’m after.\n\nI will supply several brief, pre-written bits, but I’d also love to see your own original jokes mixed in. Aim for everyday, relatable humour rather than edgy material—think friendly observations that feel natural in a living-room setting.\n\nLighting and audio do not have to be studio-perfect; a smartphone on a tripod in a quiet room is fine so long as the picture is clear and your voice is easy to hear.\n\nDeliverables\n• 4–6 video files, each 60–90 seconds, shot in landscape.  \n• Half the clips should use the script I send, the rest can be your own material.  \n• Files delivered in MP4 or MOV via a shared drive link.\n\nI’ll review the first clip quickly and give feedback before you finish the remaining takes, so we’re both confident the tone and pacing are right. Looking forward to seeing your unique comedic flair on camera!",
   "query": "python script",
   "found_at": "2026-08-16 20:33"
+ },
+ {
+  "id": 40651413,
+  "title": "Next.js 15 + Shadcn UI Developer for High-Density FinTech/PropTech Dashboard",
+  "budget_min": 750.0,
+  "budget_max": 1500.0,
+  "currency": "EUR",
+  "usd_rate": 1.156563,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/frontend-development/Next-Shadcn-Developer-for-High",
+  "desc": "Summary\n// PROPERTY OF ATLAS INVESTMENTS S.L. - CONFIDENTIAL ARCHITECTURE BRIEF //\n\nHello,\n\nWe are looking for a Senior Front-End Developer (or a specialized compact team) to build the premium presentation layer for our cross-border PropTech SaaS platform, ATLAS PROPERTY OS. \n\nOur core backend architecture is 100% completed, fully documented, and statically stable running on Node.js locally. The API contract handles all multi-currency calculations, 10-Year historical Big Data endpoints, and core fuzzy logic weights internally. It exposes hardened, pre-flight optimized CORS headers and serves clean JSON payloads. \n\nYOUR JOB IS STRICTLY TO BUILD THE FRONT-END INTERFACE. NO BACKEND LOGIC REQUIRED.\n\nOur Tech Stack: Next.js 15, TypeScript, Shadcn UI, Tailwind CSS, and Recharts. Deployed on Vercel/AWS.\n\nAesthetic Guidelines:\nWe strictly demand the refined minimalism, clean typography, sub-pixel borders, dark/light optimization, and sleek skeleton loading speeds of premium financial platforms like Stripe, Apple, or Bloomberg terminals. We do NOT want messy or cluttered legacy real estate layouts. \n\nScope of Work (Phase 1 Core - 3 Main Responsive Views):\n1. View 1 (The Broker CRM Dashboard): High-data-density table optimized for mobile/tablet agents. It must handle 65 micro-structural real estate variables hidden dynamically via Shadcn progressive disclosure slide-sheets, a dynamic 3-state AVM Semáforo badge (Emerald Green, Amber Yellow, Alert Red), and our internal 35% tenant rent-a",
+  "query": "data extraction",
+  "found_at": "2026-08-16 20:55"
+ },
+ {
+  "id": 40651442,
+  "title": "Custom Arma 3 Mechanicus Assets",
+  "budget_min": 1500.0,
+  "budget_max": 3000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/3d-design/Custom-Arma-Mechanicus-Assets",
+  "desc": "I’m building a home brew Adeptus Mechanicus detachment in Arma 3 and need a complete pack of bespoke assets created from the ground up. The focus is on combat uniforms and I am looking to fill out Skitarii mainly, Rangers and Vanguard specifically. I would like to also obtain Ruststalkers and Infiltrators, as well as tech Priests. \n\nAlongside the clothing, I need an entire weapon suite—melee implements, ranged firearms, and explosive devices—modelled, textured, and fully configured. Think power axes, arc-rifles, and temple-pattern demo charges; anything that fits the Mechanicus theme is welcome. Unique Mechanicus items such as servo-skulls, data-slates, or bionic upgrades should also be included to round out the kit.  \n\nThe project finishes when I can drop new unit classes into the Eden editor, equip them through the Arsenal, and deploy them in multiplayer without script errors or missing textures. If you have experience with Arma 3 modding tools (O2, Blender, Substance, P3D, CBA/ACE configs) and can deliver clean, optimized models and cpp configs, I’d love to work together on bringing our homebrew forgeworld of Alsung VIII to Arma 3.",
+  "query": "data extraction",
+  "found_at": "2026-08-16 20:55"
  }
 ]
