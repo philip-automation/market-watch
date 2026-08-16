@@ -596,5 +596,83 @@
   "desc": "Saya membutuhkan bantuan untuk menambahkan elemen desain pada satu atau beberapa foto agar tampil lebih menarik dan komunikatif. Fokus utamanya adalah “Penambahan elemen desain”, jadi saya ingin teks, grafis, ikon, atau ilustrasi yang terintegrasi rapi ke dalam foto—bukan sekadar retouching biasa.\n\nRuang lingkup singkat:\n• Saya akan menyediakan foto mentah beresolusi tinggi.\n• Anda mengusulkan konsep visual, lalu menambahkan elemen desain sesuai tema (misalnya frame, tipografi, pattern, atau objek ilustratif).\n• Warna dan gaya harus konsisten dengan brand atau nuansa yang saya berikan nanti.\n• Revisi wajar hingga hasil terasa pas.\n\nHasil akhir yang saya perlukan:\n• File akhir siap pakai (JPG/PNG, 300 dpi).\n• File terbuka (PSD/AI) agar dapat saya edit di kemudian hari.\n\nSilakan sertakan portofolio serupa—terutama jika pernah menggabungkan elemen grafis ke dalam foto. Saya menantikan kolaborasi kreatif Anda!",
   "query": "ai chatbot",
   "found_at": "2026-08-15 23:51"
+ },
+ {
+  "id": 40649946,
+  "title": "Apollo & Clay Lead Generation",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/lead-generation/Apollo-Clay-Lead-Generation",
+  "desc": "I’m looking for an experienced operator who can log into my existing Apollo and Clay workspaces, spin up proven workflows, and keep a steady flow of qualified B2C contacts coming in. The single goal is clear: generate new leads among Millennial and Gen Z consumers and feed them directly into our sales funnel.\n\nHere’s the flow I have in mind. You’ll use Clay to source and enrich age-targeted consumer data, then sync everything into Apollo, segmenting by the buyer personas we already outlined. From there, build and schedule outreach sequences, tweak subject lines and copy as performance data rolls in, and keep deliverability healthy by monitoring inbox rotation, bounce rates, and spam signals.\n\nEvery week I’d like:\n\n• A fresh batch of enriched contacts that match our age-based criteria  \n• Sequence performance stats (opens, clicks, replies, conversions) with a quick insights summary  \n• Any recommendations on copy, timing, or channel diversification that could lift results\n\nI’ll provide account access, existing templates, and brand guidelines on day one. If you have a track record using Apollo’s advanced filters, Clay’s enrichment blocks, and know your way around email deliverability best practices, you’ll hit the ground running. Let’s start scaling our consumer pipeline right away.",
+  "query": "data extraction",
+  "found_at": "2026-08-16 01:53"
+ },
+ {
+  "id": 40649905,
+  "title": "Creation and Rigging of 3D Cyclist Characters",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/Creation-Rigging-Cyclist-Characters-fix",
+  "desc": "3D Cyclist Characters + Road Bike \n\n#######################################################################\n#######My budget is $100 USD; if you do not consider this sufficient, do not place a bid.#######\n#######################################################################\n\n###############Attached photos are for reference only.############################\n\n**Project:** real-time indoor-cycling race screen (WebGL2, Android TV box)\n**Deliverables:** 4 rigged cyclist characters + 1 road bike, with LODs\n\n## 0. Read this first — where these models will run\n\nThese are **not** for rendering stills. They run in a live WebGL2 scene on a low-power\nAndroid TV box (PowerVR B-Series BXM-4-64 GPU) at 1920×1080, with **up to 20 cyclists\non screen at once**, at 30 fps.\n\nWe have measured this hardware. The numbers below are not guesses:\n\n## 1. Characters required\n\nFour separate characters:\n\n| # | who | notes |\n|---|---|---|\n| 1 | Male cyclist A | base male |\n| 2 | Male cyclist B | **same body, same kit, same rig as #1 — different face and hair only** |\n| 3 | Female cyclist A | base female |\n| 4 | Female cyclist B | **same body, same kit, same rig as #3 — different face and hair only** |\n\n\"Different face\" means the two men must be recognisably different people when seen from\n2–4 metres in a three-quarter front view. Different facial structure, skin tone, and hair\n(a beard on one of them is welcome). Body proportions, clothing geometry and skeleton must\nbe **identical** between A and B so th",
+  "query": "data extraction",
+  "found_at": "2026-08-16 01:53"
+ },
+ {
+  "id": 40649898,
+  "title": "Realistic mountain biking game environment",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/3d-game-art/Realistic-mountain-biking-game",
+  "desc": "MOUNTAIN BIKE TRAIL ASSET KIT (real-time ready)\n\nThe trail needs to look as realistic as possible—high realism.\n\n#######################################################################\n########## My budget is $100 USD; if you do not consider this sufficient, do not place a bid. ###\n#######################################################################\n\n###### The attached photos are for reference only. #########\n\nBased on pre-existing environments available for purchase on sites like cgtrader.com, the project cost is around $30.\n\nMy budget is $100 USD; if you do not consider this sufficient, do not place a bid.\n\nIMPORTANT: Deliver as SEPARATE objects, not as a single merged scene. No baked lighting, no HDRIs, no cameras.\n\nFORMAT\n- GLB (preferred) or FBX + OBJ\n- Textures included as separate PNG/JPG files\n- Y-up orientation, metric scale, real-world size\n- Pivot point at the BASE of each object, centered on the X/Z axes\n\nTEXTURES\n- Max. 2048 x 2048, square, power-of-two\n- No overlapping UVs; UVs must be unwrapped\n- Foliage must use Alpha Cutout (transparency in the PNG alpha channel), not opaque planes\n- Color + normal map. Roughness map optional.\n\nRULES\n- No brand names or logos anywhere\n- Royalty-free commercial license; full usage rights for the buyer\n- No AI-generated assets",
+  "query": "ai chatbot",
+  "found_at": "2026-08-16 01:53"
+ },
+ {
+  "id": 40649925,
+  "title": "Repairing Visual Novel Minigame",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/game-programming/Repair-Romance-Visual-Novel-Minigame",
+  "desc": "I need an experienced game developer to fix broken gameplay mechanics in the puzzle-solving minigame of my visual novel. \n\nKey Requirements:\n- Fix broken gameplay mechanics\n- Ensure smooth integration with visual novel\n- Maintain engaging user experience\n\nI'm in dev of a visual novel game in Godot using the Dialogic plugin. I wanted to add a procedurally generated minigame in between timelines and the minigame works well for the first time, but not for the second time. The scene saves and I suspect the timeline end signal doesn't emit.\n\nIt's an enigma of a problem and I need help navigating this messy code. Probably asking for a miracle.",
+  "query": "gpt integration",
+  "found_at": "2026-08-16 01:53"
+ },
+ {
+  "id": 40649873,
+  "title": "Captivating Videography of European Countryside Villages",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/filmmaking/Captivating-Videography-European",
+  "desc": "Local videographers for quiet countryside village walks (UK, Ireland, Norway, Switzerland)\n\nI'm looking for videographers who live in or near rural villages and can film on an ongoing basis, not as a one-off job.\n\nWhat each session involves:\n\n20 to 25 minutes of continuous raw 4K footage\nFilmed early morning, before the streets get busy\nWalking inside the village itself: rows of old cottages, stone walls, front gardens, doors and windows, narrow lanes\nTurn the camera toward the cottages as you pass them, don't stay pointed forward the whole time\nFarm animals if you come across any\nNatural sound only. No music, no talking, nobody appearing on camera\nNo editing. Raw files exactly as recorded\n\nWhat I need from you:\n\nYou live in or can easily reach a rural area\nTell me the names of the villages you can film in\nA 4K camera with a stabiliser or gimbal\nDelivery via WeTransfer or Google Drive, uncompressed\n\nThis is ongoing work, not a single job. If the first session works well, there will be one or two videos a month on a regular basis.\n\nTo apply: start your proposal with the names of the villages you can film in. Proposals that don't include this will not be considered.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-16 01:53"
+ },
+ {
+  "id": 40649916,
+  "title": "Luxury Household Label Design",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/label-design/Luxury-Household-Label-Design",
+  "desc": "I’m refreshing the packaging for a household‐goods line and need a single, standout label created. The look I’m after sits firmly in the luxury space—clean, refined typography paired with a white-and-metallic palette that feels premium without being flashy.  \n\nHere’s what I need from you:  \n\n• A full label layout sized to the dieline I’ll supply as soon as we start.  \n• Print-ready artwork (CMYK, 300 dpi, 3 mm bleed) delivered as PDF plus editable source files in CDR\n• A vector logo lock-up, colour swatches, and fonts packaged for any future revisions.  \n\nThe product is a household item, so the design should balance sophistication with clear, accessible information (usage directions, safety icon, barcode). I’m open to subtle embellishments—foil highlights or a gentle metallic gradient—so long as white remains the hero colour.  \n\nI’ll consider the project complete when the files pass a quick pre-press check and the mock-up looks true to the approved concept. Looking forward to seeing how you translate luxury into an everyday essential.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-16 01:53"
  }
 ]
