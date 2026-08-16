@@ -1,1 +1,41 @@
-[]
+[
+ {
+  "id": 40650948,
+  "title": "Integrated Shopify Commerce Site",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/analytics/Integrated-Shopify-Commerce-Site",
+  "desc": "I need a new Shopify store set up for a range of physical products and want it running smoothly from day one. The build should cover theme selection or light custom design, basic page creation, and the first batch of product listings so that I can focus on sales rather than setup.\n\nPayments must flow through Razorpay and phone pe; those two gateways are non-negotiable for my local market. If you can wire in additional options such as PayPal, Stripe, or anything else Shopify supports without extra complication, let me know, but the priority is Razorpay and phone pe working flawlessly at checkout.\n\nFor fulfilment I rely on FedEx, UPS, and DHL. Their real-time shipping rates, label printing, and tracking updates have to appear inside Shopify and trigger customer notifications automatically. Please configure the carrier accounts, map shipping zones, and test end-to-end so I can book a shipment the moment an order lands.\n\nI also want clean analytics from the start. Connect Google Analytics 4, Facebook Pixel, and Shopify’s own reports so I can see traffic, funnel behaviour, and conversion data in one place.\n\nDeliverables  \n• Live Shopify storefront with theme configured and core pages ready  \n• Payment integration: Razorpay and phone pe fully tested in production mode  \n• Shipping integration: FedEx, UPS, DHL, shiprocket, Delhivery with live rates, label printing, and tracking emails  which ever is most affordable \n• Analytics setup: GA4, Facebook Pixel, basic event verification  \n",
+  "query": "data extraction",
+  "found_at": "2026-08-16 14:43"
+ },
+ {
+  "id": 40650923,
+  "title": "Instagram & LinkedIn Awareness Campaign",
+  "budget_min": 100.0,
+  "budget_max": 300.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/content-creation/Instagram-LinkedIn-Awareness-Campaign",
+  "desc": "I’m launching a work-from-home opportunity and need a marketer who can raise its profile on Instagram and LinkedIn. Our priority is brand awareness, so every move we make—from the tone of the captions to the look of the graphics—must consistently tell the story behind the opportunity and position it as trustworthy and exciting.\n\nHere’s what I’m after:  \n• A short-form strategy that details how many text and image posts will go out each week, the themes they will cover, and the hashtags or LinkedIn keywords you’ll lean on.  \n• Original copy and branded visuals for each post, optimised to feel native on both platforms while remaining recognisably “us.”  \n• Scheduling and basic community management (liking comments, answering simple questions, flagging warm leads to me).  \n• A simple performance snapshot every fortnight so I can see growth in reach, impressions, and any useful engagement trends.\n\nI’ll supply brand colours, logos, and the core benefits of the opportunity; you bring the creative flair, the posting discipline, and the data-driven mindset. If you have previous wins building awareness on Instagram or LinkedIn—especially in the entrepreneurial or remote-work space—let me know.",
+  "query": "data extraction",
+  "found_at": "2026-08-16 14:43"
+ },
+ {
+  "id": 40650931,
+  "title": "B2B SaaS Outbound Specialist for AI Platform",
+  "budget_min": 5000.0,
+  "budget_max": 10000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/b2b-marketing/SaaS-Outbound-Specialist-for-Platform",
+  "desc": "Founding B2B SaaS Outbound / Enterprise SDR for AI Customer Experience Platform:\nAbout XIFI / XARC\n\nWe are building XIFI, an early-stage enterprise AI customer-experience and communication platform being developed under the future company XARC Technologies, Inc.\n\nXIFI is designed to help enterprises interact with customers through AI-driven communication channels, including real-time conversational AI personas. Our current MVP includes a working real-time video-avatar interaction experience, and we are now preparing for our first enterprise pilot/customer.\n\nWe are looking for one highly motivated B2B SaaS outbound / GTM freelancer to work directly with the founder.\n\nThis is not a traditional salaried sales position and it is not a VP of Sales role.\n\nWe are looking for somebody who is excited by the very early stage of a technology company and can help us build the first repeatable enterprise pipeline.\n\nYour primary responsibility:\n\nYour job is to create qualified enterprise conversations.\n\nYou will:\n\n* Research and identify companies that match our ICP.\n\n* Identify decision-makers in Customer Experience, Contact Centers, Customer Operations, AI, Digital Transformation, IT and Operations.\n\n* Build highly targeted account/contact lists.\n\n* Use LinkedIn Sales Navigator, Apollo, cold email, LinkedIn and other appropriate outbound channels.\n\n* Personalize outreach instead of sending generic mass spam.\n\n* Follow up consistently.\n* Qualify interested prospects.\n* Book qualified meet",
+  "query": "ai chatbot",
+  "found_at": "2026-08-16 14:43"
+ }
+]
