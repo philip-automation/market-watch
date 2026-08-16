@@ -271,5 +271,44 @@
   "desc": "3D / AI-Assisted Character Animator – Paid Animation Trial\n\nI’m creating an original 3D character for a YouTube series and am looking for an animator for a short paid trial animation.\n\nThe character design and overall visual style are already established. The focus of this project is to animate the existing character while keeping its appearance and proportions consistent throughout the shot.\n\nPaid Animation Test\n\nThe trial will be approximately 5–8 seconds and will include:\n\n- One existing character\n- A simple outdoor setting\n- Basic body movement\n- Facial expressions\n- A friendly waving gesture\n- Subtle secondary animation\n- No dialogue or lip-sync\n- No additional characters\n\nCharacter references and detailed instructions will be provided to the selected animator.\n\nProduction Methods\n\nI’m open to different professional workflows, including:\n\n- Traditional 3D animation\n- AI-assisted animation\n- Image-to-video techniques\n- 3D + AI hybrid workflows\n- Other suitable professional approaches\n\nThe software itself is not the main consideration. The quality and consistency of the final animation are what matter most.\n\nThe character should remain stable throughout the shot, with no obvious facial changes, anatomy inconsistencies, hand deformation, unexpected color shifts, or other AI/video artifacts.\n\nExpected Quality\n\nThe final result should be:\n\n- Smooth and polished\n- Warm and appropriate for preschool audiences\n- Natural and intentional in movement\n- Professionally presented and ",
   "query": "ai chatbot",
   "found_at": "2026-08-16 17:05"
+ },
+ {
+  "id": 40651206,
+  "title": "AI-Powered Clothing Size Finder App Development",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/computer-vision/Powered-Clothing-Size-Finder-App",
+  "desc": "SmartFit is an AI-powered web application designed to help users determine the appropriate clothing size using their camera and body-pose analysis, reducing the uncertainty involved in online clothing purchases.\n\nThe application uses computer vision and pose estimation to analyze a user's body structure through a live camera feed. It uses TensorFlow MoveNet, which detects 17 body keypoints in real time, such as the shoulders, elbows, hips, knees, and ankles. MoveNet is specifically designed for fast real-time pose estimation, making it suitable for browser-based interactive applications.\n\nHow SmartFit works\nUser opens the SmartFit application\nThe user accesses the application through a web browser.\nThe camera is activated for body analysis.\nBody detection\nThe camera captures the user's body.\nMoveNet identifies important body landmarks and generates a skeletal representation.\nBody measurement estimation\nThe application uses the detected keypoints and their relative positions to estimate body proportions.\nUser-provided information such as height can be used to improve the scale of the measurements.\nSize recommendation\nThe estimated body dimensions are compared against predefined sizing parameters.\nSmartFit then recommends an appropriate clothing size.\nVirtual fitting experience\nThe user can see their body representation and interact with the sizing interface rather than relying purely on manual measurements.\nTechnology Stack\n\nFrontend\n\nReact\nVite\nJavaScript/TypeScript\nHTML/CSS\n",
+  "query": "web scraping",
+  "found_at": "2026-08-16 17:38"
+ },
+ {
+  "id": 40651183,
+  "title": "Edge AI Digital Twin Developer",
+  "budget_min": 150000.0,
+  "budget_max": 250000.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 17,
+  "url": "https://www.freelancer.com/projects/digital-twin-development/Edge-Digital-Twin-Developer",
+  "desc": "I’m building an on-premise platform that runs physics-informed digital twins on high-performance, specialized Edge AI computers already installed throughout a commercial building. The goal is simple: reduce energy use while keeping occupants comfortable, all in real time.\n\nHere is what I need from you:\n\n• A complete autonomous control loop that ingests live sensor data, runs the digital twin locally and pushes commands back to HVAC and lighting subsystems.  \n• Digital-twin models able to deliver all three key functions:  \n  ‑ Predictive maintenance  \n  ‑ Energy consumption analysis  \n  ‑ Environmental monitoring  \n• Code written primarily in Differential Swift. If a low-level module truly benefits from C, C++ or Python, I’m open to mixed-language solutions, but Swift should stay at the core.  \n• Seamless deployment to edge hardware: think small-form-factor GPUs, NPUs or other accelerator boards mounted in the electrical closet, not the cloud.  \n• Clear documentation and a repeatable build pipeline so future sites can be brought online with minimal effort.\n\nI’ll consider the project complete once the system can run continuously on the building’s edge device for a full week, predict failures at least 24 h in advance, and show quantifiable energy savings versus the current baseline. If this sounds like the kind of challenge you thrive on, let’s talk details.",
+  "query": "data extraction",
+  "found_at": "2026-08-16 17:38"
+ },
+ {
+  "id": 40651208,
+  "title": "Brazilian Game Price Verification",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "EUR",
+  "usd_rate": 1.1472,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/vpn/Brazilian-Game-Price-Verification",
+  "desc": "I need a quick favour inside the Android game “Ninja Progenitor.” When the game is opened from the Brazilian Google Play Store the in-app prices must display in Brazilian reais (R$). Your task is simply to reach the purchase screen on an Android smartphone, capture a clear screenshot of every real-denominated price tier, and send it to me.  \n\nAs soon as I confirm the screenshot matches the Brazilian storefront I will award the project. If you are also able to complete a specific purchase for me right after, I will reimburse the exact amount spent and add an extra €30 on top.  \n\nYou can do this either because you are physically in Brazil or by creating a fresh Google account through a BR-based VPN; the method is up to you as long as the prices appear natively in reais. The whole process should take under five minutes for someone familiar with Google Play region switches.  \n\nDeliverable: one unedited screenshot (PNG or JPG) showing all in-game purchase options in R$.  \n\nI’m ready to move quickly—send the screenshot and we’ll proceed with the purchase step immediately.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-16 17:38"
  }
 ]
