@@ -1480,5 +1480,31 @@
   "desc": "My channel delivers calm, reflective motivation through real-world success stories, and I need a creative partner to keep the content flowing. Each video should blend animated text slides with a gentle voice-over and background music, wrapping a single story in an engaging two-to-four-minute format.\n\nWhat I’ll count on you for  \n• Research and select compelling success stories or milestones from entrepreneurs, athletes, or everyday heroes that illustrate a clear life lesson.  \n• Craft a concise script and matching on-screen quotes that feel soothing yet inspiring.  \n• Produce the finished video—animated typography, voice-over, royalty-free music, basic sound balancing, and export in 1080p ready for upload.  \n• Add a short caption and three to five hashtags that fit the tone of the script.  \n• Respond to feedback quickly so we can refine style together and keep a consistent weekly release schedule.\n\nConsistent quality, reliability, and an eye for gentle storytelling are more important to me than flashy edits. If you love turning real achievements into thoughtful motivation and are interested in building a long-term collaboration, let’s talk about the first batch of videos and see how our styles align.",
   "query": "python script",
   "found_at": "2026-08-16 08:51"
+ },
+ {
+  "id": 40647507,
+  "title": "Publicités ciblées sur réseaux sociaux - 14/08/2026 10:31 EDT",
+  "budget_min": 5000.0,
+  "budget_max": 10000.0,
+  "currency": "NZD",
+  "usd_rate": 0.58905,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/advertising/Publicit-cibl-sur-seaux-sociaux",
+  "desc": "Je souhaite lancer une campagne de publicité en ligne pour promouvoir nos offres et soutenir nos clients. La priorité porte sur les réseaux sociaux, en particulier Facebook et WhatsApp.\n\nObjectifs\n• Créer des visuels accrocheurs et des textes courts adaptés aux deux plateformes.  \n• Paramétrer les campagnes dans le Business Manager Facebook/Meta, y compris les placements WhatsApp.  \n• Mettre en place le suivi des performances (Pixel, événements, rapports hebdomadaires).\n\nLivrables attendus\n1. Calendrier de diffusion sur 30 jours avec audiences recommandées.  \n2. Trois formats visuels : image carrée, story verticale et carrousel, chacun avec son accroche.  \n3. Configuration complète de la campagne dans mon compte Meta.  \n4. Rapport initial après 7 jours accompagné de recommandations d’ajustement.\n\nJe reste ouvert à étendre la diffusion vers Google Ads ou des sites web tiers si les résultats s’avèrent convaincants. Respect des directives Meta Ads indispensable et optimisation pour le meilleur coût par résultat.",
+  "query": "web scraping",
+  "found_at": "2026-08-16 09:36"
+ },
+ {
+  "id": 40650552,
+  "title": "Customizable Windows Slot Machine",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/unity/Customizable-Windows-Slot-Machine",
+  "desc": "I’m building a native Windows slot-machine application and need the core engine plus an admin layer that lets me take full control of its look-and-feel and payout behaviour.  \n\nGameplay must mirror a classic three-to-five-reel video slot: spinning reels, pay-line detection, credit balance, and sound effects. What sets this project apart is the back-office console where I can update every visual element and fine-tune return-to-player values without touching the code.\n\nGraphics flexibility  \nPlease expose a straightforward folder or JSON-driven system so I can:  \n• Change themes (switch complete skin packs in one click)  \n• Upload custom images for reels, symbols, backgrounds, buttons and splash screens  \n• Modify colours and fonts across the UI from a single stylesheet or palette file  \n\nWinning-odds control  \nI need to enter symbol weights or reel strip arrays and instantly see the calculated RTP. A simple slider or percentage input that rewrites the underlying probabilities is ideal. The game should honour those settings in real time once I press “Apply”.\n\nCore requirements  \n• Windows 10/11 desktop build (.exe) written in C#, C++ or Unity—whichever you prefer, provided performance is smooth  \n• Resolution-independent UI (minimum 1280×720 up to 4K)  \n• Sound, animation and spin timing configurable from the same admin panel  \n• Local persistence of credits and settings; optional hook for future online leaderboard or payment integration  \n• Well-commented source code plus a sh",
+  "query": "gpt integration",
+  "found_at": "2026-08-16 09:36"
  }
 ]
