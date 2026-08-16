@@ -141,5 +141,31 @@
   "desc": "I have a Telugu-language education book that is ready for its final polish and I need a sharp eye to make sure every page reads flawlessly. Your brief is straightforward:\n\n• Work directly in the manuscript (Word or PDF—let me know which you prefer) and flag or correct any issues with grammar and punctuation, spelling and vocabulary, as well as overall sentence structure and readability.  \n• Keep the natural flow of Telugu intact while ensuring it remains clear and engaging for students and teachers alike.  \n• Return two files: one clean copy and one with all changes tracked so I can review every edit at a glance.  \n\nIf you have previous experience proofreading long-form Telugu educational material, please mention it when you start—we can move faster once I know your background. Looking forward to seeing this book shine with your expertise.",
   "query": "pdf extraction",
   "found_at": "2026-08-16 15:32"
+ },
+ {
+  "id": 40651060,
+  "title": "Hand-Drawn Fantasy City Map",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/drawing/Hand-Drawn-Fantasy-City-Map",
+  "desc": "I’m building a fictional city and I want it captured as a richly detailed, hand-drawn fantasy map. The focus is on the man-made world: signature landmarks, distinctive buildings, winding roads, grand avenues and hidden alleyways—no mountains or rivers are required unless they help frame the streets.\n\nHere’s how we’ll work together. I’ll provide written lore, a rough block-out of districts and a list of key locations. You translate that into a clean pencil layout, we iterate once for placement, then you move on to final inking and subtle decorative touches (compass rose, border, labels).\n\nDeliverables  \n• High-resolution scan (600 dpi or higher) suitable for A3 printing in PNG and layered PSD/TIFF  \n• A web-optimised JPG version  \n• (Optional) Quote separately if you can ship the original artwork\n\nAcceptance criteria  \n• Streets and landmarks match my notes  \n• Line-work remains crisp and legible when printed at A3  \n• Files delivered by the agreed deadline\n\nPen-and-ink, micron pens, dip pens, or any traditional medium that achieves that authentic fantasy cartography feel are welcome. If you’ve created city maps for tabletop RPGs, novels, or game manuals, please share examples—I’m excited to see your style and bring this imagined metropolis to life.",
+  "query": "web scraping",
+  "found_at": "2026-08-16 15:54"
+ },
+ {
+  "id": 40651034,
+  "title": "On-Site QS for Dublin Fit-Out",
+  "budget_min": 750.0,
+  "budget_max": 1500.0,
+  "currency": "EUR",
+  "usd_rate": 1.1472,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/building-regulations/Site-for-Dublin-Fit-Out",
+  "desc": "I’m mobilising a commercial fit-out in Dublin that covers the full package—mechanical, electrical and all finishes—and I need an experienced quantity surveyor on the ground during the construction phase. Your remit is threefold: keep tight control of project costs, track and report progress against programme, and handle day-to-day contract administration with the main contractor and specialist trades.\r\n\r\nOur detailed designs are still in development, so I’ll rely on you to interrogate evolving drawings, flag cost risks early and feed real-time budget data back into the design process. Expect regular site walks, valuation meetings and liaison with both my project manager and the architect to make sure every change is captured before it hits site.\r\n\r\nKey deliverables I’m looking for:\r\n• Live cost plan with fortnightly updates and variance commentary  \r\n• Monthly progress/valuation reports suitable for lender sign-off  \r\n• Timely issue of payment certificates, change orders and contractual notices  \r\n\r\nFamiliarity with standard Irish building contracts, strong Excel or CostX skills, and the ability to explain numbers in plain English will be essential. If you know the Dublin subcontractor market and can start quickly, let’s talk.",
+  "query": "data extraction",
+  "found_at": "2026-08-16 15:54"
  }
 ]
