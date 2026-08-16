@@ -765,5 +765,31 @@
   "desc": "I need daily help phoning medium-to-large Canadian firms (about 100–500+ staff) to find out one simple fact: which carrier currently handles their group benefits or pension plan. Think Manulife, Sun Life, Canada Life and similar names. No selling, no pitching—just polite, professional fact-finding.\n\nHere’s how the flow works. You ring the main line, reach the HR or payroll contact and note the provider they mention. If you land in voicemail, just try again later rather than leaving a message. As soon as you have the answer, you open the shared Google Sheet and log three items—company name, benefits/pension provider, and province (flagging Québec, Ontario or other). That’s it.\n\nI’m aiming for at least 100 fresh, fully completed records every week. An entry-level caller with a clear phone manner will do fine; fluent English is essential and any French you have is a welcome bonus when you’re dealing with Québec numbers.\n\nYou’ll need a reliable phone setup and be comfortable updating Google Sheets in real time. If that sounds straightforward, let’s get started right away so we can build a clean dataset together.",
   "query": "google sheets automation",
   "found_at": "2026-08-16 22:32"
+ },
+ {
+  "id": 40651547,
+  "title": "Hacking Fraud Investigation Needed",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/digital-forensics/Hacking-Fraud-Investigation-Needed",
+  "desc": "I need a seasoned investigator who specialises in fraud cases rooted in hacking. My primary goal is to confirm exactly how the breach occurred, document every piece of evidence in a legally sound manner, and identify whoever is behind it so I can decide on next steps with law enforcement or civil action.\n\nHere is what I can share so far:\n• Multiple personal and business accounts were compromised within a short window.  \n• Funds were moved without authorisation and sensitive files were accessed.  \n• I already hold partial log files, suspicious emails, bank statements, and device images that can be examined.\n\nWhat I expect from you:\n1. A concise investigation plan outlining the tools and techniques you will use (digital forensics, OSINT, log correlation, malware analysis, etc.).  \n2. Regular progress updates clarifying findings and any additional data you need from me.  \n3. A final report detailing the chain of events, attribution (as far as technically possible), and clearly marked evidence that will stand up in court or insurance proceedings.\n\nConfidentiality is critical; I will supply further information only after we sign an NDA. If you have a proven track record handling fraud-related hacking cases and can move quickly, let’s talk.",
+  "query": "data extraction",
+  "found_at": "2026-08-16 22:54"
+ },
+ {
+  "id": 40651551,
+  "title": "SolidWorks Mechanical Parts Design",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "AUD",
+  "usd_rate": 0.70866,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/mechanical-design/SolidWorks-Mechanical-Parts-Design",
+  "desc": "I need a set of mechanical parts modelled from scratch in SolidWorks so I can move straight into prototyping and, later, production. The work centres purely on mechanical functionality—no surface styling or aesthetic optimisation—so accuracy to real-world dimensions and proper use of design tables, configurations, and standardised features is critical.\n\nOnce the models are complete, I will also require fully detailed 2D manufacturing drawings with clear tolerances, exploded views where useful, and a neatly organised bill of materials. Deliver the native SolidWorks files (.sldprt, .sldasm, .slddrw) together with neutral STEP/IGES exports so I can share them easily with suppliers.\n\nI am comfortable providing reference dimensions, loads, and any additional spec sheets as soon as we agree on the scope, and I’m happy to schedule quick review calls for iterative feedback. If you have experience with simulation or Design for Manufacture guidelines, let me know—those skills will be a welcome plus.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-16 22:54"
  }
 ]
