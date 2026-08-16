@@ -1584,5 +1584,83 @@
   "desc": "I have a vacant block in Western Australia and need a clear, hand-offable 2D concept sketch for a three-storey family home. \n\nI have uploaded a sketch showing the level of detail I am after and a list of the rooms I want on each level.  The block is a regular shaped corner site with a 17m frontage that has river views and a 40m frontage to the second street.  I would like to stay within a building envelope of 14m x 32m. The block has an upward slope of about 3 metres sloping from the 17m frontage to the rear.  I would like the four car garage at the end of the block furthest away from the view.\n\nNothing too polished, PDF delivery is fine, although an AutoCAD file is a bonus if you work digitally. Please keep local Australian building practices in mind so the concept feels realistic to develop later.  \n\nOnce I have the sketch set, I’ll review and give feedback for one round of tweaks before signing off. Let me know your ETA and any questions about the brief.",
   "query": "pdf extraction",
   "found_at": "2026-08-16 10:04"
+ },
+ {
+  "id": 40650633,
+  "title": "Entrepreneur Visa Business Plan",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/business-plan-writing/Entrepreneur-Visa-Business-Plan",
+  "desc": "I must submit a professional business plan to support my Entrepreneur Visa application and need it tailored specifically to a retail venture. The final document has to convince immigration officers that the concept is viable, scalable, and capable of creating local jobs.\n\nPlease develop a full plan that follows the structure normally expected by visa-issuing authorities, written in clear, investor-ready English. It should be grounded in up-to-date retail market data for the country where I will establish the business and include realistic, well-sourced numbers.\n\nDeliverables\n• Market analysis – target demographics, competitor landscape, trends, and regulatory considerations  \n• Marketing strategy – brand positioning, sales channels (brick-and-mortar and online), launch roadmap, and customer acquisition tactics  \n• Three- to five-year financial projections – revenue model, cost breakdowns, cash-flow statements, and key ratios with underlying assumptions clearly explained  \n\nAcceptance criteria\n– Immigration-compliant formatting (executive summary, SWOT, risk section, appendices for data sources)  \n– All figures referenced and citations provided  \n– Editable file (Word or Google Docs) plus a locked PDF ready for submission  \n\nIf you have produced successful visa business plans before, especially in retail, that experience will be a strong advantage.",
+  "query": "data extraction",
+  "found_at": "2026-08-16 10:43"
+ },
+ {
+  "id": 40650614,
+  "title": "Rental Boyfriend Booking App",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 17,
+  "url": "https://www.freelancer.com/projects/flutter/Rental-Boyfriend-Booking-App",
+  "desc": "I need a slick mobile app that lets people browse nearby “rental boyfriends,” see who is free, and lock in a timeslot instantly. The build is strictly mobile first, so everything—from onboarding to confirmation—has to feel natural on iOS and Android.\n\nCore focus  \nThe heart of the product is a real-time booking and scheduling flow. A user chooses a companion, checks live availability on a calendar, and confirms the appointment in just a few taps.\n\nLocation-based matchmaking  \nGPS data should automatically surface profiles closest to the user, with simple distance filters and a map view. Accuracy and speed are vital here; I don’t want lag between a user’s location change and the results they see.\n\nKey deliverables  \n• Cross-platform mobile app (native, Flutter, or React Native—your call)  \n• Booking & scheduling module with calendar sync  \n• Location layer for proximity-based matching (Google Maps or similar SDK)  \n• Clean, minimal UI that can pass App Store and Play Store review  \n\nA short admin interface for managing profiles and bookings is a plus but not mandatory for the first release. Code must be well-documented so my in-house team can extend features such as payments or chat later.\n\nIf this matches your skill set, let’s move forward with a quick technical outline and timeline.",
+  "query": "data extraction",
+  "found_at": "2026-08-16 10:43"
+ },
+ {
+  "id": 40650609,
+  "title": "D2C Shopify Build & Migration",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/shopify-development/Shopify-Build-Migration",
+  "desc": "I’m looking for an experienced Shopify developer to migrate our existing D2C store to Shopify while maintaining a premium, brand-led design and ensuring the transition has minimal to zero impact on ongoing sales and operations.\n\nThe goal is to build a Shopify store that feels premium, modern, and unmistakably aligned with our brand — while being fast, conversion-focused, mobile-first, and easy for our team to manage after launch.\n\nKey Requirements\nPremium, custom-designed Shopify storefront with strong brand identity, high-quality visuals, and a polished user experience.\nComplete migration of products, customers, order history, collections, and relevant store data from our existing platform.\nMigration should be carefully planned to ensure no disruption to ongoing sales, with proper handling of URLs, redirects, SEO, analytics, pixels, tracking, and existing customer journeys.\nSmooth checkout supporting guest purchases, multiple payment gateways, and flexible shipping options.\nFlexible, reusable Shopify sections so our team can easily update collections, banners, promotional campaigns, lookbooks, and homepage content without coding.\nMobile-first, fast-loading, conversion-optimized development with clean Shopify Liquid, HTML/CSS, and JavaScript where required.\nProper setup/testing of SEO, analytics, Meta Pixel, Google tracking, payment gateways, shipping, transactional emails, and other critical integrations.\nThorough testing before launch across mobile, desktop, checkout, payme",
+  "query": "data extraction",
+  "found_at": "2026-08-16 10:43"
+ },
+ {
+  "id": 40650637,
+  "title": "Detailed Logo Design Needed",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 20,
+  "url": "https://www.freelancer.com/projects/adobe-illustrator/Detailed-Logo-Design-Needed",
+  "desc": "I’m ready to kick-off a new visual identity and the very first item on my list is a richly detailed logo. Think of something illustrative rather than minimal—layers, depth, and a clear story behind the mark. I will need the artwork delivered in fully editable vector format (AI or SVG) along with high-resolution PNGs and a version that sits well on dark backgrounds.\n\nOnce the logo is approved, I plan to move straight into polishing a tutorial video and touching up a small batch of photos, so experience with Premiere Pro or Final Cut and Photoshop will be a plus. For now, though, all of your creative energy should go into the logo itself.\n\nDeliverables  \n• Primary logo in layered AI/SVG  \n• Transparent PNG and JPEG exports in multiple sizes  \n• One monochrome variant for embossing or single-color print  \n• Simple brand-color breakdown (hex / CMYK)  \n\nIf you have a portfolio that shows complex, detailed logos, send it along; that will help me shortlist quickly.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-16 10:43"
+ },
+ {
+  "id": 40650636,
+  "title": "# REAL ESTATE BUYER ACQUISITION EXPERT — PROVEN RESULTS REQUIRED",
+  "budget_min": 1500.0,
+  "budget_max": 3000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/lead-generation/REAL-ESTATE-BUYER-ACQUISITION-EXPERT",
+  "desc": "# REAL ESTATE BUYER ACQUISITION EXPERT — PROVEN RESULTS REQUIRED\n\n**$1,000 Opening Bid | Expected Project $2,000–$5,000+ | Multiple Future Projects**\n\nI am looking for an **exceptional real estate marketing and buyer-acquisition expert** who knows how to generate **REAL, QUALIFIED BUYERS** for residential properties.\n\n**THIS IS A TEST PROJECT.**\n\nIf you produce results, we expect to have **multiple additional properties and projects.** For the right person, this could develop into ongoing work, a long-term contract, or potentially full-time contract work.\n\nYour location does not matter. This can be handled remotely.\n\n## TWO TYPES OF MARKETS\n\nYou should have proven experience marketing residential properties in:\n\n**1. Las Vegas Metro / Major Metropolitan Markets**\n\n**2. Suburban, Rural, Resort, or Smaller-City Markets**\n\nI want someone who understands that finding a buyer in a major metro can require a completely different strategy from finding buyers in suburban, rural, resort, destination, or secondary markets.\n\n## COMPENSATION\n\nThe **$1,000 posted amount is the opening Upwork bid.**\n\nFor an experienced person with a strong strategy and documented track record, I expect the actual initial project to be approximately **$2,000–$5,000+**.\n\nMore complicated future projects may have substantially larger budgets.\n\nThis is a **FIXED-FEE MARKETING PROJECT**, not a commission or percentage-of-sale arrangement.\n\nI'm not looking for the cheapest person.\n\n**I'm looking for someone who c",
+  "query": "ai chatbot",
+  "found_at": "2026-08-16 10:43"
+ },
+ {
+  "id": 40650587,
+  "title": "Xây Page Facebook Giải Trí",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/social-media-management/Page-Facebook",
+  "desc": "Tôi cần một cộng sự lâu dài để dựng và quản trị một Page Facebook giải trí, đồng thời đăng cùng nội dung đó lên website của dự án.\n\nNhững gì tôi đã có  \n• Ý tưởng chủ đạo cho nội dung và định hướng thương hiệu đã sẵn sàng, tôi sẽ chia sẻ để bạn nắm rõ.  \n• Chủ đề tập trung vào mảng Giải trí/Thư giãn, nhưng không gò bó: chúng ta có thể triển khai nhiều hình thức “giải trí khác” tùy sức sáng tạo.  \n\nViệc bạn sẽ làm  \n1. Thiết lập Page mới hoặc tối ưu Page\n2. Viết bài kèm hình/shorts, sản xuất và đăng video AI theo lịch.  \n3. Đăng chéo các bài viết đó lên website (đăng đơn giản mình sẽ hướng dẫn)\n4. Tương tác cơ bản: trả lời comment và time post để tăng reach.  \n\nTôi coi đây là dự án chia sẻ lợi nhuận: bạn sẽ nhận phần trăm trên doanh thu mà Page tạo ra. Mọi chi tiết về tỉ lệ, KPI và quy trình đo lường tôi sẽ trao đổi thêm khi chúng ta kết nối.\n\nNếu bạn chăm chỉ, hiểu cách vận hành Facebook và muốn đồng hành dài hạn với một kênh giải trí mới, hãy gửi cho tôi:  \n• Kinh nghiệm sử dụng công cụ AI video (CapCut, VEO 3, v.v.) nếu có.  \n• Thời gian rảnh mỗi tuần mà bạn có thể dành cho dự án.\n\nRất mong hợp tác cùng bạn!",
+  "query": "ai chatbot",
+  "found_at": "2026-08-16 10:43"
  }
 ]
