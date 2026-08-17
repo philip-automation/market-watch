@@ -2208,5 +2208,44 @@
   "desc": "I need a reliable way to send large-scale promotional offers that directly drive sales. I’m open to either route—a robust software platform that I can run in-house, or a done-for-me email blasting service—so long as it delivers consistent inbox placement, clear reporting, and compliance with CAN-SPAM/GDPR.\n\nIf you’re proposing software, it must:\n• Handle high-volume sends without throttling  \n• Connect easily to my existing contact list (CSV upload or API)  \n• Offer automation and segmentation tools to refine campaigns aimed at boosting sales  \n\nIf you’re offering a managed service, I’ll expect:\n• End-to-end campaign setup, from list hygiene to A/B testing of promotional content  \n• Detailed performance reports (opens, clicks, conversions) after each blast  \n• Advice on subject lines and creatives focused on revenue growth  \n\nEither way, your solution must accommodate promotional email content and be ready to start quickly. Please outline which option you’re providing—software, service, or a hybrid—along with a brief timeline and examples of past high-volume successes.",
   "query": "python automation",
   "found_at": "2026-08-17 15:11"
+ },
+ {
+  "id": 40653113,
+  "title": "Kelvin Temperature Prediction Bot",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010458,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/machine-learning/Kelvin-Temperature-Prediction-Bot",
+  "desc": "I need a bot—internally nicknamed the “Chicken Road Prediction Bot”—that focuses exclusively on weather data. Its single job is to predict temperature, and every output must be expressed in Kelvin. No traffic flow analysis, no pedestrian tracking, and no rain or wind forecasts—temperature only.\n\nThe workflow I imagine is straightforward: the bot ingests current and historical weather information (open-source APIs are fine), runs its model, then returns near-term temperature predictions that I can call programmatically. Accuracy matters more than speed; I’m happy to discuss the modelling approach you feel suits this best, whether that’s a lightweight regression or a deeper neural network.\n\nDeliverables should include:\n• Source code with clear comments  \n• A simple README explaining setup and required dependencies  \n• An endpoint or script that returns temperature forecasts in Kelvin for a supplied location and time window  \n• A brief report on model accuracy and any tuning you performed\n\nI’ll test by comparing your Kelvin outputs against live data for several cities over a 48-hour period. If you believe another step would strengthen validation, let me know—flexibility on the technical path is fine so long as the bot stays laser-focused on Kelvin temperature prediction.",
+  "query": "data extraction",
+  "found_at": "2026-08-17 15:44"
+ },
+ {
+  "id": 40653132,
+  "title": "Daily Product Sales Data Entry",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010458,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/data-management/Daily-Product-Sales-Data-Entry-40653132",
+  "desc": "I need a detail-oriented freelancer who can log our product sales every day. All figures arrive to you in pre-formatted Excel sheets; your task is to enter them into our central system the same day they are received, double-checking totals and item codes for absolute accuracy.   \n\nDeliverables  \n• Daily input of each Excel file’s data into the designated platform  \n• Quick self-audit to ensure no mismatches in quantities, SKUs, or revenue figures  \n• End-of-day confirmation message so I know everything is up to date  \n\nAcceptance criteria  \nThe day’s sales are considered complete when every row from the Excel sheet is accurately reflected in the live dataset with zero transcription errors and the confirmation note has been sent.",
+  "query": "data extraction",
+  "found_at": "2026-08-17 15:44"
+ },
+ {
+  "id": 40653107,
+  "title": "Presentasi Edukasi PowerPoint",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/content-development/Presentasi-Edukasi-PowerPoint",
+  "desc": "Saya sedang menyiapkan materi kuliah dan membutuhkan bantuan untuk merancang presentasi PowerPoint yang ringkas namun menarik.  \n\nRuang lingkup:  \n• 1–10 slide siap pakai dalam format PPTX.  \n• Fokus utama adalah mengajarkan atau menjelaskan konsep secara runtut kepada mahasiswa.  \n• Desain harus bersih, konsisten, dan mudah dipahami, dengan visual atau diagram sederhana yang membantu penyerapan materi.  \n\nYang saya butuhkan:  \n1. Struktur slide logis—pembukaan, inti materi, rangkuman.  \n2. Penggunaan teks singkat, poin-poin jelas, dan grafik/ikon relevan.  \n3. Skema warna dan tipografi yang profesional namun tetap ramah mahasiswa.  \n4. File editable sehingga saya dapat menyesuaikan contoh atau data di kemudian hari.  \n\nBerikan juga catatan singkat di bagian presenter notes untuk membantu saya saat menyampaikan. Saya terbuka pada saran kreatif asalkan tetap mendukung tujuan edukasi. Jika Anda pernah membuat materi kuliah atau pelatihan sebelumnya, mohon sertakan contoh portofolio terkait.",
+  "query": "data extraction",
+  "found_at": "2026-08-17 15:44"
  }
 ]
