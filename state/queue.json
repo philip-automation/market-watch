@@ -2754,5 +2754,57 @@
   "desc": "I need a careful, detail-oriented reader to review a batch of general-interest articles that cover current events. Your job is to read each piece, judge its factual accuracy and overall clarity, and then capture a concise summary with key takeaways in a spreadsheet or Google Sheet I will provide.\n\nHere’s how I picture the workflow:  \n• Open the article link I supply, read it end-to-end.  \n• Note the headline, publication, date, author, main points, and any obvious biases or unsupported claims.  \n• Rate the article on accuracy and readability using a simple 1–5 scale I’ll outline.  \n• Paste a 2-3 sentence synopsis plus your rating into the sheet.\n\nI will share 40–50 articles to start; if all goes smoothly, more batches will follow. While the first round is strictly current-events content, I may later widen the scope to lifestyle or entertainment pieces, so the ability to adapt is a plus.\n\nDeliverable  \nA completed spreadsheet with every assigned field filled in, free of typos and ready for quick filtering.\n\nAcceptance Criteria  \n• Each article entry includes headline, source, date, author, synopsis, and rating.  \n• Summaries stay under 80 words yet capture the core message.  \n• No empty cells or copy-paste formatting errors.\n\nIf you enjoy staying up to date with the news and can deliver clear, organized notes on schedule, this will be a straightforward, ongoing task.",
   "query": "google sheets automation",
   "found_at": "2026-08-17 20:09"
+ },
+ {
+  "id": 40653703,
+  "title": "Mental Health Resource App Development",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010446,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/ui-design/Mental-Health-Resource-App-Development",
+  "desc": "I need a mobile app focused on providing mental health resources. The primary feature will be guided meditations and exercises.\n\nKey Requirements:\n- User-friendly interface\n- High-quality guided meditations and exercises\n- Educational articles and videos integration\n- Progress tracking and personalization features\n- Secure user data management\n\nIdeal Skills and Experience:\n- Proven mobile app development expertise\n- Experience in mental health or wellness apps\n- Strong UI/UX design skills\n- Data security knowledge\n- Ability to provide past work examples\n\nPlease share relevant past work in your application.",
+  "query": "data extraction",
+  "found_at": "2026-08-17 20:47"
+ },
+ {
+  "id": 40653681,
+  "title": "Power Apps To-Do List",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010446,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/powerapps/Power-Apps-List",
+  "desc": "I need a lightweight yet polished to-do manager built entirely in Microsoft Power Apps so it works seamlessly across desktop, mobile, and Microsoft Teams. All users will sign in with their existing Microsoft Account, so please wire the security model to Azure AD groups rather than rolling your own login.\n\nCore features I must see in the first release:\n• Task creation and editing with an intuitive form  \n• Due-date-driven notifications (push and/or email)  \n• Simple priority levels that can be filtered and color-coded  \n\nI’m happy for you to store data in a SharePoint list or Dataverse—choose whichever lets us scale and report easily, but explain the trade-offs. The app should follow Microsoft’s Fluent UI styling where possible, and I want clean, commented formulae so my team can tweak them later. A brief hand-off video or live walk-through is part of the deliverable. Once I import the package into our tenant and see tasks syncing, reminders firing, and priority filters working, the job is done.",
+  "query": "data extraction",
+  "found_at": "2026-08-17 20:47"
+ },
+ {
+  "id": 40653687,
+  "title": "Argus Integration for Valuation Modeling",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/real-estate/Argus-Integration-for-Valuation-Modeling",
+  "desc": "I need an Argus specialist to integrate valuation modeling for commercial real estate using the income capitalization approach. \n\nKey Requirements:\n- Valuation modeling integration in Argus\n- Focus on income capitalization approach\n- In-depth details on:\n  - Net operating income calculation\n  - Capitalization rate determination\n  - Projection of future income\n\nIdeal Skills and Experience:\n- Expertise in Argus for commercial real estate\n- Strong background in real estate valuation\n- Proficiency in financial modeling and analysis\n\nPlease share relevant experience and a brief plan to accomplish this. Looking forward to your bids!",
+  "query": "gpt integration",
+  "found_at": "2026-08-17 20:47"
+ },
+ {
+  "id": 40653665,
+  "title": "Entwässerungsplanung (Regenwasserversickerung) für ein neues 110-kV-Umspannwerk in Deutschland",
+  "budget_min": 1500.0,
+  "budget_max": 3000.0,
+  "currency": "EUR",
+  "usd_rate": 1.157792,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/autocad/Entw-sserungsplanung",
+  "desc": "Für den Neubau eines 110-kV-Umspannwerks (Baugenehmigung liegt vor) suchen wir eine:n erfahrene:n Freelancer:in für die Erstellung des Entwässerungsplans (Plan + Erläuterungsbericht) auf Basis vollständig aufbereiteter Eingangsunterlagen.\n\nDas genehmigte Konzept sieht eine reine Regenwasserversickerung auf dem eigenen Grundstück vor (kein Kanalanschluss, kein Schmutzwasser). Versickerungsflächen (ca. 155 m² gesamt) und deren Aufbau sind in der Genehmigung bereits festgelegt. Das Bodengutachten stellt die Versickerungsfähigkeit der bindigen Böden jedoch in Frage (kf-Werte 10^-6 bis 10^-9 m/s); Versickerungsversuche im Baggerschurf stehen noch aus. Die Planung muss daher auch eine Rückfallebene (Drossel-/Überlaufschacht mit Ableitung Richtung Vorfluter) als Variante berücksichtigen.\n\nLEISTUNGSUMFANG\n\n1. Sichtung und Auswertung der bereitgestellten Unterlagen (Bodengutachten, Erdbau-/Baugrubenplanung, Lageplan und Schnitte des UW, entwässerungsrelevante Genehmigungsauszüge, Niederschlagsauswertung auf DWD-Basis)\n2. Hydraulische Bemessung der Versickerungsanlagen nach DWA-A 138 (ggf. DWA-A 117), abgestimmt auf das genehmigte Konzept\n3. Erstellung des Entwässerungsplans (Lageplan Außenanlagen mit Versickerungsflächen, Dachentwässerung/Fallrohre, Gefälle, Höhen, ggf. Leitungen und Schächten) als DWG (AutoCAD) + PDF\n4. Erläuterungsbericht mit Bemessung, Flächenbilanz und Nachweisführung (geeignet als Grundlage für die Abstimmung mit der Wasserbehörde)\n5. Variantenbetrachtung für den",
+  "query": "excel automation",
+  "found_at": "2026-08-17 20:47"
  }
 ]
