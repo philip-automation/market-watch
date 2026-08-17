@@ -2806,5 +2806,18 @@
   "desc": "Für den Neubau eines 110-kV-Umspannwerks (Baugenehmigung liegt vor) suchen wir eine:n erfahrene:n Freelancer:in für die Erstellung des Entwässerungsplans (Plan + Erläuterungsbericht) auf Basis vollständig aufbereiteter Eingangsunterlagen.\n\nDas genehmigte Konzept sieht eine reine Regenwasserversickerung auf dem eigenen Grundstück vor (kein Kanalanschluss, kein Schmutzwasser). Versickerungsflächen (ca. 155 m² gesamt) und deren Aufbau sind in der Genehmigung bereits festgelegt. Das Bodengutachten stellt die Versickerungsfähigkeit der bindigen Böden jedoch in Frage (kf-Werte 10^-6 bis 10^-9 m/s); Versickerungsversuche im Baggerschurf stehen noch aus. Die Planung muss daher auch eine Rückfallebene (Drossel-/Überlaufschacht mit Ableitung Richtung Vorfluter) als Variante berücksichtigen.\n\nLEISTUNGSUMFANG\n\n1. Sichtung und Auswertung der bereitgestellten Unterlagen (Bodengutachten, Erdbau-/Baugrubenplanung, Lageplan und Schnitte des UW, entwässerungsrelevante Genehmigungsauszüge, Niederschlagsauswertung auf DWD-Basis)\n2. Hydraulische Bemessung der Versickerungsanlagen nach DWA-A 138 (ggf. DWA-A 117), abgestimmt auf das genehmigte Konzept\n3. Erstellung des Entwässerungsplans (Lageplan Außenanlagen mit Versickerungsflächen, Dachentwässerung/Fallrohre, Gefälle, Höhen, ggf. Leitungen und Schächten) als DWG (AutoCAD) + PDF\n4. Erläuterungsbericht mit Bemessung, Flächenbilanz und Nachweisführung (geeignet als Grundlage für die Abstimmung mit der Wasserbehörde)\n5. Variantenbetrachtung für den",
   "query": "excel automation",
   "found_at": "2026-08-17 20:47"
+ },
+ {
+  "id": 40653711,
+  "title": "AutoCAD Wijzigingen Uitvoering",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "EUR",
+  "usd_rate": 1.157823,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/cad-drafting-review/AutoCAD-Wijzigingen-Uitvoering",
+  "desc": "Ik heb een bestaand AutoCAD-bestand dat bijgewerkt moet worden. Het gaat specifiek om:  \n• Tekst wijzigen waar nieuwe data of benamingen moeten komen.  \n• Lijnen of vormen aanpassen om recente ontwerpaanpassingen door te voeren.  \n\nMijn doel is duidelijk: Nieuwe informatie toevoegen zodat de tekening weer volledig actueel is. Ik lever het originele .dwg-bestand en een gemarkeerde PDF met aanwijzingen aan.  \n\nWat ik van je verwacht:  \n– een bewerkbare .dwg in dezelfde versie als het origineel, met schone lagenstructuur;  \n– een geplotte PDF voor snelle controle;  \n– een korte toelichting van alle aangebrachte wijzigingen.  \n\nNauwkeurigheid is cruciaal, net als vlot opleveren. Laat me weten hoe snel je dit kunt afronden en licht kort je AutoCAD-ervaring toe.",
+  "query": "data extraction",
+  "found_at": "2026-08-17 21:13"
  }
 ]
