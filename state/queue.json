@@ -2832,5 +2832,18 @@
   "desc": "I’m looking for a native Chinese writer to help adapt short content about everyday indoor routines on rainy days.\nThe content should feel practical and relatable — simple things people usually do when it rains, such as staying indoors, adjusting plans, finding quiet activities, or following a slower daily rhythm. Keep the tone natural and easy to read, not formal or technical.\nSome of the source text is in English and needs to be rewritten into clear, natural Chinese.\nSample Task (please include in your proposal)\nAdapt this short English text into natural Chinese:\nOriginal:\nOn rainy days, many people slow down their usual routine. Some stay indoors and catch up on small tasks, while others use the time to rest or enjoy quiet activities at home. The weather often shapes the pace of the day in simple ways.\nWhat I need from you\n\nNative Simplified Chinese speaker\nAbility to write natural, easy-to-read Chinese\nKeep the tone practical and relatable\n\nDeliverables\n\nClean Chinese versions of the content\nNatural flow and clear wording\nConsistent and simple style\n\nBudget: $25 per page\nTimeline: 2–3 days\nTo Apply\nSend your Chinese version of the sample text above and confirm you are a native Simplified Chinese speaker.\nNote: If you cannot bid on this project due to the $20 fee, please apply using the PDF/docs attached to this project.",
   "query": "pdf extraction",
   "found_at": "2026-08-17 21:44"
+ },
+ {
+  "id": 40653776,
+  "title": "ClearPass NAC & Portal Setup",
+  "budget_min": 3000.0,
+  "budget_max": 5000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 19,
+  "url": "https://www.freelancer.com/projects/cisco/ClearPass-NAC-Portal-Setup",
+  "desc": "I’m rolling out a new Aruba ClearPass environment that will secure both sides of our network—wired switches and wireless access points alike. The core goal is to establish robust Network Access Control with ClearPass Policy Manager while leveraging ClearPass OnGuard for endpoint posture assessment.  \n\nKey elements of the job  \n• Build or refine ClearPass policies for 802.1X-based authentication and authorization on all wired and wireless edge ports.  \n• Integrate ClearPass OnGuard to check endpoint health (antivirus, OS patch level, etc.) before granting production-network access.  \n• Stand up a captive portal that presents only to guest devices and seamlessly hands them off to an isolated VLAN after successful self-registration. Internal users should continue to authenticate transparently via 802.1X without ever seeing the portal.  \n• Coordinate switch (ArubaOS-CX) and controller/AP (ArubaOS 8.x/10.x) configurations so policy enforcement is consistent across infrastructure.  \n\nAcceptance criteria  \n1. A test laptop on the wired LAN receives a dynamic ClearPass role based on posture status.  \n2. A corporate laptop on Wi-Fi authenticates with 802.1X and lands on the secure employee VLAN.  \n3. A guest phone associating to the “Guest” SSID is redirected to the captive portal, completes registration, and browses the internet while remaining isolated from internal subnets.  \n4. ClearPass dashboards display posture, authentication, and accounting data for all three scenarios.  \n\nPr",
+  "query": "data extraction",
+  "found_at": "2026-08-17 22:06"
  }
 ]
