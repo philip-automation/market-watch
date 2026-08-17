@@ -1857,5 +1857,57 @@
   "desc": "I need a single 9-metre galvanized-steel trellis that will stretch across my garden and reliably carry vigorous climbing vines season after season. The span must resist rust, withstand wind loads typical for an open suburban backyard, and sit neatly between two existing concrete footings that are already 9 000 mm apart.\n\nWhat I will supply:\n• Exact footing positions and ground level survey once the project starts  \n• Photographs of the garden area for context\n\nWhat I expect back:\n• Scaled drawings (PDF + editable CAD) detailing posts, cross-members, and all fixings  \n• A concise materials list with section sizes, zinc-coating spec, and estimated quantities  \n• Step-by-step assembly/installation notes that a competent handyman can follow  \n• A brief maintenance guideline so the finish lasts at least 10 years with minimal care\n\nI’m open to round, square, or RHS members as long as they remain slim enough to look elegant yet strong enough to support mature vines. Feel free to optimise the design for locally available steel sections to keep costs reasonable. If you have questions about site conditions, plant loads, or preferred connection methods, just ask so we get the details right the first time.",
   "query": "pdf extraction",
   "found_at": "2026-08-17 10:51"
+ },
+ {
+  "id": 40652643,
+  "title": "Custom Excel Data Template Build",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010461,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/data-analysis/Custom-Excel-Data-Template-Build",
+  "desc": "I have several sheets of mixed numerical-and-text information that need to be brought into a single, well-structured Excel workbook. Your task starts with clean, accurate data entry, then shifts to shaping that data inside a custom template you’ll design from scratch to suit the content and workflow we agree on.\n\nWithin that template I need:\n• Reliable sorting and filtering options so I can isolate records quickly.  \n• At least one thoughtfully built pivot table that summarises key trends at a glance.  \n• Data-validation rules that prevent future entry errors (dropdowns, permissible ranges, or other logic where appropriate).\n\nOnce the file is complete, I should be able to hand it to a colleague with minimal explanation, so clear labelling, consistent formatting and a tidy layout are essential. Please deliver the finished .xlsx file plus a short set of notes describing how you structured the workbook and how to refresh the pivot table(s).\n\nIf this sounds straightforward for you, let’s discuss timing and any questions you have before you begin.",
+  "query": "data extraction",
+  "found_at": "2026-08-17 11:34"
+ },
+ {
+  "id": 40652653,
+  "title": "Latin America Based VA Needed (NO OTHER LOCATION SUPPORTED)",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/administrative-support/Latin-America-Based-Needed-OTHER",
+  "desc": "I’m looking for a reliable Virtual Assistant based in Latin America to help with online research, communication, data entry, and general administrative tasks.\n\nRequirements:\n\n-Based in Latin America (Mandatory)\n-Good English communication skills\n-Reliable and responsive\n-Comfortable using Google Docs, Sheets, Gmail, Telegram, and other online tools\n-Able to follow instructions carefully\n-Available for ongoing part-time work\n-Previous virtual assistant experience is a plus\n\nThis can become a long-term position for the right person.\n\nPlease include your country, timezone, English level, previous VA experience when applying.",
+  "query": "data extraction",
+  "found_at": "2026-08-17 11:34"
+ },
+ {
+  "id": 40652667,
+  "title": "Scheduling & Client Comms Manager",
+  "budget_min": 50.0,
+  "budget_max": 100.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/report-writing/Scheduling-Client-Comms-Manager",
+  "desc": "I’m looking for someone who can keep my calendar under control, stay on top of client conversations, and pull everything together into a concise weekly report.\n\nHere’s how the workflow currently looks:\n• Scheduling happens in Google Calendar, so you’ll be creating, adjusting, and confirming appointments directly there, making sure nothing overlaps and every invite contains the right dial-in links or locations.  \n• Client communications run through Email for the day-to-day follow-ups and confirmations, while urgent or sensitive matters are handled by Phone. I’ll loop you in on the existing threads and introduce you as the main point of contact. Tone must remain friendly, professional, and prompt.  \n• Every Friday I need a short report covering Project updates, Client feedback, and Task progress. The goal is to give me a clear snapshot of what moved forward, what’s pending, and any issues that require my attention.\n\nSuccess to me means a zero-conflict calendar, clients who always feel heard, and a Friday brief that lets me start Monday fully prepared.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-17 11:35"
+ },
+ {
+  "id": 40652646,
+  "title": "Automatic PET Blowing Machine Design",
+  "budget_min": 37500.0,
+  "budget_max": 75000.0,
+  "currency": "INR",
+  "usd_rate": 0.010461,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/3d-cad/Automatic-PET-Blowing-Machine-Design",
+  "desc": "I need a full mechanical design package for an automatic PET bottle-blowing machine, from concept through to production-ready drawings. The priority area is the blowing unit itself, so every decision you make for the wider machine must integrate smoothly with that module.\n\nBlowing unit requirements  \n• Material type: choose grades that can handle food-grade PET contact and repeated thermal cycling without fatigue.  \n• Pressure capacity: the unit must safely sustain the high-pressure air bursts typical of 2-stage stretch blow moulding, designed with a generous safety factor.  \n• Temperature resistance: components must tolerate the preform heating zone’s radiant heat as well as the sharp pressure-induced temperature drops during blowing.\n\nScope of work  \n– Complete 3D CAD model of the entire machine, including frame, preform heating section, blowing station, robotic or linear transfer, and discharge conveyor.  \n– Detailed manufacturing drawings, tolerances, and exploded views for the blowing unit, plus assembly instructions for the rest of the machine.  \n– Bill of materials with clearly specified alloys, seals, and off-the-shelf components.  \n– FEA or equivalent calculations proving the pressure and temperature performance of the blowing cavity and associated manifolds.  \n– A short design report summarising key decisions, standards followed, and maintenance considerations.\n\nNative CAD files (SolidWorks, Inventor, or Creo preferred) together with exported STEP/IGES and PDF drawi",
+  "query": "pdf extraction",
+  "found_at": "2026-08-17 11:35"
  }
 ]
