@@ -2845,5 +2845,31 @@
   "desc": "I’m rolling out a new Aruba ClearPass environment that will secure both sides of our network—wired switches and wireless access points alike. The core goal is to establish robust Network Access Control with ClearPass Policy Manager while leveraging ClearPass OnGuard for endpoint posture assessment.  \n\nKey elements of the job  \n• Build or refine ClearPass policies for 802.1X-based authentication and authorization on all wired and wireless edge ports.  \n• Integrate ClearPass OnGuard to check endpoint health (antivirus, OS patch level, etc.) before granting production-network access.  \n• Stand up a captive portal that presents only to guest devices and seamlessly hands them off to an isolated VLAN after successful self-registration. Internal users should continue to authenticate transparently via 802.1X without ever seeing the portal.  \n• Coordinate switch (ArubaOS-CX) and controller/AP (ArubaOS 8.x/10.x) configurations so policy enforcement is consistent across infrastructure.  \n\nAcceptance criteria  \n1. A test laptop on the wired LAN receives a dynamic ClearPass role based on posture status.  \n2. A corporate laptop on Wi-Fi authenticates with 802.1X and lands on the secure employee VLAN.  \n3. A guest phone associating to the “Guest” SSID is redirected to the captive portal, completes registration, and browses the internet while remaining isolated from internal subnets.  \n4. ClearPass dashboards display posture, authentication, and accounting data for all three scenarios.  \n\nPr",
   "query": "data extraction",
   "found_at": "2026-08-17 22:06"
+ },
+ {
+  "id": 40653836,
+  "title": "Cuentas Business Manager para WhatsApp",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/crm/Cuentas-Business-Manager-para-WhatsApp",
+  "desc": "Necesito recibir una estructura completa de Meta Business Manager con cuentas de WhatsApp Business ya verificadas y “calentadas”, preparada para que pueda empezar a conectar con mis clientes mediante mensajes promocionales desde el primer día.  \n\nLo esencial es que este ecosistema se integre sin fricción con mi CRM —ya trabajo con herramientas como kommo— para que todas las conversaciones, leads y etiquetas queden sincronizadas automáticamente. Busco rapidez y confiabilidad: la idea es evitar bloqueos iniciales y contar con el límite de envío apropiado para escalar campañas.\n\nEntrego acceso temporal a mi dominio y número si hace falta, y espero a cambio:  \n• Un Business Manager configurado y verificado.  \n• Línea(s) de WhatsApp Business aprobadas y listas para uso masivo.  \n• Conexión estable con mi CRM (vía API o conector nativo).  \n• Breve guía de buenas prácticas y mantenimiento.  \n\nSi dominas la creación de cuentas “calentadas” y la integración CRM-WhatsApp, estaré encantado de avanzar contigo.",
+  "query": "chatgpt api",
+  "found_at": "2026-08-17 23:08"
+ },
+ {
+  "id": 40653844,
+  "title": "Custom Yard Landscape Design Plan",
+  "budget_min": 10.0,
+  "budget_max": 10000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/landscape-design/Custom-Yard-Landscape-Design-Plan",
+  "desc": "I have just moved into a four-year-old home in Grantsville and need a complete landscape design for both the front and back yards. Before we break ground next year, I’d like a seasoned designer to visit the property, take precise measurements, study the local micro-climate and hard soil conditions, then develop a detailed plan that brings together:  \n\n• Fruit-bearing ideas – I’d love to see hardy apple varieties succeed this time. We already have one young peach tree on site, so whatever you suggest should complement it.  \n• Shade and ornamental trees, bushes, and groundcovers suited to our notoriously dense soil.  \n• A dedicated shade zone designed primarily as a relaxation spot where we can read or nap outdoors.  \n\nI’m wide open on overall style; please guide me on what will thrive here and look cohesive over the long term. The finished package should include scaled drawings (PDF or CAD), a planting schedule with quantities and recommended cultivars, soil-amendment notes, irrigation/drainage recommendations, and a brief presentation I can share with my spouse.  We also want a garden area. After the design is approved, we would like it installed and trust either you or a recommendation can do so for us.\n\nBecause we’re waiting for the sale of our previous home, construction won’t start until next season, so you will have the rest of this year for site visits, concept iterations, and final documentation. I look forward to your professional insight on transforming this blank sl",
+  "query": "pdf extraction",
+  "found_at": "2026-08-17 23:08"
  }
 ]
