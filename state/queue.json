@@ -1974,5 +1974,18 @@
   "desc": "Quiero optimizar por completo el proceso de ventas de mi empresa. Hoy ya utilizo n8n, un CRM propio, Airtable y Typeform, pero la conexión entre estas piezas tienen algunos ajustes específicos que me gustaría hacer, como la creación de informes y detección de incoherencias.\n\nObjetivo\n• Automatizar el área de Ventas: desde la generación de un lead hasta el reporte final.\n• Mejorar y depurar mi base de datos actual para que los equipos trabajen siempre con información limpia y actualizada.\n\nAlcance clave\n1. Gestión de leads  \n   – Enviar automáticamente los datos que entran por Typeform a Airtable y al CRM.  (Ya lo tenemos)\n   – Enriquecer el registro con fuentes externas (si aplica) y asignar responsable de manera lógica.  (Ya lo tenemos)\n\n2. Seguimiento de clientes  \n   – Crear flujos en n8n que disparen recordatorios, tareas y correos según etapa del embudo.  (Ya lo tenemos)\n   – Sincronizar cambios entre Airtable y el CRM en tiempo real.  (Pendiente de mejorar)\n\n3. Informes y análisis  (pendiente de mejorar)\n   – Diseñar dashboards o vistas que muestren métricas de conversión, tiempo de ciclo y valor de cliente.  \n   – Generar reportes automáticos semanales y enviarlos por correo o Slack.  \n\nEntregables\n• Workflows de n8n completamente funcionales y documentados.  (Ya lo tenemos, pendiente de mejorar cosas concretas)\n• Estructura de Airtable reorganizada con campos normalizados y vistas para Marketing y Dirección.  (Lo tenemos, pendiente de mejorar cosas concretas).\n• Manua",
   "query": "pdf extraction",
   "found_at": "2026-08-17 12:13"
+ },
+ {
+  "id": 40652751,
+  "title": "Local Startup Lead Generation & Calls",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.01046,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/lead-generation/Local-Startup-Lead-Generation-Calls",
+  "desc": "I run a website-development agency and need a partner who can fill my pipeline with startup founders in the local market, learn about the web solutions they need, and then move those conversations toward a signed project.\n\nYour role begins with prospecting: identify startups operating in our city and surrounding suburbs, verify they have an active need for a new site or a redesign, and capture their key business requirements. Once a lead meets those basics, you will pick up the phone, introduce our services, and steer the discussion toward a discovery call with me or—when the timing is right—close the deal yourself.\n\nI work best when everything is tracked, so please use whatever lead-sourcing tools you prefer (LinkedIn, Crunchbase, local incubator directories, Google Maps, etc.) but record every touchpoint inside a shared CRM or a clean spreadsheet. After each cold call, jot down decision-maker name, requirement summary, and next action so I can jump in seamlessly when needed.\n\nDeliverables I expect each week  \n• A fresh batch of qualified local startup leads with their business requirements documented  \n• Call notes or recordings for transparency and follow-up  \n• A concise progress report highlighting hot prospects and obstacles  \n\nIf you already have a proven script for tech services, great—otherwise I’ll share mine. Let’s start with a short trial; if the numbers look good we can scale quickly.",
+  "query": "web scraping",
+  "found_at": "2026-08-17 13:10"
  }
 ]
