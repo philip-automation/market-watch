@@ -1155,5 +1155,44 @@
   "desc": "I need Microsoft Intune set up from the ground up so every Windows PC and iOS/Android handset in our organisation is enrolled, visible, and fully manageable. My main focus is device management, and success for me means that everyday tasks—pushing software, fixing issues remotely, and enforcing configuration or compliance rules—can all be handled inside the Intune (Endpoint Manager) console without manual workarounds.\n\nCurrent state: devices are Azure AD-joined but otherwise unmanaged. Licences are already in place. What I lack is a clean Intune tenant configuration, tested enrolment workflows for the two device families, and well-structured policies that keep them secure and up to date.\n\nPlease deliver:\n\n• Tenant configuration: security baselines, enrolment restrictions, role-based access  \n• Enrolment profiles and step-by-step documentation for Windows Autopilot and Apple/Android Company Portal flows  \n• Policies: configuration, compliance, and update rings that match our password, encryption and patching standards  \n• App deployment: at least two line-of-business apps and the Microsoft 365 suite pushed silently with version control  \n• Remote help set-up and a quick guide so our help-desk can use it on day one  \n• A final run-through with me to prove a test device from each platform receives the right apps, settings and can be supported remotely\n\nYou may use PowerShell, Graph API, or the Intune admin centre—whatever streamlines the build. The key is a maintainable, document",
   "query": "chatgpt api",
   "found_at": "2026-08-17 05:01"
+ },
+ {
+  "id": 40651984,
+  "title": "Automated Excel Sales & Inventory Sheet",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/data-analysis/Automated-Excel-Sales-Inventory-Sheet",
+  "desc": "I need a clean, future-proof Excel workbook built from scratch that turns my raw data into a clear Sales report while also keeping day-to-day inventory under control.\n\nScope of work  \n• Create a main Sales Report sheet that summarises daily, weekly and monthly figures—pivot tables and easy-to-read charts are welcome as long as they refresh with one click.  \n• Add an Inventory sheet with:  \n  – automatic stock level updates driven by sales and purchase entries  \n  – visible supplier details beside each SKU for quick reference  \n• Link both areas so any sale instantly adjusts inventory, safeguarding accuracy.  \n• Keep formulas, named ranges and (if needed) VBA macros well-commented so I can tweak thresholds or add products later without breaking the model.\n\nAcceptance criteria  \nThe file should open with no errors, recalc in under five seconds on 10,000 rows, and deliver correct stock counts after a sample sales import I will provide.\n\nIf you have a smart layout idea or a time-saving macro trick, feel free to suggest it—clarity and reliability are the priorities.",
+  "query": "data extraction",
+  "found_at": "2026-08-17 05:46"
+ },
+ {
+  "id": 40651935,
+  "title": "Sci-Fi Novel Beta Reader/Editor Needed",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/beta-reading/Sci-Novel-Beta-Reader-Editor",
+  "desc": "I need a human beta reader or fiction editor to evaluate a completed 68,700-word adult military/procedural science-fiction novel consisting of 33 chapters.\n\nThe story involves legacy relativistic weapons, interstellar politics, alien technology, ethical accountability, strong character interactions, and restrained humor. Although the working title is Space Janitors, this is not broad comedy.\n\nThis is a complete manuscript beta read and editorial assessment—not ghostwriting or a full line edit.\n\nRequired deliverables:\n\n• Read the complete manuscript.\n• Provide a detailed five-to-eight-page reader report.\n• Evaluate plot, pacing, chapter flow, character development, dialogue, relationships, worldbuilding, continuity, and timeline.\n• Identify confusing, slow, repetitive, overly technical, or unnecessary scenes.\n• Evaluate the opening, ending, originality, and potential science-fiction clichés.\n• Give an honest opinion about whether the book is ready for Amazon KDP.\n• Evaluate whether the title Space Janitors gives readers the wrong impression.\n• Flag noticeable errors encountered while reading.\n• Answer one round of follow-up questions.\n\nThe work must be completed personally by a human. Generative AI may not be used to read, summarize, rewrite, or produce the report. The manuscript must remain confidential and may not be uploaded to an external AI system.\n\nApplicants must begin their proposal with “847,” describe their science-fiction experience, provide a sample reader report, ",
+  "query": "ai chatbot",
+  "found_at": "2026-08-17 05:46"
+ },
+ {
+  "id": 40651941,
+  "title": "Instagram & Google Travel Leads",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010459,
+  "bids": 17,
+  "url": "https://www.freelancer.com/projects/digital-marketing/Instagram-Google-Travel-Leads",
+  "desc": "I want to spark a steady flow of fresh travel enquiries from people across the country who are ready to book their next getaway. Instagram will carry the visual storytelling while Google (Ads and Search) will capture intent-driven traffic; both channels need to feed a single, clean funnel that delivers contact details for individuals planning personal trips.\n\nAlthough personal travel is the priority, I also sell event planning and coordination as well as business travel arrangements, so any campaign structure or keyword set that can pick up those opportunities without diluting the core message is welcome.\n\nHere is what I need from you: build the strategy, craft the creatives, launch the campaigns, and keep them optimised week by week. I already have a basic landing page on my site; feel free to suggest improvements or create a dedicated lead-capture page if it will convert better. Connection to my CRM is essential so every lead is logged for immediate follow-up, and I expect transparent reporting on spend, clicks, and qualified enquiries.\n\nSuccess is simple to measure: a growing list of nationwide prospects who give me their name, preferred travel dates, and best contact number, plus a clear view of which channel and creative brought them in.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-17 05:46"
  }
 ]
