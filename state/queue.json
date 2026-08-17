@@ -843,5 +843,44 @@
   "desc": "USA commercial trucking insurance operation and I need a full-time professional who can look after day-to-day management while keeping an eye on the bigger picture. Your focus will span three core pillars:\n\n1. Claims Administration  \n   • Claim processing and settlement from first notice through final payment  \n   • Fraud investigation, documenting findings and escalating when warranted  \n   • Negotiating and mediating disputed claims to achieve fair outcomes  \n\n2. Team & Task Oversight  \n   You will coordinate workloads, set daily priorities, and ensure each file moves on schedule. Although I did not tick specific HR items, expect to guide staff performance informally and mentor newer adjusters as you keep the queue flowing.\n\n3. Insurance Accounting  \n   • Accounts payable and receivable: allocate premiums, chase aged debt, and reconcile carrier statements  \n   • Financial reporting: produce monthly P&L snapshots and loss-ratio metrics the brokerage can act upon  \n   • Budgeting and forecasting: help model revenue, commission, and expected loss development so we can plan headcount and cash flow confidently  \n\nI rely on standard market tools—Excel/Google Sheets, carrier portals, and typical accounting packages—so you should move comfortably between them and be willing to suggest process improvements.\n\nSuccess for this role means files are closed promptly, loss ratios stay visible, ledgers balance to the cent, and the team feels supported rather than swamped. If that sounds li",
   "query": "google sheets automation",
   "found_at": "2026-08-16 23:29"
+ },
+ {
+  "id": 40651703,
+  "title": "3D Rigged Cyclists & Road Bike",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/3d-modelling/Rigged-Cyclists-Road-Bike",
+  "desc": "3D Cyclist Characters + Road Bike\n\n#######################################################################\n#######My budget is $100 USD; if you do not consider this sufficient, do not place a bid.#######\n#######################################################################\n\n###############Attached photos are for reference only.############################\n\n**Deliverables:** 4 rigged cyclist characters + 1 road bike, with LODs\n\n## 1. Characters required\n\nFour separate characters:\n\n| 1 | Male cyclist A | base male |\n| 2 | Male cyclist B | **same body, same kit, same rig as #1 — different face and hair only** |\n\n| 3 | Female cyclist A | base female |\n| 4 | Female cyclist B | **same body, same kit, same rig as #3 — different face and hair only** |\n\n\"Different face\" means the two men must be recognisably different people\n\nDifferent facial structure, skin tone, and hair\n(a beard on one of them is welcome). Body proportions, clothing geometry and skeleton must\nbe **identical** between A and B so they stay interchangeable.\n\n## 2. File format\n\n**Primary deliverable: `.glb` (glTF 2.0 binary), one file per model.** This is what the application loads directly. Please do not substitute another format.\n\n- Textures **embedded inside the .glb**, and also supplied separately as `.png`.\n- Also include the editable source (`.blend`, `.max`, `.ma` or `.c4d`) and an `.fbx`, for future edits. These are archive copies; the `.glb` is the one that ships.\n- Please verify each `.glb` opens correctly ",
+  "query": "data extraction",
+  "found_at": "2026-08-17 01:50"
+ },
+ {
+  "id": 40651688,
+  "title": "Freelance Indian Career & Digital Assistant",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010462,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/research/Freelance-Indian-Career-Digital",
+  "desc": "Looking for a Part-Time Personal Career & Digital Assistant (Freelance)\n\nI am looking for a smart and dependable Indian freelancer to support me part-time with my job search, LinkedIn presence and professional social media management.\n\nThis requirement is specifically for candidates based in India.\n\nThe work would include:\n\n• Searching and shortlisting relevant job opportunities\n• Managing and updating profiles on job portals\n• LinkedIn support – posts, comments, connections and follow-ups\n• Researching companies, suitable roles and relevant professionals/recruiters\n• Maintaining job application and follow-up trackers\n• Basic CV/document formatting and Excel work\n• Supporting professional social media activity and other online research\n\nWhat I am looking for:\n\n• Must be based in India\n• Good written and spoken English\n• Strong computer and internet research skills\n• Comfortable with MS Office/Google tools, especially Excel\n• Good understanding of LinkedIn and social media\n• Organised, reliable and able to work independently\n• Good communication skills and professional maturity\n• Students/fresh graduates with the right skills are also welcome\n\nThis is a remote, part-time freelance assignment, initially requiring approximately 1–2 hours per day, with flexibility depending on workload.\n\nInterested candidates can DM me with a brief introduction, current occupation/studies, location, relevant skills/experience and expected monthly remuneration.\n\nReferences would be preferred.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-17 01:50"
+ },
+ {
+  "id": 40651626,
+  "title": "Professional Industrial/Product Design Portfolio Overhaul",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 20,
+  "url": "https://www.freelancer.com/projects/industrial-design/Professional-Industrial-Product-Design",
+  "desc": "I need a complete redesign of my Industrial / Product Design portfolio.\nI already have an existing 30-page editable portfolio containing 4 product design projects, including research, sketches, concept development, CAD renders, prototypes, CMF exploration, and final contextual renders.\n\nWhat I need\nRedesign the portfolio from the ground up into a professional, premium Industrial Design portfolio suitable for internship/job applications.\nThis should NOT be a simple template change or rearrangement of my existing slides.\nI want the portfolio redesigned around visual storytelling and design process.\n\nPortfolio direction\nThe visual style should be:\nMinimal and sophisticated\nContemporary Industrial Design / ID portfolio aesthetic\nStrong Swiss/editorial-style typography and grid\nGenerous white/negative space\nLarge, high-quality product renders\nClear hierarchy\nConsistent typography and page structure\nProfessional rather than decorative\nVisually comparable to strong RISD / ArtCenter / RCA / professional industrial designer portfolios\n\nAvoid:\nGeneric Canva templates\nDecorative brush strokes\nExcessive icons\nCrowded research boards\nToo many fonts\nLarge paragraphs\nRepetitive layouts\nMaking every page look like a presentation slide\n\nStorytelling\nYou may expand the portfolio from the existing 30 pages to approximately 35–45 pages.\nPlease split information-heavy pages when necessary.\nEach major case study should approximately tell this story:\nProblem → Context → Research → Key Insight → Des",
+  "query": "pdf extraction",
+  "found_at": "2026-08-17 01:50"
  }
 ]
