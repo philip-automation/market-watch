@@ -297,5 +297,70 @@
   "desc": "I need a Pennsylvania-licensed architect, engineer, or land surveyor who can build a complete site plan for a new driveway layout, then place your professional seal on the final sheet so it can go straight to the city clerk without redlines. You will be working from a blank slate—I do not have a survey or any prior plans—so the drawing must fully meet both state standards and the specific municipal regulations that apply to this parcel. I can assist on getting measurements and photos if needed. \n\nThe driveway must be shown with its exact dimensions and labeled surface materials. If local code calls for additional information (setbacks, sight triangles, grading notes, etc.), please incorporate those items proactively.\n\nWhen the first draft is ready, send a PDF I can mark up. After my comments, issue the signed and sealed PDF that the municipality will accept.\n\nDeliverables  \n• Initial PDF site plan created from scratch  \n• One round of minor revisions based on my mark-ups  \n• Final signed & sealed PDF ready for submission  \n\nLet me know:  \n1. Your fastest realistic turnaround for draft and final seal.  \n2. Any city-specific file format or submission questions you need answered up front.  \n\nAccuracy and code compliance are essential, but working efficiently enough to keep the fee modest is my top priority. If there’s a more economical way to achieve the same approval, I’m open to suggestions.\n\nDO NOT BID ID YOU’RE SEEKING MORE MONEY OR WANT TO ACQUIRE PAYMENT OUTSIDE OF MILESTO",
   "query": "pdf extraction",
   "found_at": "2026-08-18 17:48"
+ },
+ {
+  "id": 40655799,
+  "title": "Independent QGIS & RFC 7946 GeoJSON Evaluator — Paid GIS QA Pilot",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/arcgis/Independent-QGIS-RFC-GeoJSON-Evaluator",
+  "desc": "We need one independent GIS practitioner for a paid, fixed-price technical pilot covering two separate workstreams:\n\nLeafEngines Agricultural Intelligence v1.0.10: controlled QGIS Desktop plugin installation and workflow evaluation.\nSoilCertify Phase 0: independent review of four frozen PDF/GeoJSON pairs covering U.S. and GB Summary and Detailed outputs, including field-level consistency and strict RFC 7946 review.\nThe products are independent. LeafEngines is not required to generate, reproduce, validate, or match SoilCertify reports, and SoilCertify users do not depend on LeafEngines. Optional complementary observations must not be presented as technical dependencies.\n\nThis is not unpaid testing, software development, remediation, implementation, or an endorsement. We need reproducible evidence from the named GIS professional who personally performs and signs the evaluation.\n\nControlled Environment\nPlugin: LeafEngines Agricultural Intelligence v1.0.10\nFrozen ZIP: qgis_leafengines-1.0.10.zip\nSHA-256: ed0744ac690065c520821725835eeb7b08439464effbbbb086da952e7d70e676\nOS: Windows 11 24H2, 64-bit\nQGIS: official QGIS 4.0.0 Windows release\nQGIS 4.0.0 is the exact base target—not the full 4.x compatibility range. macOS, Linux, other QGIS versions, additional builds, and post-fix retesting are outside the base scope unless separately authorized and funded.\n\nLeafEngines v1.0.10 declares no external PIP packages. It uses the Python, Qt, GDAL/OGR, GEOS, PROJ, and network components bundl",
+  "query": "data extraction",
+  "found_at": "2026-08-18 18:19"
+ },
+ {
+  "id": 40655787,
+  "title": "C ++ INTERVIEW SUPPORT ",
+  "budget_min": 500000.0,
+  "budget_max": 1000000.0,
+  "currency": "INR",
+  "usd_rate": 0.01044,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/c-sharp-programming/INTERVIEW-SUPPORT-40655787",
+  "desc": "I need a developer who can take my current manual workflows and turn them into a streamlined piece of software that automates routine business operations from end to end. The core of the project is full-stack software development: designing the architecture, coding the application, integrating it with the data we already collect, and making sure it runs smoothly on the desktop and in the cloud.\n\nKey deliverables:\n• A working, tested application that automates the specified business processes  \n• Clear, developer-level documentation (API, setup, and maintenance)  \n• A brief user guide so non-technical staff can get started right away\n\nAcceptance criteria:\n1. All critical tasks currently done by hand are executed programmatically with no loss of data accuracy.  \n2. The application passes agreed-upon unit and integration tests.  \n3. Deployment scripts allow installation or updates in under ten minutes on a clean machine.\n\nPreferred stack is flexible; I’m open to your proposal as long as it supports future scaling and can be maintained by an in-house team later. Please include two or three similar automation projects you have completed and note any domain expertise you can bring to the table.",
+  "query": "data extraction",
+  "found_at": "2026-08-18 18:19"
+ },
+ {
+  "id": 40655798,
+  "title": "Church Audio & Mic Setup",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/av-design/Church-Audio-Mic-Setup",
+  "desc": "I need an audio setup consultation for a small church in Copperas Cove, TX. The system should be compatible with livestreaming services.\n\nRequirements:\n- Setup primarily for podium microphones\n- Integration of speakers with the livestream system, possibly including a mixing console and audio interface\n\nIdeal skills and experience:\n- Experience with church audio systems\n- Knowledge of livestreaming integration\n- Familiarity with podium microphones and speaker setup\n\nI'm looking for someone who can provide a clear plan and possibly help with the installation.",
+  "query": "gpt integration",
+  "found_at": "2026-08-18 18:19"
+ },
+ {
+  "id": 40655782,
+  "title": "Amazon Ads Management For Startup Growth",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.01044,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/amazon-ads/Amazon-Ads-Management-For-Startup",
+  "desc": "I run a D2C men's shirt brand on Amazon with only a single white shirt product as market test and want a specialist to take over Amazon marketing to start sales. All Sponsored Products, Sponsored Brands, and any advanced placements or DSP work should be tuned toward pushing revenue up while keeping ACOS tightly controlled and ROAS climbing.\n\nYour first task will be a thorough audit of my existing product listing and quick-win opportunities. From there I expect a clear roadmap that covers campaign creation, bid and keyword refinement, A/B testing of creatives, audience segmentation, and transparent weekly reporting so I can see exactly how each change affects sales.\n\nWhen you respond, include a detailed project proposal. I’m particularly interested in:\n\n• Your 30-/60-/90-day game plan  \n• The specific metrics you track to show sales growth  \n• Sample dashboards or reports I’ll receive  \n\nFeel free to leverage Amazon Campaign Manager, bulk sheets, Helium 10, DataHawk, or any stack you’re comfortable with—the important thing is that results and insights are shared clearly.\n\nIf driving profitable sales through Amazon ads is your specialty, I’m ready to get started.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-18 18:19"
+ },
+ {
+  "id": 40655741,
+  "title": "Scriptwriting for Hindi YouTube Channel on Real-Life Problems",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.01044,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/content-writing/Scriptwriting-for-Hindi-YouTube-Channel",
+  "desc": "Looking for a skilled scriptwriter to create engaging, research-based scripts for a Hindi YouTube channel focused on real-life problems and practical solutions. Topics include education, unemployment, agriculture, government policies, social issues, technology, and more. Scripts should be in a documentary/explainer style with storytelling, facts, statistics, examples, and practical solutions. The language should be simple Hindi with some Hinglish where natural. Each script will be 15–25 minutes long. Quality and research are prioritized over speed. This is intended as a long-term collaboration to develop the channel's unique storytelling style.",
+  "query": "python script",
+  "found_at": "2026-08-18 18:19"
  }
 ]
