@@ -3105,5 +3105,70 @@
   "desc": "I’m launching a Telegram group aimed at freelancers and need a proactive community manager to help it grow and stay lively. The channel will focus exclusively on promotional offers—specifically special deals that freelancers can use to save money or gain new tools.\n\nYour role will be to:\n• Source and post verified special-deal offers relevant to freelancers (software discounts, limited-time service bundles, etc.).\n• Engage the community with short, clear copy that highlights each deal’s value.\n• Keep discussions on-topic, remove spam, and answer basic questions so the group feels welcoming.\n• Suggest simple engagement tactics—polls, pinned messages, or scheduled drops—to keep members coming back.\n\nI’ll provide posting guidelines, branding assets, and an invite link. You’ll deliver a one-week content calendar up front, then manage daily activity for the initial month. If growth and engagement targets are met, we can extend the collaboration.\n\nFamiliarity with Telegram admin tools, clear written English, and an eye for genuinely helpful deals are essential.",
   "query": "telegram bot",
   "found_at": "2026-08-18 04:18"
+ },
+ {
+  "id": 40654264,
+  "title": "Custom Quotation Software for Feed Mills",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010454,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/software-development/Custom-Quotation-Software-for-Feed",
+  "desc": "I need a Windows-based quotation program tailored to our poultry-feed-mill manufacturing business. We build everything from complete feed mills to automation systems, grain-storage silos and feed-transport units, so the application has to let me create and save several product lines in one place, then pull them into a quote without re-typing anything.\n\nThe heart of the job is a set of fully customizable templates. Each template must let me decide how Product details, a clear Pricing breakdown and Customer information appear, then lock those choices in for reuse. When a quote is ready, one click should render it as a neat, branded PDF that I can download or attach to an email outside the app.\n\nI’m comfortable if you use .NET, C# or another Windows-friendly stack, as long as the installer is simple and the interface is clean enough for our sales team to learn in minutes.\n\nDeliverables:\n• Stand-alone Windows application (installer + source)  \n• Template designer with fields for product catalogue, pricing logic and customer data  \n• PDF generator that mirrors the template layout exactly  \n• Brief user manual or video walk-through  \n\nI’ll test by generating a sample quote for each of our four product categories and checking that the PDFs match the on-screen design. Let me know what libraries or components you plan to use and an estimated timeline so we can schedule milestones.",
+  "query": "data extraction",
+  "found_at": "2026-08-18 04:59"
+ },
+ {
+  "id": 40654263,
+  "title": "Architectural 3D Model - Traditional Hindu Shrine",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/3d-modelling/Architectural-Model-Traditional-Hindu",
+  "desc": "# 3D Artist Needed – Custom South Indian Temple / Sami Medai Wall Panel\n\n## Project Description\n\nI am looking for an experienced **3D artist / CAD designer / 3D modeler** to create a highly detailed **South Indian Hindu temple-style Sami Medai (pooja shrine) wall panel** based on the reference image I will provide.\n\nThe final design should closely follow the **overall architecture, symmetry, proportions, decorative elements, and relief details** of the reference image while creating a clean, professional 3D model suitable for manufacturing.\n\nThis is **not just a rendering project**. I need an actual 3D model with proper geometry that can eventually be used for **3D printing, CNC machining, resin casting, or mould production**.\n\n## Design Requirements\n\nThe model should include:\n\n* Large rectangular outer frame\n* Traditional South Indian / Dravidian temple architecture\n* Symmetrical left and right sides\n* Grey stone/granite-style architectural structure\n* Detailed carved temple pillars\n* Central recessed shrine/sanctum\n* Central Hindu deity\n* Golden temple-style upper vimana/gopuram\n* Decorative yali/temple guardian sculptures on both sides\n* Gold-colored decorative lattice panels\n* Multiple stepped architectural layers\n* Ornamental temple carvings\n* Lotus and floral motifs\n* Traditional South Indian decorative borders\n* Elephant and other temple-inspired relief details\n* Detailed lower pedestal/base\n* Decorative mouldings and architectural reliefs\n* Black/dark outer frame\n\nThe",
+  "query": "ai chatbot",
+  "found_at": "2026-08-18 04:59"
+ },
+ {
+  "id": 40654253,
+  "title": "Kontes Desain Logo Minimalis",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/vector-design/Kontes-Desain-Logo-Minimalis-40654253",
+  "desc": "Saya sedang mencari ide logo baru bergaya minimalis untuk merek saya. Fokus utama adalah kesederhanaan yang tetap mencolok dan mudah diingat—tanpa elemen berlebih, warna secukupnya, dan tipografi bersih.\n\nSilakan kirimkan konsep asli Anda. Saya akan menilai:\n• Kesesuaian dengan prinsip desain minimalis.  \n• Kejelasan identitas merek meski tampil simpel.  \n• Kualitas penyusunan file (vector .AI/.EPS dan pratinjau .PNG).  \n\nPenjelasan singkat tentang makna desain akan membantu saya memahami keputusan visual Anda. Logo pemenang harus diserahkan dalam format vektor yang dapat diedit, beserta varian warna dan versi hitam-putih.\n\nSaya siap berdiskusi jika ada pertanyaan, jadi jangan ragu untuk bertanya sebelum mengirim final. Tunjukkan kreativitas terbaik Anda—saya menantikan hasilnya!",
+  "query": "ai chatbot",
+  "found_at": "2026-08-18 04:59"
+ },
+ {
+  "id": 40654220,
+  "title": "أساسيات فري فاير للمبتدئين",
+  "budget_min": 15.0,
+  "budget_max": 100000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/game-development/project-40654220",
+  "desc": "أحتاج محتوى تعليم اللعبة Free Fire موجَّه بالكامل للاعبين الجدد، يشرح لهم خطوة بخطوة كل ما يلزم لدخول أول مباراة بثقة. الهدف الرئيسي هو تعليم الأساسيات للمبتدئين: من تشغيل اللعبة لأول مرة وحتى فهم عناصر التحكم، الحركة، التقاط الغنائم، استخدام الأسلحة، وطريقة الفوز.  \n\nأنا مهتم قبل كل شيء بـ«تعليم اللعبة» نفسه، لذلك لست متمسكاً بشكل واحد للمادة؛ المادة يمكن أن تكون دروساً مكتوبة مدعمة بالصور، فيديوهات تعليمية قصيرة، أو حتى جلسة بث مباشر توضيحية—المهم أن تصل المعلومة بوضوح وسرعة.  \n\nأرغب في إنجاز العمل بأسرع وقت ممكن، لذا أقدّر تسليم مسودة أولى خلال ثلاثة أيام، مع إمكانية التنقيح فوراً حتى نصل إلى نسخة نهائية مفهومة وخالية من الأخطاء.  \n\nيرجى التأكد من أن المحتوى:\n• يُقدَّم بالعربية البسيطة.  \n• يوضح الخطوات داخل اللعبة عملياً عن طريق لقطات شاشة أو تسجيل شاشة واضح.  \n• يضم أمثلة على إعدادات التحكم الأساسية ونصائح أولية للبقاء على قيد الحياة حتى آخر الجولة.  \n\nالتسليم المقبول يتضمن:\n- ملف PDF أو Google Doc مرتب يغطي جميع النقاط الأساسية بالصور.  \n- 3–5 فيديوهات سريعة (≤5 دقائق لكلٍ) تشرح أهم الأقسام.  \n- وإن اخترنا خيار البث، جدول واضح لمواعيد الجلسة وأهدافها.  \n\nبمجرد استلام المواد ومراجعتها والتأكد من تطابقها مع المتطلبات أعلاه، أعتبر المشروع كاملاً.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-18 04:59"
+ },
+ {
+  "id": 40654216,
+  "title": "Social Media Manager",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010454,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/social-media-management/Social-Media-Manager-40654216",
+  "desc": "I need a hands-on partner to plan, edit and publish short-form video tutorials on Instagram, Facebook and LinkedIn for Realestate Industry. Every piece you create should teach my audience something practical, so the tone is always educational rather than sales-y. \n\nHere’s how I picture our workflow:\n• You receive raw footage, talking-head clips or a rough script from me.  \n• You handle trimming, colour correction, captions and light motion graphics, then add on-brand music and a punchy hook in the first three seconds.  \n• You draft engaging post copy, hashtags and an attention-grabbing thumbnail.  \n• You schedule each video at optimal times and monitor basic performance metrics so we can fine-tune future topics.\n\nWeekly deliverables:\n1. Three fully-edited tutorial reels (vertical, 60–90 s).  \n2. Matching carousel or story assets when helpful to reinforce the lesson.  \n3. A short report summarising reach, saves, shares and suggested tweaks.\n\nI typically film and edit on an iPhone, so familiarity with Premiere Pro, Adobe CC, CapCut or similar tools will keep us in sync, but I’m open to your preferred stack as long as the final files are crisp, brand-coloured and ready to upload.\n\nIf you’ve turned complex ideas into clear, bite-sized videos before, share a link to your best tutorial clip and a quick outline of how you’d elevate my content in the first month.",
+  "query": "python script",
+  "found_at": "2026-08-18 04:59"
  }
 ]
