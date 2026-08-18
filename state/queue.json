@@ -3599,5 +3599,83 @@
   "desc": "Several new residential and commercial developments are moving into detailed design and I need seasoned MEP professionals from Pakistan to produce the full mechanical, electrical and plumbing design and planning package. Your work will focus exclusively on design—no installation or maintenance tasks are expected—so deep experience with AutoCAD, Revit MEP or similar tools is essential.\n\nBecause the projects range from small villas to mid-rise mixed-use buildings, you will be expected to size HVAC systems, lay out electrical distribution, specify plumbing networks and ensure everything complies with local PEC guidelines as well as good international practice. Collaboration will be remote, but familiarity with regional suppliers and standards will make reviews and approvals faster.\n\nDeliverables I will review and sign off:\n\n• Coordinated MEP drawings (PDF + editable files)  \n• Load calculations and design reports for each discipline  \n• Equipment schedules with manufacturer references  \n• Bill of quantities ready for tendering\n\nIf you have a proven portfolio of residential and commercial MEP design completed in Pakistan, please share a concise sample set and indicate the software you used. Timely communication and the ability to iterate quickly on feedback are a must so we can keep permitting on schedule.",
   "query": "pdf extraction",
   "found_at": "2026-08-18 09:23"
+ },
+ {
+  "id": 40654843,
+  "title": "Python Streamlit Water Quality Tool Development",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 19,
+  "url": "https://www.freelancer.com/projects/streamlit/Python-Streamlit-Water-Quality-Tool",
+  "desc": "TITLE:\nDevelop Water Quality Calculator - WQI, IWQI, Irrigation Indices + Gibbs/Piper Diagrams - Python Streamlit\n\nDESCRIPTION:\n\nI need a Python Streamlit web tool to assess drinking and irrigation water quality based on WHO 2022, FAO, and Egypt Law 48/1982.\n\nTasks:\n\nInput: Excel template with 25 parameters - pH, EC, TDS, TH, Turbidity, Ca, Mg, Na, K, HCO3, CO3, Cl, SO4, NO3, NO2, NH4, PO4, BOD, COD, DO, F, Fe, Mn, Al, Pb\nCalculate Drinking WQI (Weighted Arithmetic Method) with WHO standards, classification 0-25 Excellent to >100 Unsuitable\nCalculate Irrigation IWQI (Meireles 2010) - weights EC 0.211, Na 0.204, HCO3 0.202, Cl 0.194, SAR 0.189\nCalculate 9 irrigation indices: SAR, %Na, RSC, Kelly Ratio (KR), MAR, Permeability Index (PI), Potential Salinity (PS), SSP, CAI - with meq conversions\nHealth Risk: HQ, HI, CR per USEPA\nGenerate diagrams for 30 monitoring points: Gibbs (TDS vs Na/(Na+Ca) and Cl/(Cl+HCO3)), Piper (diamond), USSL (SAR vs EC), Wilcox (%Na vs EC) - must show 3 zones: Upstream fresh (blue), Middle mixed (orange), Downstream brackish (red)\nCase Study: El-Salam Canal & Bahr El-Baqar Drain, Port Said - 30 points provided\nOutput: Dashboard with 5 tabs + Export PDF Technical Report + Excel results + Charge Balance Error <10%\nAttached files: I have an input template, a 30-point full dataset, example Gibbs/Piper charts that the tool must replicate, and a mobile UI example.\n\nBudget: $250-450, 12 days, 3 milestones.\n\nRequired: Show previous WQI/Piper project, use wqch",
+  "query": "web scraping",
+  "found_at": "2026-08-18 10:01"
+ },
+ {
+  "id": 40654789,
+  "title": "Thorough Penetration Testing for Web App",
+  "budget_min": 500.0,
+  "budget_max": 1000.0,
+  "currency": "GBP",
+  "usd_rate": 1.353158,
+  "bids": 19,
+  "url": "https://www.freelancer.com/projects/penetration-testing/Thorough-Penetration-Testing-for-Web",
+  "desc": "Advanced Web Application Penetration Testing I’m looking for a highly experienced professional penetration tester to perform an in-depth security assessment of the provided website/application. This is not a request for a basic vulnerability scan or a simple “the website is secure” assessment. I need a thorough, manual, adversarial penetration test performed by someone who understands modern web application security and can investigate vulnerabilities beyond automated tooling. Scope of the Assessment The assessment should include, where applicable: Authentication and authorization vulnerabilities Broken access control / IDOR Privilege escalation Session management and authentication flaws Business-logic vulnerabilities Race conditions and concurrency issues Input-validation vulnerabilities Injection vulnerabilities XSS, CSRF, SSRF, and related web vulnerabilities API security File upload/download vulnerabilities Account takeover scenarios Password reset and recovery mechanisms Payment and transaction logic Rate-limit and anti-automation weaknesses Information disclosure Misconfigurations and exposed functionality Client-side and server-side security issues Logic flaws that automated scanners are unlikely to identify Chained vulnerabilities where multiple low-severity issues can be combined into a significant attack Any other security weakness discovered during manual testing Methodology & Transparency I want the testing process to be fully documented. For every significant fi",
+  "query": "web scraping",
+  "found_at": "2026-08-18 10:01"
+ },
+ {
+  "id": 40654784,
+  "title": "JMeter Load Tests for PowerBI",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010451,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/jmeter/JMeter-Load-Tests-for-PowerBI",
+  "desc": "I need to understand exactly how much traffic my PowerBI operational dashboards can handle before response times become unacceptable, so I want fresh JMeter load-testing scripts built from the ground up. There are no existing scripts to tweak; you will be starting with a clean slate and modelling realistic user behaviour against the live dashboards, recording think-times, parameterising queries, and handling token-based authentication exactly the way PowerBI does in production.\n\nOnce the scripts are in place I expect a short proof run that shows concurrent-user ramp-up, key performance metrics (latency, throughput, error rate) and a brief summary of any obvious bottlenecks you notice. Final deliverables are the .jmx files, any CSV data sets or plug-ins you added, and a concise run report so I can replay the tests internally.\n\nIf you have solid JMeter experience with REST/HTTP and have previously exercised PowerBI or similar BI tools at scale, this will be straightforward work.",
+  "query": "data extraction",
+  "found_at": "2026-08-18 10:01"
+ },
+ {
+  "id": 40654772,
+  "title": "Consumer Lead Generation Campaign",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010451,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/lead-generation/Consumer-Lead-Generation-Campaign-40654772",
+  "desc": "MEERAMAYA – Lead Generation & Digital Marketing Project Brief\nMEERAMAYA is an invite-only luxury jewellery brand specializing in bespoke bridal jewellery, natural diamonds, Polki, Kundan, and handcrafted fine jewellery.\n\nOur objective is to build a consistent pipeline of **high-intent luxury jewellery buyers** and convert them into qualified consultation bookings through a multi-channel digital marketing strategy.\n\nThe campaign should focus on generating premium leads across **Delhi NCR, major Indian metro cities, and NRI markets** while maintaining the brand's luxury positioning.\n\n---\n\n# Social Media & Paid Advertising\n\nYou will be responsible for planning and executing lead generation campaigns across Meta (Instagram & Facebook) and other relevant platforms.\n\n### Responsibilities\n\n* Create a monthly luxury-focused content calendar.\n* Plan and manage Meta lead generation campaigns.\n* Build and optimize audience segments.\n* Retarget website visitors and engaged users.\n* Create high-converting ad creatives and copy.\n* Continuously optimize campaigns for better Cost Per Lead (CPL).\n* A/B test creatives, headlines, audiences, and landing pages.\n* Maintain a premium and luxury brand image across all campaigns.\n\n---\n\n# Email Marketing\n\nWe will provide brand assets, customer personas, and existing customer data where available.\n\nYour responsibilities include:\n\n* Build automated email sequences.\n* Write persuasive luxury-focused email copy.\n* Create consultation booking campaigns.\n*",
+  "query": "data extraction",
+  "found_at": "2026-08-18 10:01"
+ },
+ {
+  "id": 40654764,
+  "title": "Motor Sports AI Video Prompt Engineering",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010451,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/ai-video-editing/Motor-Sports-Video-Prompt-Engineering",
+  "desc": "Looking for AI Video Prompt Engineer to make https:/www.youtube.com/@astonmartin/videos like this videos,, person need to have video editing skills",
+  "query": "ai chatbot",
+  "found_at": "2026-08-18 10:01"
+ },
+ {
+  "id": 40654783,
+  "title": "Gestión campaña empleo SAP España",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "EUR",
+  "usd_rate": 1.157705,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/sap/Gesti-campa-empleo-SAP-Espa",
+  "desc": "Necesito externalizar la prospección y el primer contacto con empresas para acelerar mi incorporación como Consultor Junior SAP EWM / Soporte Funcional en contrato de prácticas dentro del ecosistema tecnológico español.  \nMi meta es clara: conseguir un nuevo empleo en grandes corporaciones asentadas en España, por lo que valoro a alguien que conozca bien los procesos de reclutamiento IT, domine la búsqueda de talento en LinkedIn Recruiter, bases de datos de RR. HH. y herramientas de automatización de outreach B2B.\n\nLo que espero de tu servicio  \n• Mapear corporaciones relevantes (especial hincapié en compañías con centros logísticos que utilicen SAP EWM) y localizar decisores de contratación o gerentes de práctica SAP.  \n• Diseñar mensajes de acercamiento convincentes en español e inglés que destaquen mi perfil junior, disponibilidad para contrato en prácticas y mi base técnica.  \n• Ejecutar la campaña: enviar invitaciones, hacer seguimiento, concertar entrevistas o llamadas informativas y registrar cada interacción.  \n• Entregar un reporte semanal con: listado de empresas contactadas, respuesta obtenida, próximos pasos y recomendaciones tácticas.\n\nCriterios de aceptación  \n1. Al menos 30 contactos cualificados en el primer mes.  \n2. Al menos 5 entrevistas o reuniones agendadas con área SAP/EWM.  \n3. Transparencia total en la hoja de seguimiento (Google Sheet o CRM).\n\nFacilitaré CV actualizado en español e inglés, carta de presentación base y todo material de soporte que nece",
+  "query": "google sheets automation",
+  "found_at": "2026-08-18 10:01"
  }
 ]
