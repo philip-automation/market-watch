@@ -193,5 +193,57 @@
   "desc": "I’m putting together a series of in-depth blog posts that examine current social issues across education, health, and the environment. Each article should read like a concise journal paper: evidence-based, formally structured, and referenced with credible studies or reports. While the tone must remain academic, I still want the prose to flow smoothly enough for a motivated lay reader—think clear argumentation without jargon for jargon’s sake.\n\nFor every post you deliver, I’ll provide a specific theme or question (for example, disparities in rural healthcare or the impact of climate policy on schooling). Your task is to research recent data, outline the key arguments, and craft roughly 1,200 well-organized words that include an introduction, critical discussion, and a reasoned conclusion. Inline citations and a short reference list are mandatory, using any major style guide you’re comfortable with (APA, MLA, or Chicago). All content must be original, pass plagiarism checks, and be optimized for on-page SEO through thoughtful keyword placement—no keyword stuffing.\n\nIf this style of rigorous, issue-focused writing matches your strengths, I’m ready to review a sample paragraph on a topic of your choice from within the brief.",
   "query": "data extraction",
   "found_at": "2026-08-18 15:52"
+ },
+ {
+  "id": 40655631,
+  "title": "Enhance Andriod Attendance App",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010438,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/android/Enhance-Andriod-Attendance-App",
+  "desc": "Attendance App – Push Notification, Live Location, Chat, Voice & Video Calling\n\nProject Title\n\nAdd Push Notification, Live Location, Employee Chat, Voice & Video Calling to Existing Android Attendance App\n\nProject Description\n\nI already have a working Attendance Web App + Android App with complete source code.\n\nCurrent technology includes:\n\n- React\n- TypeScript\n- Capacitor Android\n- Backend/API\n- Database\n- Existing employee/admin attendance system\n\nI need an experienced developer to add the following new features to the existing system.\n\nThis is not a new app development from scratch.\n\nI will provide the existing complete source code to the selected developer.\n\n1. Native Push Notifications\n\nAdd a complete Android push-notification system.\n\nAdmin should be able to send notifications to:\n\n- Individual employee\n- Selected employees\n- Team/Department\n- All employees\n\nRequirements:\n\n- Notification should work when app is open\n- Notification should work in background\n- Notification should work when app is closed\n- Tapping notification should open the relevant app screen\n- Notification history\n- Read/Unread status\n- Admin sent-notification history\n\nPlease mention which technology will be used, such as Firebase Cloud Messaging or another suitable solution.\n\nAll accounts/API credentials must be under my ownership.\n\n2. Live Employee Location Tracking\n\nAdd background/live location tracking for selected employees.\n\nRequirements:\n\n- Location update approximately every 3–5 minutes\n- Track",
+  "query": "web scraping",
+  "found_at": "2026-08-18 16:43"
+ },
+ {
+  "id": 40655561,
+  "title": "Experienced B2B Lead Researcher Needed",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010438,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/lead-generation/Experienced-Lead-Researcher-Needed",
+  "desc": "# USA & Canada B2B Lead Researcher Needed — High-Intent Leads\n\nWe are looking for an experienced B2B Lead Researcher / Data Researcher to support our outbound outreach campaign targeting businesses in the USA and Canada.\n\nWe are an established marketing and development agency offering services such as:\n\n- Digital Marketing and Performance Marketing\n- Website and App Development\n- SEO and Branding\n- Social Media and Creative Services\n\nWe need someone who can research and build high-quality, targeted prospect lists rather than providing generic scraped databases.\n\n## What We Need\n\n- High-intent business prospects\n- Accurate company and decision-maker data\n- Domain and website verification\n- Business email and relevant contact information\n- Decision-maker name, designation, and LinkedIn profile where available\n- Company size, industry, and location\n- Signals indicating that the business may need marketing or development services\n- USA and Canada-focused data\n\n## Ideal Candidate\n\nSomeone experienced with tools such as Apollo, ZoomInfo, Clay, LinkedIn, Google Maps, Hunter, Instantly, or their own reliable research methods.\n\n## Important — Sample Required\n\nPlease don't send a generic portfolio only.\n\nSend us a FREE SAMPLE of 20–30 leads relevant to our requirements, including the source or method used to find them.\n\nWe will evaluate:\n\n- Accuracy\n- Relevance\n- Intent\n- Data Completeness\n\nIf the sample is good, we are looking for someone for ongoing work and recurring lead lists.\n\n##",
+  "query": "data extraction",
+  "found_at": "2026-08-18 16:43"
+ },
+ {
+  "id": 40655618,
+  "title": "AI 2D Kids Animator Needed",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 20,
+  "url": "https://www.freelancer.com/projects/ai-animation/Kids-Animator-Needed",
+  "desc": "We are looking for a skilled AI 2-D cartoon animator to create 2 - 3 minute cartoon vector style 2d kids animation video [ON GOING WORK]\n\nScope of work\n- Create Animation with existing script and characters\n- Maintain consistency in character appearance, voice, and styles\n- Must Give 3 Rounds of Revision\n- Work as per our Agency standard\n- Timely weekly delivery so the series’ release schedule never slips\n\n To be shortlisted, please include:  \nKids Animation Work Portfolio link\nWhich AI tool you will use\nWhich software will you use\nWilling to create 15 second sample (if it is good you will be our weekly editor)\nand do not propose the price more than the budget specified\n\nconsistent work will be given every week\nBudget: 70$",
+  "query": "ai chatbot",
+  "found_at": "2026-08-18 16:43"
+ },
+ {
+  "id": 40655633,
+  "title": "Tech Candidate Outreach Support",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/google-sheets/Tech-Candidate-Outreach-Support",
+  "desc": "I’m an IT recruiter who already handles role definition, screening, and stakeholder coordination, but my current pipeline is growing faster than I can keep up with the front-end outreach. What I specifically need is a partner who can jump straight into job-board activity and keep conversations flowing with potential candidates until they’re ready for my in-depth screening.\n\nHere’s how I picture the collaboration working:\n\n• You’ll log in to the job boards I provide, review the newest matches against my requisitions, and send personalised first-touch messages that reflect each role’s key selling points.  \n• You’ll manage ongoing threaded conversations—answering basic questions, assessing interest, and securing updated CVs—so that only genuinely engaged candidates are passed to me for technical evaluation.  \n• Notes, status tags, and next steps should be entered directly into my tracking sheet (Google Sheets) so I have real-time visibility.\n\nWhile the core need is communication, if you later want to take on writing the actual postings or digging deeper to spot hidden-gem profiles, I’m open to it.\n\nSuccess for me is simple: an inbox of warm, well-qualified prospects ready for a screening call, with clear documentation of every interaction. Let’s streamline this first stage so I can focus on evaluating talent and closing hires.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-18 16:43"
  }
 ]
