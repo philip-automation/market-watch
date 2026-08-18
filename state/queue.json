@@ -245,5 +245,31 @@
   "desc": "I’m an IT recruiter who already handles role definition, screening, and stakeholder coordination, but my current pipeline is growing faster than I can keep up with the front-end outreach. What I specifically need is a partner who can jump straight into job-board activity and keep conversations flowing with potential candidates until they’re ready for my in-depth screening.\n\nHere’s how I picture the collaboration working:\n\n• You’ll log in to the job boards I provide, review the newest matches against my requisitions, and send personalised first-touch messages that reflect each role’s key selling points.  \n• You’ll manage ongoing threaded conversations—answering basic questions, assessing interest, and securing updated CVs—so that only genuinely engaged candidates are passed to me for technical evaluation.  \n• Notes, status tags, and next steps should be entered directly into my tracking sheet (Google Sheets) so I have real-time visibility.\n\nWhile the core need is communication, if you later want to take on writing the actual postings or digging deeper to spot hidden-gem profiles, I’m open to it.\n\nSuccess for me is simple: an inbox of warm, well-qualified prospects ready for a screening call, with clear documentation of every interaction. Let’s streamline this first stage so I can focus on evaluating talent and closing hires.",
   "query": "google sheets automation",
   "found_at": "2026-08-18 16:43"
+ },
+ {
+  "id": 40655660,
+  "title": "Zoho Commerce Site Data Updates",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010439,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/zoho-crm/Zoho-Commerce-Site-Data-Updates",
+  "desc": "I run my store on Zoho Commerce and need a reliable hand to keep the site perfectly in-sync with the rest of my Zoho apps. The immediate tasks are straightforward but important:  \n\n• Add or clean up product listings so every item shows correct descriptions, images, prices, and inventory levels.  \n• Update customer information pulled from Zoho CRM and make sure any changes flow smoothly between the store and the CRM.  \n• Configure or fine-tune payment gateways to guarantee a friction-free checkout that reflects any gateway-specific settings inside Zoho Books or other connected apps.  \n\nWhile I have no fixed layout in mind, I’m happy to hear design suggestions that improve usability or conversion. Solid experience with Zoho Commerce is essential, and familiarity with syncing across Zoho CRM, Books, and Inventory will make the job easier for both of us.\n\nWhen you finish, I should see a live storefront with accurate data, functioning payments, and zero sync errors across my Zoho suite. Let me know your timeframe and a brief outline of how you like to tackle these updates.",
+  "query": "data extraction",
+  "found_at": "2026-08-18 17:13"
+ },
+ {
+  "id": 40655680,
+  "title": "Custom Order Tracking Website Development",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010439,
+  "bids": 19,
+  "url": "https://www.freelancer.com/projects/lovable/Custom-Order-Tracking-Website",
+  "desc": "ORDR – AI-Powered Order Tracking Platform\n\nPrototype Development Brief\n\nAbout the Project\n\nORDR is an AI-powered platform designed to bring all of a user’s online shopping orders into one simple dashboard, regardless of which website or brand they purchased from.\n\nInstead of customers searching through emails, SMS messages, individual shopping apps and courier websites, ORDR should automatically identify their purchases and display:\n\nOrdered → Confirmed → Shipped → Out for Delivery → Delivered\n\nThe goal of this project is to build a working, polished prototype/MVP that demonstrates the complete user experience and proves that ORDR can intelligently identify and organize ecommerce orders.\n\nI am looking for an experienced AI Full-Stack Developer — Lovable + React + Supabase + Gmail API + LLMs Developer who is comfortable building rapidly using:\n\n* Lovable\n* React / TypeScript\n* Supabase\n* APIs\n* Gmail API / OAuth\n* AI / LLM integrations\n* Custom backend functions\n* Database design\n* Custom coding outside Lovable whenever necessary\n\nThe developer should NOT be dependent entirely on no-code tools.\n\nI specifically want someone who understands how to combine AI-assisted development with proper custom engineering.\n\nPlease provide a portfolio showcasing similar projects.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-18 17:13"
  }
 ]
