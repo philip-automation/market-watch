@@ -3001,5 +3001,31 @@
   "desc": "We're seeking an expert in space environment effects, electrodynamics, and systems engineering to collaborate on translating aperiodic structural frameworks into solid-state lattices for off-world applications.\n\nKey Focus Areas:\n- Radiation Shielding & Electronic Durability: Evaluating moiré-engineered graphene structures against cosmic radiation and particle bombardment for deep-space electronics.\n- Thermal & Mechanical Resilience: Leveraging graphene’s strength-to-weight ratio and thermal management for off-world habitat skins and structural applications.\n\nCore Deliverables:\n1. A parameterized simulation script/pipeline modeling twisted bilayer/multilayer graphene band structures and interlayer coupling (compatible with our modular architecture).\n2. Quantitative performance analysis covering electronic bandgap tunability, charge transport, and mechanical strain distribution under simulated off-world environmental stressors.",
   "query": "python script",
   "found_at": "2026-08-18 01:47"
+ },
+ {
+  "id": 40654073,
+  "title": "Locate and Verify Work Email Addresses",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "AUD",
+  "usd_rate": 0.710774,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/data-management/Locate-Verify-Work-Email-Addresses",
+  "desc": "Task: Locate and Verify Work Email Addresses\n\nObjective\n\nWe have an Excel spreadsheet containing approximately 2,000 individuals, including their name and employer.\n\nYour task is to research and identify the current work email address for each individual and add it to the existing Excel file.\n\nThe goal is to build an accurate, usable database of professional email addresses for these specific individuals.\n\nWhat you need to do\n\nFor each person in the spreadsheet:\n\n1. Use the person's **full name and employer** as the starting point.\n2. Search online to identify their current professional/work email address.\n3. Prioritise reliable sources, including:\n\n   * Employer websites\n   * Company staff/team pages\n   * Professional directories\n   * Conference/event speaker pages\n   * Industry association websites\n   * Public professional profiles\n   * Other reputable business databases or publicly available sources\n4. Confirm that the email address relates to the **specific person and employer**, rather than simply finding a generic company email address.\n5. Add the email address to the designated email column in the Excel spreadsheet.\n6. If you cannot confidently identify an email address, leave the email field blank and mark the record as **\"Not found\"** in the status column.\n\nImportant accuracy requirements\n\nDo not guess email addresses.\n\nFor example, if you find that a company uses the format `firstname.lastname (at) company.com`, do not automatically generate an email address for som",
+  "query": "data extraction",
+  "found_at": "2026-08-18 02:45"
+ },
+ {
+  "id": 40654044,
+  "title": "Sales-Focused Email Marketer Needed",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010448,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/email-marketing/Sales-Focused-Email-Marketer-Needed",
+  "desc": "I’m looking for an experienced email marketer who can drive new-prospect conversions through well-timed product announcement campaigns. My main objective is simple: turn fresh leads into paying customers by presenting our latest offers in a way that feels valuable rather than salesy.\n\nHere’s what I expect from you:\n• Strategy draft outlining the cadence and content themes for a launch-style announcement flow.  \n• High-impact copy and subject lines tailored to cold or lukewarm subscribers—think benefit-led messaging with clear calls to action.  \n• Clean, responsive templates that keep our visual identity intact across desktop and mobile.  \n• List segmentation and basic automations inside the platform of your choice (Mailchimp, Klaviyo, HubSpot—open to suggestions) so each prospect receives a relevant, timely sequence.  \n• Performance tracking setup: open rate, click-through, and conversion reporting so we can identify quick wins and iterate.\n\nI’ll provide branding assets, product details, and access to our email tool. You bring the creativity, data-driven refinement, and best practices that lift revenue. If this sounds like your wheelhouse, tell me briefly about a similar project you scaled and the metrics you moved.",
+  "query": "data extraction",
+  "found_at": "2026-08-18 02:45"
  }
 ]
