@@ -492,5 +492,31 @@
   "desc": "I’m building a neck-to-shoulder wrap that releases heat, gentle vibration pulses, relaxing scents, and calming sounds, all driven by a companion mobile app. The app’s top priority is mood sensing and breathing guidance: it should notice when stress rises, then coach the user through slow, soothing breaths. Three specific breathing modes must be ready at launch—guided deep breathing, box breathing, and 4-7-8—each synchronised with the wrap’s vibration pattern, heat cycles, and audio track.\n\nScope of work  \n• Hardware concept: layout for flexible heating elements, silent haptic motors, an interchangeable aromatherapy cartridge, and low-profile speakers.  \n• Sensor integration: heart-rate and muscle-tension inputs routed to the app for real-time mood detection.  \n• Firmware: manage heat levels, vibration rhythms, scent release, and BLE communication with the phone.  \n• Mobile app (iOS and Android): dashboards for mood trends, a breathing-coach interface, sound library (rain, ocean, binaural beats, calming frequencies), and settings for temperature, vibration intensity, and scent choice.  \n• Cloud-optional: store anonymised stress data so users can view progress across devices.\n\nAcceptance criteria  \n1. A working wrap prototype that reaches 45 °C safely, runs haptic patterns under 45 dB, and pairs via Bluetooth within 5 seconds.  \n2. App detects elevated heart-rate variability or tense-sensor readings and automatically launches a breathing session.  \n3. All three breathing modes ",
   "query": "data extraction",
   "found_at": "2026-08-18 20:36"
+ },
+ {
+  "id": 40656059,
+  "title": "Actor Headshot Photography Session",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/lighting-design/Actor-Headshot-Photography-Session",
+  "desc": "I’m booking a studio session to update my acting portfolio and need a photographer who specialises in both theatrical and commercial headshots. The shoot will take place indoors in a professional studio, using a clean, plain backdrop so the focus stays on expression and character.  \n\nFor the theatrical shots I’m after moodier, more dramatic lighting, while the commercial looks should feel bright and approachable. I’ll arrive with wardrobe options for each style; your guidance on subtle styling tweaks and posing will be appreciated.\n\nI expect a streamlined workflow—tethered capture is fine—so we can review images on-site and adjust quickly. After the shoot, I’d like lightly retouched, colour-corrected finals delivered in high-resolution JPEG plus web-ready crops suitable for Casting Networks and Actors Access. A quick turnaround on proofs is important as I’m submitting to upcoming auditions.\n\nDeliverables:\n• A minimum of 3 fully retouched finals for each style (theatrical & commercial)  \n• Web and print resolutions supplied via download link  \n• Basic blemish cleanup, colour grading and background polish carried out in Lightroom/Photoshop  \n\nIf this sounds like your expertise, please let me know your availability and any prep guidelines you’d like me to follow before the session.",
+  "query": "web scraping",
+  "found_at": "2026-08-18 21:42"
+ },
+ {
+  "id": 40656052,
+  "title": "Recherche et Prospection Immobilière Virtuelle",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "CAD",
+  "usd_rate": 0.719782,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/lead-generation/Recherche-Prospection-Immobili-Virtuelle",
+  "desc": "Freelance – Recherche de données et prospection immobilière en ligne\n\nJe recherche une personne sérieuse, organisée et efficace pour effectuer de la recherche de données et de la prospection immobilière sur Internet.\n\nDescription du travail\n\nLe mandat consiste principalement à rechercher des propriétaires et des opportunités immobilières à partir de différentes sources en ligne, notamment :\n\nFacebook Marketplace\nSites d'annonces immobilières\nPetites annonces et autres sources publiques\nRecherche Google et autres outils de recherche\n\nL'objectif est de créer des listes de prospection comprenant, lorsque l'information est disponible :\n\nAdresse de la propriété\nPrénom et nom du contact\nNuméro de téléphone\nSource du contact\nAutres informations pertinentes\nRémunération\n\nLa rémunération est basée sur le nombre de contacts valides trouvés.\n\nLe volume de travail disponible est très important : il est possible de rechercher 100 contacts et plus par jour pour une personne efficace.\n\nJe recherche idéalement quelqu'un intéressé par une collaboration à long terme. Plus vous êtes rapide, précis et constant, plus le volume de travail pourra être important.\n\nProfil recherché\nÊtre capable de communiquer en français\nÊtre à l'aise avec la recherche sur Internet\nSavoir utiliser Facebook Marketplace et les moteurs de recherche\nÊtre organisé et méthodique\nÊtre capable de travailler de façon autonome\nPorter une attention particulière à l'exactitude des informations\nUne expérience en recherche de donn",
+  "query": "google sheets automation",
+  "found_at": "2026-08-18 21:42"
  }
 ]
