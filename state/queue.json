@@ -3066,5 +3066,44 @@
   "desc": "我正在筹建一套面向欧美市场的 B2C 独立商城，希望以 Next.js 作为前后端同构的核心框架，完成类似 Shopify 的全栈功能，并能够私有化部署与运维。\n\n项目核心诉求\n• 视觉风格：界面需保持「简洁现代」，兼顾移动端与桌面端的无障碍体验。\n• 前端模块：商品展示、搜索筛选、购物车、下单付款流、用户注册登录与个人中心等完整业务闭环。\n• 后端服务：基于 Next.js API Routes 或自建 Node.js 服务，完成业务接口，整合 MySQL 进行数据建模、Schema 设计及性能优化。\n• 部署方案：支持三种可选路径——Vercel、海外 VPS 及本地私有化；需提供 Docker 容器化脚本与 Windows 环境兼容调优。\n• 运维配置：编写 Nginx 反向代理、HTTPS 证书及域名配置指引，确保外网稳定访问。\n• 交付物： \n  1. 前端源码与组件库 \n  2. 后端源码与数据库建表脚本（MySQL） \n  3. Dockerfile、docker-compose.yml 及跨平台说明 \n  4. Nginx 配置模板、部署文档及运维手册 \n  5. 上线调试记录与常见故障排查指南\n\n我希望你具备跨境电商经验，熟练掌握 Next.js、React、Node.js、MySQL、Docker 与 Nginx，并能在沟通中提供专业的技术选型与优化建议。完成交付后，代码需便于二次开发，文档清晰，支持未来功能扩展。若你符合以上要求，期待与你合作。",
   "query": "chatgpt api",
   "found_at": "2026-08-18 03:31"
+ },
+ {
+  "id": 40654185,
+  "title": "Independent B2B Sales Partner — Web & Software Development -- 2",
+  "budget_min": 5000.0,
+  "budget_max": 10000.0,
+  "currency": "GBP",
+  "usd_rate": 1.353296,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/sales/Independent-Sales-Partner-Web-Software",
+  "desc": "Bothmade Studio is a premium web and native Apple development studio specialising in high-quality websites, web applications, internal business systems, and native iOS/macOS products.\n\nThis is a commission-based independent sales opportunity. The project budget shown on Freelancer is not a salary or guaranteed compensation figure. Commission is earned on qualifying client revenue generated through your sales activity.\n\nWe primarily work with established small and medium-sized businesses that already have a viable product or service but are being held back by a weak website, outdated digital presence, poor user experience, or missing functionality.\n\nOur work is positioned above low-cost template development. We focus on custom design, strong UX, polished front-end development, conversion-focused structure, performance, technical quality, and useful business functionality.\n\nTypical services include:\n- Custom website design and development\n- Complete website redesigns\n- Landing pages\n- E-commerce\n- Booking and enquiry systems\n- Customer portals\n- Internal dashboards\n- Automation and integrations\n- API development and integration\n- Native iOS and macOS applications\n- Website performance improvements\n- Ongoing technical support and development\n\nWe are now expanding our sales operation and are looking for skilled freelance sales professionals who can identify qualified opportunities, open conversations with decision-makers, and help convert suitable businesses into Bothmade clients",
+  "query": "web scraping",
+  "found_at": "2026-08-18 04:18"
+ },
+ {
+  "id": 40654146,
+  "title": "MEP Engineering Design for Bali Restaurant",
+  "budget_min": 1500.0,
+  "budget_max": 3000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 13,
+  "url": "https://www.freelancer.com/projects/hvac/MEP-Engineering-Design-for-Bali",
+  "desc": "We're developing a restaurant in Uluwatu (Bali, Indonesia). The architectural design is done — we now need the full MEP engineering design (MEP only; structure is handled separately).\n\nProject: ~1,450 m² over basement, ground floor, upper floor and roof terrace, with a commercial kitchen.\n\nScope (complete MEP design + calculations):\n\n- Electrical + lighting + low voltage (CCTV, data/WiFi, audio, access control), generator, earthing, boards + single-line diagrams.\n- HVAC (thermal-load calcs) + commercial kitchen extraction (hoods, airflow, ducts).\n- Sanitary/drainage (black/grey/yellow) + stormwater, grease trap.\n- Potable + service water (tanks, pumps, hydropack), gas.\n- MEP coordination / overlay drawing + elevations/sections + equipment schedules + specs.\n\nRequirements: proven MEP design experience — restaurant / commercial kitchen / hospitality a strong plus; deliverables in English (Indonesian a plus); CAD/BIM; immediate start.\n\nIn your bid, please include: fixed fee, estimated timeline, relevant portfolio (restaurant / commercial-kitchen MEP), and your assumptions.\n\nMilestone-based, run through the platform, reviewed stage by stage.",
+  "query": "data extraction",
+  "found_at": "2026-08-18 04:18"
+ },
+ {
+  "id": 40654149,
+  "title": "Telegram Group Community Manager",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/community-management/Telegram-Group-Community-Manager",
+  "desc": "I’m launching a Telegram group aimed at freelancers and need a proactive community manager to help it grow and stay lively. The channel will focus exclusively on promotional offers—specifically special deals that freelancers can use to save money or gain new tools.\n\nYour role will be to:\n• Source and post verified special-deal offers relevant to freelancers (software discounts, limited-time service bundles, etc.).\n• Engage the community with short, clear copy that highlights each deal’s value.\n• Keep discussions on-topic, remove spam, and answer basic questions so the group feels welcoming.\n• Suggest simple engagement tactics—polls, pinned messages, or scheduled drops—to keep members coming back.\n\nI’ll provide posting guidelines, branding assets, and an invite link. You’ll deliver a one-week content calendar up front, then manage daily activity for the initial month. If growth and engagement targets are met, we can extend the collaboration.\n\nFamiliarity with Telegram admin tools, clear written English, and an eye for genuinely helpful deals are essential.",
+  "query": "telegram bot",
+  "found_at": "2026-08-18 04:18"
  }
 ]
