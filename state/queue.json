@@ -115,5 +115,44 @@
   "desc": "I have a short slide-deck for an upcoming client presentation and I’d like the key talking points rewritten in a visually engaging, hand-written format. Think of something that feels spontaneous and artistic rather than rigid—distinct lettering styles, varied stroke widths and playful spacing—yet still 100 % legible at a glance.  \n\nPlease add subtle highlighting or underlining to draw the viewer’s eye to the core concepts; no other embellishments are needed. I’ll supply the final text (roughly three pages). You’ll return high-resolution scans or a clean digital tablet export (PDF + PNG) that I can drop straight into my slides.  \n\nI’ll sign off once the wording is complete, the highlights are balanced, and everything looks crisp when projected on a 16:9 slide.",
   "query": "pdf extraction",
   "found_at": "2026-08-18 14:47"
+ },
+ {
+  "id": 40655480,
+  "title": "3D / Digital Twin / AR Developer – Existing Automotive Platform -- 2",
+  "budget_min": 20.0,
+  "budget_max": 250.0,
+  "currency": "GBP",
+  "usd_rate": 1.353977,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/three-js/Digital-Twin-Developer-Existing",
+  "desc": "3D / Digital Twin / AR Developer – Existing Automotive Platform\nI are looking for an experienced 3D, Digital Twin, WebGL/AR or computer-vision developer to implement a clearly defined 3D capability within an existing automotive technology platform.\nThis is not a greenfield project.\nThe wider system architecture, digital-twin concepts, component identity model, interfaces, schemas, test requirements and integration boundaries already exist.\nI am looking for someone who already knows this area and can efficiently implement the supplied SP-06 High-Fidelity 3D, Scanning and AR Capability work package.\nInitial Assignment\nThe Upwork engagement is focused on a bounded / proof-of-capability for one supplied vehicle or use case.\nThe implementation should demonstrate the core technical pipeline required for the wider SP-06 capability.\nDepending on the supplied assets and agreed implementation approach, the work will include relevant elements of:\n•\timporting and processing a supplied 3D vehicle asset;\n•\tpreserving the supplied vehicle/component hierarchy and component IDs;\n•\tconverting/optimising geometry for interactive rendering;\n•\tGLB/glTF or equivalent production-friendly asset handling;\n•\tcomponent-level selection and interaction;\n•\texploded/reassembled vehicle views;\n•\tcomponent highlighting/isolation;\n•\tmetadata association with individual components;\n•\tLevel of Detail (LOD) / geometry optimisation where appropriate;\n•\tefficient asset loading and rendering;\n•\tbasic scan/geometry ",
+  "query": "data extraction",
+  "found_at": "2026-08-18 15:17"
+ },
+ {
+  "id": 40655458,
+  "title": "Indian Gods T-Shirt Design -- 2",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.01044,
+  "bids": 19,
+  "url": "https://www.freelancer.com/projects/illustration/Indian-Gods-Shirt-Design",
+  "desc": "I want a bold, eye-catching T-shirt graphic rooted in Indian mythology, with the spotlight firmly on its rich pantheon of Gods and Goddesses. Think of a single striking deity or a dynamic grouping that instantly tells a story the moment someone sees the shirt. The style can lean modern, traditional, or a clever fusion of both; what matters most is authenticity, strong line work, and colours that pop on fabric without losing detail.\n\nHere’s what I need from you:  \n• Original, print-ready artwork supplied in layered AI or PSD plus high-resolution PNG (transparent) and a mock-up on a standard T-shirt template.  \n• Colours separated or easily adjustable for screen or DTG printing.  \n• Full rights transferred on final payment, with any licensed fonts or assets clearly noted.\n\nI’m aiming to wrap this up within a month, so please outline a realistic milestone plan that covers your concept sketches, one round of revisions, and final delivery. If you’re passionate about Indian lore and have a portfolio of illustrative apparel designs, I’d love to see how you’d bring these divine figures to life.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-18 15:17"
+ },
+ {
+  "id": 40655441,
+  "title": "AI-Powered Personal Assistant Development -- 2",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.01044,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/ai-chatbot-development/Powered-Personal-Assistant-Development-40655441",
+  "desc": "1.) Developed an advanced AI-powered personal assistant designed to understand and respond to natural-language commands.\n2.) Integrates AI/NLP capabilities for intelligent conversation, reasoning, and task assistance.\n3.) Supports voice-based interaction, enabling hands-free communication with the assistant.\n4.) Provides context-aware conversations instead of treating every query as an isolated request.\n5.) Designed with a modular architecture, allowing new AI capabilities and tools to be added easily.\n6.) Capable of assisting with information retrieval, problem solving, coding, and everyday tasks.\n7.) Designed for a user-friendly interface with a focus on speed, reliability, and easy interaction.\n8.) Includes a focus on privacy, controlled access, and responsible handling of user information.\n9.) Built with a roadmap toward a more autonomous and intelligent AI agent, rather than a simple chatbot.\n 10.) Targeted as a strong working prototype within one month, followed by continuous improvements and advanced capabilities.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-18 15:17"
  }
 ]
