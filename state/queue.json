@@ -3872,5 +3872,57 @@
   "desc": "I already have a fully-fleshed, motivational storyline for a short film and now need it transformed into a tight, engaging screenplay. The narrative arc, key scenes, and character beats are mapped out; where I need your expertise is in structuring these elements into a professional script that runs roughly 10–15 minutes on screen, keeps the pacing crisp, and lands an emotional punch at the climax.\n\nWhat I’m looking for:\n• A complete short-film script in standard screenplay format (Final Draft, Celtx, Fountain, or properly formatted PDF).  \n• Natural, motivational dialogue that feels authentic rather than preachy.  \n• Clear scene headings, action lines, and transitions that translate smoothly to production.  \n• Up to two rounds of revisions so we can fine-tune tone and pacing.\n\nYou’ll receive my storyline document with scene summaries, character notes, and thematic goals the moment we start. Please bring your own creative flair, but stay true to the heart of the story. If you’ve written inspiring shorts before—or have samples that show you can move an audience—I’d love to read them. Let’s craft something memorable together.",
   "query": "pdf extraction",
   "found_at": "2026-08-18 11:11"
+ },
+ {
+  "id": 40655062,
+  "title": "Complex PDF Table Extraction",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010448,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/optical-character-recognition/Complex-PDF-Table-Extraction",
+  "desc": "I have a batch of scanned-PDF files—together they hold somewhere between 11 and 50 individual tables—but the challenge is that each table follows its own layout. I need every one of those tables accurately lifted out of the scans, cleaned, and delivered in a single Excel workbook. OCR will definitely be required; a mix of tools such as Adobe, ABBYY, Tabula, Camelot, or even custom Python scripts is fine as long as the final spreadsheet is precise and ready for analysis.\n\nWhat matters to me:\n\n• Accuracy: numbers and text must match the originals, column headings preserved, no merged-cell surprises.  \n• Consistency: even though the table structures differ, each finished sheet in Excel should be formatted in a tidy, readable way.  \n• Organisation: name each worksheet logically or consolidate tables with clear separators—whatever keeps the data easy to navigate.  \n• Turnaround: let me know how fast you can complete the job once you’ve seen the files; speed is appreciated but quality comes first.\n\nI’ll provide the PDFs as soon as we agree. Before hand-off, I’ll spot-check random rows against the scans; if everything lines up, we’re done. Looking forward to seeing how you tackle this.",
+  "query": "data extraction",
+  "found_at": "2026-08-18 11:45"
+ },
+ {
+  "id": 40655034,
+  "title": "Meta Ads Issue Troubleshooting",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010448,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/advertising/Meta-Ads-Issue-Troubleshooting",
+  "desc": "I’m looking for someone experienced with Meta Ads / Meta Business Manager to help troubleshoot an issue where multiple ads were suddenly rejected after running smoothly.\n\nI’m also seeing this warning in Events Manager:\n\n“Review new restrictions on data that you send through Meta Business Tools”\n\nI need someone who can:\n\nIdentify the actual reason behind the sudden restrictions/rejections\nReview my Meta Business Manager, Events Manager, Pixel/CAPI setup and data-sharing settings\nExplain what is triggering the restrictions\nHelp me fix the setup properly and get compliant ads running again\nWork within Meta’s policies rather than using risky workarounds",
+  "query": "data extraction",
+  "found_at": "2026-08-18 11:45"
+ },
+ {
+  "id": 40655056,
+  "title": "Revit Modeling & BIM Support",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "NZD",
+  "usd_rate": 0.58791,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/revit/Revit-Modeling-BIM-Support",
+  "desc": "I’m looking for an advanced Revit specialist who can step into my workflow and take raw sketches, PDFs, or DWG backgrounds and turn them into a clean, fully coordinated Revit model. The scope will evolve as the project progresses, so I’ll need someone comfortable moving from early massing through to sheets, schedules, and export-ready documentation.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-18 11:45"
+ },
+ {
+  "id": 40655028,
+  "title": "Electrical SLD & Safety Workshop",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010448,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/training/Electrical-SLD-Safety-Workshop",
+  "desc": "I need a seasoned instructor to run a focused, two-hour, in-person session in Mumbai for a group of working professionals who are new to electrical drawings. The trainees are beginners, so the material has to start from the absolute basics yet still feel relevant to their day-to-day work on site.\n\nCore areas to cover  \n• Reading and interpreting electrical Single-Line Diagrams (SLD)  \n• Understanding General Arrangement Drawings (GAD) and how they link to the SLD  \n• Practical electrical safety concepts that can be applied immediately on the shop-floor or in the field  \nIf you usually add related essentials—component symbols, protection schemes, earthing concepts, or common troubleshooting tips—feel free to weave them in; extra context is welcome as long as it fits the two-hour slot.\n\nSession style  \nAn interactive, consultancy-style workshop works best for us: short theory bursts, plenty of real-world examples, and quick exercises using sample drawings. I will arrange the venue and projector; you bring the presentation, handouts, and any props that make the lessons stick.\n\nPreferred background  \nTrainers who currently consult on electrical projects or teach the subject get priority, because we value practical insights and crisp explanations over lengthy academia.\n\nDeliverables  \n1. Two-hour on-site training (Mumbai metropolitan area)  \n2. Slide deck and printable reference sheets in PDF  \n3. A short post-session quiz with answer key to gauge comprehension  \n4. Follow-up emai",
+  "query": "google sheets automation",
+  "found_at": "2026-08-18 11:45"
  }
 ]
