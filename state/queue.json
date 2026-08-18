@@ -2923,5 +2923,83 @@
   "desc": "I have ten musical-theatre tracks that only exist as rough, low-quality MP3s. What I need from you is a clean piano reduction for each song—nothing flashy, simply the melody line with the correct chords notated above it. \n\nPlease transcribe each piece directly from the reference track, lay out the vocal line, add the full lyric text in the usual placement beneath the notes, and provide a supportive yet uncluttered piano accompaniment. Think of a classic rehearsal score: clear melodic notation, well-voiced chord symbols, and consistent bar numbers that match the original structure.  \n\nDeliverables for every song:  \n• PDF of the finished sheet music  \n• Editable notation file (Sibelius, MuseScore, or Finale—whichever you work in)  \n• Piano Bakcing that can be used for performance when a painist not available\n\nAccuracy in melody, key, and lyric alignment is essential; slight reharmonisation is fine where the source is muddy, but keep the theatrical feel intact. Let me know your preferred notation platform and an estimated timeline for all ten scores, and we can get started right away.",
   "query": "google sheets automation",
   "found_at": "2026-08-18 00:02"
+ },
+ {
+  "id": 40653945,
+  "title": "Autobot Software Design for Quotex Trading",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010451,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/ai-automation/Autobot-Software-Design-for-Quotex",
+  "desc": "I am looking for someone who can develop an automated trading bot for the Quotex platform with the following requirements: Node.js proficiency, WebSocket connectivity, Puppeteer web scraping, automated trading systems, robust error handling, 24/7 operation, and detailed documentation. I only need the code to run in the terminal, no interface required.\nObjectives:\n\nMaintain a continuous WebSocket connection to the Quotex platform, automatically reconnecting if disconnected.\nRead and update the highest yield asset from the Quotex platform every 10 minutes.\nExecute trades on the Quotex platform and handle profit or response.\nEnsure trades are placed only when the previous trade is closed.\nEnsure 24/7 operation with robust error handling.\nRequirements:\n\nWebSocket Connection:\n\nConnect to the Quotex WebSocket server using Node.js.\nImplement reconnection logic to ensure continuous connectivity.\nHandle WebSocket events (open, message, close, error).\nHighest Yield Asset:\n\nRead the highest yield asset from the Quotex platform using Puppeteer.\nUpdate the highest yield asset every 10 minutes.\nNavigate the Quotex webpage, interact with necessary elements, and extract required data.\nTrade Execution:\n\nPlace trades on the Quotex platform based on the highest yield asset.\nEnsure trades are only placed when the previous trade is closed.\nHandle WebSocket responses to confirm trade execution and capture profit or loss.\nError Handling:\n\nImplement robust error handling to manage network issues, We",
+  "query": "web scraping",
+  "found_at": "2026-08-18 01:47"
+ },
+ {
+  "id": 40653985,
+  "title": "AI Training Remote Specialist Needed -- 2",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/ai-training-data/Training-Remote-Specialist-Needed",
+  "desc": "Do you live in the USA, UK, Canada, Australia or India and are available to work remotely on AI training, data annotation, research or content evaluation projects?\n\nWe're keenly searching for people who can add an AI-related work account and finish the verification, utilizing their own actual data and information. Compensation will be granted for successful completion and approval of work.\n\nPlease indicate your country of interest and your relevant experience if you are interested in the position.",
+  "query": "data extraction",
+  "found_at": "2026-08-18 01:47"
+ },
+ {
+  "id": 40653979,
+  "title": "Repair Shopify Image Upload - 17/08/2026 21:13 EDT",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010451,
+  "bids": 19,
+  "url": "https://www.freelancer.com/projects/api/Repair-Shopify-Image-Upload-EDT",
+  "desc": "I recently moved everything from Mojopanda.com to a new Shopify store at Mojopanda.co.in. The products, customers, and orders all appear to be in place, but every product image refuses to upload. No error message pops up—Shopify just sits there and nothing happens—so I suspect something went wrong during the product-data portion of the migration.\n\nI need someone who knows Shopify’s image handling inside out to:\n\n• investigate why images will not attach to the migrated products, even though the files themselves are fine  \n• fix the underlying issue so I can bulk-add or individually upload pictures without silent failures  \n• give me a quick, repeatable method (CSV, API, or another tool you prefer) to restore the full image set, along with a short note on what went wrong so I can avoid it next time\n\nIf you’ve solved similar post-migration image glitches before, you’ll probably recognize the culprit right away. Let me know how soon you can jump in and what access you’ll need.",
+  "query": "data extraction",
+  "found_at": "2026-08-18 01:47"
+ },
+ {
+  "id": 40653951,
+  "title": "Residential Plumbing Plan Review - Master Plumbers ONLY!!!",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/plumbing/Residential-Plumbing-Plan-Review-Master",
+  "desc": "I have a complete set of drawings for a new residential build and I’d like a licensed Master Plumber to give them a critical once-over. The plan covers the whole house—supply, waste, venting, stacks, fixture locations, and pipe sizing—and was drafted by the designer, not by a plumber. Before I submit it to the city and lock in purchasing decisions, I want expert eyes on the layout to spot inefficiencies, future maintenance headaches, or anything that might violate code in my area.\n\nHere’s what I need from you:  \n• A marked-up copy of the existing plumbing plan highlighting any issues you find.  \n• A concise report that explains each recommended improvement, the benefit (cost savings, code compliance, better performance, etc.), and, where relevant, the specific IPC/UPC section it relates to.  \n\nPDF is fine for the red-lines; a short Word or Google Docs summary works for the report. If you have suggestions that involve alternative materials or fixture placements, please include estimated cost impact so I can weigh options.\n\nI can provide the drawings in DWG and PDF, plus local code excerpts on request. Turnaround within a week would be ideal, but let me know if you need a bit longer—accuracy is more important than speed.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-18 01:47"
+ },
+ {
+  "id": 40653941,
+  "title": "Office Workstation Interior Design",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 20,
+  "url": "https://www.freelancer.com/projects/3d-visualization/Office-Workstation-Interior-Design",
+  "desc": "I’m preparing a new commercial office and need a thoughtful interior plan that maximises individual workstations. The layout must balance productivity, comfort and a modern aesthetic while working within typical corporate standards for lighting, acoustics and cable management.\n\nYou’ll begin with a space study based on the dimensions I provide, propose a zoning concept that ensures every employee has an ergonomic workstation, and then translate that into detailed floor-plans, furniture selections and material finishes. 3D visualisations are essential so stakeholders can sign off on the look and feel before we purchase anything.\n\nDeliverables I will review and approve:  \n• Scaled floor-plan showing workstation count and circulation paths  \n• Two to three mood-board options with colour palette, furniture and lighting references  \n• High-resolution 3D renders from key angles  \n• A consolidated specification sheet listing furniture, fixtures and finishes with sourcing links\n\nI prefer files in DWG (for our architect) and PDF/JPEG for general circulation. If you use SketchUp, Revit or 3ds Max for the renders, please include the native files as well so we can make minor edits later.\n\nTurnaround for the first concept is one week from project start, with two revision rounds included. Let me know about similar corporate workstation projects you’ve completed and the tools you plan to use so we can move ahead quickly.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-18 01:47"
+ },
+ {
+  "id": 40653944,
+  "title": "Specialist in Off-World Graphene Applications",
+  "budget_min": 375.0,
+  "budget_max": 750.0,
+  "currency": "CAD",
+  "usd_rate": 0.721051,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/aeronautical-engineering/Specialist-Off-World-Graphene",
+  "desc": "We're seeking an expert in space environment effects, electrodynamics, and systems engineering to collaborate on translating aperiodic structural frameworks into solid-state lattices for off-world applications.\n\nKey Focus Areas:\n- Radiation Shielding & Electronic Durability: Evaluating moiré-engineered graphene structures against cosmic radiation and particle bombardment for deep-space electronics.\n- Thermal & Mechanical Resilience: Leveraging graphene’s strength-to-weight ratio and thermal management for off-world habitat skins and structural applications.\n\nCore Deliverables:\n1. A parameterized simulation script/pipeline modeling twisted bilayer/multilayer graphene band structures and interlayer coupling (compatible with our modular architecture).\n2. Quantitative performance analysis covering electronic bandgap tunability, charge transport, and mechanical strain distribution under simulated off-world environmental stressors.",
+  "query": "python script",
+  "found_at": "2026-08-18 01:47"
  }
 ]
