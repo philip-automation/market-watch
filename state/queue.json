@@ -3170,5 +3170,18 @@
   "desc": "I need a hands-on partner to plan, edit and publish short-form video tutorials on Instagram, Facebook and LinkedIn for Realestate Industry. Every piece you create should teach my audience something practical, so the tone is always educational rather than sales-y. \n\nHere’s how I picture our workflow:\n• You receive raw footage, talking-head clips or a rough script from me.  \n• You handle trimming, colour correction, captions and light motion graphics, then add on-brand music and a punchy hook in the first three seconds.  \n• You draft engaging post copy, hashtags and an attention-grabbing thumbnail.  \n• You schedule each video at optimal times and monitor basic performance metrics so we can fine-tune future topics.\n\nWeekly deliverables:\n1. Three fully-edited tutorial reels (vertical, 60–90 s).  \n2. Matching carousel or story assets when helpful to reinforce the lesson.  \n3. A short report summarising reach, saves, shares and suggested tweaks.\n\nI typically film and edit on an iPhone, so familiarity with Premiere Pro, Adobe CC, CapCut or similar tools will keep us in sync, but I’m open to your preferred stack as long as the final files are crisp, brand-coloured and ready to upload.\n\nIf you’ve turned complex ideas into clear, bite-sized videos before, share a link to your best tutorial clip and a quick outline of how you’d elevate my content in the first month.",
   "query": "python script",
   "found_at": "2026-08-18 04:59"
+ },
+ {
+  "id": 40654312,
+  "title": "Edit Numeric Excel Data",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010452,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/excel-macros/Edit-Numeric-Excel-Data",
+  "desc": "I have several workbooks filled with numeric information that now needs a careful refresh. All of the incoming numbers are already sitting in companion CSV or Excel files, so the task is strictly digital—no scanning or transcription from paper.\n\nHere is what I need done:\n\n• Open my current spreadsheets, locate the rows and columns flagged in comments, and correct any inaccurate figures.  \n• Import new numeric records from the supplied CSV / Excel files, making sure the data lines up perfectly with the existing column structure.  \n• Preserve every existing formula, reference, and formatting rule so that nothing breaks after the update.  \n• Spot-check totals and subtotals to confirm the edits balance out.\n\nWhen you return the files, I will verify results by running a few test calculations; clean reconciliation on the first pass will be the main acceptance criterion. If you have solid experience with data validation, VLOOKUP / XLOOKUP, and quick turnaround times, this should be a straightforward assignment.",
+  "query": "data extraction",
+  "found_at": "2026-08-18 05:38"
  }
 ]
