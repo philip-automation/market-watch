@@ -3027,5 +3027,44 @@
   "desc": "I’m looking for an experienced email marketer who can drive new-prospect conversions through well-timed product announcement campaigns. My main objective is simple: turn fresh leads into paying customers by presenting our latest offers in a way that feels valuable rather than salesy.\n\nHere’s what I expect from you:\n• Strategy draft outlining the cadence and content themes for a launch-style announcement flow.  \n• High-impact copy and subject lines tailored to cold or lukewarm subscribers—think benefit-led messaging with clear calls to action.  \n• Clean, responsive templates that keep our visual identity intact across desktop and mobile.  \n• List segmentation and basic automations inside the platform of your choice (Mailchimp, Klaviyo, HubSpot—open to suggestions) so each prospect receives a relevant, timely sequence.  \n• Performance tracking setup: open rate, click-through, and conversion reporting so we can identify quick wins and iterate.\n\nI’ll provide branding assets, product details, and access to our email tool. You bring the creativity, data-driven refinement, and best practices that lift revenue. If this sounds like your wheelhouse, tell me briefly about a similar project you scaled and the metrics you moved.",
   "query": "data extraction",
   "found_at": "2026-08-18 02:45"
+ },
+ {
+  "id": 40654072,
+  "title": "Bantu Administrasi & Entri Data -- 2",
+  "budget_min": 100000.0,
+  "budget_max": null,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/administrative-support/Bantu-Administrasi-Entri-Data",
+  "desc": "Saya mencari seorang freelancer yang dapat menangani tugas administrasi sekaligus entri data secara teliti dan konsisten. \n\nRuang lingkup pekerjaan:\n• Pengarsipan dokumen – memastikan seluruh arsip (fisik maupun digital) tersusun rapi dan mudah ditelusuri.  \n• Pengelolaan jadwal – memperbarui kalender kegiatan, mengingatkan tenggat, dan menyesuaikan perubahan jadwal secara real-time.  \n• Penyusunan laporan – merangkum data bulanan dalam format laporan yang jelas dan siap dibagikan.  \n• Entri data teks dan gambar – memasukkan informasi ke spreadsheet atau sistem kami, memeriksa akurasi, serta memberi label yang sesuai untuk setiap gambar.\n\nKualifikasi yang saya butuhkan:\n• Teliti dan cepat dalam memeriksa detail.  \n• Terbiasa bekerja dengan Microsoft Office atau Google Workspace; pengalaman dengan alat manajemen proyek seperti Trello/Asana menjadi nilai tambah.  \n• Mampu menjaga kerahasiaan data.  \n• Komunikatif—memberi pembaruan rutin dan bertanya jika ada hal yang kurang jelas.\n\nOutput yang saya harapkan:\n1. Struktur folder arsip yang rapi.  \n2. Kalender yang selalu mutakhir.  \n3. Laporan siap pakai (PDF & file sumber).  \n4. Spreadsheet/database terisi lengkap tanpa salah ketik atau gambar hilang.  \n\nJika Anda merasa cocok, jelaskan pengalaman serupa yang pernah Anda tangani dan estimasi waktu yang dibutuhkan untuk memulai tugas ini.",
+  "query": "data extraction",
+  "found_at": "2026-08-18 03:31"
+ },
+ {
+  "id": 40654095,
+  "title": "Digital Marketting",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010451,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/web-development/Digital-Marketting",
+  "desc": "# Digital Marketing Project Description\n\n## Project Title\n\n**Digital Marketing & Online Promotion for GSK Natural Origins Private Limited**\n\n## Project Description\n\nThe project focuses on building a strong digital presence for **GSK Natural Origins Private Limited**, a Tamil Nadu-based company specializing in natural and botanical products, including dried herbal raw materials, essential oils, and fresh agricultural products.\n\nThe digital marketing strategy will focus on promoting products such as **Dried Nagarmotha**, herbal raw materials, essential oils, and fresh fruits through social media and other online channels. The objective is to increase brand awareness, generate genuine B2B enquiries, reach wholesalers, distributors, manufacturers, exporters, and international buyers, and establish GSK Natural Origins as a reliable supplier of quality natural products.\n\n## Key Marketing Activities\n\n* Social media marketing through Instagram, Facebook, LinkedIn, and WhatsApp\n* Product-focused advertisements and promotional creatives\n* B2B lead generation campaigns\n* Product catalogue and enquiry-based marketing\n* Website and SEO promotion\n* Google Business and online brand visibility\n* WhatsApp-based customer communication\n* Regular product availability, pricing, and stock updates\n* Targeted marketing to domestic and international buyers\n\n## Project Goal\n\nTo create a professional and consistent online presence that generates **qualified B2B enquiries, increases product visibility, ",
+  "query": "google sheets automation",
+  "found_at": "2026-08-18 03:31"
+ },
+ {
+  "id": 40654125,
+  "title": "Next.js 跨境电商商城开发",
+  "budget_min": 1500.0,
+  "budget_max": 3000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/nextjs/Next-40654125",
+  "desc": "我正在筹建一套面向欧美市场的 B2C 独立商城，希望以 Next.js 作为前后端同构的核心框架，完成类似 Shopify 的全栈功能，并能够私有化部署与运维。\n\n项目核心诉求\n• 视觉风格：界面需保持「简洁现代」，兼顾移动端与桌面端的无障碍体验。\n• 前端模块：商品展示、搜索筛选、购物车、下单付款流、用户注册登录与个人中心等完整业务闭环。\n• 后端服务：基于 Next.js API Routes 或自建 Node.js 服务，完成业务接口，整合 MySQL 进行数据建模、Schema 设计及性能优化。\n• 部署方案：支持三种可选路径——Vercel、海外 VPS 及本地私有化；需提供 Docker 容器化脚本与 Windows 环境兼容调优。\n• 运维配置：编写 Nginx 反向代理、HTTPS 证书及域名配置指引，确保外网稳定访问。\n• 交付物： \n  1. 前端源码与组件库 \n  2. 后端源码与数据库建表脚本（MySQL） \n  3. Dockerfile、docker-compose.yml 及跨平台说明 \n  4. Nginx 配置模板、部署文档及运维手册 \n  5. 上线调试记录与常见故障排查指南\n\n我希望你具备跨境电商经验，熟练掌握 Next.js、React、Node.js、MySQL、Docker 与 Nginx，并能在沟通中提供专业的技术选型与优化建议。完成交付后，代码需便于二次开发，文档清晰，支持未来功能扩展。若你符合以上要求，期待与你合作。",
+  "query": "chatgpt api",
+  "found_at": "2026-08-18 03:31"
  }
 ]
