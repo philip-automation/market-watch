@@ -583,5 +583,31 @@
   "desc": "I'm seeking a skilled landscape designer to create a modern residential garden layout. The design should incorporate a patio or seating area and water features.\n\nKey requirements:\n- Modern aesthetic\n- Patio/seating area\n- Water features\n- Experience in residential landscape design\n\nIdeal skills and experience:\n- Landscape architecture or design degree\n- Proven portfolio of modern residential gardens\n- Strong knowledge of water feature integration\n- Excellent spatial planning and creativity\n\nPlease provide samples of previous work and a brief design concept.",
   "query": "gpt integration",
   "found_at": "2026-08-18 23:08"
+ },
+ {
+  "id": 40656180,
+  "title": "Advanced ISEE Reading Practice Tests",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "AUD",
+  "usd_rate": 0.7081,
+  "bids": 19,
+  "url": "https://www.freelancer.com/projects/content-writing/Advanced-ISEE-Reading-Practice-Tests",
+  "desc": "I’m putting together a set of four complete practice sections for the Upper-Level ISEE and I need original, high-quality content that truly matches the exam’s feel.\n\nScope of the work  \n• Four separate reading-comprehension “tests,” each mirroring the official Upper-Level section in length, structure, and question style.  However, the context must be Australian based and not American.\n• A balanced mix of fiction and non-fiction passages in every test.  \n• Non-fiction topics must rotate through science & technology, history & politics, biography & memoir, and poetry so students see the full range of material they’ll face.  \n• Texts and questions must be written at an advanced difficulty level appropriate for grades 9-10.  \n• Provide a clean answer key and, for every question, a clear explanation that teaches why the correct answer is right and why each distractor is wrong.\n\nAcceptance criteria    \n– Language, tone, and question stems mimic current ISEE wording conventions.  \n– Explanations are precise yet concise—no hand-waving or generic tips.  \n– All files delivered in an editable format (Google Docs or Word) plus a final PDF set for each test.\n\nIf you have experience crafting standardized-test materials and can hit the advanced reading level required, I’d love to see a short sample of your passage and question style when you bid.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-18 23:41"
+ },
+ {
+  "id": 40656145,
+  "title": "Optimize Cisco Layer 3 Switch",
+  "budget_min": 10000.0,
+  "budget_max": 20000.0,
+  "currency": "CAD",
+  "usd_rate": 0.719393,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/network-engineer/Optimize-Cisco-Layer-Switch",
+  "desc": "I have a Cisco Layer 3 managed switch running on its default IOS configuration, and I want its performance tuned for noticeably faster inter-VLAN traffic and lower latency across the network. At the moment we have several VLANs in place, but routing, spanning-tree parameters, and QoS queues have never been optimized. Traffic occasionally bottlenecks when large file transfers coincide with VoIP or video meetings, so the goal is to streamline the switch’s internal processing and link utilization to improve overall throughput.\n\nHere is how I see the engagement unfolding:\n\n• Review the current running-config (I will supply the sanitized text dump).  \n• Recommend and apply adjustments to VLAN design, SVIs, dynamic routing or static routes as appropriate, STP settings, EtherChannel or port-channel configurations, and QoS policies.  \n• Validate improvements with before-and-after metrics—simple ping/iperf tests or NetFlow statistics are acceptable.  \n• Supply the final running-config, a saved startup-config, and a concise change log so I can replicate the setup if the device is replaced or upgraded.\n\nAcceptance criteria  \n– Latency between key VLANs reduced and consistent under typical load.  \n– No loss of connectivity to any existing endpoint.  \n– Clean, commented configuration file delivered in text format.\n\nAll work can be done remotely via SSH or through a change script that I paste into the console during a maintenance window; whichever is easier for you. If your optimisation su",
+  "query": "python script",
+  "found_at": "2026-08-18 23:41"
  }
 ]
