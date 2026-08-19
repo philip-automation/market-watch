@@ -219,5 +219,18 @@
   "desc": "CorpCrew Portfolio – Complete Creative Revamp\n\nCompletely redesign our corporate portfolio from scratch with a premium, modern and visually powerful look, aligned with the existing CorpCrew brand colours and identity.\n\nThe portfolio should strongly position CorpCrew across MICE & Incentive Travel, Corporate Travel, Corporate & Experiential Events, Employee Engagement Programs, Team Building, Conferences, Awards, Brand Activations and related corporate event/travel services.\n\nPlease review our existing portfolio and website before starting:\nhttps://thecorpcrew.com/Portfolio.pdf\nhttps://thecorpcrew.com/\n\nThis is NOT a simple PDF redesign. We want a fresh creative direction, improved storytelling, stronger visual hierarchy, premium layouts, impactful imagery, and a much more compelling presentation for corporate decision-makers.\n\nThe final deliverables MUST include:\n\nFully editable PowerPoint (.PPTX)\nHigh-resolution PDF\nDigital/shareable PDF\nEditable source/design assets\n\nWe are looking for a designer with strong experience in premium corporate presentations, MICE/travel, events, experiential marketing, branding, and visual storytelling.\n\nPlease share relevant portfolio examples, especially corporate/event/travel presentations.",
   "query": "pdf extraction",
   "found_at": "2026-08-19 16:42"
+ },
+ {
+  "id": 40658044,
+  "title": "Custom USDT Blockchain Development",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010464,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/blockchain/Custom-USDT-Blockchain-Development",
+  "desc": "I need a seasoned blockchain engineer to build a full-fledged blockchain dedicated to a native USDT-pegged stablecoin. The core objective is to launch a standalone network—node software, token logic, wallets, explorer and basic APIs—so the coin can circulate independently of existing chains while remaining 1:1 redeemable against Tether.  \n\nScope of work  \n• Design the chain architecture from the ground up, choose and configure an appropriate consensus mechanism, and document the rationale so non-technical stakeholders can follow the decision.  \n• Implement the chain code, deploy a minimum viable mainnet with testnet parity, and package binaries or Docker images for easy node spin-up.  \n• Create the stablecoin smart-contract logic (mint, burn, transfer, freeze) with built-in compliance hooks and transparent audit trails.  \n• Deliver lightweight web and mobile wallets, plus browser-based block explorer with search, balance, and transaction history.  \n• Expose REST/JSON-RPC endpoints for merchant integration and provide sample code snippets in JavaScript or Python.  \n• Set up automated testing, security hardening, and documentation covering installation, validators, and upgrade paths.  \n\nAcceptance criteria  \n– Genesis block launches and network reaches finality within agreed block time.  \n– Stablecoin supply operations succeed with provable reserve accounting.  \n– Explorer shows real-time blocks, addresses, and TXs.  \n– At least three nodes (1 validator, 2 peers) run on separat",
+  "query": "web scraping",
+  "found_at": "2026-08-19 17:12"
  }
 ]
