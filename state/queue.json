@@ -453,5 +453,57 @@
   "desc": "I have two apartment floor plans—already prepared as a PDF and in CAD—and I need them turned into a clean, accurate 3D representation. The focus is on the architecture itself; walls, openings, and the kitchen and bathrooms\n\nWhat I am ultimately after is a short walkthrough animation that lets me “fly” through each unit and understand the spatial flow. A crisp, well-lit render is all that’s required; style isn’t a concern, so feel free to work with whichever neutral materials you prefer while keeping everything easy to read.\n\nDeliverables:\n• A high-resolution walkthrough video (MP4 or similar) covering both apartments  \n• Source 3D file in the software you use (SketchUp, 3ds Max, Blender, or equivalent) so I can reference or adjust later  \n• One or two still images from key viewpoints for quick reference  \n\nPlease build directly from the CAD file for dimensional accuracy, using the PDF only as a visual cross-check. If anything in the drawings looks unclear, let me know early so we can resolve it before you spend time on revisions.",
   "query": "pdf extraction",
   "found_at": "2026-08-19 18:57"
+ },
+ {
+  "id": 40658246,
+  "title": "AI Voice Clone Accuracy Upgrade",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010466,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/ai-chatbot-development/Voice-Clone-Accuracy-Upgrade",
+  "desc": "I’m looking for a specialist who can take Aythoos (https://aythoos.cyanorx.com) to the next level by sharpening the core voice-cloning engine. The studio already delivers realistic speech and a smooth web experience; the next milestone is higher fidelity, richer linguistic coverage, and smarter expressiveness.\n\nWhat I need improved\n• Model precision: minimise artifacts and better capture subtle tone shifts so the generated speech feels indistinguishable from the source voice.  \n• Multilingual capability, emotion-aware output, and a seamless path for users to upload short samples and train their own custom voices.  \n• Efficient inference that scales—any enhancements must keep latency low and integrate cleanly with the existing Python/TensorFlow back-end and React front-end.\n\nDeliverables\n1. Refined cloning model (code + trained checkpoints) meeting measurable quality gains on sample tests.  \n2. Integrated support for multiple languages, emotion detection, and custom voice training within the current UI/API.  \n3. Clear setup notes and a short report explaining architecture changes so I can maintain and iterate.\n\nAcceptance criteria\n• Side-by-side blind tests show a perceptible quality boost to at least 80 % “real” rating by human listeners.  \n• Added features run in <1.5× current inference time on my GPU stack.  \n• No regressions in existing functionality; all endpoints and UI flows remain intact.\n\nIf you have hands-on experience with neural TTS, voice cloning, and audio DSP—an",
+  "query": "web scraping",
+  "found_at": "2026-08-19 19:34"
+ },
+ {
+  "id": 40658276,
+  "title": "Rewarded Coins SMM Ordering App",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010466,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/flutter/Rewarded-Coins-SMM-Ordering-App",
+  "desc": "I want to release a mobile app that lets users earn virtual coins by watching rewarded advertisements and immediately spend those coins on social-media growth services. The flow is straightforward: after signing in with Google, the user lands on an Earn Coins page, watches an ad, and sees the coin balance update in real time. From there the user can open an Order screen, choose either Instagram or YouTube, paste the target link, pick a quantity, and hit Place Order.  \n\nThe app must look up the price I set in the admin panel, confirm the wallet has enough coins, deduct the amount, then fire the request to my connected SMM panel through its API. If the balance is short, the app shows “Earn More Coins” and routes the user back to ads. All orders, including status updates and completion notices, should arrive automatically from the panel—no manual intervention on my side.\n\nCore deliverables I expect:  \n• Android and iOS builds built with a modern cross-platform stack (Flutter or React Native are fine).  \n• Google social login and corresponding logout flow.  \n• Rewarded-ads integration (AdMob or similar) that credits coins reliably.  \n• A secure wallet system that stores, debits, and displays coin balances locally and on the backend.  \n• Order module that supports Instagram Likes/Followers/Views/Comments and YouTube Views/Subscribers, complete with price lookup, balance check, and SMM-panel API hand-off.  \n• Admin endpoints or dashboard where I can set coin prices per service, vie",
+  "query": "gpt integration",
+  "found_at": "2026-08-19 19:34"
+ },
+ {
+  "id": 40658231,
+  "title": "Create SAT Math Question Bank",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 19,
+  "url": "https://www.freelancer.com/projects/google-sheets/Create-SAT-Math-Question-Bank",
+  "desc": "I need an original bank of SAT-style math questions for an upcoming prep course. The set must span Algebra, Geometry, and Trigonometry, with an even mix of Easy, Medium, and Hard items so students can progress smoothly from fundamentals to the toughest curve-breakers.  \n\nAll questions must be in multiple-choice format, mirroring the wording, distractor style, and timing constraints of the real exam. For every item, include:  \n• four answer choices (A–D)  \n• the correct choice clearly marked  \n• a concise, step-by-step explanation that shows the fastest SAT-friendly solution path  \n\nPlease deliver the finished bank in an editable spreadsheet (Excel or Google Sheets is fine) with separate columns for Topic, Difficulty, Question, Choices, Answer, and Explanation. I will review for content accuracy, SAT alignment, and clarity of explanations before final acceptance.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-19 19:34"
+ },
+ {
+  "id": 40658262,
+  "title": "Creative Promo Vid Script & Translation",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/creative-writing/Creative-Promo-Vid-Script-Translation",
+  "desc": "SECTION 1: SHORT PROMO SCRIPT (YOUTUBE / REELS)\n\n--------------------------------------------------------------------\n\nTITLE: The Future of Digital Art\n\nDURATION: 30 Seconds\n\n\n\n[SCENE START]\n\n\n\nAUDIO (VOICEOVER):\n\n\"Technology is no longer just a tool for efficiency—it is a canvas for imagination. Where human creativity meets machine intelligence, new worlds take shape.\"\n\n\n\nVISUAL CUE:\n\n(Cinematic zoom onto floating crystal landscape under northern lights. High-contrast ambient lighting.)\n\n\n\nAUDIO (VOICEOVER):\n\n\"From concept to script, and visual to voice—bring your boldest ideas to life faster than ever before.\"\n\n\n\n[SCENE END]\n\n\n\n--------------------------------------------------------------------\n\nSECTION 2: ACCURATE TRANSCRIPTION & TRANSLATION\n\n--------------------------------------------------------------------\n\n\n\n[AUDIO TIMECODE TRANSCRIPTION]\n\n00:00:01 - Speaker 1: Welcome to the project brief. We are aiming for high-impact visual narrative.\n\n00:00:05 - Speaker 2: Confirmed. The draft script and visual concept assets are finalized.\n\n\n\n[SPANISH TRANSLATION]\n\nTexto Original: \"Technology is no longer just a tool for efficiency—it is a canvas for imagination.\"\n\nTraducción: \"La tecnología ya no es solo una herramienta de eficiencia; es un lienzo para la imaginación.\"",
+  "query": "python script",
+  "found_at": "2026-08-19 19:34"
  }
 ]
