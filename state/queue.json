@@ -921,5 +921,44 @@
   "desc": "I am an interior designer and my client operate a car repair and maintenance facility in Vancouver that handles general repairs, specialized repairs, and routine maintenance. The space already has a full set of layout drawings from the architect who worked on the building complex; however, I now need a complete permit package prepared for the specific units that my client is modifying.  We need a full set of drawing compliant to City of Vancouver permit requirement.  The client is in a rush to move into new address.  Must be a freelancer who is able to meet via zoom meeting for discussions or even better able to meet on site in south Vancouver to do measurements.\n\nAlso this is rushed order so client require an experienced drafter familiar with Vancouver requirements so as to eliminate back and forth with the city and delays in obtaining the approval.\n\nHere’s what I need from you:\n\n• Review the part of the architect plans relevent to the auto shop client's unit and redraw relevent info to meet current City of Vancouver's requirement for change of use and renovation permit building permit.  Client is looking to add 3 lifts, 1 ramp, a few tire machine, and an reception/office area.\n• Compile all supporting documents—code compliance summary, occupant load, exit calculations, mechanical / electrical schedules, energy checklist, and any other items the City typically requests for an auto-repair occupancy.  \n• Fill out and electronically lodge the permit application, then track it t",
   "query": "pdf extraction",
   "found_at": "2026-08-19 05:20"
+ },
+ {
+  "id": 40656638,
+  "title": "AWS EC2 Jenkins Pipeline",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010448,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/jenkins/AWS-Jenkins-Pipeline",
+  "desc": "I am ready to move a production-bound web application onto AWS and want a clean, automated path from commit to deployment. The target runtime is Amazon EC2, and Jenkins is the continuous-integration engine I would like driving the process.\n\nHere is what I need from you:\n\n• A complete CI/CD pipeline that triggers on pushes to my Git repository, runs automated tests, builds an artifact, and pushes it to EC2 with zero-downtime or minimal-downtime deployment logic.  \n• Secure, repeatable AWS infrastructure for the pipeline itself—whether that is spun up through CloudFormation, Terraform, or another infrastructure-as-code approach you recommend.  \n• Parameterised Jenkins jobs (or a Jenkinsfile) with clear environment variables so I can promote the same build through dev, staging, and production.  \n• Automated rollback steps in case a deployment fails.  \n• Documentation I can hand to another engineer or use myself to modify the pipeline later.\n\nThe web application is already container-ready, but if you see a simpler path that still lands on EC2, I am open to suggestions. Other AWS native tools such as CodePipeline or Lambda can be mentioned in your proposal if they reduce maintenance, but Jenkins on EC2 is my baseline requirement.\n\nPlease include in your response:  \n– A brief outline of the steps you will take to deliver the pipeline.  \n– Any prior examples of similar EC2 + Jenkins deployments you have completed.  \n– An estimated timeline for initial setup, testing, and final hand-",
+  "query": "web scraping",
+  "found_at": "2026-08-19 05:59"
+ },
+ {
+  "id": 40656621,
+  "title": "Write 1995 Heist Rom-Com Series",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010448,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/script-writing/Write-Heist-Rom-Com-Series",
+  "desc": "I’m developing a 9 episode web-series that blends a classic heist plot with a long-standing love story, all wrapped in the playful yet suspenseful mood of mid-1990s pop culture. Think sharp banter, cassette-era tech, and the thrill of planning the perfect score—without losing the warm heartbeat of two characters who’ve been in love for years.\n\nScope of work  \n• Craft a season bible that outlines setting, core characters, overarching heist, and the evolving romance.  \n• Deliver detailed episode beats for each instalment, pacing both the crime caper and the relationship so they crescendo together.  \n• Write the full pilot (30–35 pages) once the outline is approved, then draft the remaining scripts in sequence.  \n• Weave authentic 1995 references—music, fashion, pre-digital gadgets—naturally into dialogue and scene work.  \n\nAcceptance criteria  \n• Tone stays a balanced mix of crime tension and rom-com levity; laughs never undercut genuine stakes.  \n• Heist mechanics remain plausible for the era’s technology limits.  \n• The romantic thread remains central: the couple’s shared history and chemistry drive every major choice.  \n• Each script arrives proofread and formatted to industry standard (Final Draft or equivalent).  \n\nIf you have produced comparable genre pieces or can demonstrate sharp comedic timing with crime plotting, I’ll be happy to read a sample scene or logline from your past work before we start.",
+  "query": "web scraping",
+  "found_at": "2026-08-19 05:59"
+ },
+ {
+  "id": 40656617,
+  "title": "Creative Manuscript Proofreading Sub-5k",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 19,
+  "url": "https://www.freelancer.com/projects/copy-editing/Creative-Manuscript-Proofreading-Sub",
+  "desc": "I have a creative writing piece that sits just under 5,000 words and I need a fresh, meticulous set of eyes on it. The priority is clear-cut: hunt down every grammar and spelling slip while preserving the voice, rhythm, and style I’ve worked hard to craft.  \n\nHere’s what I’m after:  \n• A line-by-line proofread in Word or Google Docs with Track Changes (or an equally transparent method) so I can see every adjustment.  \n• A clean final version ready for submission or publication.  \n\nI’m less concerned with heavy rewriting—this isn’t an edit for tone or structure—so please stay focused on catching grammatical errors, misspellings, and any sneaky typos. Consistency checks on punctuation and basic formatting are welcome if you spot them along the way, but the headline task is impeccable grammar and spelling.  \n\nTurnaround is flexible but I’d like to wrap this up within a couple of days once we agree to start. If you love polishing creative prose without diluting the author’s voice, let’s do this.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-19 05:59"
  }
 ]
