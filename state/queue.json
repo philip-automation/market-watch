@@ -804,5 +804,57 @@
   "desc": "I’m launching a new service under my SMMA and need a punchy promo video whose single objective is to increase sales from B2B clients. Every second should nudge decision-makers toward booking a call, so the messaging has to be sharp, benefit-centric, and unmistakably action-oriented.  \n\nThe video will live on social media—mainly LinkedIn, Instagram, and paid placements—so it must grab attention in the first three seconds, stay under 60 seconds, and be delivered in both square and vertical formats without losing visual impact or clarity.  \n\nI’ll supply brand guidelines, logos, colour codes, a rough value-prop outline, testimonials, and a few stats. You take it from there, handling everything from script refinement to the final export:  \n\n• Scriptwriting or polish, laser-focused on conversion  \n• Storyboard and motion graphics using Adobe Premiere / After Effects (or equivalent)  \n• Professional voice-over and licensed background music suited to a B2B audience  \n• Two aspect ratios: 1:1 and 9:16, 1080p MP4  \n• One revision round after the first cut  \n\nAcceptance criteria: the finished clip clearly states the pain point, shows the transformation, ends with a compelling CTA, and arrives fully ready to upload to social media.  \n\nShare a similar project and your turnaround time so we can move quickly.",
   "query": "python script",
   "found_at": "2026-08-19 04:03"
+ },
+ {
+  "id": 40656544,
+  "title": "Seeking B2B Lead Generation Specialist – 25% Commission Partnership ",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010447,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/lead-generation/Seeking-Lead-Generation-Specialist",
+  "desc": "I am an experienced Web Developer with 20+ years of expertise in building professional, high-converting websites for businesses across different industries. I am looking for a highly motivated Business Development Executive / Lead Generation Specialist who can bring qualified clients and close web development projects through LinkedIn, direct outreach, and business directories.\n\nThis is a strictly commission-based partnership, with an exceptionally competitive 25% commission on every project you successfully close.\n\nHow the Commission Works\n\nYou earn 25% of every project you close.\n\nFor example:\n\n$500 project → $150 commission\n$1,000 project → $250 commission\n$2,000 project → $500commission\n$5,000 project → $750 commission\n\nThere is no fixed salary and no complicated commission structure. You bring the client and close the deal; I take care of the technical execution and project delivery.\n\nYour Responsibilities\nIdentify businesses that need a new website, redesign, eCommerce solution, or website improvement.\nFind qualified prospects through LinkedIn, Google, business directories, social media, and targeted direct outreach.\nInitiate conversations and understand the prospect's requirements and budget.\nPresent the value of our web development services professionally.\nFollow up consistently and convert qualified prospects into paying clients.\nClose the project and hand over the requirements to me for development and delivery.\nWhat I Bring to the Partnership\n\n20+ years of web deve",
+  "query": "web scraping",
+  "found_at": "2026-08-19 04:48"
+ },
+ {
+  "id": 40656484,
+  "title": "Microsoft 365 / Power Apps ISMS Awareness Quiz with Entra ID Authentication, Random Questions and Audit Records -- 2",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010447,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/dot-net/Microsoft-Power-Apps-ISMS-Awareness",
+  "desc": "We need an internal quiz built in Microsoft 365 using Power Apps that helps train employees on our Information Security Management System (ISMS). \n\nStaff will launch it from their desktop browsers, sign in with their Entra ID (Azure AD) credentials, and answer a set of multiple-choice questions pulled at random from a larger question bank.  \n\nCore expectations:\n  \n• Entra ID single sign-on so each attempt is tied to the authenticated user  \n• True randomisation of questions and answer order on every run  \n• Immediate scoring with clear pass / fail feedback to the participant  \n• Behind-the-scenes audit logging: who took the quiz, when, score achieved, and the exact question set they received  \n• Storage of questions and results inside our Microsoft 365 tenant on a SharePoint list\n• Simple admin screen that lets me add, edit, or retire questions without touching the main app  \n• Export or direct connection so I can analyse results later in Excel or Power BI  \n\nAcceptance criteria :\n \n1. A working Power App delivered in our tenant that meets the above points.  \n2. Source tables / lists pre-populated with placeholder questions so I can see the flow end-to-end.  \n3. A written hand-over guide covering configuration steps and how to maintain the question bank.  \n\nExperience with Power Apps and Microsoft 365 training work will speed up selection.\nThe attached .md file is IMPORTANT please read it carefully!",
+  "query": "excel automation",
+  "found_at": "2026-08-19 04:48"
+ },
+ {
+  "id": 40656533,
+  "title": "Telegram Community Manager Needed Daily",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010447,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/community-management/Telegram-Community-Manager-Needed-Daily",
+  "desc": "I run a Telegram group whose core mission is lively community engagement, not just passive updates. To keep the conversation fresh I want daily touchpoints—think thought-provoking discussion starters, quick polls or surveys that gather member sentiment, and timely event announcements that boost participation.\n\nHere’s what the role looks like from my side: you’ll step in as a visible moderator, schedule and publish at least one quality post every day, spark replies, and keep chats on-topic and respectful. You’re free to use Telegram’s native tools or a bot of your choice for scheduling, keyword alerts, or basic moderation, as long as the flow feels organic.\n\nDeliverables  \n• Minimum 7 engaging posts per week, balanced across discussions, polls, and event notices  \n• Real-time moderation during peak hours (I’ll share analytics) to remove spam or off-topic content promptly  \n• A short weekly recap—what resonated, what fell flat, and one idea to test next week  \n\nAcceptance criteria  \nPosts must be original, concise, and free of grammar errors; polls should close with clear results shared back to members; event announcements must include dates, times, and a CTA link. Consistent tone and brand voice are key—I’ll provide guidelines on day one.\n\nLet’s create a Telegram space members check in on daily because they want to, not because they have to.",
+  "query": "telegram bot",
+  "found_at": "2026-08-19 04:48"
+ },
+ {
+  "id": 40656541,
+  "title": "12V Motorboat Electrical Design",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "CAD",
+  "usd_rate": 0.720344,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/circuit-design/Motorboat-Electrical-Design",
+  "desc": "I’m preparing the electrical layout for a brand-new 12 V motorboat and need an experienced marine systems designer to turn my rough concept into a build-ready package. The scope covers the entire low-voltage network that will power our lighting, navigation equipment and communication systems.\n\nHere’s what I need from you:\n\n• A clear, ABYC-compliant schematic (PDF and editable CAD) showing wire runs, circuit protection, bus bars, switches and grounding.  \n• A complete, itemised bill of materials with manufacturer part numbers, wire gauges, breaker sizes and recommended sources.  \n• Installation notes that highlight any special considerations for salt-water environments and vibration on a planing hull.  \n\nYour design should allow for future expansion (extra nav gear or auxiliary lighting) without major rewiring, and it must integrate cleanly with the engine’s 12 V alternator and a shore-power charger. Familiarity with NMEA 2000 backbones, Blue Sea Systems hardware and modern LED load calculations will be a plus.\n\nI’ll provide the hull layout, engine specs and any brand preferences as soon as we start. Once the first draft schematic is in, we’ll review it together, lock revisions, then finalise the parts list. If this sounds like your territory, let’s get this motorboat wired right the first time.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-19 04:48"
  }
 ]
