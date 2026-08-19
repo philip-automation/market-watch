@@ -232,5 +232,57 @@
   "desc": "I need a seasoned blockchain engineer to build a full-fledged blockchain dedicated to a native USDT-pegged stablecoin. The core objective is to launch a standalone network—node software, token logic, wallets, explorer and basic APIs—so the coin can circulate independently of existing chains while remaining 1:1 redeemable against Tether.  \n\nScope of work  \n• Design the chain architecture from the ground up, choose and configure an appropriate consensus mechanism, and document the rationale so non-technical stakeholders can follow the decision.  \n• Implement the chain code, deploy a minimum viable mainnet with testnet parity, and package binaries or Docker images for easy node spin-up.  \n• Create the stablecoin smart-contract logic (mint, burn, transfer, freeze) with built-in compliance hooks and transparent audit trails.  \n• Deliver lightweight web and mobile wallets, plus browser-based block explorer with search, balance, and transaction history.  \n• Expose REST/JSON-RPC endpoints for merchant integration and provide sample code snippets in JavaScript or Python.  \n• Set up automated testing, security hardening, and documentation covering installation, validators, and upgrade paths.  \n\nAcceptance criteria  \n– Genesis block launches and network reaches finality within agreed block time.  \n– Stablecoin supply operations succeed with provable reserve accounting.  \n– Explorer shows real-time blocks, addresses, and TXs.  \n– At least three nodes (1 validator, 2 peers) run on separat",
   "query": "web scraping",
   "found_at": "2026-08-19 17:12"
+ },
+ {
+  "id": 40658061,
+  "title": "B2B Software Sales Partner",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/b2b-marketing/Software-Sales-Partner",
+  "desc": "I’m looking for a B2B Sales / Lead Generation Partner who can help me bring qualified software development projects from clients in North America, UK, Australia, and other international markets.\n\nI provide custom web applications, AI automation, API integrations, mobile/web development, and full-stack software solutions. Your role will be to identify potential clients, connect with decision-makers, start conversations, and generate qualified leads for my development team.\n\nWhat I’m looking for:\n\n1) Daily LinkedIn prospecting and outreach\n2) Find founders, CEOs, CTOs, product managers, and business owners\n3) Generate qualified leads interested in software development, AI, automation, and custom applications\n4) Handle initial communication and qualify prospects\n5) Schedule discovery calls with interested clients\n6) Maintain a simple record of leads and follow-ups\n7) Continuously improve targeting and outreach based on results\n\nCommission Structure:\n\nThis is a performance-based partnership. You will receive 15–20% commission on every project you successfully bring in and that gets paid by the client.\n\nFor example, if you bring a $2,000 project, your commission will be $300–$400.\n\nI will handle the proposal, technical discussion, development, delivery, and client support. You can focus entirely on lead generation, sales, and relationship building.\n\nI’m looking for someone interested in a long-term partnership rather than a one-time project.\n\nIf you have experience in B2B sales, L",
+  "query": "web scraping",
+  "found_at": "2026-08-19 17:44"
+ },
+ {
+  "id": 40658056,
+  "title": "Freelance Cold Caller for Website Services",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010462,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/cold-calling/Freelance-Cold-Caller-for-Website",
+  "desc": "Role: Freelance Cold Caller — Omega Web Creations\n\nWe build premium, animation-rich websites for small local businesses — salons, restaurants, dental clinics, gyms, barbershops, and similar. The kind of site an agency would normally charge 15000 - 20000 but, we deliver at the same quality for 8000 - 10000. That price gap is the whole pitch.\n\n\nWhat you'll actually do:\n\nCold call small business owners through the data you collect from instagram pages, or google maps\nPitch the value gap clearly: agency-quality website, a fraction of the price\nHandle basic objections and answer simple questions about what's included\nYour goal isn't to close the sale yourself — it's to get the owner interested enough to book a short call with me. I take it from there: demo, close, and collect their business details.\n\nWhat we'll give you:\n\nA one-page pitch summary you can reference on calls\nA few real finished builds to point to as examples\nAny call scripts or objection-handling notes we put together\n\nHow you're paid:\n\nPer conversion — a booked call that turns into a paid client — not per call made or per hour. This keeps us aligned: we want quality conversations, not volume for its own sake.\n\nWhat we're looking for in you:\n\nComfortable cold calling small businesses\nClear, confident phone communication\nFine with commission-based pay rather than a flat rate\n\nIf this sounds like a fit, let us know your availability, and how many calls a day/week you can realistically commit to.",
+  "query": "web scraping",
+  "found_at": "2026-08-19 17:44"
+ },
+ {
+  "id": 40658054,
+  "title": "Closer Comercial Marketplace LATAM",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/sales/Closer-Comercial-Marketplace-LATAM",
+  "desc": "Mi marketplace ya capta un flujo constante de leads y necesito a alguien que los convierta en acuerdos comerciales rentables. Tu misión diaria será contactar a los negocios que llegan, explicarles el valor del lead y negociar las condiciones hasta concretar la venta del servicio.\n\nValoro la experiencia en ventas directas porque estarás conversando con tomadores de decisión, presentando propuestas y manejando objeciones en tiempo real. Además, me interesa que hayas tratado con empresas internacionales; muchos de nuestros prospectos operan fuera de Latinoamérica y exigen una comunicación clara y ágil. \n\nEl español nativo es imprescindible, pero también debo saber que estás completamente cómodo trabajando con leads en inglés. Parte de la cartera proviene de Estados Unidos y tu habilidad bilingüe marcará la diferencia a la hora de cerrar acuerdos. \n\nSi en tu trayectoria vendiste espacios publicitarios en revistas o sitios web, menciónalo cuando respondas: ese background comercial encaja perfecto con nuestro modelo de negocios basado en performance.\n\nBusco alguien que:\n• Tome cada lead apenas ingresa y lo siga hasta la firma del trato.  \n• Genere reportes breves sobre el estado del embudo para medir conversión y ticket promedio.  \n• Mantenga una comunicación transparente y sin avatars ni herramientas de IA que oculten tu identidad; necesito interacción humana real.\n\nIndícame en tu propuesta casos concretos de cierres logrados, porcentaje de conversión y, si aplica, ejemplos de cli",
+  "query": "web scraping",
+  "found_at": "2026-08-19 17:44"
+ },
+ {
+  "id": 40658107,
+  "title": "Google Ads & SEO Specialist for City Pro Fix",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "GBP",
+  "usd_rate": 1.359471,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/google-ads/Google-Ads-SEO-Specialist-for",
+  "desc": "I need an experienced Google Ads and Local SEO specialist for City Pro Fix, a London property maintenance company.\n\nThe main goal is to generate real customer calls, enquiries and booked jobs, not just clicks or website traffic.\n\nI need help with:\n\n- Google Search Ads\n- Starting with a controlled £5–£10/day ad budget\n- Advertising only 1–2 services initially\n- Targeting selected London areas/postcodes\n- Google Business Profile optimisation\n- Local SEO\n- Conversion tracking for calls, enquiries and bookings\n- Weekly performance reporting\n\nIMPORTANT: Please do not send a generic proposal.\n\nStart your proposal with “CPF LONDON” so I know you have read the project.\n\nPlease tell me:\n\n1. Which 2 services you would advertise first and why\n2. How you would use a £5–£10/day budget effectively\n3. Your experience with UK trades/home-service businesses\n4. How you would track genuine enquiries and booked jobs\n5. Examples of similar campaigns you have managed\n6. Your setup fee and monthly management fee\n\nI am looking for someone reliable who can work with City Pro Fix long term if the results are good.\n\nPlease read the full attached PDF brief before bidding.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-19 17:45"
  }
 ]
