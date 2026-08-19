@@ -609,5 +609,18 @@
   "desc": "Saya mencari penulis artikel blog berbahasa Indonesia yang mampu membahas topik bisnis secara praktis dan relevan bagi pemilik bisnis kecil. Fokusnya adalah memberi wawasan yang mudah diterapkan—mulai dari pengelolaan keuangan sederhana, pemasaran digital efektif, hingga strategi mempertahankan loyalitas pelanggan.\n\nYang saya harapkan:\n• Satu artikel original ±1.000 kata, bebas plagiarisme.  \n• Judul menarik dengan sub-judul H2/H3 yang membantu skimming.  \n• Gaya bahasa jelas, langsung, dan penuh contoh nyata yang dekat dengan keseharian UKM.  \n• Kata kunci utama “tips bisnis kecil” disisipkan secara alami tanpa keyword stuffing.  \n• Tersedia dalam format .docx atau Google Docs, lengkap dengan meta-description singkat (±155 karakter) siap pakai untuk SEO dasar.\n\nArtikel harus selesai, direvisi seperlunya, dan siap tayang di blog WordPress saya. Jika Anda paham copy-writing, SEO on-page, dan punya pengalaman menulis seputar UKM, saya sangat menantikan hasil terbaik Anda.",
   "query": "google sheets automation",
   "found_at": "2026-08-19 21:45"
+ },
+ {
+  "id": 40658461,
+  "title": "Recover Deleted Gmail Emails",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010472,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/data-recovery/Recover-Deleted-Gmail-Emails",
+  "desc": "I permanently lost a week’s worth of personal messages from my Gmail account. I’ve already checked the Trash folder on my desktop browser, so they are past the standard 30-day recovery point and no longer visible in the interface.  \n\nI need a Gmail data-recovery expert who can escalate the case through the proper Google channels or apply proven forensic methods to retrieve those messages—or, at minimum, secure written confirmation from Google that the data is unrecoverable.  \n\nThe core deliverable is either the actual email data (in MBOX, EML, or directly restored to my inbox) or documented proof of an official “no-data” response, along with the exact steps you took so I can replicate or reference them in the future. Please keep my account credentials confidential; if remote access is required, we’ll use a secure, time-limited session.  \n\nIf you have successfully used Google Support escalations, Admin console tricks, or third-party IMAP/Takeout techniques before, that experience will be highly valued. Fast turnaround appreciated, as these messages are important to me.",
+  "query": "data extraction",
+  "found_at": "2026-08-19 22:45"
  }
 ]
