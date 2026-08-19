@@ -609,5 +609,31 @@
   "desc": "I have a Cisco Layer 3 managed switch running on its default IOS configuration, and I want its performance tuned for noticeably faster inter-VLAN traffic and lower latency across the network. At the moment we have several VLANs in place, but routing, spanning-tree parameters, and QoS queues have never been optimized. Traffic occasionally bottlenecks when large file transfers coincide with VoIP or video meetings, so the goal is to streamline the switch’s internal processing and link utilization to improve overall throughput.\n\nHere is how I see the engagement unfolding:\n\n• Review the current running-config (I will supply the sanitized text dump).  \n• Recommend and apply adjustments to VLAN design, SVIs, dynamic routing or static routes as appropriate, STP settings, EtherChannel or port-channel configurations, and QoS policies.  \n• Validate improvements with before-and-after metrics—simple ping/iperf tests or NetFlow statistics are acceptable.  \n• Supply the final running-config, a saved startup-config, and a concise change log so I can replicate the setup if the device is replaced or upgraded.\n\nAcceptance criteria  \n– Latency between key VLANs reduced and consistent under typical load.  \n– No loss of connectivity to any existing endpoint.  \n– Clean, commented configuration file delivered in text format.\n\nAll work can be done remotely via SSH or through a change script that I paste into the console during a maintenance window; whichever is easier for you. If your optimisation su",
   "query": "python script",
   "found_at": "2026-08-18 23:41"
+ },
+ {
+  "id": 40656207,
+  "title": "Aviation Content Video Editor Wanted",
+  "budget_min": 12000.0,
+  "budget_max": 15000.0,
+  "currency": "INR",
+  "usd_rate": 0.010437,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/video-editing/Aviation-Content-Video-Editor-Wanted",
+  "desc": "VIDEO EDITOR REQUIRED — SHORT-FORM REELS\nAviation Planet is looking for a reliable freelance video editor for long-term work.\nWe create founder-led aviation/career content for Instagram, Facebook and YouTube Shorts.\nWhat we provide:\n• Scripts\n• Raw footage shot on Samsung S24 Ultra\n• Shooting instructions\n• Brand guidelines\n• Reference videos\n• B-roll\nWhat you will do:\n• Edit 30–60 second vertical Reels\n• Clean cuts and pacing\n• Captions/subtitles\n• B-roll integration\n• Simple motion graphics\n• Sound/music where appropriate\n• Basic colour correction\n• Maintain consistent brand style\nBudget: ₹12,000–₹15,000/month initially\nImportant: Reliability and timely delivery are as important as editing quality.\nWe are looking for someone interested in a long-term relationship, not a one-off project.\nTo apply, send:\nYour portfolio\n3 best Reel examples\nYour monthly expectation\nTypical turnaround time\nEditing software you use\nConfirmation that you can commit to fixed weekly delivery\nShortlisted candidates will be given a paid test edit using our actual footage.",
+  "query": "gpt integration",
+  "found_at": "2026-08-19 00:01"
+ },
+ {
+  "id": 40656208,
+  "title": "CDMX - Evaluar atención y servicio en negocios de manera presencial  -- 2",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/local-job/CDMX-Evaluar-atenci-servicio-negocios-40656208",
+  "desc": "La actividad consiste en pedir una cotización de manera presencial en cinco empresas asignadas por tu coordinador.\n\nPara realizar satisfactoriamente la actividad se requiere de lo siguiente:\n\n1. Estudiar guía proporcionada por nosotros, comprender lo que se requiere mencionar y lo que se requiere cotizar, tener comunicación con nosotros por este medio antes de iniciar la actividad para aclarar el objetivo y resolver cualquier duda. (Tiempo aproximado 1 hora, de la cual son 30 minutos de estudio de guía y 30 minutos para resolver dudas).\n2. Acudir de manera presencial a cada uno de los cinco negocios asignados. (Tiempo aproximado 5 horas: 30 minutos en cada negocio + 30 minutos de tiempo de traslado a cada negocio)\n3. Enviarnos las cotizaciones recibidas por correo electrónico y un cuestionario de evaluación por cada negocio (Tiempo aproximado 3 horas: 30 minutos por cada negocio).\n\nEn total se requieren de aproximadamente 9 a 10 horas para completar la actividad, el pago es fijo y es de $120 USD una vez que la actividad fue completada satisfactoriamente.\n\nRequerimientos del Freelancer:\n\nA. Vivir en la Ciudad de México.\nB. Conocer las rutas de la ciudad para movilizarse en transporte público o contar con medio de transporte (auto o motocicleta), los negocios a evaluar no cobran estacionamiento.\nC. Edad mínima 25 años.\nD. Contar con un smartphone con Android y/o iOS y tener la app de Freelancer instalada en su teléfono móvil con las notificaciones activadas. (Una de las princip",
+  "query": "telegram bot",
+  "found_at": "2026-08-19 00:01"
  }
 ]
