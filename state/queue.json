@@ -1194,5 +1194,109 @@
   "desc": "I need a male voiceover artist over 50 with a Yorkshire accent for a social media post. The script is under 1 minute and should have a grumpy tone. \n\nIdeal skills and experience:\n- Professional voiceover experience\n- Authentic Yorkshire accent\n- Ability to convey a grumpy tone",
   "query": "python script",
   "found_at": "2026-08-19 07:49"
+ },
+ {
+  "id": 40656991,
+  "title": "Comprehensive HRMS Solution & Hosting Options",
+  "budget_min": 37500.0,
+  "budget_max": 75000.0,
+  "currency": "INR",
+  "usd_rate": 0.010445,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/web-application/Comprehensive-HRMS-Solution-Hosting",
+  "desc": "### HRMS Software + Hosting Services — Two Flexible Models\n\nWe provide a complete **HRMS Web & Mobile Application** along with flexible deployment and hosting options based on the client’s requirements.\n\n**1. Project Purchase Model**\n• HRMS Web Application\n• HRMS Mobile Application\n• One-time software/project development cost\n• Deployment on the client’s own server/infrastructure\n• Initial onboarding, configuration & deployment support\n• Client manages the server and hosting after deployment\n• Future maintenance, upgrades & additional features available separately\n\n**2. Managed Hosting & Support Model**\n• HRMS Web Application\n• HRMS Mobile Application\n• One-time software/project cost\n• Separate recurring hosting & management fee\n• Application hosted on our infrastructure\n• Server deployment & management\n• Basic monitoring & backups\n• Maintenance and operational support\n\n **In simple terms:**\n**Project Cost = HRMS Web + Mobile Application**\n**Hosting & Management Cost = Separate recurring service for server infrastructure, hosting & ongoing management**\n\nThis allows businesses to choose between **owning and managing their infrastructure** or having us **manage the complete hosting environment** for them.",
+  "query": "web scraping",
+  "found_at": "2026-08-19 08:50"
+ },
+ {
+  "id": 40656989,
+  "title": "Creative Social Media Designer & Editor",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010445,
+  "bids": 13,
+  "url": "https://www.freelancer.com/projects/adobe-creative-cloud/Creative-Social-Media-Designer-Editor",
+  "desc": "This project calls for a versatile designer-editor who can turn Bondim’s brand guidelines into engaging, on-trend content for Instagram and other digital touchpoints. Instagram Reels will be the most frequent deliverable, so skill in crafting vertical, short-form videos that feel playful and fun is essential. Static posts, stories and campaign assets should follow a minimalist, clean aesthetic that sits neatly within our existing grid.\n\nKey focus areas  \n• Design weekly social posts, stories, event graphics and promotional campaigns  \n• Produce and edit Reels (15–45 s) with crisp cuts, motion text and music that match a lively, upbeat mood  \n• Re-format creatives for ads, in-app banners and email headers while keeping colours, fonts and layout consistent with Bondim’s visual identity  \n• Collaborate with the marketing team on concepts, shot lists and copy so every piece supports ongoing campaigns  \n• Track current design and video trends and suggest fresh ideas we can test quickly\nCreate Malayalam and English social media content\n \n\nDeliverables (per typical month)  \n1. 8–10 Instagram Reels, exported in 1080×1920 px MP4 + editable project files  \n2. 12–15 static posts/stories in PSD/AI + web-ready PNG/JPG  \n3. Assorted promo/event creatives resized for paid ads and app placements  \n4. Source files organised and handed over in our shared drive\n\nAll work should be produced in Adobe Creative Cloud (Premiere Pro, After Effects, Photoshop, Illustrator) or equivalent tools you’re c",
+  "query": "web scraping",
+  "found_at": "2026-08-19 08:50"
+ },
+ {
+  "id": 40656970,
+  "title": "Dual-Screen Account Control",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010445,
+  "bids": 20,
+  "url": "https://www.freelancer.com/projects/flutter/Dual-Screen-Account-Control",
+  "desc": "I need an app that lets a single user session stay active on two devices or two separate screens at the same time, with every action mirrored instantly between them. Think of it as logging into one account, then being able to work from two viewpoints in parallel without either screen forcing the other to log out.\n\nScope of work  \nThe build must run smoothly on both iOS and Android, so a shared-code approach such as Flutter or React Native makes sense, but I’m open to whatever framework you are most confident will hit the performance target. Authentication is a straightforward email-and-password flow; no social or biometric options are necessary. The interface should stay simple and minimalistic—clean lines, uncluttered navigation, and nothing more than the fields, buttons, and indicators required for the dual-screen workflow.\n\nKey requirements  \n• One account, two simultaneous active screens  \n• Real-time sync of actions between screens (no noticeable lag)  \n• Automatic session recovery if one screen temporarily disconnects  \n• Secure backend handling for credentials and data in transit  \n• Clear documentation so I can hand the build to another developer or my in-house team later\n\nDeliverables  \n1. Production-ready iOS and Android builds  \n2. Complete, well-commented source code  \n3. Brief setup guide for the backend or any third-party services used  \n4. Short user guide that explains how to initiate and manage the two-screen mode\n\nAcceptance criteria  \nThe job is finished wh",
+  "query": "data extraction",
+  "found_at": "2026-08-19 08:50"
+ },
+ {
+  "id": 40656880,
+  "title": "Scopus Bibliometric Mapping Project",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010445,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/academic-writing/Scopus-Bibliometric-Mapping-Project",
+  "desc": "I already have a complete Scopus export that spans every year available on the topic of historical consciousness in history education. What I now need is a rigorous bibliometric study that turns those raw records into a clear, data-driven narrative about how the field has developed, who and what shapes it, and where new work is heading.\n\nWe will use Bibliometrix for descriptive analysis and VOSviewer for visualisation.  I want an integrated package that covers both classic descriptive indicators and rich network visualisations. Specifically, the study must:\n\n• Quantify yearly publication and citation growth, spotlighting the most influential authors, journals, institutions, countries and individual papers.  \n• Generate and interpret three network maps—co-authorship, keyword co-occurrence and citation—highlighting clusters, central actors and collaboration patterns.  \n• Track how thematic clusters and research emphases have evolved across the entire time span and identify the emerging lines of inquiry now influencing the field.  \n\nI will share the dataset, search string and an outline of my broader project the moment we agree on the workflow. Please provide:\n\n• Editable files and full-resolution PNG/SVG images ready for insertion into a manuscript or presentation.  \n• A concise methods note (data cleaning steps, thresholds, clustering parameters) so the analysis can be replicated or extended later.  \n• A brief written synthesis tying the quantitative results back to the six gu",
+  "query": "data extraction",
+  "found_at": "2026-08-19 08:50"
+ },
+ {
+  "id": 40656903,
+  "title": "Dystopian Adventure Proposal Film",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "GBP",
+  "usd_rate": 1.35557,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/cinematography/Dystopian-Adventure-Proposal-Film",
+  "desc": "I need a short film for a wedding proposal with an action-adventure theme set in a dystopian world. The film should feature chase scenes and conflicts or battles. The script has been written with all the dialogue and is five pages long.\n\nI want to combine real actors performances against the back drops and magical words of AI\n\nKey Requirements:\n- Romantic underlying narrative of a wedding proposal\n- Action-packed chase scenes\n- Engaging conflict or battles\n- Dystopian setting, either urban or natural\n- High-quality cinematography and editing\n\nIdeal Skills:\n- Experience in short film production\n- Strong storytelling ability\n- Proficiency in action choreography\n- Expertise in creating immersive dystopian environments\n- Professional editing skills\n\nLooking for a creative, skilled filmmaker who can bring this adventurous proposal to life. Please include samples of previous similar work.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-19 08:50"
+ },
+ {
+  "id": 40656923,
+  "title": "InDesign XML Layout Automation",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010445,
+  "bids": 13,
+  "url": "https://www.freelancer.com/projects/xslt/InDesign-XML-Layout-Automation",
+  "desc": "I publish a news-style magazine and want to stop the manual copy-and-paste routine. I’m looking for an XML structure (and any supporting files such as DTD/XSLT or snippets) that I can import straight into Adobe InDesign so the pages build themselves.\n\nContent types to flow  \n• Text articles, images and full-page or fractional advertisements all need to be placed automatically.  \n• Some stories come in fully styled, others arrive raw, so the XML has to accommodate both: when styles are present keep them, and when they’re missing map the tags to the paragraph and character styles I’ll define in the template.\n\nWhat I expect  \n• A clean, human-readable XML schema that covers headlines, decks, by-lines, body text, image references, captions, ad slots and page metadata.  \n• A sample InDesign document (.indd or .indt) with master pages and paragraph/character/object styles already linked to those tags.  \n• Step-by-step notes (PDF or Markdown) showing me how to import the XML, resolve any images, and rerun the flow when a story changes.  \n\nBonus points if you can:  \n• Include a simple ExtendScript or JavaScript that triggers the import, assigns styles, and fits images proportionally.  \n• Provide a short Loom or screen-capture demo of the workflow in action.  \n\nI need this ASAP, so please reply with an outline of how quickly you can draft the schema, set up the template and walk me through a first test.",
+  "query": "python automation",
+  "found_at": "2026-08-19 08:50"
+ },
+ {
+  "id": 40656983,
+  "title": "Needs to create creatives for real estate property",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010445,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/3d-design/Needs-create-creatives-for-real",
+  "desc": "Needs to create creatives for real estate property - like Static creative, PDF, short promotional videos.\n\nNeed someone having prior experience - ongoing work available, rates should be completive.\n\nMUST SHARE THE SAMPLES OF RELATED WORK.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-19 08:50"
+ },
+ {
+  "id": 40654905,
+  "title": "Traditional Cabinet Shop Drawings Needed",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010445,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/3d-design/Traditional-Cabinet-Shop-Drawings-Needed",
+  "desc": "I’m ready to move a set of traditional, solid-wood cabinets from concept to the fabrication floor and need precise shop drawings to make that happen. Your drawings should clearly convey all critical dimensions, joinery details, hardware locations, and any profiles or mouldings typical of classic cabinetry.  \n\nI’ll supply concept sketches and inspirational photos; you translate them into fully dimensioned plans, elevations, sections, and cut lists suitable for the mill shop. Accuracy is paramount, so I’d like the files delivered in both PDF for quick review and DWG (or a compatible CAD format) for the craftspeople who’ll be programming their equipment.  \n\nIf you have a background in traditional cabinetry and can turn around clean, build-ready drawings, I look forward to collaborating with you.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-19 08:50"
  }
 ]
