@@ -1610,5 +1610,44 @@
   "desc": "I'm seeking an experienced SharePoint expert to automate document management workflows. \n\nKey Requirements:\n- Automate existing document management tasks to enhance efficiency.\n- Ensure seamless integration with current systems.\n- Provide documentation and training on the new workflows.\n\nIdeal Skills:\n- Proven experience in SharePoint workflow automation.\n- Strong understanding of document management processes.\n- Excellent problem-solving skills and attention to detail.\n\nPlease include relevant experience in your application.",
   "query": "gpt integration",
   "found_at": "2026-08-19 11:34"
+ },
+ {
+  "id": 40657424,
+  "title": "Looking for Client Referral Partners / Lead Generators",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/lead-generation/Looking-for-Client-Referral-Partners",
+  "desc": "## Looking for Client Referral Partners / Lead Generators\n\nI’m looking to connect with **freelancers, marketers, sales professionals, agencies, and individuals who can bring genuine software development clients.**\n\nIf you have connections with businesses that need a website, custom software, CRM, ERP, mobile app, or an existing system developed or improved, I can handle the complete technical side.\n\n### What I Can Deliver\n\n* Professional business & corporate websites\n* WordPress & WooCommerce websites\n* Custom PHP / Laravel applications\n* CRM & HRM systems\n* ERP & Inventory Management Systems\n* POS & business management software\n* E-commerce platforms\n* React / Laravel full-stack applications\n* React Native mobile applications\n* REST API development & integrations\n* Custom dashboards and admin panels\n* Existing application development, maintenance & upgrades\n\n### Your Role\n\nYou don't need to be a developer.\n\nYour role is simply to:\n\n→ Identify businesses or clients who need software/web development\n→ Introduce the potential client to me\n→ Help establish the initial communication\n→ Bring the opportunity to the point where we can discuss requirements and budget\n\nI’ll handle the **technical consultation, development, communication regarding technical requirements, revisions, deployment, and project delivery.**\n\n### Commission / Partnership\n\nI’m open to discussing a **commission or referral fee for every successful project** you bring.\n\nThe commission can be agreed based on the p",
+  "query": "web scraping",
+  "found_at": "2026-08-19 12:14"
+ },
+ {
+  "id": 40657406,
+  "title": "Survey Trend Analysis Specialist Needed",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.01045,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/data-analysis/Survey-Trend-Analysis-Specialist-Needed",
+  "desc": "I have a raw survey dataset that is ready for deeper exploration. My primary interest is to uncover and clearly present the trends hiding in the responses so that I can turn those insights into actionable decisions.  \n\nYou will receive the full spreadsheet (exported from Google Forms) along with a brief about the respondent profile. Your job is to clean the data, run the appropriate statistical tests, and translate the numbers into a concise narrative supported by easy-to-read charts. Python (pandas, seaborn, matplotlib), R, or SPSS are all fine—as long as the method is transparent and reproducible.  \n\nDeliverables I expect:  \n• A short, well-structured report that highlights the key trends you discover, written in plain language.  \n• At least three clear visualizations (bar, line, or heat map—pick what shows the story best).  \n• The cleaned dataset plus any scripts or notebooks so I can rerun the analysis later.  \n\nWhen you respond, point me to past work where you tackled similar survey analyses. That will help me see how you communicate findings and present visuals. Looking forward to spotting the patterns together.",
+  "query": "data extraction",
+  "found_at": "2026-08-19 12:14"
+ },
+ {
+  "id": 40657411,
+  "title": "Adult 3D Cartoon Video",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.01045,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/voice-over/Adult-Cartoon-Video",
+  "desc": "I need a fully-realised 3D animated cartoon created purely for entertainment and designed to resonate with an adult audience. The core idea, script beats and length are still open to creative input, so I’m counting on you to help shape the concept, finalize a compelling storyline, and then bring it to life in vibrant, cinematic 3D.\n\nHere’s what the work will involve:  \n• Story development and script polish in collaboration with me  \n• All 3D production steps—modelling, texturing, rigging, animation, lighting and rendering  \n• Voice-over and sound design that complement the adult tone  \n• Final delivery of a mastered video file ready for online release, plus editable project files for future tweaks\n\nBlender, Maya, Cinema 4D, Houdini or similar pipelines are welcome as long as the final result is smooth, polished and broadcast-quality. Please share examples of completed 3D cartoons or comparable entertainment pieces featuring nuanced character animation and expressive storytelling. I’ll review reels, discuss timelines and milestones, and then we can lock in the creative direction together.",
+  "query": "python script",
+  "found_at": "2026-08-19 12:14"
  }
 ]
