@@ -531,5 +531,31 @@
   "desc": "I have a two-dimensional resort map that needs to be elevated into a clean, minimalist 3D master-plan. The final model should focus first and foremost on our accommodations—rooms and suites—so their placement and scale are immediately clear to viewers. I would like the overall palette to stay within natural colors, avoiding anything overly saturated, to keep the presentation calm and sophisticated.\n\nPlease deliver a high-resolution still image (ideal for brochures and investor decks) plus the native 3D file so my team can create future fly-throughs if needed. The geometry should be lightweight enough to open smoothly on standard workstations yet detailed enough that individual buildings can be distinguished at a glance. Accurate footprints, basic landscaping massing, and subtle shading for depth are all I need; no hyper-real textures or heavy post-production effects.\n\nI can provide the current 2D CAD/PDF map and reference photos of the buildings the moment we start. Let me know your preferred software—SketchUp, Blender, or any other mainstream tool is fine—as long as I receive an exported FBX or OBJ alongside the original file.\n\nIf the delivered view clearly shows every accommodation block, respects natural color tones, and maintains a crisp minimalist aesthetic, I will consider the project complete and release payment immediately. Looking forward to seeing the resort come to life in 3D.",
   "query": "pdf extraction",
   "found_at": "2026-08-19 20:09"
+ },
+ {
+  "id": 40658362,
+  "title": "Rust Adapters for Monero & Beldex",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/rust/Rust-Adapters-for-Monero-Beldex",
+  "desc": "Our atomic-swap engine in Rust already stitches together several Proof-of-Work chains; what it still lacks is a pair of privacy-coin adapters that speak pure CryptoNote. I need you to finish that puzzle by delivering two self-contained crates— cryptonote.rs and beldex.rs —wired into the existing core.\n\nThe adapters must cover every privacy feature required for a sovereign, trustless swap on TESTNET/STAGENET only:\n\n• Stealth address generation on curve25519 (using curve25519-dalek)  \n• CLSAG-based adaptor signatures that bind a transaction to a swap pre-image scalar t  \n• Preimage extraction logic for the counter-party once the signature is revealed  \n• View-key scanning and shared-secret derivation to locate the output without leaking metadata  \n• Zero-knowledge range proofs consistent with current Monero/Beldex consensus rules  \n• Proper handling of transaction unlock-time so funds are spendable exactly when the protocol allows  \n\nWhat I will consider a complete delivery:  \n1. Two compilable Rust crates (cryptonote.rs & beldex.rs) with idiomatic, documented public APIs.  \n2. Unit and property tests that run against Monero and Beldex stagenets and demonstrate all features above.  \n3. A minimal integration example showing the module plugged into my existing engine (I’ll share a private repo link after kickoff).  \n4. A dedicated GitHub page or repo with MIT / Apache-2.0 licensing, clear build steps, and read-through docs.\n\nI will give you protocol documentation, architect notes",
+  "query": "data extraction",
+  "found_at": "2026-08-19 20:48"
+ },
+ {
+  "id": 40658355,
+  "title": "Optimización de pedidos con GoHighLevel",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/go-high-level/Optimizaci-pedidos-con-GoHighLevel",
+  "desc": "hay una empresa que vende sushi a domicilio principalmente, ellos tienen 3 personas atendiendo el whatsapp y una central telefónica, reciben en el mes aproximadamente 10 mil conversaciones en 10 ciudades, con 20 trabajando con 20 cocinas ocultas aprox, la labor actual es manual por whatsapp, generar ordenes de pedido, preguntar la información necesaria, escribirla en un excel y enviar un screen shot del pedido, el cual se convierte en una comanda que se envía a través del grupo de whatsapp a la cocina oculta correspondiente para su gestión y envío a domicilio. Es un proceso muy manual. \nCon este panorama claro, el negocio tiene un problema crítico: están perdiendo dinero adquiriendo clientes que nunca vuelven, mientras su operación interna (demoras y errores) destruye la reputación de la marca. Las aplicaciones como Rappi y DiDi se quedan con sus datos y sus comisiones, dejándolos vulnerables. \nGoHighLevel (GHL) es la herramienta perfecta para solucionar esto, porque te permite atacar los dos frentes: blindar la operación para que el servicio sea excelente y crear un sistema de retención para que el cliente vuelva a comprar por canales propios (donde el margen de ganancia es mayor). \nLa estrategia de alto valor que puedes ofrecerles se divide en tres pilares:\nPilar 1: El \"Escudo Operativo\" (Cero Demoras y Cero Errores)\nEste pilar resuelve el caos del día a día, la lentitud de los 3 asesores y los malentendidos con la cocina.\n•\tFiltro Inmediato con IA: La IA recibe el 100% de ",
+  "query": "google sheets automation",
+  "found_at": "2026-08-19 20:48"
  }
 ]
