@@ -635,5 +635,44 @@
   "desc": "All input feature classes sit in a single gdb and the work must be completed entirely with ArcGIS raster functions.  \n\nFirst, create a Euclidean distance raster from every secondary school to the nearest fast-food restaurant, then reclassify that surface into quantile classes.  \nRepeat the procedure for distance to the nearest park, also classed by quantiles.  \n\nNext, derive a vegetation index for the whole of Toronto (NDVI or ArcGIS-ready equivalent) and classify it into quantiles as well.  \n\nCombine the three classified rasters to highlight neighbourhoods where schools are simultaneously farthest from fast food, closest to parks, and surrounded by high vegetation.  \n\nProduce one clear, publication-quality map that visualises this composite result. Include:  \n• Consistent, intuitive colour scheme for each criterion  \n• Legend, title, north arrow, and scale bar  \n• Screenshot of the complete Model Builder workflow used to generate the outputs  \n\nDeliverables: high-resolution map (PDF/PNG) and the Model Builder image, supplied within two hours of project start.",
   "query": "pdf extraction",
   "found_at": "2026-08-19 23:10"
+ },
+ {
+  "id": 40658551,
+  "title": "Bilingual Remote Assistant (English/Spanish)",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/data-entry/Bilingual-Remote-Assistant-English",
+  "desc": "I run a small operation that occasionally needs a second pair of hands, and I’m looking for a native Spanish speaker—living in Colombia or Mexico—who can step in for just one-to-two hours each month. English only needs to be at a basic, conversational level; what matters far more is your reliability and good judgement.\n\nYou would help me with:\n• Translation and day-to-day written communication  \n• Light scheduling and calendar reminders  \n• Occasional research or simple data entry  \n\nThe commitment is minimal yet important, so I’m offering USD 100 for the first month and will grow that figure steadily as we build trust together. Ideally you are between 28 and 40 years old, approachable, and highly trustworthy; because the workload is light, I depend on someone who will treat every small task with care, even when deadlines are flexible.\n\nThere’s no rush on my side—I’d rather find the right person than hire quickly—so feel free to reach out whenever you’re ready. If this sounds like the perfect side gig for you, I look forward to hearing from you and learning more about your background.",
+  "query": "data extraction",
+  "found_at": "2026-08-19 23:41"
+ },
+ {
+  "id": 40658540,
+  "title": "Connect Us With Australian Solar Installers",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "AUD",
+  "usd_rate": 0.712401,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/lead-generation/Connect-With-Australian-Solar-Installers",
+  "desc": "I generate premium, purchase-ready solar leads every day and now need a solid installation partner (or several) anywhere in Australia—urban, suburban, or rural—serving both residential and commercial markets. Your sole mission is to open the right door: introduce me to an installer that wants more customers, sit in a quick Google Meet to confirm fit, and help us secure a formal lead-supply agreement.  \n\nAcceptance criteria for your work:  \n• A verifiable decision-maker’s contact (owner, sales manager, or marketing head) at a licensed Australian solar company  \n• A scheduled Google Meet where you, the installer, and I all attend  \nMention my name Ryan so that you won’t be flagged as an automated reply!\n• Written confirmation (email or signed doc) that the installer is ready to purchase leads once our terms are finalised  \n\nUse LinkedIn, your phone, industry groups—whatever works—so long as the introduction is genuine and the installer is hungry for growth. Your payment releases as soon as the first lead invoice from the installer clears. If you can broker that kind of connection, let’s get started today.\nI will award AUD $250 for this project for a single successful client (solar installer) made.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-19 23:41"
+ },
+ {
+  "id": 40658533,
+  "title": "Arabic Informative Articles & Descriptions",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/content-creation/Arabic-Informative-Articles-Descriptions",
+  "desc": "I need clear, well-structured Arabic copy that informs the general public without slipping into sales language. The work splits into two streams: longer articles that explore a topic in depth, and concise product descriptions that quickly highlight key features and practical benefits.\n\nFor the articles, accuracy and readability come first. Each piece should open with a strong hook, flow logically, and close with a takeaway the reader can act on or remember. Reliable sources matter—please cite or link to them where relevant.\n\nFor product descriptions, keep sentences tight, jargon-free, and focused on what everyday shoppers care about: what the product is, how it helps, and any standout specifications.\n\nAcceptance criteria\n• Native-level Arabic with flawless grammar and spelling  \n• Informative tone maintained throughout; no overt promotion  \n• Original content that passes standard plagiarism checks  \n• Delivery in editable format (Word or Google Docs) with headings formatted for easy upload\n\nLet me know how many words you can comfortably handle per batch and your typical turnaround time so we can plan a steady workflow.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-19 23:41"
  }
 ]
