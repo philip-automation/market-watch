@@ -1532,5 +1532,83 @@
   "desc": "I am assembling a small team to quality-check Urdu-to-English content. You will read the original Urdu, compare it with its English counterpart, and flag or fix any mistranslations, style issues, or inconsistencies.  \n\nBecause my own English is only at a basic level while my Urdu is advanced, I rely on you to shape the final English so it reads naturally to a native or near-native audience. Clear, concise feedback in English is essential, and you should feel comfortable explaining why a change is required.\n\nTypical files arrive in Word, Excel, or occasionally CAT-tool exports; you may use the tools you prefer, provided the final package is easy for me to follow. Turnaround is usually within 24-48 hours, though larger batches come with more lead time.\n\nTo be considered, send your updated résumé or CV and a brief note highlighting relevant QA or linguistic experience. If you have sample corrections, even better—attach them so I can see your eye for detail. Feel free to DM me if you need more information.",
   "query": "excel automation",
   "found_at": "2026-08-19 10:50"
+ },
+ {
+  "id": 40657321,
+  "title": "Stealth Windows Remote Access Software",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/c-sharp-programming/Stealth-Windows-Remote-Access-Software",
+  "desc": "I need a custom-built solution that lets me reach any company-owned Windows laptop or desktop—even when the machine is off-site on a home or public network—and view or take control of the screen without the user seeing a tray icon, task-bar entry, pop-up, or other visual cue. The session must establish through the computer’s hostname rather than its IP, so reliable name resolution across networks is essential.\n\nKey workflow  \n• A small, silent agent runs at startup, phones home to a secure relay, and registers the machine under its hostname.  \n• From an admin console I choose the hostname, click Connect, and the agent launches a full-quality remote desktop session where I can interact with mouse and keyboard.  \n• No file-transfer panel, activity logging, or session recording is necessary—only live viewing and remote control.  \n• All traffic travels over an encrypted channel so it passes firewalls/NAT without manual port forwarding.\n\nDeliverables  \n• Installer/auto-update agent for Windows 10 & 11  \n• Admin console (desktop or web) with hostname list, connect/disconnect buttons, basic authentication, and TLS encryption  \n• Source code with build instructions and brief deployment guide  \n• Proof-of-concept test demonstrating an uninterrupted, notification-free connection on two separate networks\n\nAcceptance criteria  \n1. Connection initiates by hostname and succeeds within 10 seconds on a typical home Wi-Fi.  \n2. No visible UI element appears on the employee machine during or a",
+  "query": "web scraping",
+  "found_at": "2026-08-19 11:34"
+ },
+ {
+  "id": 40657324,
+  "title": "Meta Ads Lead Gen Specialist",
+  "budget_min": 8000.0,
+  "budget_max": 15000.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 20,
+  "url": "https://www.freelancer.com/projects/Meta-Ads-Lead-Gen-Specialist",
+  "desc": "Meta Ads Specialist / Lead Generation Expert\n\nPosted by: Nirmal Gour\nCompany: RN Digital Click\nWork Type: Remote / Freelance\nEngagement: Long-term\n\nAbout the Role\n\nRN Digital Click is looking for an experienced Meta Ads Specialist who can manage Facebook and Instagram campaigns focused on lead generation.\n\nWe need someone who can independently plan, launch, optimize, and report campaigns while focusing on lead quality and CPL.\n\nResponsibilities\n\n• Create and manage Meta Ads campaigns\n• Run Lead Generation, WhatsApp, and Conversion campaigns\n• Conduct audience research and targeting\n• Test creatives and ad copies\n• Optimize and scale campaigns\n• Monitor CPL, CTR, CPC, CPM, and lead quality\n• Manage retargeting and Lookalike Audiences\n• Work with Meta Pixel and Events Manager\n• Provide weekly performance reports\n• Provide actionable campaign recommendations\n\nRequirements\n\n• 2+ years of hands-on Meta Ads experience preferred\n• Proven experience in lead generation\n• Experience with local and service-based businesses\n• Strong understanding of Meta Ads Manager\n• Data-driven approach to campaign optimization\n• Ability to work independently\n• Good communication skills\n\nPlease Share With Your Proposal\n\n• 2–3 previous Meta Ads campaign case studies\n• Ad spend\n• Number of leads generated\n• Average CPL\n• Campaign duration\n• Industry and location\n• Your role and responsibilities\n• Screenshots, if possible\n\nScreening Questions\n\n1. How many years of hands-on Meta Ads experience do you have?",
+  "query": "data extraction",
+  "found_at": "2026-08-19 11:34"
+ },
+ {
+  "id": 40657307,
+  "title": "Germany Employment History Background Check",
+  "budget_min": 10.0,
+  "budget_max": 97.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/background-research/Germany-Employment-History-Background",
+  "desc": "I need a detailed background check carried out in Germany that focuses exclusively on verifying a candidate’s employment history. Your task is to confirm each position the individual claims to have held: company name, official job title, start-end dates, and (where possible) the reason for leaving. I will supply the candidate’s consent form, résumé, and contact details for their former employers; you handle the outreach, documentation, and follow-up in German or English as appropriate.  \n\nDeliverables  \n• A concise report for each verified position, including:  \n  – confirmation or discrepancy of the dates and title  \n  – name and role of the person who provided the information  \n  – any additional comments that affect the accuracy of the claim  \n• A final summary highlighting inconsistencies, if any, and your overall confidence level in the employment history.  \n\nPlease let me know your usual turnaround time and any data-protection measures you follow when handling personal information under German privacy law.",
+  "query": "data extraction",
+  "found_at": "2026-08-19 11:34"
+ },
+ {
+  "id": 40657346,
+  "title": "ESP32-S3 System Optimization, budget: 60USDs",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/electrical-engineering/ESP-System-Optimization-budget-USDs",
+  "desc": "******Milestone-Based Contract ******  \n\n—-Total project budget is 60 USDs divided over two milestones—-\n\nIMPORTANT: NO PLACEHOLDER BIDS. Generic automated proposals will be immediately declined and reported. To prove you have read and comprehended the complete engineering scope, your proposal MUST start with the exact phrase: HARDWARE-EXPERT  --- PROJECT CONTEXT --- We are developing, an industrial-grade, 4-layer ESP32-S3 electronic system designed for continuous 24/7 outdoor operation (-10°C to +65°C ambient, up to 95% RH).  NOTE: The schematic architecture and initial KiCad layout already exist (~80% complete). This project is strictly for schematic audit, protection/sensor circuit integration, PDN electrical simulation, 4-layer PCB optimization, 3D CFD thermal validation, and generation of a zero-error production release package.  --- SCOPE OF WORK & DELIVERABLES ---  ■ Milestone 1: Schematic Audit, Protection Sub-circuits & Electrical/PDN Simulation ($20) 1. Schematic Audit & Component Engineering: • Complete audit of existing KiCad schematic for signal integrity, power stability, and component lifecycle (active MPNs only on DigiKey/Mouser/LCSC; no NRND/EOL). • Power Architecture: Optimize power sequencing across e-Fuse, dual buck converters (12V to 5V & 3.3V), and LDOs to eliminate ESP32 back-powering. 2. Peripheral & Circuit Integration: • Audio Subsystem: Integrate WM8960 audio codec (2x Class-D BTL speaker outputs + 2x differential analog MIC connectors). Resolve ESP",
+  "query": "gpt integration",
+  "found_at": "2026-08-19 11:34"
+ },
+ {
+  "id": 40657337,
+  "title": "Mixed-Signal Robot Controller Circuit",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/embedded-systems/Mixed-Signal-Robot-Controller-Circuit",
+  "desc": "# Remote Control Solar Panel Cleaning Robot – Circuit Design Service\n\nI am looking for an experienced **electronics/embedded systems engineer** to design the complete circuit and control system for a **remote-controlled solar panel cleaning robot**.\n\n### Project Requirements\n\n* Design the complete electrical/electronic circuit\n* **ESP32** based control system\n* Wireless remote-control operation\n* Control of **24V DC motors** for robot movement and cleaning mechanism\n* Motor driver integration\n* Forward/reverse and left/right movement control\n* Variable motor speed/PWM control where required\n* Emergency stop and safety protection\n* Battery power management and voltage regulation\n* Proper fuse, protection, wiring and connector selection\n* Sensor integration for safe and reliable operation\n* Remote-control receiver integration\n* Circuit schematic and connection diagram\n* PCB design is preferred\n* Provide complete **BOM (Bill of Materials)** with component specifications\n* Provide manufacturing-ready circuit/PCB files\n\n### Existing Hardware\n\nThe robot is designed for solar panel cleaning and may operate on inclined solar panels. The design should consider **30–35 kg robot weight, 24V DC motors, track/belt drive and outdoor operating conditions**.\n\nThe final circuit should be reliable, serviceable and suitable for developing a working prototype and eventually a production version.\n\n### Deliverables\n\n1. Complete circuit schematic\n2. ESP32 pin mapping and wiring\n3. Motor driver/cont",
+  "query": "gpt integration",
+  "found_at": "2026-08-19 11:34"
+ },
+ {
+  "id": 40657315,
+  "title": "SharePoint Workflow Automation",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/workflow-automation/SharePoint-Workflow-Automation",
+  "desc": "I'm seeking an experienced SharePoint expert to automate document management workflows. \n\nKey Requirements:\n- Automate existing document management tasks to enhance efficiency.\n- Ensure seamless integration with current systems.\n- Provide documentation and training on the new workflows.\n\nIdeal Skills:\n- Proven experience in SharePoint workflow automation.\n- Strong understanding of document management processes.\n- Excellent problem-solving skills and attention to detail.\n\nPlease include relevant experience in your application.",
+  "query": "gpt integration",
+  "found_at": "2026-08-19 11:34"
  }
 ]
