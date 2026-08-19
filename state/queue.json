@@ -557,5 +557,31 @@
   "desc": "hay una empresa que vende sushi a domicilio principalmente, ellos tienen 3 personas atendiendo el whatsapp y una central telefónica, reciben en el mes aproximadamente 10 mil conversaciones en 10 ciudades, con 20 trabajando con 20 cocinas ocultas aprox, la labor actual es manual por whatsapp, generar ordenes de pedido, preguntar la información necesaria, escribirla en un excel y enviar un screen shot del pedido, el cual se convierte en una comanda que se envía a través del grupo de whatsapp a la cocina oculta correspondiente para su gestión y envío a domicilio. Es un proceso muy manual. \nCon este panorama claro, el negocio tiene un problema crítico: están perdiendo dinero adquiriendo clientes que nunca vuelven, mientras su operación interna (demoras y errores) destruye la reputación de la marca. Las aplicaciones como Rappi y DiDi se quedan con sus datos y sus comisiones, dejándolos vulnerables. \nGoHighLevel (GHL) es la herramienta perfecta para solucionar esto, porque te permite atacar los dos frentes: blindar la operación para que el servicio sea excelente y crear un sistema de retención para que el cliente vuelva a comprar por canales propios (donde el margen de ganancia es mayor). \nLa estrategia de alto valor que puedes ofrecerles se divide en tres pilares:\nPilar 1: El \"Escudo Operativo\" (Cero Demoras y Cero Errores)\nEste pilar resuelve el caos del día a día, la lentitud de los 3 asesores y los malentendidos con la cocina.\n•\tFiltro Inmediato con IA: La IA recibe el 100% de ",
   "query": "google sheets automation",
   "found_at": "2026-08-19 20:48"
+ },
+ {
+  "id": 40658367,
+  "title": "Website Content Translation",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/english-translation/Website-Content-Translation",
+  "desc": "I’m refreshing several informational pages on my site and need them presented in two additional language versions. The current copy exists in French, which must be rendered into natural, idiomatic English, and in English, which then needs a clear, reader-friendly Kiswahili adaptation. The text is strictly website copy—no technical manuals or legal clauses—so flow and on-brand tone matter more than rigid literalism.\n\nThe assignment covers a handful of pages (about 3–5 k words total). I’ll supply the live URLs and a clean text export. Please return:\n\n• Fully translated text for each page, matched to the original headings and sub-sections  \n• Light proofreading to eliminate typos or grammar slips before delivery  \n• A brief glossary for any recurring product or brand terms  \n• Delivery in either a Word doc or Google Doc so I can paste straight into the CMS\n\nConsistency tools such as MemoQ, Trados or Web-based CAT platforms are welcome as long as the final copy remains human-sounding. If you have previous samples in either language pair, feel free to share a link when you submit your proposal.",
+  "query": "web scraping",
+  "found_at": "2026-08-19 21:16"
+ },
+ {
+  "id": 40658375,
+  "title": "Fichas Seguridad Polvos Lavavajillas",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "EUR",
+  "usd_rate": 1.167613,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/chemical-engineering/Fichas-Seguridad-Polvos-Lavavajillas",
+  "desc": "Necesito un técnico con experiencia demostrable en la elaboración de Fichas de Datos de Seguridad (FDS) para productos químicos. El encargo se centra en una línea concreta de productos de limpieza: polvos lavavajillas.\n\nAlcance del trabajo  \n• Redactar la FDS completa según el formato GHS/CLP vigente y la normativa REACH aplicable en España.  \n• Reflejar correctamente composición, pictogramas, frases H y P, medidas de primeros auxilios, transporte y almacenamiento.  \n• Entregar la ficha en español en versión editable (Word u ODT) y PDF listo para distribución.\n\nLo que aportaré  \n• Fórmulas detalladas de los polvos lavavajillas, fichas técnicas y especificaciones internas.  \n• Información adicional sobre envases y condiciones de uso para facilitar los apartados de exposición y medidas de control.\n\nRequisitos del perfil  \n• Conocimientos sólidos en legislación química europea y española.  \n• Experiencia previa elaborando FDS para productos de limpieza.  \n• Rigurosidad en la citación de reglamentos y bases de datos toxicológicas.\n\nAceptación del trabajo  \nConsideraré finalizado el proyecto cuando reciba la FDS completa, revisada y lista para presentar ante distribuidores y autoridades competentes.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-19 21:16"
  }
 ]
