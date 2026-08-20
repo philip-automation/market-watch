@@ -1415,5 +1415,44 @@
   "desc": "I need a seasoned Senior Accountant to take full ownership of our finance function. All day-to-day bookkeeping is done in Tally, so you’ll be comfortable working inside that environment while keeping everything synced with Excel for analysis.\n\nYour core mandate is to maintain clean, audit-ready books and produce the full suite of statements—monthly, quarterly, and annual—without prompting. This covers ledger postings, bank reconciliations, and prompt handling of payables and receivables. Alongside the routine work, I expect you to finalise balance sheets and liaise smoothly with external auditors when the time comes.\n\nTax is critical for us. GST compliance must be watertight, and there are additional region-specific rules you’ll brief me on and implement. You’ll prepare and file every return on time and document the supporting calculations for easy reference later.\n\nKey deliverables  \n• Accurate, up-to-date ledgers and reconciliations in Tally  \n• Complete monthly, quarterly, and annual financial statements (P&L, balance sheet, cash-flow)  \n• Timely GST filings plus any other regional tax submissions, with working papers attached  \n• Year-end finalisation pack ready for auditors, including schedules and supporting documents  \n\nI’m flexible on the start date and payment structure—let’s agree milestones that suit us both. If you have a proven track record in senior accounting roles and can demonstrate mastery of Tally and current tax regulations, I’d like to hear how you would ",
   "query": "google sheets automation",
   "found_at": "2026-08-20 10:15"
+ },
+ {
+  "id": 40659709,
+  "title": "UK Care Home Builders Database",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/market-research/Care-Home-Builders-Database",
+  "desc": "I am putting together a targeted prospect list of construction firms that can take on new-build care home projects anywhere in England, Scotland or Wales. Your job is to handle the full research and first-contact phase, then deliver a clean, verified database I can immediately plug into our business-development pipeline. We are looking for delivery partners. \n\nScope of work  \nYou will identify qualified companies, reach out by email to introduce our organisation and confirm that they actively construct new-build care homes, and record the results. While renovation or extension specialists may appear in your search, the priority—and the filter you should apply during outreach—is on contractors with proven new-build experience in the care sector.\n\nDeliverables  \n• Spreadsheet (Excel or Google Sheets) containing, for each confirmed company:  \n  – Company name and full address  \n  – Primary decision-maker’s name, role and direct email  \n  – Brief note on relevant previous projects / industry experience (ideally with project titles or links)  \n• “Email log” tab showing date of contact and status (sent / replied / declined / bad address)  \n• A short summary of your research approach and any useful insights you uncovered\n\nAcceptance criteria  \n• Minimum 90 % of email addresses must be valid (hard-bounce rate below 10 %)  \n• All entries must be based in the UK and cover at least one of the three nations listed above  \n• Each company’s experience must include at least one new-build ca",
+  "query": "google sheets automation",
+  "found_at": "2026-08-20 10:52"
+ },
+ {
+  "id": 40659646,
+  "title": "Assistant virtuel saisie de données",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/google-sheets/Assistant-virtuel-saisie-donn",
+  "desc": "Je cherche un(e) partenaire fiable pour gérer la saisie et la mise à jour de nos données produits directement dans Google Sheets. Le volume varie d’une semaine à l’autre, mais la rigueur et le respect des délais restent constants.\n\nVoici ce que j’attends :  \n• Saisir, corriger et compléter les données produits dans Google Sheets en suivant mes modèles.  \n• Copier-coller et classer des informations provenant de différentes sources.  \n• Rechercher des détails complémentaires sur nos produits via les réseaux sociaux (pages officielles, avis, communautés) et reporter les informations pertinentes.  \n• Organiser fichiers et dossiers afin que tout reste facile à retrouver.  \n• Relire et vérifier l’exactitude des champs saisis.\n\nCe rôle vous conviendra si :  \n• Vous êtes ponctuel(le), méthodique et attentif(ve) aux détails.  \n• Vous maîtrisez Google Sheets ainsi que les bases de Word et Excel.  \n• Vous disposez d’une connexion internet fiable.  \n• Vous communiquez aisément en français, à l’écrit comme à l’oral.  \n\nJe privilégie une collaboration à distance pouvant évoluer sur le long terme si la qualité du travail et la réactivité sont au rendez-vous. Indiquez votre disponibilité hebdomadaire et un exemple de tâche similaire déjà réalisée afin que je me fasse une idée rapide de votre méthode et de votre sérieux.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-20 10:52"
+ },
+ {
+  "id": 40659673,
+  "title": "2D Animator Needed for 20–30 Minute YouTube Video",
+  "budget_min": 4000.0,
+  "budget_max": 6000.0,
+  "currency": "INR",
+  "usd_rate": 0.010451,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/2d-animation/Animator-Needed-for-Minute-YouTube",
+  "desc": "I’m producing a long-form YouTube animation set in the American Civil War and need a skilled Adobe Animate artist who can take my script and detailed scene-by-scene notes and turn them into lively, historically inspired cartoon sequences.\n\nFor our trial run, I’d like a fully finished 1–2 minute scene in 16:9. You’ll design every element from the ground up: simple, stick-limbed characters whose clothes and facial features echo real 19th-century figures, matching backgrounds, smooth movements, and the final composited shot. When the test scene meets expectations, we’ll roll straight into the complete 20–30 minute episode and, ideally, many more thereafter.\n\nThe environments you’ll bring to life include:  \n• Battlefields  \n• Campsites  \n• Historical buildings  \n• American Civil War towns, villages, farms, plantations, forests, rivers, roads, railways, forts, trenches, military headquarters, streets, interiors, and other era-accurate locations  \n\nDeliverables for the test:  \n• Adobe Animate (.fla) source file with organized layers and symbols  \n• Rendered 1080p MP4 preview of the scene  \n\nPlease keep your rigging and naming tidy so I can tweak poses or timing later in Adobe Animate without rebuilding assets. If you’re passionate about history, enjoy stylised 2D work, and can meet reasonable deadlines, I’d love to see examples of similar projects you’ve handled. Looking forward to collaborating on this series!",
+  "query": "python script",
+  "found_at": "2026-08-20 10:52"
  }
 ]
