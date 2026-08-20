@@ -2260,5 +2260,57 @@
   "desc": "I run a channel that publishes Shorts, Reels and occasional long-form videos, and right now my most urgent gap is strong Hindi / Hinglish scripting. I need concise, informative scripts that hook viewers in the first three seconds, flow naturally for vertical formats of 45–60 seconds, and can also be expanded into 6–8-minute long-form pieces when required.  \n\nYour words should feel like a knowledgeable friend explaining a topic clearly, with light humour only where it supports clarity. Each script must include a punchy title suggestion, an opening hook, short fact-packed body paragraphs, and a smooth call-to-action that fits the platform. I will supply the core topic, key points and any mandatory links; you turn that into an engaging narrative while keeping the language simple and vernacular.  \n\nAlthough editing and thumbnail design are on my roadmap, my immediate hire is for scripting. If you also cut footage in Premiere Pro or design click-worthy thumbnails in Photoshop, feel free to mention it, but the deciding factor will be your scripting experience. Share examples that prove you can keep viewers watching and learning—especially if they are already live on YouTube or Instagram.  \n\nI respond quickly, and I’m ready to assign the first batch of topics as soon as I see scripting samples that match the tone described above.",
   "query": "python script",
   "found_at": "2026-08-20 19:06"
+ },
+ {
+  "id": 40660621,
+  "title": "Accurate Product Sales Data Input",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010445,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/data-processing/Accurate-Product-Sales-Data-Input",
+  "desc": "I have an existing Excel spreadsheet that tracks my product sales. The only column still missing is the Quantity Sold figure for each transaction, and I need every row completed quickly and with zero errors.  \n\nYou’ll work directly in the same Excel file, so you should be fully comfortable with formulas, filters and basic data-validation tools to catch typos before they happen. If you prefer, you can bring the sheet into Google Sheets—just be sure the file comes back to me in .xlsx format when you’re done.  \n\nDeliverable  \n• Updated spreadsheet with the Quantity Sold field filled in for every listed product sale.  \n• Spot-check summary (notes on any records you found ambiguous or potentially incorrect).  \n\nI’m ready to share the file as soon as you accept, and I’ll be on hand for quick answers while you work. Fast, accurate turnaround will lead to more data-entry projects I have in the pipeline.",
+  "query": "data extraction",
+  "found_at": "2026-08-20 19:49"
+ },
+ {
+  "id": 40660655,
+  "title": "FL Studio Configuration and Vocal Template Setup",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/fl-studio/Studio-Configuration-Vocal-Template",
+  "desc": "I’m running FL Studio on a Windows desktop with a Scarlett 2i2 (4th Gen) audio interface and a RØDE NT1 (5th Gen) microphone. All I want to do is open a template, step into the booth, hit record and know that everything—from gain staging to real-time monitoring—has already been dialed in.\n\n***Everything below was written by Ai. I've been making music on my phone for 6 years, but I know nothing about FL studio. In short, I just want all things related to recording vocals to be ready for me each time I hop in the booth. I want my vocals to be ready for an engineer to mix and master them as soon as I am done recording. I would love if you could take remote control of my computer and do all of this for me. Maybe still read what the Ai said, as it probably knows more about what I need done than I do.***\n\nHere’s the workflow I’m after:\n\n• My mic hits FL Studio through the correct Scarlett input, passes straight into Auto-Tune and then through EQ, compression, reverb and a touch of delay.\n• In my headphones I need to hear that Auto-Tune immediately, with no distracting latency.  \n• The recorded take should land in a clean, unclipped 24-bit/48 kHz track, already routed to a “Print” bus so a mix engineer can take over later.\n\nProcessing tastes: I’m good with the standard Auto-Tune settings most engineers start with, provided we can tweak to fit my voice. For EQ I’ve been using a “mid-range scoop” on a phone app, but I’m open to your guidance; same story for compression—I lean toward t",
+  "query": "ai chatbot",
+  "found_at": "2026-08-20 19:49"
+ },
+ {
+  "id": 40660611,
+  "title": "Ai UGC Product Review/Demo TikTok Videos + Experience With TikTok Shop ",
+  "budget_min": 10.0,
+  "budget_max": 500.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/tiktok/UGC-Product-Review-Demo-TikTok",
+  "desc": "We have a brand new TikTok shop with 8 SKU’s. \n\nWe are Satin Sensation. \n\nWe provide luxury hair treatment products targeted towards Latino/hispanic/African American hair mainly for women but the products are unisex so men can use it as well.\n\nTO START:\n\nWe want to do between one and three test videos that we can use to post on TikTok to see if we work well together. We have TikTok product links (if you’re using something like Higgsfield to create the UGC ai videos)\n\nHERE IS WHAT WE ARE LOOKING FOR:\n\n1.) We are looking for higgsfield ai UGC style videos to start promoting our products on TikTok. \n\nWe need someone who can create realistic videos promoting, reviewing and demonstrating our products with ai but it CAN NOT look like it’s Ai. \n\n2.) We need someone who knows about growing a TikTok shop from scratch and how marketing works on there. That way as we are growing you can advise us. \n\nWe need someone who can provide a game plan for our TikTok shop and our ai. videos. We don’t need someone to just senselessly make videos for us. Everything must be intentional.\n\nWe need to scale this as we go so we will be needing more videos as time goes on. \n\nIf you have other skills related to TikTok shop or other similar skills that can help us grow we will take that into consideration but it’s not necessary.\n\nIt’s a plus if you know how to scale TikTok ads as well but if you don’t no worries.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-20 19:49"
+ },
+ {
+  "id": 40660629,
+  "title": "Automated Trading Script Development",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010445,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/pine-script/Automated-Trading-Script-Development-40660629",
+  "desc": "I'm looking for an experienced Pine Script developer to create a new script for automated trading strategies. \n\nKey Requirements:\n- Expertise in developing Pine Scripts from scratch\n- Experience with automated trading strategies\n- Knowledge in at least one of the following: trend following, mean reversion, or breakout strategies\n\nIdeal Skills:\n- Strong background in technical analysis\n- Proficient in TradingView platform\n- Ability to test and optimize scripts for performance\n\nPlease provide examples of previous work and any relevant certifications. Looking forward to your bids!",
+  "query": "python script",
+  "found_at": "2026-08-20 19:49"
  }
 ]
