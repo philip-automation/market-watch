@@ -843,5 +843,83 @@
   "desc": "I run a SaaS platform that plugs into Instagram for user authentication, Auto Direct Messaging, post scheduling, and in-depth analytics. To go live we must clear Meta’s App Review, which means producing a rock-solid permission request, privacy documentation, and—most important—the step-by-step video flow that proves each feature works exactly as Meta expects.\n\nI’ve already built the features and wired in the Instagram Graph API, but I have no time to orchestrate the review package. If you have recently guided an app through Meta approval for Auto Direct Messaging, content publishing, and insights, I’d love you to take the reins here.\n\nKey deliverables I need from you:  \n• A written breakdown of every permission we must request (e.g. business_messaging, instagram_manage_messages, instagram_content_publish, instagram_manage_insights) with the exact language that has succeeded for you before.  \n• A privacy-policy and terms quick audit with any edits required for compliance.  \n• A full-length HD screen-capture video that walks reviewers through sign-up, Instagram authentication, sending an automated DM, scheduling a post, and viewing analytics—voice-over explaining each step.  \n• Support through at least one resubmission in case Meta asks for clarification.\n\nEverything will be provided—test accounts, staging URL, and feature toggles—so you can record clean, reviewer-friendly footage. Once Meta signs off, the job is done. If you know the Meta review quirks and can turn this around",
   "query": "chatgpt api",
   "found_at": "2026-08-20 04:02"
+ },
+ {
+  "id": 40658967,
+  "title": "Commission-Only Cybersecurity Sales Partner",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010458,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/sales/Commission-Only-Cybersecurity-Sales",
+  "desc": "I run a boutique cybersecurity firm that specialises exclusively in  data privacy and IT cyber security risk-assessment projects for small and medium-sized enterprises. My current focus is on the finance, healthcare,  retail sectors and any sector which collect perosnal data and where these organizations will be  regulated by DPDPA   and evolving threats make a solid risk picture essential.\n\nYour task is simple but pivotal: bring in qualified decision-makers who are ready to engage us for a full risk-assessment engagement. Engagements typically cover Data privacy and  IT security risk and controls assessments, Privacy and IT control design, Third party IT security risk assessments, Business Impact assessment and remediation road-maps, so conversations should be aimed at CISOs, CTO's , CEO's ,  IT directors or compliance managers who own that mandate. I will handle scoping calls, proposals and delivery; you concentrate on opening doors and nurturing prospects through to a signed agreement.\n\nThis role is 100 % commission-based, with competitive percentages paid on every closed deal and no cap on earnings. I can supply pitch decks and a detailed service outline to support your outreach. Familiarity with common sales tools (HubSpot, LinkedIn Sales Navigator, cold-email platforms) and a working knowledge of cybersecurity terminology (Not mandatory and I can guide you around the ternimology)  will help you succeed, but your track record of closing B2B deals matters most. \n\nDelivera",
+  "query": "data extraction",
+  "found_at": "2026-08-20 04:49"
+ },
+ {
+  "id": 40658935,
+  "title": "Daily Sales Billing via Tally -- 2",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010458,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/bookkeeping/Daily-Sales-Billing-via-Tally",
+  "desc": "I need an accountant who can step straight into Tally and turn my raw sales data into accurate, professional sales invoices every single day. Each bill must show the full customer details and clearly stated payment terms before you post or print it.\n\nMy process is simple: I share the day’s sales figures, you capture them in Tally (any recent version is fine), generate the invoice, and return the PDF plus the updated company data file before close of business. Consistency and zero-error data entry matter more to me than speed, though I do expect the day’s work wrapped up on the same day.\n\nDeliverables\n• Daily Tally data file backup  \n• PDFs of all sales invoices created  \n• Brief confirmation report listing invoice numbers, totals, and payment terms entered  \n\nIf you already manage GST or other statutory tags inside Tally, that is a bonus but not required. Reliability and familiarity with Tally shortcuts will make this an ongoing engagement.",
+  "query": "data extraction",
+  "found_at": "2026-08-20 04:49"
+ },
+ {
+  "id": 40658901,
+  "title": "Daily Email Data Entry",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/copy-typing/Daily-Email-Data-Entry",
+  "desc": "I need a reliable assistant to extract text-based information from incoming emails and record it in a structured spreadsheet. Each day I’ll forward or grant you access to a monitored mailbox; you will open every new message, pull the required fields, and add them to the shared Google Sheets file (Excel is also fine if you prefer to work offline and upload at the end of the shift).\n\nAccuracy matters more than speed, but I do expect a same-day turnaround so the sheet is always up to date for the rest of the team. All data stays within the sheet—no secondary documents or databases—so your workflow should be streamlined toward clean copy-and-paste or light re-typing while keeping original spelling and punctuation intact.\n\nDiscrete daily deliverable:  \n• Updated spreadsheet reflecting 100 % of that day’s emails, saved before close of business.\n\nFamiliarity with Google Sheets filters, basic formulas, and punctuation-sensitive text handling will help you move quickly, but the core task is straightforward: read, capture, and enter. I’ll provide a template, an example row, and keyword rules on day one.",
+  "query": "data extraction",
+  "found_at": "2026-08-20 04:49"
+ },
+ {
+  "id": 40658889,
+  "title": "Crack My C++ Interview",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010458,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/c-sharp-programming/Crack-Interview",
+  "desc": "I’m gearing up for a C++-heavy interview loop and need laser-focused help to sharpen my technical knowledge. I’m currently at an intermediate level, but the bar for these roles is high, so I want to push closer to advanced in the areas interviewers probe the most: data structures and algorithms, solid object-oriented design, and efficient use of the Standard Template Library.\n\nHere’s what I’d like from you:  \n• Structured explanations that connect theory to real interview questions, with plenty of code walkthroughs in modern C++ (11/14/17/20 as appropriate).  \n• Live problem-solving sessions where we implement and optimise solutions together, emphasising complexity analysis and edge-case thinking.  \n• Short take-home exercises or curated LeetCode-style problems after each session, followed by detailed code reviews and performance feedback.  \n• Quick checkpoints to recap key concepts—smart pointers, move semantics, templates, iterator categories, custom allocators—so I can speak about them confidently under pressure.  \n• A final mock whiteboard round to verify I can articulate trade-offs and produce clean, compilable code on the spot.\n\nWe can meet over Zoom or VS Code Live Share—whatever keeps the focus on code. If you’ve recently helped other candidates land roles or you’ve conducted interviews yourself, let me know; seeing both sides of the table is a huge plus. Once we agree on a cadence, I’ll share the target interview dates so we can plan milestones and track progress.\n\nL",
+  "query": "data extraction",
+  "found_at": "2026-08-20 04:49"
+ },
+ {
+  "id": 40658894,
+  "title": "Full-Stack Brand Launch Design & Strategy",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010458,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/branding/Full-Stack-Brand-Launch-Design",
+  "desc": "Project Title: Full-Stack Creative Agency / Freelancer for FMCG Brand Launch \n\n1. Project Overview\nWe are launching a new FMCG and grocery brand named \"Grovantaas\" covering Spices, Rice, Snacks, and Edible Oils & other fmcg & grocery . We are seeking an all-in-one freelance partner or boutique agency to handle our end-to-end Brand Strategy, Visual Identity, 3D Packaging Design, Corporate Marketing Collateral, Digital Templates, and Physical Branding elements.\n\n* Estimated Budget: ₹25,000 (Base Project Fee - Open to milestone extensions based on portfolio strength)\n* Expected Timeline: 20–25 days\n* Core Categories: Spices, Rice, Snacks, Oil\n* Mode of Work: Remote (India-based preferred for local market knowledge)\n\n2. Comprehensive Scope of Work\nThe selected partner must deliver high-quality work across the following 5 distinct pillars:\n\nPILLAR 1: BRAND IDENTITY & STATIONERY\n- Logo Design: 5–6 distinct creative concepts leading to final source files (AI/SVG/PNG).\n- Brand Assets: Curated Color Palette, Typography/Font selection, and a Basic Brand Guideline book.\n- Corporate Stationery: Professional designs for Visiting Cards, Letterheads, Invoices, and Envelopes.\n\nPILLAR 2: BUSINESS MARKETING KIT (WITH TEXT & COPY)\n- Company Profile: 6–8-page B2B booklet detailing infrastructure, values, and certifications.\n- Sales Presentation: 10–12 slide pitch deck for bulk buyers.\n- Product Catalogue: Structured, grid-based B2B order/SKU matrix sheet.\n- Retailer/Dealer Presentation: 6–8 slid",
+  "query": "ai chatbot",
+  "found_at": "2026-08-20 04:49"
+ },
+ {
+  "id": 40658924,
+  "title": "Diagramador Editorial para Amazon KDP Necesitado",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/indesign/Diagramador-Editorial-para-Amazon-KDP",
+  "desc": "BUSCO DIAGRAMADOR EDITORIAL PARA AMAZON KDP\nEstoy buscando un Diagramador Editorial de libros, con experiencia comprobable en Amazon Kindle Direct Publishing (KDP) para preparar la versión final de mi libro:  VIVIR: Una Decisión\n\nCARACTERÍSTICAS DEL PROYECTO\n• Libro de 220 páginas. \n• Contiene 29 fotografías.\n• Manuscrito en Microsoft Word.\n• Tamaño final: 13 × 20.5 cm (5.12” × 8.07”).\n• Destino final: Amazon KDP (Paperback).\nBUSCO UN PROFESIONAL CON EXPERIENCIA EN\n• Diagramación editorial de libros.\n• Amazon Kindle Direct Publishing (KDP).\n• Adobe InDesign (preferiblemente).\n• Preparación y entrega de un PDF profesional, listo para impresión y aceptado por Amazon KDP.\nFAVOR INDICAR EN SU PROPUESTA\n• Experiencia en diagramación editorial de libros para Amazon KDP.\n• Si es posible, enviar ejemplos o enlaces de libros publicados.\n• Tiempo estimado de entrega.\n• Costo total por realizar este trabajo.\nSe dará preferencia a profesionales residentes en Guatemala; sin embargo, la CONVOCATORIA ESTÁ ABIERTA A PROFESIONALES DE CUALQUIER PAÍS que cuenten con experiencia comprobable en diagramación de libros para Amazon KDP.\n\nPRESUPUESTO DEL PROYECTO\nMi presupuesto para la diagramación completa del libro es de US$150, ya que actualmente cuento con una propuesta de un profesional en Argentina por ese valor. Estoy abierto a recibir otras propuestas, especialmente de profesionales con experiencia comprobable en Amazon KDP.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-20 04:49"
  }
 ]
