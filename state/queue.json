@@ -1363,5 +1363,57 @@
   "desc": "This project covers the complete interior design of a new workspace whose core function is private offices, while still incorporating a compact collaborative zone that comfortably serves 10–20 employees. I will supply the architectural floor plan and a basic brief on brand aesthetics; your task is to turn that into a fully resolved design package that balances acoustic privacy, efficient circulation, and a welcoming shared area.\n\nSpace planning, furniture selection, lighting strategy, finishes, and a simple way-finding concept all need to be resolved. I expect the final package in a format suitable for both executive approval and contractor use, so fluency with AutoCAD (or Revit) for plans plus SketchUp/3ds Max + V-Ray (or equivalent) for photorealistic visuals is essential.\n\nDeliverables\n• Scaled layout showing private offices, collaborative workstations (10–20 seats), storage, and ancillary spaces  \n• 2–3 mood boards covering finishes, furniture, and lighting  \n• At least four high-resolution 3D renders (two focusing on a typical private office, two on the collaborative zone)  \n• Furniture, fixture, and equipment schedule with model numbers and indicative pricing  \n• One round of revisions after initial presentation  \n\nAcceptance criteria include: plans align with provided dimensions, all offices meet minimum 8 m², collaborative area shows seating for 10–20 without exceeding 25 m², and lighting levels comply with general office standards (≈500 lux). Files should arrive in D",
   "query": "pdf extraction",
   "found_at": "2026-08-20 09:46"
+ },
+ {
+  "id": 40659608,
+  "title": "Business Development Manager for Tech Projects",
+  "budget_min": 250000.0,
+  "budget_max": 500000.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/business-development/Business-Development-Manager-for-Tech",
+  "desc": "I run a technology firm that delivers software-development and IT-consulting solutions to clients worldwide, and I’m ready to expand our reach. I’m looking for a proactive Business Development Manager who can consistently bring in new international projects that match our core capabilities.\n\nYour day-to-day focus will be creating and executing a strategy for identifying decision-makers, nurturing relationships, and closing deals. LinkedIn outreach, cold email, targeted events, partnerships—use whatever modern sales tools and channels you believe are most effective, as long as they translate into qualified leads and signed statements of work.\n\nTo keep everyone aligned, I need clear, data-backed reporting on pipeline growth, deal stage, and revenue forecasts, all maintained in a shared CRM. Because our service line is strictly software development and IT consulting, I’m counting on you to screen prospects carefully so we spend time only on opportunities we can truly deliver.\n\nDeliverables:\n• A 90-day business development plan with target sectors and outreach tactics  \n• A continuously updated CRM showing at least 20 new qualified leads per month  \n• Weekly status reports summarizing activities, meetings, and next actions  \n• A minimum of three closed deals in the first quarter that fit our technical scope  \n\nSuccess will be measured by pipeline health, conversion rate, and closed revenue. If you have a track record of winning international technology projects and thrive on meas",
+  "query": "data extraction",
+  "found_at": "2026-08-20 10:15"
+ },
+ {
+  "id": 40659612,
+  "title": " ADVANCED COMFYUI EXPERT ONLY ",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "EUR",
+  "usd_rate": 1.170926,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/comfyui/ADVANCED-COMFYUI-EXPERT-ONLY",
+  "desc": "**PLEASE READ BEFORE APPLYING**\n\nI am looking for an **ADVANCED COMFYUI EXPERT**, specifically for building and teaching **complex AI video workflows**.\n\nThis is **NOT** a general AI video job.\n\nIf your main experience is with Kling, Runway, Higgsfield, Midjourney, Leonardo, etc. but you do not build advanced workflows directly in **ComfyUI**, please do not apply.\n\n### I need someone experienced in:\n\n* Advanced ComfyUI workflow architecture\n* Current image + video models inside ComfyUI\n* Image-to-video / video-to-video\n* Character consistency and identity preservation\n* LoRA training and implementation\n* ControlNet / conditioning / reference systems\n* Temporal consistency\n* Character + environment integration\n* Real location + AI character\n* AI environment + consistent character\n* Dialogue / lip-sync / acting\n* Cinematic camera movement\n* Photorealistic video\n* Upscaling and quality refinement\n* Custom nodes and dependency management\n* VRAM/GPU optimization\n* Debugging complex workflows\n\n### VERY IMPORTANT\n\nI don't want someone to simply give me pre-made workflows.\n\nI want to **build the workflows together with you and understand them**, so that I can eventually create and troubleshoot my own professional pipelines.\n\nCommercial licensing is also important. I need to understand which models, LoRAs and custom nodes can legally be used for commercial projects.\n\n### APPLICATION REQUIREMENT\n\nTo prove that you actually work with ComfyUI, **please include screenshots or links to 2–3",
+  "query": "ai chatbot",
+  "found_at": "2026-08-20 10:15"
+ },
+ {
+  "id": 40659638,
+  "title": "eBay Order & Shipping Assistant",
+  "budget_min": 20.0,
+  "budget_max": 250.0,
+  "currency": "GBP",
+  "usd_rate": 1.365146,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/customer-service/eBay-Order-Shipping-Assistant",
+  "desc": "I run a busy eBay store and need a reliable assistant to keep order fulfilment running smoothly. Your single focus will be managing the orders that come in each day—co-ordinating shipping through USPS so every buyer receives fast, accurate tracking and a professionally packed parcel.\n\nHere’s how I imagine the workflow:\n• Each morning you’ll log in to eBay Seller Hub, review new and paid orders, and spot anything urgent.  \n• You’ll purchase and print USPS labels (Click-N-Ship or a similar tool), double-check addresses, weights, and service levels, then mark the items as dispatched.  \n• Tracking numbers must be uploaded the same day and customers messaged courteously if anything looks delayed.  \n• If a shipment stalls, you’ll open the correct USPS case, monitor progress, and update the buyer until it is resolved.\n\nSuccess for me is simple: every order out the door within one business day, tracking uploaded without errors, and any carrier hiccups handled proactively. If you already use tools like Stamps.com, ShipStation, or another USPS integration, tell me; otherwise Seller Hub is fine.\n\nI communicate by chat daily, pay promptly, and value clear status updates. If dependable shipping coordination is in your wheelhouse, let’s get started.",
+  "query": "gpt integration",
+  "found_at": "2026-08-20 10:15"
+ },
+ {
+  "id": 40657862,
+  "title": "Senior Accountant for Full Oversight",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/accounting/Senior-Accountant-for-Full-Oversight",
+  "desc": "I need a seasoned Senior Accountant to take full ownership of our finance function. All day-to-day bookkeeping is done in Tally, so you’ll be comfortable working inside that environment while keeping everything synced with Excel for analysis.\n\nYour core mandate is to maintain clean, audit-ready books and produce the full suite of statements—monthly, quarterly, and annual—without prompting. This covers ledger postings, bank reconciliations, and prompt handling of payables and receivables. Alongside the routine work, I expect you to finalise balance sheets and liaise smoothly with external auditors when the time comes.\n\nTax is critical for us. GST compliance must be watertight, and there are additional region-specific rules you’ll brief me on and implement. You’ll prepare and file every return on time and document the supporting calculations for easy reference later.\n\nKey deliverables  \n• Accurate, up-to-date ledgers and reconciliations in Tally  \n• Complete monthly, quarterly, and annual financial statements (P&L, balance sheet, cash-flow)  \n• Timely GST filings plus any other regional tax submissions, with working papers attached  \n• Year-end finalisation pack ready for auditors, including schedules and supporting documents  \n\nI’m flexible on the start date and payment structure—let’s agree milestones that suit us both. If you have a proven track record in senior accounting roles and can demonstrate mastery of Tally and current tax regulations, I’d like to hear how you would ",
+  "query": "google sheets automation",
+  "found_at": "2026-08-20 10:15"
  }
 ]
