@@ -713,5 +713,31 @@
   "desc": "J’ai plusieurs courtes vidéos déjà montées pour lesquelles je souhaite remplacer la bande-son actuelle par une voix off masculine claire, naturelle et bien timbrée.  De préférence juste modifier la voix du narrateur.\n\nCe que j’attends :  \n• Visionner chaque vidéo (durée cumulée inférieure à 10 minutes) pour comprendre le ton et le timing.  \n• Fournir une voix masculine en français parfaitement synchronisée avec l’image.  \n• Nettoyer, mixer et réexporter chaque fichier vidéo au même format et à la même résolution qu’à l’origine, sans perte de qualité.  \n\nJe fournis : les fichiers vidéo bruts, onze au total, le script exact à lire et les indications de rythme.  \n\nMission ponctuelle, livraison rapide appréciée.",
   "query": "python script",
   "found_at": "2026-08-20 00:23"
+ },
+ {
+  "id": 40658695,
+  "title": "Personal Mobility Prototype Development",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/embedded-systems/Personal-Mobility-Prototype-Development",
+  "desc": "I am planning a brand-new mobility device aimed at personal transportation—think along the lines of an electric scooter, but potentially lighter, smarter, and easier to live with. To get there I need an electrical engineer who can take the idea from blank page to fully tested working prototype.\n\nHere is what the assignment looks like on my end:\n\n• Research & concept validation  \n  – Analyse existing solutions and pinpoint realistic targets for speed, range, weight, and foldability.  \n  – Produce a short report that weighs trade-offs so we can lock in the primary feature set.\n\n• Electrical architecture  \n  – Select motors, batteries, BMS, motor controller, sensors, and charging solution.  \n  – Draft schematics, PCB layout, and provide BOM with sourcing info.\n\n• Prototype build  \n  – Assemble and wire the first unit, integrating the chosen components into a safe rideable chassis (mechanical help can be arranged if you specify requirements).  \n  – Flash firmware / configure controllers, then bench-test and road-test for performance and thermal behaviour.\n\n• Documentation & hand-off  \n  – Update the research report with real-world data, complete test logs, and supply all design files (schematics, Gerbers, firmware source, CAD).  \n  – Recommend next-step improvements for a pre-production run.\n\nKey tools you are likely to touch: Altium or KiCad for boards, MATLAB/Simulink or similar for drive modelling, basic CAN/UART debugging, and standard lab equipment for validation. If you pre",
+  "query": "data extraction",
+  "found_at": "2026-08-20 02:04"
+ },
+ {
+  "id": 40658687,
+  "title": "Parcel ID No. 03042601133 / 16205 Zion Road  Boundary Survey Report",
+  "budget_min": 100.0,
+  "budget_max": 500.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/land-surveying/Parcel-Zion-Road-Boundary-Survey",
+  "desc": "I need a licensed North Carolina land surveyor to establish and document the exact boundary of my property. My primary goal is to confirm and mark every corner, uncover any potential encroachments, and generate an updated legal description that can be filed with the county.  \n\nI already hold some deeds and an older survey plat that I can share as a starting point. Your job is to visit the site, collect fresh field data, reconcile it with the existing records, and then deliver a final, signed survey package I can rely on for legal or future building purposes.\n\nPlease include in your proposal the timeframe you need to schedule fieldwork, the equipment you will use (total station, GPS RTK, drone, AutoCAD Civil 3D, etc.), and how many hard-copy plats you normally provide alongside the digital files.\n\nDeliverables (to close the contract):\n• Sealed survey plat (PDF + 3 printed copies)  \n• Clearly set and flagged property corner monuments  \n• Written report outlining any encroachments found  \n• Revised legal description in Word and PDF  \n\nIf anything above needs clarification, let me know—I can supply the prior documents right away so we can get started.",
+  "query": "data extraction",
+  "found_at": "2026-08-20 02:04"
  }
 ]
