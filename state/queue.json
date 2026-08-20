@@ -2520,5 +2520,18 @@
   "desc": "I own a boutique that pairs designer fashion with a curated selection of wines, and I need a single mobile app that feels as polished as the products we sell. The core flow is straightforward: users create an account, browse our catalog, add items to a cart, review past buyers’ comments, and check out—all from either an iOS or Android device.\n\nEssential functions  \n• Secure email / social login and sign-up with password reset  \n• Intuitive product catalog that lets shoppers filter by clothing size, style, grape variety or region, with crisp images and rich descriptions  \n• Persistent shopping cart that updates stock in real time and supports multiple payment gateways  \n• Customer reviews visible in each product page, plus the ability for verified buyers to post new ones\n\nA clean, brand-aligned UI is critical; think minimalist, fashion-forward and easy to navigate even after a glass of wine. I will supply brand guidelines, product photos and copy. You will handle design, development, basic QA and publishing to both app stores. I’m open to a cross-platform stack—Flutter, React Native or similar—as long as performance remains smooth and native-feeling.\n\nAcceptance will be based on:  \n1. Successful builds approved in the App Store and Google Play  \n2. All listed features functioning without critical bugs  \n3. Handover of source code and brief documentation for future maintenance\n\nIf this sounds like your kind of project, tell me which framework you’d use and any relevant fashion ",
   "query": "google sheets automation",
   "found_at": "2026-08-20 23:16"
+ },
+ {
+  "id": 40660914,
+  "title": "Basement Damage Assessment Capture",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/photography/Basement-Damage-Assessment-Capture",
+  "desc": "I need a clear, well-organised record of my basement so I can move forward with a damage assessment report. The visit involves three main tasks:\n\n• Measurements – Capture accurate length, width, and height data for every wall and floor section.  \n• High-resolution photos – Provide wide shots and close-ups that show the full layout plus any surface irregularities.  \n• Walk-through video – A steady, narrated pass through the space, ending with a detailed look at the boiler room so the current condition of the mechanicals is unmistakable.\n\nWalls, floors, and the boiler-room equipment are the only areas that matter; windows, doors, and other utilities can be ignored unless they help illustrate an issue you notice while on site. Natural light is limited, so plan on using a work light or strong flash to ensure everything is clearly visible.\n\nDeliverables (uploadable folder or cloud link):\n1. A simple sketch or marked-up floor plan with all measurements in feet/inches (or metric if easier).  \n2. At least 20 crisp photos (JPEG or PNG).  \n3. One continuous video clip (MP4 or MOV, 1080p minimum) no longer than five minutes.  \n\nAll files should be clearly named and delivered within 48 hours of the site visit.",
+  "query": "data extraction",
+  "found_at": "2026-08-20 23:45"
  }
 ]
