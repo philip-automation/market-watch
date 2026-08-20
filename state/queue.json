@@ -960,5 +960,57 @@
   "desc": "KESSLER DYNAMICS PVT LTD\nDesign brief: conference poster (for Behance job posting)\nDocument ID: KD-BD-POSTER-001, v1.0\nDate: 20 August 2026\nPrepared by: Ishan Patel, Founder and CEO\nStatus: Draft for review before posting\n\n1. Purpose of this brief\nThis document is the design brief for a paid freelance job to be posted on Behance. Use it as the job description text and as the working reference once a designer is engaged. It replaces an earlier engagement for the same poster. That designer's background was in general graphic and print design rather than deep-tech or scientific poster work, and the job was not completed.\nSection 3 can be copied into the Behance job listing directly. The remaining sections are the working brief to hand to whoever is hired.\n2. About Kessler Dynamics\nKessler Dynamics is an Ahmedabad-based space technology company. We build three connected products: an on-orbit inspection satellite platform (KESTREL), an orbital intelligence platform (TALON), and a contactless technology for stabilising and moving non-cooperative objects in orbit (TORQUE). We are DPIIT-recognised, hold a DST NIDHI PRAYAS grant, and were a global winner of the Saudi Space Agency's DebriSolver competition and a Boeing regional winner in 2026. Company website: kesdyn.space.\n3. The job \nTitle\nConference poster design for a space technology startup (deep-tech / scientific style)\nDescription\nWe need one print-ready conference poster (100 cm wide by 150 cm high, portrait) that explains wha",
   "query": "data extraction",
   "found_at": "2026-08-20 05:40"
+ },
+ {
+  "id": 40659065,
+  "title": "Automate GLPI Technician Reports",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010456,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/automation/Automate-GLPI-Technician-Reports",
+  "desc": "I need GLPI to email out daily, weekly, and monthly technician-performance reports without manual intervention. Each report must pull the number of tickets each tech resolved and their average resolution time, then compile that data into a clean PDF ready for management review.  \n\nDelivery is needed ASAP.",
+  "query": "data extraction",
+  "found_at": "2026-08-20 06:18"
+ },
+ {
+  "id": 40659056,
+  "title": "Urban Mobility Prototype with Smartphone Connectivity",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/embedded-systems/Urban-Mobility-Prototype-with-Smartphone",
+  "desc": "I am building a compact personal-mobility device intended for everyday use in dense urban areas. The core requirement is seamless smartphone connectivity: riders should be able to pair their phones quickly, view key ride data, and handle basic controls through an app. I would also like the hardware to play nicely with a laptop for diagnostics or firmware updates, so please factor USB-C or Bluetooth LE into the electronics plan.\n\nHere is the scope as I see it:\n• Concept refinement and preliminary sketches that balance manoeuvrability with city-friendly dimensions  \n• Full CAD and mechanical design files (STEP or SolidWorks) suitable for rapid prototyping or CNC fabrication  \n• Electronics architecture, PCB layout, and embedded firmware enabling reliable phone pairing and the laptop-based service interface  \n• A working prototype (or clearly documented build package) that can be tested on typical city streets at moderate speed  \n• Brief test report outlining performance, connectivity stability, and any recommended tweaks\n\nSelf-balancing or GPS navigation are not mandatory, yet I am open to suggestions if you can integrate them without blowing up complexity.\n\nAcceptance criteria\n– Device operates for at least 30 minutes on a single charge under urban stop-and-go conditions  \n– Smartphone app displays real-time speed, battery level, and ride statistics with no dropouts during a 10-minute test run  \n– Firmware can be flashed or debugged via laptop in under 3 minutes  \n\nIf you have",
+  "query": "data extraction",
+  "found_at": "2026-08-20 06:18"
+ },
+ {
+  "id": 40659081,
+  "title": "Floral All-Over Dress Print",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010456,
+  "bids": 13,
+  "url": "https://www.freelancer.com/projects/textile-design/Floral-All-Over-Dress-Print",
+  "desc": "I’m developing a new women’s dress and need a seamless, all-over floral print that feels fresh, feminine, and production-ready. The job is to take my general vision—romantic florals that read well at dress scale—and turn it into a repeat pattern I can send straight to the factory.\n\nYou’ll interpret the brief creatively while keeping in mind fabric stretch, colour fastness, and placement on a full-length garment. Please avoid over-crowding; the print should breathe and flatter different sizes. I’m open to a limited colour palette or a few curated colourways if that helps the pattern pop.\n\nTo keep things clear, here’s what I need from you:\n• A seamless repeat pattern in vector format (AI or EPS) plus high-resolution RGB and CMYK TIFF/PNG exports  \n• At least two colourway options that stay true to the floral direction  \n• One simple mock-up showing the print on a dress silhouette (JPEG or PNG)  \n\nFiles must be layered and editable so my factory can make minor tweaks if required. If you’ve done textile work before, feel free to share examples—particularly anything floral or fashion-led. I’m ready to move quickly once we lock in a concept, and I’ll provide prompt feedback on sketches or swatches you send over.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-20 06:18"
+ },
+ {
+  "id": 40659129,
+  "title": "Virtual CFO, US & Australian GAAP Reporting, MIS & Finance Automation",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010456,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/financial-analysis/Virtual-CFO-Australian-GAAP-Reporting",
+  "desc": "Project Overview-\nWe are looking for an experienced Virtual CFO / Finance professional with strong expertise in US GAAP, Australian Accounting Standards (AASB), financial reporting, FP&A, management reporting and finance automation.\nThe objective is to establish a robust finance and reporting framework that provides management with accurate financial information, cash-flow visibility, forecasting, budgeting and actionable business insights.\nThe project will involve reviewing the existing finance function, strengthening financial reporting, developing management MIS, establishing forecasting and budgeting processes, improving finance controls and automating recurring reporting.\n\nScope of Work-\n1. US GAAP & Australian GAAP Financial Reporting\n•\tReview the existing accounting and reporting structure\n•\tMap accounts to appropriate financial statement classifications\n•\tPrepare/review P&L under US GAAP and AASB\n•\tPrepare/review Balance Sheet under both frameworks\n•\tPrepare/review Cash Flow Statement\n•\tIdentify relevant recognition and classification differences\n•\tEstablish an appropriate dual-reporting methodology\n•\tDevelop reconciliation between US GAAP and AASB where required\n2. Management MIS\nDevelop a comprehensive management reporting package covering:\n•\tRevenue\n•\tCOGS\n•\tGross profit\n•\tOperating expenses\n•\tEBITDA / operating income\n•\tWorking capital\n•\tAccounts receivable\n•\tAccounts payable\n•\tCash position\n•\tProfitability\n•\tKey business KPIs\n•\tVariance analysis\nInclude managemen",
+  "query": "python automation",
+  "found_at": "2026-08-20 06:18"
  }
 ]
