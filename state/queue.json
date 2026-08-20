@@ -2442,5 +2442,57 @@
   "desc": "Objective\nSet up a robust GitHub-based DevOps system to automate firmware development, testing, and deployment for Arduino, STM32 and Nordic controllers.\n\nHow to since we’re starting from scratch, we need help to design the GitHub architecture and repository structure. \n\nIt is required the initial architecture & planning document to mapping out how the GitHub setup will work before building it defining repositories, CI/CD stages, runners, scripts, and integrations so the system is efficient, scalable, and fits our firmware workflow.\n\nThe freelancer also must prepare a CI/CD project document outlining the proposed pipeline stages, tools, environments, and automation steps.\n\nWe can then review it and add our specific details so we can finalize the plan before implementation\n\nOnce approved, the freelancer’ll set up GitHub, configure runners, and implement the CI/CD pipelines for automate firmware development.",
   "query": "python automation",
   "found_at": "2026-08-20 22:14"
+ },
+ {
+  "id": 40655909,
+  "title": "Desarrollo sitio de reservas logos anamicion",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/content-management-system/Desarrollo-sitio-reservas-logos",
+  "desc": "Quiero poner en marcha ventas online a través de un sitio web orientado a reservas. Necesito:\n\n• Un sitio responsive y seguro donde mis clientes puedan elegir fechas, horarios y servicios, y completar la reserva en pocos pasos.  \n• Integración de pasarela de pago para aceptar tarjetas y otros métodos populares.  \n• Panel de administración sencillo para gestionar disponibilidad, modificar precios y recibir notificaciones de nuevas reservas.  \n• Optimización básica para buscadores y conexión con Google Analytics para seguir el rendimiento.  \n• Capacitación breve (guía o videollamada) que me permita actualizar textos, imágenes y configurar promociones por mi cuenta.\n\nEntrego contenidos e imágenes; se valora que me propongas un diseño atractivo, velocidad de carga y buenas prácticas SEO.",
+  "query": "web scraping",
+  "found_at": "2026-08-20 22:49"
+ },
+ {
+  "id": 40660822,
+  "title": "SkyExchange-Style Betting Platform Development",
+  "budget_min": 37500.0,
+  "budget_max": 75000.0,
+  "currency": "INR",
+  "usd_rate": 0.010441,
+  "bids": 20,
+  "url": "https://www.freelancer.com/projects/web-development/SkyExchange-Style-Betting-Platform",
+  "desc": "I need a full-featured betting website that mirrors the smooth, real-time experience of SkyExchange. The platform must cover three verticals right from launch—sports betting, casino games, and horse racing—and each market should update seamlessly with live odds so users can place in-play wagers without lag.\n\nLive betting is non-negotiable, so I’m looking for a development approach that supports real-time data streams, quick bet settlement, and intuitive bet slips across desktop and mobile. Security sits at the same priority level: every account must be protected by two-factor authentication, and the overall architecture should be ready for future compliance audits.\n\nPlease propose the tech stack you believe best balances speed, scalability, and ease of ongoing maintenance. If you have prior experience integrating odds feeds, payment gateways, or RNG-certified casino modules, highlight it—those will be decisive factors when I award the project.\n\nDeliverables  \n• Fully responsive website replicating SkyExchange-style UI/UX  \n• Integrated sports, casino, and horse racing markets with live odds and in-play support  \n• Two-factor authentication flow (email/SMS or app-based)  \n• Admin panel for market management, user KYC, and report generation  \n• Clean, well-documented codebase ready for handover\n\nTo help me gauge fit, include links to any comparable betting or gaming platforms you’ve shipped and outline the timeline you’d need to reach a production-ready launch.",
+  "query": "data extraction",
+  "found_at": "2026-08-20 22:49"
+ },
+ {
+  "id": 40660838,
+  "title": "AI Content & Video Creator for Two Businesses",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010441,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/ai-content-creation/Content-Video-Creator-for-Two",
+  "desc": "AI-Powered Instagram Content Creator & Video Editor – Ahmedabad\n\nI am looking for a creative AI-powered content creator / video editor for my two businesses in Ahmedabad — ClickNRent (Camera Rentals) and CityRide (Bike Rentals).\n\nI do NOT need only a traditional video editor or videographer. Since I cannot shoot new videos for every product regularly, I need someone who can use AI tools to create professional Instagram Posts, Reels, promotional videos and creative content from existing product photos, images and information.\n\nWhat I Need:\n\n- Create AI-generated / AI-enhanced Instagram Reels from product photos\n- Turn camera and bike photos into engaging short-form videos\n- Create cinematic product animations and motion graphics using AI\n- Create professional Instagram posts and promotional creatives\n- Use trending Instagram formats, memes, sounds and current trends\n- Keep the content modern, creative and Gen-Z friendly\n- Suggest new Reel ideas based on current Instagram trends\n- Create content suitable for rental businesses and local Ahmedabad audience\n- Ability to create content even when actual video footage is not available\n- Strong knowledge of AI video/image tools such as Kling, Runway, Veo, Sora, Midjourney, ChatGPT, CapCut AI, Canva AI or similar tools is a big advantage.\n\nImportant:\n\nI want someone who can think like a content creator, not just follow editing instructions.\n\nFor example, if I provide only a photo of a DJI Osmo Pocket 3, you should be able to turn that ",
+  "query": "ai chatbot",
+  "found_at": "2026-08-20 22:49"
+ },
+ {
+  "id": 40660830,
+  "title": "SLDPRT to DRW & PDF",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/technical-documentation/SLDPRT-DRW-PDF",
+  "desc": "I have between six and ten SolidWorks 2025 part files (SLDPRT) that must be turned into fully detailed DRW drawings and exported to PDF. These PDFs will serve as formal technical documentation, so accuracy and consistency are critical.\n\nEvery drawing needs to show:\n• All relevant dimensions  \n• Material specifications clearly called out  \n• The correct part number in the title block or an easily visible note  \n\nPlease keep the original model properties intact, use standard SolidWorks 2025 drawing templates, and set the sheet format so the PDFs print at 1:1 scale on A3 without manual adjustment. I will provide the SLDPRTs and any template files you might need; you return a matching DRW and PDF for each part.\n\nIf you have a proven workflow for batch converting while double-checking annotations, you’ll finish this quickly. Let me know roughly how long you expect the conversion and checking process to take once you receive the files, and I’ll send them straight over.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-20 22:49"
  }
 ]
