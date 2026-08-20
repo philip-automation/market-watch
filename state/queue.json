@@ -2416,5 +2416,31 @@
   "desc": "I run a Skool community called \"Unpublishable\" built for newbie and indie authors and I’m looking to bring in a steady stream of new members who are genuinely interested in writing, especially those that write \"transgressive\" or dark stories with morally grey characters.\n\nI’m leaning on text-driven content—snappy hooks, short persuasive threads, value nuggets, and calls-to-action that nudge writers straight into the Skool signup link.\n\nNb: I don't need content created for the group. Its a discussion group. I don't need promotional videos or images making for the group. I just need someone with access to a large social network that includes new authors and/or someone who knows how to target that group.\n\nIf you’ve grown writing or creative communities on Facebook or Instagram before, tell me about it when you apply.\n\nPrefer someone with specific knowledge of Skool, and how to promote groups like this. Don't want a lot of AI written spam posts. Want genuine human-written promotions.",
   "query": "ai chatbot",
   "found_at": "2026-08-20 21:48"
+ },
+ {
+  "id": 40660796,
+  "title": "Email Lead Generation for Gym Software",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010441,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/Email-Lead-Generation-for-Gym",
+  "desc": "I need help filling the top of my funnel with qualified decision-makers at fitness and health clubs so that I can turn more of them into paying subscribers of my gym management platform. My priority is clear: every lead you deliver should have a genuine potential to start a subscription, not just sit in a spreadsheet.\n\nHere’s how I picture the engagement working: you’ll research and verify contacts—owners, managers, or anyone who controls software purchases—then craft and send persuasive email sequences that highlight the platform’s benefits. I’m happy to provide product collateral, feature lists, and case studies; what I need from you is the strategy, copy, list building, and hands-on execution inside a modern email tool (Mailchimp, HubSpot, or similar).\n\nDeliverables  \n• A clean, well-segmented contact list of fitness and health club prospects (minimum 500 records, 95 %+ verified)  \n• Three-part email sequence: intro, value/feature spotlight, and call-to-action aimed at booking a demo or signing up directly  \n• Campaign setup, scheduling, and basic A/B testing of subject lines and calls to action  \n• Weekly performance report covering sends, opens, clicks, replies, and conversions, plus actionable next steps\n\nAcceptance criteria  \n• Bounce rate under 3 % and marked-as-spam rate below 0.1 %  \n• At least 10 % email open rate and 5 % reply or click-through on the final sequence  \n• All contact data compliant with CAN-SPAM/GDPR where applicable\n\nIf you already have proven tacti",
+  "query": "data extraction",
+  "found_at": "2026-08-20 22:14"
+ },
+ {
+  "id": 40660795,
+  "title": " GitHub CI/CD automation for firmware development",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/arduino/GitHub-automation-for-firmware",
+  "desc": "Objective\nSet up a robust GitHub-based DevOps system to automate firmware development, testing, and deployment for Arduino, STM32 and Nordic controllers.\n\nHow to since we’re starting from scratch, we need help to design the GitHub architecture and repository structure. \n\nIt is required the initial architecture & planning document to mapping out how the GitHub setup will work before building it defining repositories, CI/CD stages, runners, scripts, and integrations so the system is efficient, scalable, and fits our firmware workflow.\n\nThe freelancer also must prepare a CI/CD project document outlining the proposed pipeline stages, tools, environments, and automation steps.\n\nWe can then review it and add our specific details so we can finalize the plan before implementation\n\nOnce approved, the freelancer’ll set up GitHub, configure runners, and implement the CI/CD pipelines for automate firmware development.",
+  "query": "python automation",
+  "found_at": "2026-08-20 22:14"
  }
 ]
