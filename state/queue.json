@@ -2156,5 +2156,44 @@
   "desc": "Hey everyone,\n\nI’m looking for 1–2 appointment setters to help sell our reputation management software/service to local businesses in the US.\n\nThis is 100% cold calling and commission-only.\n\nWhat we provide:\n\nQualified/prospect lead lists\nOffer + sales process\nCRM / tracking system\nScripts and basic training\n\nYour role:\n\nCold call the leads provided\nSpeak confidently with US business owners\nQualify whether they’re a good fit\nBook qualified appointments\nAdd proper notes/details for the sales call\n\nCompensation: 30% commission on every client that closes from your booked appointments.\n\nYou are not required to close the deal yourself — your main responsibility is generating and qualifying appointments.\n\nLooking for someone who:\n\nHas previous cold calling / appointment-setting experience\nIs fluent in English and can communicate naturally with US prospects\nIs comfortable handling objections\nCan consistently make calls\nUnderstands that this is purely performance/commission based\n\nThe service is focused on helping local businesses improve and automate their Google reputation/review management using GoHighLevel.",
   "query": "google sheets automation",
   "found_at": "2026-08-20 16:56"
+ },
+ {
+  "id": 40660460,
+  "title": "Screw Tightening PLC Automation",
+  "budget_min": 75000.0,
+  "budget_max": 150000.0,
+  "currency": "INR",
+  "usd_rate": 0.010443,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/plc/Screw-Tightening-PLC-Automation",
+  "desc": "I have an 18-station screw-tightening line that needs a robust PLC program and on-site commissioning. You will start with the existing PLC backup and full electrical drawings, then tailor the logic so each station runs smoothly from part loading right through to validated torque confirmation and safe de-clamping.\n\nThe control platform is a mix of Siemens and Mitsubishi hardware, so proven experience with Step 7 / TIA Portal and GX Works (or the equivalent) is essential. If you are also comfortable on Allen-Bradley that’s a plus, but the core of the project must run flawlessly on the two brands already in place.\n\nA Delvo electric screwdriver system provides torque feedback; your code must capture that data, count every screw, compare it against setpoints, and trigger alarms or retries when tolerances are missed. I’ll rely on you to shape the sequence and all interlocks so operators can’t move to the next step unless every screw meets spec.\n\nKey deliverables  \n• Updated PLC program for all 18 stations  \n• Integrated Delvo torque and screw-count validation routine  \n• Comprehensive interlock and safety logic  \n• On-site testing, debugging and final hand-over with a clean run of approved parts  \n• Program documentation and updated electrical drawings reflecting all changes  \n\nWhen you reply, please include:  \n– Highlights of past Siemens / Mitsubishi projects, ideally involving screwdrivers or torque tools  \n– Screenshots or short clips that prove live torque capture and validati",
+  "query": "data extraction",
+  "found_at": "2026-08-20 17:38"
+ },
+ {
+  "id": 40660439,
+  "title": "Global Trade Analysis: Freeze-Dried & Turmeric Powder",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010443,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/market-research/Global-Trade-Analysis-Freeze-Dried",
+  "desc": "​Job Description:\nWe are looking for an experienced Global Trade Data & Market Research Analyst to conduct a comprehensive international trade analysis and lead generation project for Freeze-Dried Bananas and Turmeric Powder.\n​The ideal freelancer will have direct access to leading trade intelligence databases (such as Volza, Import Genius, Panjiva, or TradeMap) to extract customs shipment data, map supply chain dynamics, identify international buyers, and retrieve verified procurement contact information.\n​Target Product Lines & HSN Classifications\n​Freeze-Dried Bananas: HSN Code 0803-9090 / 0803-9010\n​Turmeric Powder: HSN Code 0910-3030\n​Key Responsibilities & Deliverables\n​1. B2B Importer & Decision-Maker Lead Extraction (Excel)\n​Extract an active list of verified global buyers and importers actively purchasing Freeze-Dried Bananas and Turmeric Powder.\n​Required Data Fields Per Lead:\n​Importer Company Name, Country, City/State, and Corporate Website.\n​Key Decision-Maker Contact Info (Head of Procurement, Sourcing Director, or Import Manager).\n​Direct Work Email Address (0% bounce rate verified), Direct Phone Number, and LinkedIn Profile Link.\n​Trade Linkages: Associated Indian Exporters currently used, main destination ports, and last active order date.\n​2. Granular Customs-Level Shipment Data (Excel)\n​Detailed historical shipment records for the target HSN codes across global trade flows.\n​Data to include: Importer & Exporter Names, exact declared customs product descript",
+  "query": "data extraction",
+  "found_at": "2026-08-20 17:38"
+ },
+ {
+  "id": 40660409,
+  "title": "B2B Apparel Sales Agent Needed",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010443,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/b2b-marketing/Apparel-Sales-Agent-Needed",
+  "desc": "Our textile house is entering Tanzania and Kenya, and I need a driven partner on the ground who can both open doors and make sense of the market. You will promote our clothing lines exclusively to B2B customers—wholesalers, large retailers, and institutional buyers—while gathering solid intelligence on how the sector really works in each country.\n\nBeyond day-to-day selling, I rely on you for three pillars of analysis: competitor moves, evolving customer needs, and wider market trends. That means tracking quantities moved, prevailing price points, key buying cycles, and any gaps you spot that we can exploit. Insights must be translated into concise reports I can act on quickly.\n\nCore deliverables\n• Monthly sales pipeline with contact status and forecast  \n• A quarterly market report covering competitors, demand drivers, pricing benchmarks, and seasonality  \n• Real-time feedback on product fit, fabric preferences, and potential new styles  \n\nSuccess looks like a growing roster of repeat B2B clients and data-backed recommendations that shape our next production run.\n\nIf you already navigate the apparel scene in Dar es Salaam, Nairobi, or both, and can balance relationship building with disciplined analysis, I’m ready to collaborate.",
+  "query": "data extraction",
+  "found_at": "2026-08-20 17:38"
  }
 ]
