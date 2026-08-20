@@ -2377,5 +2377,44 @@
   "desc": "I’m developing a compact, sensor-based device whose sole purpose is accurate movement tracking. I already have the core concept and need someone who can turn it into a fully functioning prototype—including schematic capture, PCB layout, firmware, and a testable board.\n\nHere’s what I need you to cover end-to-end:\n• Component selection and schematic for a motion sensor (an accelerometer/gyro combo is fine, but I’m open to other ideas that meet tracking accuracy and power goals).  \n• A two-layer (or better) PCB that keeps the footprint small and components readily sourceable.  \n• Embedded firmware that initializes the sensor, filters raw data, and exposes clean XYZ movement data over a simple serial or BLE link we can log on a laptop or phone.  \n• Bench validation: basic calibration routine, sample data plots, and confirmation the board survives normal handling.  \n• Manufacturing files—Gerbers, BOM, pick-and-place, compiled firmware, and a brief bring-up guide.\n\nI’ll provide any high-level mechanical constraints and branding assets once we start; you handle the electronics and code. If you have quick-turn PCB assembly contacts or can hand-assemble the first couple of units, mention that—it’s a plus.\n\nThe project wraps when I have a turnkey prototype in hand, running firmware that streams reliable movement data for at least 30 minutes on the bench without crashing.",
   "query": "data extraction",
   "found_at": "2026-08-20 21:13"
+ },
+ {
+  "id": 40660765,
+  "title": "German Interpreter for Technical Market Report Native",
+  "budget_min": 100.0,
+  "budget_max": 120.0,
+  "currency": "GBP",
+  "usd_rate": 1.363037,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/internet-marketing/German-Interpreter-for-Technical-Market",
+  "desc": "I have a very extensive market-analyst study in English that analyzes competitive actions in the technology industry, focusing on product advancements. Now I need the entire paper translated into fluent, native-level German, keeping all data points, graphic captions and industry nuances.\n\nYour objective is simple: provide a correct German translation that sounds like it was intended for a German-speaking executive audience. Clarity and accuracy are essential, since the report will inform strategic choices about future product releases and R&D goals. Please keep the original style, headers and any embedded figures. You are allowed to mark portions where cultural or language modification may improve reading.\n\nIf you have a tech background or have done competitive-analysis translations like this one, please say so - the language regarding evolving hardware, software ecosystems, innovation pipelines has to be precise. A quick language quality assessment by a second native speaker is an advantage and will speed up approval. Once we agree I will send you the source file and look forward to seeing it with your skilled touch.\n\nIf you cant bid on this projects because of the $20 kindly apply using the PDF/docs attached to this project.",
+  "query": "data extraction",
+  "found_at": "2026-08-20 21:48"
+ },
+ {
+  "id": 40660789,
+  "title": "Outbound Appointment Setter | B2B | Commission-Based | High Earnings Potential",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "EUR",
+  "usd_rate": 1.167845,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/sales/Outbound-Appointment-Setter-Commission",
+  "desc": "Please Read Before Applying\n\nThis is a 100% commission-based position. There is NO hourly pay, base salary, retainer, or guaranteed income.\n\nYou will earn commission only when a client you helped bring in successfully signs up and pays for our services.\n\nPlease apply only if you are comfortable working in a performance-based, commission-only sales role.\n\n\n\nAbout Telephoned.pro\n\nTelephoned.pro is an AI automation company that helps businesses automate repetitive, time-consuming processes and improve the way they communicate with customers, manage leads, and operate their business.\n\nWe design and implement custom AI and automation systems tailored to each client's business needs.\n\nOur solutions can include:\n\n* AI voice agents and AI receptionists\n* Automated customer communication and enquiry handling\n* Lead capture, qualification, and routing\n* Automated appointment booking and calendar management\n* Automated follow-ups for leads and customers\n* CRM and pipeline automation\n* Invoice and payment workflow automation\n* Internal workflow and operational automation\n* Custom AI solutions designed around a company's existing processes\n\nOur goal is to help businesses save time, reduce manual work, respond to customers faster, improve operational efficiency, capture more opportunities, and ultimately increase revenue.\n\nWe do not offer a one-size-fits-all solution. We work with businesses to identify repetitive or inefficient processes and implement AI-powered systems that can automate ",
+  "query": "ai chatbot",
+  "found_at": "2026-08-20 21:48"
+ },
+ {
+  "id": 40660784,
+  "title": "Promote Authors Skool Group",
+  "budget_min": 50.0,
+  "budget_max": 100.0,
+  "currency": "AUD",
+  "usd_rate": 0.710894,
+  "bids": 17,
+  "url": "https://www.freelancer.com/projects/social-media-marketing/Promote-Authors-Skool-Group",
+  "desc": "I run a Skool community called \"Unpublishable\" built for newbie and indie authors and I’m looking to bring in a steady stream of new members who are genuinely interested in writing, especially those that write \"transgressive\" or dark stories with morally grey characters.\n\nI’m leaning on text-driven content—snappy hooks, short persuasive threads, value nuggets, and calls-to-action that nudge writers straight into the Skool signup link.\n\nNb: I don't need content created for the group. Its a discussion group. I don't need promotional videos or images making for the group. I just need someone with access to a large social network that includes new authors and/or someone who knows how to target that group.\n\nIf you’ve grown writing or creative communities on Facebook or Instagram before, tell me about it when you apply.\n\nPrefer someone with specific knowledge of Skool, and how to promote groups like this. Don't want a lot of AI written spam posts. Want genuine human-written promotions.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-20 21:48"
  }
 ]
