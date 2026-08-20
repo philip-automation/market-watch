@@ -2364,5 +2364,18 @@
   "desc": "Je veux constituer un dossier PDF clair et exploitable sur deux catégories précises : les marques automobiles et divers objets de valeur.  \nVotre mission consiste à :  \n• Rechercher en ligne pour chaque marque ou produit retenu les éléments suivants : prix actuel, modèle ou référence exacte, date de sortie/lancement ainsi que la liste de concurrents directs.  \n• Structurer ces données de façon logique et cohérente.  \n• Illustrer les grandes tendances par des graphiques simples (évolutions de prix, comparatif concurrents, etc.) et compléter par un texte descriptif concis qui résume vos observations principales.  \n\nFormat attendu : un fichier PDF final, paginé et prêt à être partagé. Les tableaux de données pourront être créés dans Excel ou Google Sheets avant exportation si cela facilite la mise en forme des graphiques.  \n\nJe privilégie la précision des sources, la cohérence des formats et une présentation visuelle soignée.",
   "query": "google sheets automation",
   "found_at": "2026-08-20 20:39"
+ },
+ {
+  "id": 40660730,
+  "title": "Motion-Tracking Sensor Prototype",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010441,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/embedded-systems/Motion-Tracking-Sensor-Prototype",
+  "desc": "I’m developing a compact, sensor-based device whose sole purpose is accurate movement tracking. I already have the core concept and need someone who can turn it into a fully functioning prototype—including schematic capture, PCB layout, firmware, and a testable board.\n\nHere’s what I need you to cover end-to-end:\n• Component selection and schematic for a motion sensor (an accelerometer/gyro combo is fine, but I’m open to other ideas that meet tracking accuracy and power goals).  \n• A two-layer (or better) PCB that keeps the footprint small and components readily sourceable.  \n• Embedded firmware that initializes the sensor, filters raw data, and exposes clean XYZ movement data over a simple serial or BLE link we can log on a laptop or phone.  \n• Bench validation: basic calibration routine, sample data plots, and confirmation the board survives normal handling.  \n• Manufacturing files—Gerbers, BOM, pick-and-place, compiled firmware, and a brief bring-up guide.\n\nI’ll provide any high-level mechanical constraints and branding assets once we start; you handle the electronics and code. If you have quick-turn PCB assembly contacts or can hand-assemble the first couple of units, mention that—it’s a plus.\n\nThe project wraps when I have a turnkey prototype in hand, running firmware that streams reliable movement data for at least 30 minutes on the bench without crashing.",
+  "query": "data extraction",
+  "found_at": "2026-08-20 21:13"
  }
 ]
