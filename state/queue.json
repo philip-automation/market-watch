@@ -2494,5 +2494,31 @@
   "desc": "I have between six and ten SolidWorks 2025 part files (SLDPRT) that must be turned into fully detailed DRW drawings and exported to PDF. These PDFs will serve as formal technical documentation, so accuracy and consistency are critical.\n\nEvery drawing needs to show:\n• All relevant dimensions  \n• Material specifications clearly called out  \n• The correct part number in the title block or an easily visible note  \n\nPlease keep the original model properties intact, use standard SolidWorks 2025 drawing templates, and set the sheet format so the PDFs print at 1:1 scale on A3 without manual adjustment. I will provide the SLDPRTs and any template files you might need; you return a matching DRW and PDF for each part.\n\nIf you have a proven workflow for batch converting while double-checking annotations, you’ll finish this quickly. Let me know roughly how long you expect the conversion and checking process to take once you receive the files, and I’ll send them straight over.",
   "query": "pdf extraction",
   "found_at": "2026-08-20 22:49"
+ },
+ {
+  "id": 40660860,
+  "title": "Global Luxury Watch Investor Outreach -- 2",
+  "budget_min": 50000.0,
+  "budget_max": 100000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/catch-phrases/Global-Luxury-Watch-Investor-Outreach",
+  "desc": "Our online platform already sells a curated range of high-end jewellery with a core focus on luxury watches, and sales are strong enough to justify the next leap: opening flagship stores in the United States, the UAE, France and Germany. To secure the capital and retail partners that will make these boutiques possible, I need an eye-catching, data-driven investor package.\\n\\nThe assignment centres on crafting persuasive collateral that speaks directly to investors and potential retail partners alike. Think a beautifully designed pitch deck that flows like a story, elegant brochures a family office can leaf through, and infographics that distil market gaps, margins and growth projections at a glance. If you can also script or storyboard a concise video teaser, that’s a welcome bonus.\\n\\nFor retail partners, the materials should highlight the operational support we provide and the single key service we expect in return: \\n• Store management\\n\\nI will supply brand guidelines, current sales data and an outline of our expansion roadmap. You will translate that information into a clear investment thesis, compelling visuals and a confident voice that resonates across cultures—especially in our four target regions.\\n\\nFinal deliverables should be press-ready (PDF) and presentation-ready (PowerPoint or Keynote), with editable source files so we can localise content as negotiations advance.",
+  "query": "data extraction",
+  "found_at": "2026-08-20 23:16"
+ },
+ {
+  "id": 40660875,
+  "title": "Fashion Wine Store Mobile App",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/flutter/Fashion-Wine-Store-Mobile-App",
+  "desc": "I own a boutique that pairs designer fashion with a curated selection of wines, and I need a single mobile app that feels as polished as the products we sell. The core flow is straightforward: users create an account, browse our catalog, add items to a cart, review past buyers’ comments, and check out—all from either an iOS or Android device.\n\nEssential functions  \n• Secure email / social login and sign-up with password reset  \n• Intuitive product catalog that lets shoppers filter by clothing size, style, grape variety or region, with crisp images and rich descriptions  \n• Persistent shopping cart that updates stock in real time and supports multiple payment gateways  \n• Customer reviews visible in each product page, plus the ability for verified buyers to post new ones\n\nA clean, brand-aligned UI is critical; think minimalist, fashion-forward and easy to navigate even after a glass of wine. I will supply brand guidelines, product photos and copy. You will handle design, development, basic QA and publishing to both app stores. I’m open to a cross-platform stack—Flutter, React Native or similar—as long as performance remains smooth and native-feeling.\n\nAcceptance will be based on:  \n1. Successful builds approved in the App Store and Google Play  \n2. All listed features functioning without critical bugs  \n3. Handover of source code and brief documentation for future maintenance\n\nIf this sounds like your kind of project, tell me which framework you’d use and any relevant fashion ",
+  "query": "google sheets automation",
+  "found_at": "2026-08-20 23:16"
  }
 ]
