@@ -921,5 +921,44 @@
   "desc": "BUSCO DIAGRAMADOR EDITORIAL PARA AMAZON KDP\nEstoy buscando un Diagramador Editorial de libros, con experiencia comprobable en Amazon Kindle Direct Publishing (KDP) para preparar la versión final de mi libro:  VIVIR: Una Decisión\n\nCARACTERÍSTICAS DEL PROYECTO\n• Libro de 220 páginas. \n• Contiene 29 fotografías.\n• Manuscrito en Microsoft Word.\n• Tamaño final: 13 × 20.5 cm (5.12” × 8.07”).\n• Destino final: Amazon KDP (Paperback).\nBUSCO UN PROFESIONAL CON EXPERIENCIA EN\n• Diagramación editorial de libros.\n• Amazon Kindle Direct Publishing (KDP).\n• Adobe InDesign (preferiblemente).\n• Preparación y entrega de un PDF profesional, listo para impresión y aceptado por Amazon KDP.\nFAVOR INDICAR EN SU PROPUESTA\n• Experiencia en diagramación editorial de libros para Amazon KDP.\n• Si es posible, enviar ejemplos o enlaces de libros publicados.\n• Tiempo estimado de entrega.\n• Costo total por realizar este trabajo.\nSe dará preferencia a profesionales residentes en Guatemala; sin embargo, la CONVOCATORIA ESTÁ ABIERTA A PROFESIONALES DE CUALQUIER PAÍS que cuenten con experiencia comprobable en diagramación de libros para Amazon KDP.\n\nPRESUPUESTO DEL PROYECTO\nMi presupuesto para la diagramación completa del libro es de US$150, ya que actualmente cuento con una propuesta de un profesional en Argentina por ese valor. Estoy abierto a recibir otras propuestas, especialmente de profesionales con experiencia comprobable en Amazon KDP.",
   "query": "pdf extraction",
   "found_at": "2026-08-20 04:49"
+ },
+ {
+  "id": 40659045,
+  "title": "OCR WhatsApp Photo Data Extractor",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.01046,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/optical-character-recognition/OCR-WhatsApp-Photo-Data-Extractor",
+  "desc": "I receive a steady flow of vehicle-related photos on WhatsApp and I need the key information—both the licence-plate number and the odometer reading—pulled out automatically. Your task is to build an AI-powered vision pipeline (Tesseract, EasyOCR, Google Vision, or any equivalent you trust) that ingests the image, locates the two text regions, and returns clean, validated strings.\n\nRight now I want the results delivered into a structured Excel sheet the moment each photo is processed. If you architect the solution so an API or webhook endpoint can be switched on later, that would be a bonus but not mandatory for this first milestone.\n\nSpeed matters: I’m aiming to have a working prototype ASAP, so please come prepared with a clear plan for model selection, training or fine-tuning if needed, and basic error handling (blurry shots, partial plates, odd fonts). \n\nDeliverables \n• A runnable script or small service that monitors a WhatsApp media folder (or another ingestion method you propose) and processes new images in real time  \n• An Excel workbook populated row-by-row with timestamp, vehicle number, and kilometers  \n• Brief setup notes so I can deploy the tool on my own machine or server\n\nAcceptance criteria: 95 %+ correct extraction on a test batch of recent images, zero duplicates, and creation of the Excel file without manual intervention.",
+  "query": "data extraction",
+  "found_at": "2026-08-20 05:40"
+ },
+ {
+  "id": 40659016,
+  "title": "Project Needed for SAP MM Consultant",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.01046,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/sap/Project-Needed-for-SAP-Consultant",
+  "desc": "Hi all,\n\nI'm currently looking for SAP MM freelance opportunities where I can apply my knowledge. I'm having around 4 years of experience in SAP MM S/4 HANA , with experience in procurement processes, inventory management, vendor management, pricing procedures, and support activities. \n\nI am currently looking for new opportunities to enhance my career and contribute my skills.\n\nMaterial & Vendor Master Data\nProcure-to-Pay (P2P)\nPR & PO Processing\nRFQ & Quotation\nGoods Receipt (GR) & Invoice Verification (LIV)\nInventory Management\n\nI would be grateful if you could help me with a referral.\n\nOpen to suitable opportunities and collaborations.\n#SAPMM #SAPS4HANA #P2P #SAPFunctionalConsultant #SAPJobs #SAPFreelancer #Procurement2Pay #Freelance #SAPConsultant",
+  "query": "data extraction",
+  "found_at": "2026-08-20 05:40"
+ },
+ {
+  "id": 40659021,
+  "title": "Deep-Tech Conference Poster Design",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.01046,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/poster-design/Deep-Tech-Conference-Poster-Design",
+  "desc": "KESSLER DYNAMICS PVT LTD\nDesign brief: conference poster (for Behance job posting)\nDocument ID: KD-BD-POSTER-001, v1.0\nDate: 20 August 2026\nPrepared by: Ishan Patel, Founder and CEO\nStatus: Draft for review before posting\n\n1. Purpose of this brief\nThis document is the design brief for a paid freelance job to be posted on Behance. Use it as the job description text and as the working reference once a designer is engaged. It replaces an earlier engagement for the same poster. That designer's background was in general graphic and print design rather than deep-tech or scientific poster work, and the job was not completed.\nSection 3 can be copied into the Behance job listing directly. The remaining sections are the working brief to hand to whoever is hired.\n2. About Kessler Dynamics\nKessler Dynamics is an Ahmedabad-based space technology company. We build three connected products: an on-orbit inspection satellite platform (KESTREL), an orbital intelligence platform (TALON), and a contactless technology for stabilising and moving non-cooperative objects in orbit (TORQUE). We are DPIIT-recognised, hold a DST NIDHI PRAYAS grant, and were a global winner of the Saudi Space Agency's DebriSolver competition and a Boeing regional winner in 2026. Company website: kesdyn.space.\n3. The job \nTitle\nConference poster design for a space technology startup (deep-tech / scientific style)\nDescription\nWe need one print-ready conference poster (100 cm wide by 150 cm high, portrait) that explains wha",
+  "query": "data extraction",
+  "found_at": "2026-08-20 05:40"
  }
 ]
