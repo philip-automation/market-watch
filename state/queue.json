@@ -791,5 +791,57 @@
   "desc": "I run a busy Telegram group and need someone who can stay on top of two core tasks: moderating every conversation so spam and rule-breakers never linger, and pushing out a clear, engaging announcement each day. I’ll supply the content outline or raw notes; you’ll polish it, format it for Telegram, and post on schedule.  \n\nBecause quick coordination matters, you should be able to work in my own time zone, hopping into the chat during my peak hours to handle infractions promptly and confirm the daily update went live.  \n\nKey deliverables:  \n• Continuous chat moderation with swift removals and bans when needed  \n• One well-crafted announcement posted daily, aligned with the brand’s tone  \n• Brief weekly summary highlighting issues handled and member sentiment  \n\nStrong command of Telegram’s admin tools and anti-spam bots will make the job straightforward. When you reply, mention similar communities you’ve managed and the moderation tools you rely on so I can see you’re ready to hit the ground running.",
   "query": "telegram bot",
   "found_at": "2026-08-20 03:13"
+ },
+ {
+  "id": 40658887,
+  "title": "AI-Based Executive Career Platform MVP",
+  "budget_min": 75000.0,
+  "budget_max": 150000.0,
+  "currency": "INR",
+  "usd_rate": 0.010458,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/genai/Based-Executive-Career-Platform-MVP",
+  "desc": "# AI Multi-Agent Career Intelligence Platform for Executive Job Search — MVP\n\n## Project Overview\n\nWe are looking for an experienced **AI/GenAI developer or small development team** to build an MVP of an AI-powered career intelligence platform for senior professionals and executives seeking opportunities in India and international markets.\n\nThis is **not simply a job-search scraper or resume generator**.\n\nThe objective is to build a modular multi-agent application that can discover relevant opportunities, intelligently filter and rank them, analyse Job Descriptions against a candidate's experience, create tailored resumes, prepare the candidate for interviews, and track the overall job-search journey.\n\nThe initial MVP should be kept practical and achievable, while the architecture should allow additional AI agents and capabilities to be added later.\n\n## Phase 1 MVP Workflow\n\n**Candidate Profile → Job Discovery → Filtering & Ranking → JD Analysis → Resume Alignment → Interview Preparation → Activity Tracking**\n\n### 1. Candidate Profile / Career Profile\n\nCreate a structured profile containing information such as:\n\n* Employment history\n* Roles and responsibilities\n* Skills\n* Leadership experience\n* Industries\n* Projects\n* Achievements\n* Education and certifications\n* Preferred roles\n* Preferred countries/locations\n* Compensation expectations\n* Remote/hybrid/onsite preference\n* Career objectives\n\nThe profile should become the trusted source of candidate information used by the AI",
+  "query": "web scraping",
+  "found_at": "2026-08-20 04:02"
+ },
+ {
+  "id": 40658869,
+  "title": "Network Testing Specialists Needed in Uzbekistan -- 2",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/project-management/Network-Testing-Specialists-Needed-40658869",
+  "desc": "We are seeking Network Testing Specialists in Uzbekistan to assist our engineering team with network telemetry, signal stability, and data routing testing.\n\nKey Requirements\n\nMust deploy and manage up to 6 dedicated Probes (Android devices) acting as network testing nodes per location.\n\nMust download and install our proprietary diagnostic app alongside required network testing tools on every probe.\n\nConnectivity: Must be physically located in Uzbekistan with active local mobile data coverage for each device.\n\nEnvironment: Access to a continuous power source and a stable Wi-Fi connection to keep all probes online 24/7.\n\nScope & Milestones\nThis project strictly involves network telemetry, data routing, and latency monitoring.\n\nMilestone 1: Probe Setup & Baseline Validation ($100 USD)\n\nInstall our proprietary application and essential network diagnostic tools on all assigned probes (up to 6 devices).\n\nConfigure network settings and verify active telemetry log transmission from all devices to our central server.\n\nMilestone 2: 30-Day Continuous Monitoring & Stability ($300 USD)\n\nMaintain 24/7 power, app uptime, and mobile network connectivity for all active probes over 30 days.\n\nProvide a brief daily checklist confirming active hardware and connection status.\n\nInterested candidates may reply directly with their location and the number of devices available.",
+  "query": "data extraction",
+  "found_at": "2026-08-20 04:02"
+ },
+ {
+  "id": 40658850,
+  "title": "CRM & MarTech Strategy Specialist Needed",
+  "budget_min": 37500.0,
+  "budget_max": 75000.0,
+  "currency": "INR",
+  "usd_rate": 0.010458,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/data-analytics/CRM-MarTech-Strategy-Specialist-Needed",
+  "desc": "CRM & MarTech Lead\nRemote | Freelance | 6+ Years Experience\n\nWe’re looking for a CRM & MarTech Lead to own customer lifecycle strategy across acquisition, engagement, retention, reactivation and loyalty. You’ll work at the intersection of CRM, customer data, MarTech, analytics and growth, partnering with Marketing, Data, Engineering and Product teams to turn business objectives into scalable, measurable CRM programs.\n\nWhat You’ll Do\n• Own CRM & lifecycle strategy and build a roadmap aligned with business goals.\n• Design journeys across onboarding, engagement, retention, churn prevention and win-back.\n• Build segmentation, personalization and automated lifecycle campaigns.\n• Manage and optimize CRM/MarTech ecosystem integrations.\n• Partner with Data & Engineering on Customer 360, identity resolution, data quality and audience activation.\n• Define event tracking, customer attributes and data requirements.\n• Drive Email, SMS and other omnichannel CRM programs.\n• Establish A/B testing, control groups and experimentation frameworks.\n• Improve marketing attribution, conversion tracking and campaign measurement.\n• Translate business requirements into technical requirements and actionable user stories.\n• Lead initiatives from discovery → implementation → measurement → optimization.\n\nTechnology Exposure\n• CRM: Braze, Salesforce Marketing Cloud, Iterable, CleverTap, MoEngage\n• CDP: mParticle, Segment\n• Data: Azure, Snowflake, BigQuery, Redshift\n• Analytics: GA4, Amplitude, Looker, Powe",
+  "query": "data extraction",
+  "found_at": "2026-08-20 04:02"
+ },
+ {
+  "id": 40658888,
+  "title": "Instagram API Meta Approval Assistance",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010458,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/api/Instagram-API-Meta-Approval-Assistance",
+  "desc": "I run a SaaS platform that plugs into Instagram for user authentication, Auto Direct Messaging, post scheduling, and in-depth analytics. To go live we must clear Meta’s App Review, which means producing a rock-solid permission request, privacy documentation, and—most important—the step-by-step video flow that proves each feature works exactly as Meta expects.\n\nI’ve already built the features and wired in the Instagram Graph API, but I have no time to orchestrate the review package. If you have recently guided an app through Meta approval for Auto Direct Messaging, content publishing, and insights, I’d love you to take the reins here.\n\nKey deliverables I need from you:  \n• A written breakdown of every permission we must request (e.g. business_messaging, instagram_manage_messages, instagram_content_publish, instagram_manage_insights) with the exact language that has succeeded for you before.  \n• A privacy-policy and terms quick audit with any edits required for compliance.  \n• A full-length HD screen-capture video that walks reviewers through sign-up, Instagram authentication, sending an automated DM, scheduling a post, and viewing analytics—voice-over explaining each step.  \n• Support through at least one resubmission in case Meta asks for clarification.\n\nEverything will be provided—test accounts, staging URL, and feature toggles—so you can record clean, reviewer-friendly footage. Once Meta signs off, the job is done. If you know the Meta review quirks and can turn this around",
+  "query": "chatgpt api",
+  "found_at": "2026-08-20 04:02"
  }
 ]
