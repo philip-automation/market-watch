@@ -674,5 +674,31 @@
   "desc": "I run an Instagram account that targets a US-based audience and I’m ready to deepen the relationship with our followers through genuine, one-to-one conversations. Your entire focus will be follower engagement—specifically direct messaging.  \n\nHere’s what I need from you:  \n• Log in to the brand’s Instagram profile each day, identify new followers as well as recent engagers, and start a friendly, on-brand conversation with them via DM.  \n• Keep the tone warm, concise and consistent with the voice guidelines I’ll share.  \n• Track each conversation in a simple Google Sheet (name, date, purpose, next step) so I can see progress at a glance.  \n• Flag hot leads or urgent support questions immediately so I can jump in when needed.  \n\nSuccess looks like steady, respectful dialogue with at least 30 new or existing followers per day, zero unanswered messages in the inbox, and an organized log I can review any time. If you’re comfortable working US hours, writing fluid, idiomatic English, and you genuinely enjoy chatting on Instagram, let’s get started.",
   "query": "google sheets automation",
   "found_at": "2026-08-21 21:09"
+ },
+ {
+  "id": 40662855,
+  "title": "Sovereign Yield Data Extraction",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 20,
+  "url": "https://www.freelancer.com/projects/data-extraction/Sovereign-Yield-Data-Extraction",
+  "desc": "I need a Bloomberg-savvy freelancer to pull annual year-end sovereign bond yields for 56 countries from 2004 through 2025. Please use the 10-Year Constant Maturity (or the country’s 10-year point on the yield curve when “constant maturity” is not available) and export the data straight from the Bloomberg Terminal.\n\nThe spreadsheet should follow this structure: place every country on its own row, year columns running left to right, with an additional column that contains the full year-end yield curve for that date (that box in BDH that produces the curve points is fine). Bloomberg’s native Excel layout is acceptable—there’s no required template—just keep all countries together in a single sheet as noted above.\n\nDeliverables\n• The raw Bloomberg Excel file(s) showing the BDH or BDL tickers you used  \n• A cleaned master sheet combining the 2004-2025 year-end 10-year yield plus the accompanying curve data, one row per country  \n\nI will double-check the numbers in Terminal, so please keep the Bloomberg headers and time stamps intact for traceability.",
+  "query": "data extraction",
+  "found_at": "2026-08-21 22:04"
+ },
+ {
+  "id": 40662867,
+  "title": "Welding Visualizations & Geometry Illustrator",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "EUR",
+  "usd_rate": 1.167951,
+  "bids": 20,
+  "url": "https://www.freelancer.com/projects/welding/Welding-Visualizations-Geometry",
+  "desc": "PROJECT TITLE\n\nSpecialist for Realistic Weld Joint Geometries and Multi-Pass Weld Visualizations – Approximately 300 Static Images\n\nPROJECT OVERVIEW\n\nI am looking for a specialist to create approximately 300 consistent static images showing weld-joint preparations and realistic welding sequences.\n\nThe software used is not important. The images may be created with any suitable combination of:\n\n- CAD software\n- 3D modelling software\n- Rendering software\n- Technical illustration software\n- Vector or raster graphics software\n- Parametric modelling tools\n- Scripts or automated image-generation tools\n\nAutodesk Inventor is not required.\n\nThe final result, technical accuracy and consistent appearance are more important than the software used.\n\nPROJECT SCOPE\n\nAn Excel combination matrix with approximately 150 configurations will be provided.\n\nTwo separate images are required for every configuration:\n\n1. One weld-joint geometry image\n2. One corresponding welding-sequence image\n\nThe complete scope is approximately 300 static images.\n\nTOTAL FIXED PRICE\n\nThe fixed total budget for the complete project is EUR 100.\n\nThe price includes:\n\n- Approximately 150 geometry images\n- Approximately 150 welding-sequence images\n- Required corrections\n- Correct filenames\n- Completed Excel matrix\n- Final static PNG files\n- Any templates, models or scripts used to generate the images, if available\n\nPlease apply only if you can complete the entire project for this fixed price.\n\nTEN EVALUATION IMAGES\n\nBefore",
+  "query": "excel automation",
+  "found_at": "2026-08-21 22:04"
  }
 ]
