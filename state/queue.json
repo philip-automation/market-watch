@@ -596,5 +596,31 @@
   "desc": "I have two YouTube videos whose music I need turned into MP3 files. I only want particular sections from each clip, not the full tracks. Once we start, I’ll send you the video links plus clear, plain-language notes that describe the exact moments to capture (for example, “chorus that starts right after 2nd verse and fades before applause”). \n\nYour job is to:\n\n• Download each video, isolate the requested sections exactly as described, and export them as separate, clean MP3s—one file per video.  \n• Deliver the files in good-sounding, listener-ready quality (320 kbps preferred, but feel free to suggest an alternate setting if it helps retain fidelity).  \n• Trim any residual silence or abrupt clicks at the in/out points so the cuts sound natural.\n\nTypical tools like youtube-dl, yt-dlp, ffmpeg, Audacity, or similar are fine as long as the final audio is artifact-free.\n\nPlease confirm you can match the timestamps from descriptive notes before you begin, and let me know roughly how quickly you can turn this around.",
   "query": "data extraction",
   "found_at": "2026-08-21 19:54"
+ },
+ {
+  "id": 40662785,
+  "title": "Dissertation Research & Data Collection",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/data-collection/Dissertation-Research-Data-Collection",
+  "desc": "I am at the data-gathering stage of my dissertation and need an experienced academic researcher to take ownership of that phase. The study follows a competitive case-study design; I will share the topic, research questions, and any access permissions once we start.\n\nYour role is to design and carry out a robust data-collection plan that fits those questions, then hand over clean, well-organised raw data together with a concise methodological memo that explains every step you took. Typical tools might include Excel or Google Sheets for data logs, online survey platforms for primary inputs, and reference-management software to keep sources traceable, but I am open to whatever you feel is most appropriate.\n\nI will use your material directly in the dissertation, so academic rigour, clear documentation, and ethical compliance are non-negotiable. Please attach a detailed project proposal outlining your approach, timeline, and any data-gathering instruments you intend to use; I will shortlist based on the strength of that plan rather than past work or general experience blurbs.  \n\nIf you have questions about scope or access, message me and I’ll clarify before you commit.",
+  "query": "data extraction",
+  "found_at": "2026-08-21 20:35"
+ },
+ {
+  "id": 40662787,
+  "title": "Especialista en Generación de Leads B2B",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/appointment-setting/Especialista-Generaci-Leads",
+  "desc": "Busco especialista en **generación de leads B2B y creación de funnels enfocados en conseguir citas con prospectos calificados** para una agencia de marketing y servicios creativos.\n\nEl objetivo NO es únicamente crear una landing page o configurar un CRM. Buscamos desarrollar un **sistema completo y escalable de prospección y generación de citas B2B**.\n\n### Objetivo del proyecto\n\nConstruir un funnel capaz de identificar, contactar, nutrir y convertir prospectos B2B en **reuniones comerciales calificadas** con tomadores de decisión.\n\n### Alcance esperado\n\nEl freelancer deberá ser capaz de:\n\n* Analizar y definir nuestro ICP (Ideal Customer Profile).\n* Identificar los segmentos con mayor potencial.\n* Diseñar la estrategia de captación y prospección.\n* Crear una propuesta/oferta atractiva para generar reuniones.\n* Construir bases de datos de prospectos calificados.\n* Diseñar campañas de Cold Email.\n* Diseñar estrategia de prospección mediante LinkedIn.\n* Crear secuencias de seguimiento multicanal.\n* Desarrollar o estructurar landing pages de conversión.\n* Crear formularios de precalificación.\n* Integrar sistema de agenda para reuniones.\n* Configurar automatizaciones y nurturing.\n* Integrar todo el proceso con CRM.\n* Implementar Lead Scoring.\n* Diseñar pipeline comercial.\n* Crear dashboards para seguimiento de KPIs.\n* Realizar pruebas A/B y optimización del funnel.\n\n### Herramientas deseables\n\nExperiencia comprobable con herramientas como:\n\nHubSpot, GoHighLevel, Apollo, LinkedIn Sa",
+  "query": "python automation",
+  "found_at": "2026-08-21 20:35"
  }
 ]
