@@ -2806,5 +2806,83 @@
   "desc": "I need a fully-defined SolidWorks model and drawing package for a forming die that will hot-bend a shovel blade at about 850 °C. The geometry must exactly match my shovel profile and include all critical dimensions, GD&T call-outs, and clearances so the die can be machined without guesswork.\n\nThe working material is A2 Tool Steel, so please size radii, draft, fillets, and reliefs with that alloy’s heat-resistance and hardening behaviour in mind. I will supply the basic shovel outline and target bend angle; you translate that into a two-piece die (punch and cavity) complete with backing plates, bolt patterns, and any ejector or alignment features you recommend.\n\nDeliverables\n• Native SolidWorks 3D files (.sldprt / .sldasm) for every component  \n• Fully-dimensioned 2D manufacturing drawings showing tolerances and surface finishes  \n• Exploded view and simple assembly instructions (PDF)  \n• A STEP file of the complete assembly for CNC import  \n\nAcceptance criteria: all dimensions present, tolerances readable at print size, mating faces coincide in SolidWorks interference check, and files open error-free in SolidWorks 2021 or newer.\n\nIf you have questions about the shovel profile or press tonnage, let me know early so we can lock the design quickly.",
   "query": "pdf extraction",
   "found_at": "2026-08-21 05:07"
+ },
+ {
+  "id": 40661327,
+  "title": "Blender 3D Artist - Furniture Model Fixing",
+  "budget_min": 37500.0,
+  "budget_max": 75000.0,
+  "currency": "INR",
+  "usd_rate": 0.010447,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/blender/Blender-Artist-Furniture-Model-Fixing",
+  "desc": "Freelance 3D Artist - Furniture Model Fixing\n\nThe work:\n\nWe have 75–120 existing 3D furniture models — sofas, chairs, tables, storage and similar — used on our product pages. They have problems and need to be fixed so they look right and load fast on the web.\nAll the models already exist. This is fixing work only — no new modelling. We give you the source files.\n\nWhat needs fixing:\n\nWrong proportions or dimensions against the real furniture spec\nWrong scale, wrong orientation, off-centre pivots\nMaterials and textures — correct fabric, wood, metal and leather PBR setup, correct maps, oversized textures\n\nWhat we need back:\n\n.glb file (glTF 2.0) — under 50,000 triangles and under 5 MB per model\nEditable source file (.blend or .fbx), tidy and properly named\nTextures — 2K maximum, 1K preferred\nMetres, 1:1 real-world scale matching product dimensions, Y-up, pivot at the base centre (so it sits on the floor)\nModel must load in our viewer with no errors\nTimeline\nDay 1 — we hand over the files; you fix 2–3 samples for us to approve\nDays 2–6 — you send batches daily, we review and give feedback quickly\nDay 7 — final fixes and full delivery\nThat is roughly 12–18 models a day, so we need someone available full-time this week, or a small team.\n\nWho we need:\n\n3+ years of 3D asset work, with real cleanup and optimisation experience\nFurniture, product or interior asset experience preferred Blender\nHas delivered .glb / glTF models for web before\nFast and reliable on high-volume, repetitive wo",
+  "query": "web scraping",
+  "found_at": "2026-08-21 05:51"
+ },
+ {
+  "id": 40661325,
+  "title": "iPhone Battery Flex Testing Analysis",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "SGD",
+  "usd_rate": 0.787566,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/embedded-systems/iPhone-Battery-Flex-Testing-Analysis",
+  "desc": "I’m running a series of embedded-system tests on iPhone battery flex cables and I need a specialist who already works hands-on with iPhone hardware repair to help me turn raw sensor readings into clear, actionable insights. The rig and fixtures are in place; what’s missing is a reliable workflow for collecting the data, cleaning it, and drawing conclusions on battery health and flex integrity.\n\n The Goal is very Simple\nwe have to analyze the battery flex of iphone 12 series or any from 12 to 14 avialable, the test require to check if we replace the original battery with other alternative batteries why the pop up warning appear on the iphone where this pop data store. as per our knowldge it store in IC SN7037 which is attached with the flex normally .so just require to conduct test evaluate the ic get the battery cycle data thats it. Thank you so much \n\nIf you have experience automating data capture from battery tests or have worked on iPhone flex assemblies before, that will make the collaboration smoother. Let’s discuss your preferred tools and timeframe so we can get started right away.",
+  "query": "data extraction",
+  "found_at": "2026-08-21 05:51"
+ },
+ {
+  "id": 40661300,
+  "title": "Gurgaon IT Lead Generation Telecaller",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010447,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/lead-generation/Gurgaon-Lead-Generation-Telecaller",
+  "desc": "This project centres on boosting my IT services sales pipeline by sourcing and nurturing potential customer leads from within India. I need someone who can confidently combine cold calling, email marketing and social-media outreach to move prospects through the funnel until they are warm enough for my sales team to close.\n\nBecause many of the target accounts are clustered around Gurgaon, being locally based—and willing to visit the office now and then—keeps coordination simple. A female voice on the phone has historically converted better for this segment, so that is my strong preference. Prior exposure to the IT domain is also essential; you should be comfortable discussing cloud, infrastructure, cybersecurity and basic SaaS concepts so calls feel consultative rather than scripted.\n\nDaily work will involve researching decision-makers, dialling them, sending tailored follow-up mails, and maintaining clean notes inside my CRM. LinkedIn, Excel/Google Sheets, and any favourite email-automation or dialler tools are all welcome so long as the data lands back in the master sheet I provide.\n\nDeliverables (acceptance criteria)\n•  Accurate contact list of qualified prospects with phone, email and designation  \n•  Call and email logs with brief conversation notes  \n•  Weekly summary showing number of dials, connections, positive responses and meetings booked  \n\nQuality beats quantity; I care more about warm, sales-ready conversations than high raw volume. If this mix of local presence,",
+  "query": "data extraction",
+  "found_at": "2026-08-21 05:51"
+ },
+ {
+  "id": 40661265,
+  "title": "Daily Tally 7.2 Online Invoicing",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010447,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/accounting/Daily-Tally-Online-Invoicing",
+  "desc": "I need every day’s online orders turned into clean, compliant sales bills inside my existing Tally 7.2 setup. All transactions come from our e-commerce platform; I simply want them entered, checked and posted in Tally before the next business day begins, so my books stay current and I can download accurate GST-ready reports whenever required.\n\nHere is what matters to me:  \n• You must be fully comfortable working within the older Tally 7.2 environment—no upgrading to Prime or ERP 9 on my system.  \n• Speed and accuracy are equally important: each day’s batch should be reflected in Tally with the correct item descriptions, quantities, pricing and tax breakup.  \n• I will supply the raw order export (CSV or Excel) along with any SKU-to-ledger mapping you need; you return the updated Tally data file or remote-desktop in and post the vouchers yourself, whichever is smoother for you.  \n• Please outline your approach for handling returns or partial payments so that mismatches never creep into my books.\n\nDeliverables\n1. Daily voucher entries for every online sale, fully reconciled.  \n2. A short weekly summary showing total sales, tax collected and any discrepancies spotted.  \n3. Clear hand-off instructions so I can generate my own sales register and GST reports without further tweaks.\n\nIf you already use import tools or have scripts that speed up data entry in Tally 7.2, let me know; I am open to adopting them as long as they remain compatible with my version.",
+  "query": "data extraction",
+  "found_at": "2026-08-21 05:51"
+ },
+ {
+  "id": 40661272,
+  "title": "AI Marketing Video Reels",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010447,
+  "bids": 20,
+  "url": "https://www.freelancer.com/projects/after-effects/Marketing-Video-Reels",
+  "desc": "I'm seeking an AI synthetic video creator to produce 45-second marketing reels. These videos will be primarily shared on Instagram.\n\nRequirements:\n- 45-second videos\n- Synthetic/AI-generated content\n- Marketing-focused\n- Optimized for Instagram\n\nIdeal Skills and Experience:\n- Proficiency in AI video creation tools\n- Experience in marketing video production\n- Familiarity with Instagram's content requirements and trends\n\nI need this project done ASAP.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-21 05:51"
+ },
+ {
+  "id": 40661310,
+  "title": "Formal Review Article: The Baby",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010447,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/academic-writing/Formal-Review-Article-The-Baby",
+  "desc": "I would like a well-structured, formally written review article on the film “The Baby.” The piece must go beyond a surface synopsis and focus primarily on a detailed character analysis—how each central figure is portrayed, their development, and the impact they have on the overall narrative. A concise plot overview is welcome if it helps frame the discussion, but the heart of the article should remain the character study.  \n\nPlease ground your observations in specific scenes, dialogue, or cinematic techniques, and write in an academic yet engaging tone that could sit comfortably in a film-studies journal. Once complete, deliver the article as an editable Word or Google Docs file, properly proofread and ready for publication.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-21 05:51"
  }
 ]
