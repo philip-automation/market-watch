@@ -739,5 +739,31 @@
   "desc": "I’m preparing to buy my very first car and would like a seasoned auto-buying consultant to walk me through two key pieces of the puzzle: securing the best possible financing and zeroing-in on the right vehicle. I’m open only to used or certified pre-owned models—new is off the table—so deep knowledge of reputable listings, depreciation patterns, warranty coverage and inspection red flags is crucial.  \n\nAffordability and reliability matter far more to me than fancy tech packages; if it starts every morning, passes a mechanic’s inspection and won’t ­destroy my monthly budget, it’s a contender. With that in mind, I’d like guidance on mainstream lending routes (banks, credit unions, in-house dealer financing, even manufacturer CPO offers) as well as any lesser-known programs that a first-time buyer with limited credit history might realistically qualify for.  \n\nTo keep us both clear on scope, I’ll consider the project complete when I receive:  \n• A concise funding roadmap outlining at least three viable financing options, their interest rates, term lengths and estimated monthly payments based on my credit score range.  \n• A short-listed set of 4–6 vehicles (make, model, year range, mileage cap) that fit those payment estimates and are known for reliability.  \n• A comparison sheet that highlights total cost of ownership and any CPO warranty advantages.  \n• A step-by-step purchase checklist I can carry to the dealership or private-seller meeting.  \n\nIf you have dealer-level market ",
   "query": "data extraction",
   "found_at": "2026-08-21 23:09"
+ },
+ {
+  "id": 40662936,
+  "title": "British RP Drama Voice Recording",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/voice-acting/British-Drama-Voice-Recording",
+  "desc": "My drama script runs a little over an hour and needs to be brought to life by real, human voices in a clear British RP accent—no AI, no synthetic processing of any kind.\n\nCast breakdown  \n• 2 males, early-20s  \n• 1 female, early-20s  \n• 1 female, early-30s  \n• 1 male, early-40s  \n\nThe storyline moves through comedy, tension, sorrow, and relief, so genuine acting range is essential. One performer may cover multiple roles if each character remains convincingly distinct; a team of actors is equally welcome.\n\nDeliverables  \n• Separate, studio-quality WAV or FLAC files (48 kHz / 24-bit) for every character  \n• A short slate at the start of each track for level and pronunciation checks  \n• Clean, noise-free audio normalised to –3 dB peak, natural breaths left intact unless distracting  \n• Up to two quick rounds of pickups after my first listen-through  \n\nI will provide the full script and any pronunciation notes as soon as we agree to proceed. Final files are needed within one week of script hand-off so I can handle the mix and post-production on schedule.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-21 23:43"
+ },
+ {
+  "id": 40662946,
+  "title": "Concrete Slab & Bund Design",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "AUD",
+  "usd_rate": 0.7168,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/civil-engineering/Concrete-Slab-Bund-Design",
+  "desc": "I need detailed engineering drawings and calculations for a load-bearing concrete slab that will support a heavy metal baler. The design must comply with relevant Australian Standards for reinforced concrete and specify mesh/rebar throughout, while maintaining a uniform 30 mm cover around the entire machine base.\n\nKey requirements you will address:\nMachine weighs around 28 tonne in total - but also has a large door around 9 tonne that moves up and down while cycling. (See video) https://www.youtube.com/watch?v=rovHKsK7Nxg\n• Slab must remain perfectly flat and level under load, yet include drainage veins to direct liquid to designated exit point\n• A 100 mm high × 100 mm wide concrete retaining/bund wall is to be integrated around the perimeter of the base. It has two jobs: restrain any horizontal machine movement and capture liquids until they reach the drain. (approx 30mm clearance around machine base perimeter.  \n• I already have some dimensions for the slab footprint and baler anchoring points but need your help confirming final thickness, reinforcement pattern, and overall layout to suit the imposed loads.\nI only need design for  slab for base of machine, extra smaller slabs will be added with expainsion foam against main base slab to support hydraulic cylinder stands.\n\nThe set up for the concrete slab should be as simple as possible and include detailed connection drawings/instruction.\n\nCustomer has lots of SL92 Concrete mesh and 32mm bar in stock if this can be utilised.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-21 23:43"
  }
 ]
