@@ -3105,5 +3105,83 @@
   "desc": "# Freelancer Project: NextIn HRMS Sales & Lead Conversion Partner\n\n## Project Overview\n\nWe are looking for **Freelancers / Sales Professionals / Business Development Executives / HR Consultants / Digital Marketers** to promote and sell **NextIn HRMS**, a cloud-based Human Resource Management System designed to help businesses manage their complete employee lifecycle from a single platform.\n\nThe selected freelancer will be responsible for generating genuine business leads, demonstrating the product to potential customers, following up with decision-makers, and converting qualified prospects into paying customers.\n\n## About NextIn HRMS\n\n**NextIn HRMS** is a cloud-based HR management platform designed for businesses, startups, SMEs and growing organizations.\n\nKey modules include:\n\n* Employee Management\n* Attendance Management\n* Geo-Fencing & Location Tracking\n* Leave & Holiday Management\n* Payroll Management\n* Payslip Generation\n* Expense Management\n* Advance Salary & Loan Management\n* Employee Performance Management\n* Task & Project Management\n* Client Management\n* Asset Management\n* Compliance Management\n* Reports & Dashboards\n* Mobile Application\n* Export to Excel/PDF/CSV\n* OTP-Based Login\n* And more\n\n## Freelancer Responsibilities\n\nThe selected freelancer will be responsible for:\n\n* Generate genuine B2B leads for NextIn HRMS.\n* Target companies, startups, SMEs, educational institutions, real estate companies, IT companies, manufacturing companies, healthcare organizations an",
   "query": "excel automation",
   "found_at": "2026-08-21 07:53"
+ },
+ {
+  "id": 40661635,
+  "title": "Sonde Balloon Landing Probability Analysis",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/statistical-modeling/Sonde-Balloon-Landing-Probability",
+  "desc": "I need a statistician to calculate probabilities for Sonde Balloon landings in an area of the UK. So I need you to tell me how you will go about this. I need it done by Monday. There are 3 actual balloons we need calculated, but they do a number of interesting things. This is all written as a story in a GDoc, so you need to follow the story; a few bits of the story are not balloon-related, you need to do these as well, and you need to work out how they compound each other.\n\nSo I know you are a real person and not AI replying, please reply in French language, no English  \n\nWe will pay $100 for this work. You must have good knowledge of calculating unusual real-world probability. And with your application please tell me how you will gather the balloon data?",
+  "query": "data extraction",
+  "found_at": "2026-08-21 08:53"
+ },
+ {
+  "id": 40661633,
+  "title": "Daily Stock Indicator Retrieval",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010446,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/api/Daily-Stock-Indicator-Retrieval",
+  "desc": "I need a small piece of code that pulls six specific indicators for a list of equities every trading day: Moving Averages, Relative Strength Index (RSI), Bollinger Bands, Fisher9, Market Capitalization, and both ROCE and ROE.  \n\nA simple Python script is ideal because it lets me schedule the task on a cron job and drop the results straight into either a CSV file or a lightweight SQLite database; if you prefer another language that can hit the same reliability targets, I’m open to it. The source can be Yahoo Finance, Alpha Vantage, or another free API as long as the data is accurate and each call stays within any daily-rate limits.  \n\nPlease include:  \n• Clear setup instructions (API key, dependencies, scheduler).  \n• A single command I can trigger to fetch the day’s data.  \n• Cleanly commented functions so I can extend the indicator list later if needed.  \n\nI’ll consider the job complete once I can run the script locally, see the indicators populate for a sample ticker list I provide, and have today’s data written to disk without errors.",
+  "query": "data extraction",
+  "found_at": "2026-08-21 08:53"
+ },
+ {
+  "id": 40661621,
+  "title": "iPhone 14 Battery Flex Analysis",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/ios-development/iPhone-Battery-Flex-Analysis",
+  "desc": "I need a clear, lab-style investigation of the iPhone 14 battery flex. The purpose is to pinpoint exactly why the “Unable to verify this iPhone has a genuine battery” alert appears when I swap out the original pack for selected third-party brands (brand list will follow).  \n\nThe working assumption is that the alert data is saved in the SN7037 IC mounted on the flex. Your task is to confirm or disprove that, extract the relevant registers or firmware block, and pull the battery-cycle and health statistics that the phone later displays in iOS.  \n\nPlease set up controlled tests: start with an untouched genuine battery, log the pop-up behaviour, then repeat with each third-party unit while capturing any changes in SN7037 contents and system logs. Tools such as a JC-V1S, QianLi iCopy, or equivalent EEPROM programmer, plus an iPhone 14 running the latest public iOS, are assumed. Oscilloscope or logic analyser traces are welcome if you already have them in your bench workflow.  \n\nDeliverables  \n• A brief experimental log describing test setup, firmware or register dumps, and the exact steps taken to trigger the alert  \n• Parsed data showing battery cycle count and any additional health metrics captured from SN7037 (CSV or JSON)  \n• A concise explanation of where iOS pulls the warning flag, with references to the extracted data  \n• Recommendations for bypass or reset methods, if discovered, clearly flagged as theoretical or proven  \n\nI’m after reproducible evidence rather than conjec",
+  "query": "data extraction",
+  "found_at": "2026-08-21 08:53"
+ },
+ {
+  "id": 40661563,
+  "title": "AWS/Azure DevOps Engineer",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010446,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/azure/AWS-Azure-DevOps-Engineer",
+  "desc": "I run an active, multi-tier application split between AWS and Azure, and I need an experienced DevOps engineer who can slip straight into the workflow and keep everything running smoothly while we continue to scale.\n\nThe day-to-day will revolve around building and refining Terraform-based infrastructure, containerising new services with Docker, and orchestrating them in Kubernetes clusters on both clouds. Our pipelines are already wired up in Jenkins and GitHub Actions, but they need continuous improvement—faster build times, tighter security checks and more reliable rollbacks. \n\nYou’ll be working on Linux servers, writing Bash and Python scripts for automation, and tightening the networking and security configuration throughout the stack. Observability is critical, so expect to extend our Prometheus and Grafana dashboards, fine-tune alert rules and help us stay ahead of any performance issues.\n\nThis is an ongoing engagement, so I’m looking for someone who can commit regular weekly hours, communicate clearly in GitHub issues and pull requests, and document changes thoroughly. When you reply, please include:\n\n• A brief overview of your recent AWS + Azure work  \n• Examples of Docker/Kubernetes projects you’ve owned or contributed to  \n• Links to any CI/CD pipelines or Terraform modules you’ve built that you’re able to share  \n\nIf the fit is right, we can dive straight into the backlog and start shipping improvements.",
+  "query": "python automation",
+  "found_at": "2026-08-21 08:53"
+ },
+ {
+  "id": 40661629,
+  "title": "Female League Admin/Operations Coordinator Wanted",
+  "budget_min": 10000.0,
+  "budget_max": 15000.0,
+  "currency": "INR",
+  "usd_rate": 0.010446,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/administrative-support/Female-League-Admin-Operations",
+  "desc": "We are looking for a Female League Admin / Operations Coordinator to support our upcoming sports league in Noida.\n\nResponsibilities:\n\n* Handle administrative tasks before and during the league\n* Coordinate with teams, players, staff and other stakeholders\n* Maintain Excel/Google Sheets, records and league-related documentation\n* Manage registrations and day-to-day communication\n* Assist with scheduling and operational coordination\n* Provide on-ground administrative support during the league\n* Coordinate with the internal operations team to ensure smooth execution\n\nWork Structure:\n\n* Hybrid work during the pre-league phase\n* Office/on-ground work during the league\n* Availability required during league days and match operations\n\nRequirements:\n\n* Good communication and coordination skills\n* Basic knowledge of Excel/Google Sheets\n* Good organizational and time-management skills\n* Responsible, proactive and comfortable working in a fast-paced environment\n* Previous experience in sports, events, administration or operations is preferred\n* Freshers with good communication and organizational skills can also apply\n\nLocation:\nNoida\n\nDuration:\nPre-league preparation + league period\n\nBudget:\n₹10,000 – ₹15,000",
+  "query": "google sheets automation",
+  "found_at": "2026-08-21 08:53"
+ },
+ {
+  "id": 40661622,
+  "title": "GA PE Stamp Porch Roof",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/building-designer/Stamp-Porch-Roof",
+  "desc": "I am adding a 12' × 40' lean-to porch roof to an existing structure in a 130 MPH wind zone and need a Georgia-licensed Professional Engineer to take full responsibility for the structural design and provide a signed and sealed set of drawings.\n\nScope  \n• Structure: wood-framed lean-to roof bearing on the existing wall’s top plate, supported at the outer edge by new piers.  \n• Foundation: design the pier layout, size, reinforcing, and embedment to satisfy local soil and wind-uplift requirements.  \n• Drawings: structural only—framing plan, member schedules, connection details, uplift/drag-strap specification, and pier details, all formatted for permit submission.  \n• Calculations: wind load, gravity, and lateral analysis demonstrating compliance with current Georgia Residential Code (based on the IBC/IRC 2021 wind maps at 130 MPH).  \n• Deliverable: one PDF set stamped and signed for the State of Georgia, plus the supporting calcs; DWG file is a bonus but not mandatory.\n\nAcceptance  \nYour stamp must be verifiable through the Georgia PE board, and the jurisdiction should be able to contact you directly if needed. All dimensions and notes must coordinate with the existing building’s top plate elevation that I will supply.\n\nI can provide as-built photos, site measurements, and any additional information you request right away. Let me know your lead time and any questions so we can move forward.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-21 08:53"
  }
 ]
