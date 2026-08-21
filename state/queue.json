@@ -3339,5 +3339,31 @@
   "desc": "אני מחפש לשפר את פרופיל הקישורים של אתר הלוח-הפתוח אונליין (אתר לוח מודעות בעברית) באמצעות רכש קישורים איכותיים מאתרים ישראליים בלבד. הדגש הוא על אתרי חדשות, בלוגים אישיים ואתרים עסקיים מוכרים, עם תנועה אמיתית וקהל דובר עברית.  \n\nמה דרוש לי  \n• הצבת קישורים גם לדף הבית וגם לעמודים פנימיים ייעודיים שאספק מראש.  \n• תוכן מקורי או כתבות ממומנות שיתמזגו טבעית עם האתר המארח, בשפה עברית תקינה וללא ספאם.  \n• קישורים do-follow, בהקשר רלוונטי לעולמות לוחות, יד שנייה או צרכנות, עם טקסט עוגן מגוון ואיכותי.  \n• דו״ח מסודר (Google Sheet או Excel) הכולל כתובת URL חיה, סוג האתר, מיקום הקישור ותאריך הפרסום.  \n\nמדוע זה חשוב  \nהאתר שלי מתחרה במונחי חיפוש עמוסים, ולכן אני זקוק לקישורים סמכותיים שמגיעים מדומיינים ישראליים פעילים כדי להגדיל סמכות, תנועה והמרות.  \n\nקבלת עבודה  \nאעדיף מי שכבר מחזיק קשרים עם מערכות תוכן או בלוגרים ישראלים ויכול להתחייב ללוח זמנים ולשקיפות מלאה. נא לציין בהצעה דוגמאות לאתרים זמינים, מדדי סמכות עיקריים (Ahrefs / Moz אם יש) ומחיר פר קישור או חבילה.  \n\nאם הכול ברור ומתאים, אשמח להתחיל מיד ולסגור כמות קישורים ראשונית, עם אופציה להמשך חודשי קבוע.",
   "query": "google sheets automation",
   "found_at": "2026-08-21 10:17"
+ },
+ {
+  "id": 40661819,
+  "title": "Remote Operations & Administrative Assistant Needed",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010448,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/administrative-support/Remote-Operations-Administrative",
+  "desc": "Job Title: Part-Time Remote Operations & Administrative Assistant\nHours: Approximately 4 hours per day\nWork Type: Remote, ongoing\n\nJob Description\n\nWe are looking for a reliable and organized Remote Operations Assistant to support day-to-day administrative and operational work.\n\nThis is not a highly specialized role. You will work with established systems, Google Sheets, online platforms, email, and team members to ensure assigned tasks are properly tracked, followed up, and completed.\n\nKey Responsibilities\n\n* Attend and coordinate short meetings through Google Meet and document action points.\n* Maintain Google Sheets, trackers, checklists, and task lists.\n* Monitor assigned tasks and follow up with relevant team members until completion.\n* Handle routine email correspondence and online administrative work.\n* Coordinate with external vendors/service providers when required.\n* Organize files, documents, images, and information in Google Drive.\n* Perform basic online research and compare information/options.\n* Update information on web-based platforms and internal systems.\n* Assist with basic digital tasks such as uploading content, documents, images, or blog posts.\n* Provide clear updates on completed, pending, and blocked tasks.\n* Follow documented SOPs and learn new processes as responsibilities evolve.",
+  "query": "web scraping",
+  "found_at": "2026-08-21 10:53"
+ },
+ {
+  "id": 40661864,
+  "title": "Write Advanced Deep Learning Chapter",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "EUR",
+  "usd_rate": 1.170557,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/deep-learning/Write-Advanced-Deep-Learning-Chapter",
+  "desc": "This project is to craft a 20–25-page book chapter that walks the reader from a concise introduction to machine-learning foundations all the way to Convolutional Neural Networks. The explanations must stay at an advanced, graduate‐level depth, weaving statistical interpretation throughout and treating Multilayer Perceptrons and CNNs as the two main technical pillars.\n\nKey content milestones  \n• Introductory context: supervised vs. unsupervised learning, bias–variance trade-off, probabilistic modelling fundamentals.  \n• Deep-learning overview: representation learning rationale, overfitting counter-measures, optimisation nuances (SGD, Adam, scheduling).  \n• Multilayer Perceptron deep dive: universal approximation theorem, activation-function choices, weight-initialisation strategies, regularisation mathematics.  \n• Convolutional Neural Networks: receptive fields, weight sharing, back-prop through convolution, modern architectural trends (ResNet-style skip connections kept brief but rigorous).  \n\nFigures & illustrations  \nAll diagrams must be original (vector preferred). If you adapt an existing visual, cite it directly beneath the figure in IEEE style.\n\nReferencing  \nFeel free to select the most relevant peer-reviewed articles, textbooks, or authoritative conference papers; just keep citations consistent and complete.\n\nAcceptance criteria  \n– 20–25 finished pages in LaTeX (source files included).  \n– Minimum six custom figures, exported as high-resolution PNG/SVG.  \n– Reference",
+  "query": "data extraction",
+  "found_at": "2026-08-21 10:53"
  }
 ]
