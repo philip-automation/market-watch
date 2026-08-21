@@ -2533,5 +2533,18 @@
   "desc": "I need a clear, well-organised record of my basement so I can move forward with a damage assessment report. The visit involves three main tasks:\n\n• Measurements – Capture accurate length, width, and height data for every wall and floor section.  \n• High-resolution photos – Provide wide shots and close-ups that show the full layout plus any surface irregularities.  \n• Walk-through video – A steady, narrated pass through the space, ending with a detailed look at the boiler room so the current condition of the mechanicals is unmistakable.\n\nWalls, floors, and the boiler-room equipment are the only areas that matter; windows, doors, and other utilities can be ignored unless they help illustrate an issue you notice while on site. Natural light is limited, so plan on using a work light or strong flash to ensure everything is clearly visible.\n\nDeliverables (uploadable folder or cloud link):\n1. A simple sketch or marked-up floor plan with all measurements in feet/inches (or metric if easier).  \n2. At least 20 crisp photos (JPEG or PNG).  \n3. One continuous video clip (MP4 or MOV, 1080p minimum) no longer than five minutes.  \n\nAll files should be clearly named and delivered within 48 hours of the site visit.",
   "query": "data extraction",
   "found_at": "2026-08-20 23:45"
+ },
+ {
+  "id": 40660950,
+  "title": "Xero & Stripe Reconciliation Setup",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/data-entry/Xero-Stripe-Reconciliation-Setup",
+  "desc": "I have an issue with Stripe feeds and accounts. I connected the wrong feed and now I need to connect the correct feed and tidy up some transactions.\n\nHere’s what I am aiming for:\n\n• Manually import a small number of transactions into a new Stripe feed\n• Match those transactions against the correct invoices \n• Reconcile the account\n• Deactivate the feed/account which is no longer required\n• Check the accounts and feeds to ensure new transactions will automatically import into the correct Stripe feed going forward\n\nOnce everything is synced and the historical data is reconciled, a quick walkthrough or loom video showing the steps you took will help me keep it that way.\n\nIf this sounds straightforward to you and you’ve done the same Stripe-to-Xero clean-up before, let’s get started.\n\nWe also have a need for ongoing bookkeeping work and Stripe/Xero advice/assistance - can be discussed.",
+  "query": "data extraction",
+  "found_at": "2026-08-21 00:26"
  }
 ]
