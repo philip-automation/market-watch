@@ -2676,5 +2676,70 @@
   "desc": "Project Details\nBudget: up to $2,000/month, for a 3-month engagement (up to $6,000 total)\n\nGoatLabels.io is a niche ecommerce site that helps sellers print and manage their shipping labels. To keep the brand's social feeds upbeat and relatable, the job centers on sourcing (or quickly creating) short, inspirational video memes that celebrate the daily grind of packing orders and getting parcels out the door, then reposting them to our Instagram, Twitter and freshly launched TikTok channel. The memes should feel motivational—think light doses of hustle culture, small-business pride and shipping humor—while still matching the clean, friendly vibe of our logo and site palette. Nothing snarky or sarcastic; the goal is to make sellers smile and feel energized for their next shipment.\n\nProject duration: 3 months, billed monthly, at a max of $2,000/month.\n\nDeliverables (weekly, for the full 3-month engagement)\n\n10 fresh, copyright-safe short-form video memes every week, formatted 9:16 for TikTok, 1:1 for Instagram, and 16:9/1:1 for Twitter\n10 \"recycled\", copyright-safe video memes every week, same formats above. Can source other copyright-safe video content already posted by other users.\nEach video watermarked with the GoatLabels logo and a short caption or hashtag set (#GoatLabels, #SmallBizShipping, etc.)\nNative posting or scheduled uploads (Buffer, Hootsuite, Later are fine) to all three platforms, spaced evenly through the week\nA quick weekly report summarizing reach, engagement ",
   "query": "ai chatbot",
   "found_at": "2026-08-21 03:25"
+ },
+ {
+  "id": 40661185,
+  "title": "Launch BEP-20 Token Platform",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/blockchain/Launch-BEP-Token-Platform",
+  "desc": "I am ready to bring a new BEP-20 token to market whose main purpose is investment, so it must inspire confidence from day one. The job starts with writing and deploying a secure, upgrade-ready smart contract on BNB Chain, followed by verifying it on BscScan and setting up initial liquidity.  \n\nOnce the token is live I need a lightweight trading interface that supports live trading against BNB. A clean web front end (React or similar) that plugs into MetaMask, Trust Wallet, and WalletConnect is fine as long as trades execute in real time and the order book or swap quotes refresh without delay. Extras such as detailed transaction history and advanced user management can wait for phase two; for now the priority is a smooth, functional live-trading experience.\n\nPlease show previous blockchain or DeFi experience when you reply—links to contracts you have written, platforms you have shipped, or audits you have passed will help me choose quickly.\n\nDeliverables  \n• Audited BEP-20 smart contract deployed and verified  \n• Liquidity pool created and ownership/LP locked as agreed  \n• Web interface with live trading enabled and connected to mainnet  \n• Brief hand-over guide so I can manage future upgrades and marketing pushes  \n\nThe faster we can test on testnet and move to mainnet, the better. I look forward to working with someone who has been down this road before and can steer the launch smoothly.",
+  "query": "web scraping",
+  "found_at": "2026-08-21 04:19"
+ },
+ {
+  "id": 40661171,
+  "title": "Business Email Research & Compilation",
+  "budget_min": 80.0,
+  "budget_max": 120.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/data-collection/Business-Email-Research-Compilation",
+  "desc": "Locate 2,000 Business Emails\n\nI need assistance with researching and compiling approximately 2,000 valid business email addresses.\n\nI will provide a spreadsheet containing the full name and company name for each contact.\n\nFor each contact, I need you to:\n\n1. Research and identify the most likely professional/business email address associated with the contact and company.\n2. Verify that the email format is valid and that the company domain is active.\n3. Avoid personal email addresses (Gmail, Yahoo, etc.) unless specifically requested.\n4. Cross-check the contact's name, company, and email domain to minimize incorrect or mismatched addresses.\n5. Add the business email address to the spreadsheet.\n6. Add a separate validation column indicating PASS or FAIL.\n7. Keep the original spreadsheet structure and data unchanged.\n8. Clearly mark contacts where a reliable business email cannot be found rather than guessing.\n\nPreferred research methods include company websites, LinkedIn, Hunter, Apollo, and other reputable business-data/research tools.\n\nAccuracy is very important. I prefer a reliable and well-researched result rather than simply filling every row with an unverified email address.\n\nPlease provide the completed spreadsheet in the same format as the original file, with the additional Email and Validation columns.\n\nI am looking for someone who can work efficiently with large datasets and has experience with web research, lead generation, data collection, Excel, and business email ",
+  "query": "web scraping",
+  "found_at": "2026-08-21 04:19"
+ },
+ {
+  "id": 40661141,
+  "title": "Daily Customer Data Entry",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/data-cleansing/Daily-Customer-Data-Entry",
+  "desc": "Each business day I receive fresh Excel/CSV files that hold new customer information—names, contact details, order notes, and a few custom fields we track internally. I need those records transferred accurately into a live database the same day they arrive so our sales and support teams always work with up-to-date data.\n\nHere’s how the workflow looks now: I drop the raw file into a shared folder by 9 a.m. your local time. You open it, review it for obvious errors or duplicates, then populate the corresponding fields in the database. If you already have a preferred tool—MySQL, Microsoft Access, or even a cloud alternative—let me know; I’m flexible as long as the final data is searchable and can export to CSV when needed.\n\nAccuracy is critical. Typos or mismatched columns slow every department down, so double-checking your import before you mark the task complete is expected. Turnaround should be same-day, ideally within a few hours of file delivery. A quick confirmation note or screenshot after each successful upload will be enough proof of completion.\n\nIf you’re comfortable handling repetitive data entry with precision and can commit to a daily cadence, I’d like to get started right away.",
+  "query": "data extraction",
+  "found_at": "2026-08-21 04:19"
+ },
+ {
+  "id": 40661135,
+  "title": "QR-Based Mobile Diagnostic System Development",
+  "budget_min": 5000.0,
+  "budget_max": 6000.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/mobile-app-development/Based-Mobile-Diagnostic-System",
+  "desc": "Buyback Device — Mobile Diagnostic Software\n\nBudget: $50 USD — MVP / Prototype\n\nWe need a developer to build a QR-based mobile diagnostic system for iPhone/iOS and Android, inspired by the general diagnostic workflow used by large mobile buyback companies such as Cashify.\n\nWe want to develop our own diagnostic software, not copy any company’s proprietary technology.\n\nMAIN WORKFLOW\n\nTechnician creates inspection\n↓\nQR Code generated\n↓\nCustomer scans QR\n↓\niPhone / Android automatically detected\n↓\nDiagnostic starts\n↓\nAutomatic + Guided Tests\n↓\nResults sent to Dashboard\n↓\nPASS / FAIL / WARNING\n\nQR SYSTEM\n\nThe technician creates a unique inspection and generates a QR code.\n\nCustomer scans the QR and the diagnostic session opens automatically.\n\nNo manual session ID entry.\n\nThe session should securely connect:\n\n* Inspection ID\n* Device\n* Technician\n* Store\n* Date/time\n\niOS + ANDROID\n\niOS\n\nPreferred: Swift / SwiftUI\n\nAndroid\n\nPreferred: Kotlin\n\nUse only legitimate public APIs. No jailbreak, root, private APIs or security bypasses.\n\nThe developer must clearly identify what is:\n\n* Automatic\n* Guided/manual\n* Not supported\n\nDIAGNOSTIC TESTS\n\nThe system should support as many of the following as legally/technically possible:\n\nDevice\n\n* Model\n* OS/version\n* Storage\n* RAM where available\n* IMEI/serial where legitimately available\n\nBattery\n\n* Battery level\n* Battery health where available\n* Charging status\n* Temperature/cycle information where available\n\nCharging\n\nCustomer connects the charg",
+  "query": "ai chatbot",
+  "found_at": "2026-08-21 04:19"
+ },
+ {
+  "id": 40661140,
+  "title": "Malaysia High-Ticket B2B Sales Specialist ",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/b2b-marketing/Malaysia-High-Ticket-Sales-Specialist",
+  "desc": "HIRING: High-Ticket B2B Sales Specialist (Freelance / Remote)\n\nLocation: Remote / Work From Home (WFH)\n\nWorking Hours: Fully Flexible / Self-Managed\n\nCompensation: 100% Commission (RM500 to RM3,000+ per closed sale)\n\nRole Overview:\n\nWe are seeking experienced, self-driven B2B Sales Professionals to drive advertising space sales for our business directory. This is a full-cycle sales role where you will prospect, pitch, close, and manage payment collections for high-value advertising packages ranging from RM3,300 to RM20,000+.\n\nKey Responsibilities:\n\nEnd-to-End Prospecting: Source, qualify, and build your own pipeline of B2B business owners, decision-makers, and corporate clients.\n\nPitch & Script Development: Create and execute your own sales pitch frameworks, call scripts, and objection-handling strategies.\n\nDeal Closing: Conduct outbound calls, present directory advertising packages, and secure commitments independently.\n\nPayment Collection: Monitor, follow up, and ensure full payment collection from closed clients to complete the sales cycle.\n\nRequirements:\n\nLanguage Proficiency: Full fluency in spoken and written English is mandatory. Proficiency in Mandarin is a strong advantage to cater to Mandarin-speaking SME markets.\n\nProven B2B Experience: Background in outbound telesales, high-ticket closing, or full-cycle B2B account management.\n\nSelf-Driven: Ability to independently generate leads, manage post-sale collection follow-ups, and build pitch materials.\n\nSetup: Personal ",
+  "query": "python script",
+  "found_at": "2026-08-21 04:19"
  }
 ]
