@@ -2546,5 +2546,83 @@
   "desc": "I have an issue with Stripe feeds and accounts. I connected the wrong feed and now I need to connect the correct feed and tidy up some transactions.\n\nHere’s what I am aiming for:\n\n• Manually import a small number of transactions into a new Stripe feed\n• Match those transactions against the correct invoices \n• Reconcile the account\n• Deactivate the feed/account which is no longer required\n• Check the accounts and feeds to ensure new transactions will automatically import into the correct Stripe feed going forward\n\nOnce everything is synced and the historical data is reconciled, a quick walkthrough or loom video showing the steps you took will help me keep it that way.\n\nIf this sounds straightforward to you and you’ve done the same Stripe-to-Xero clean-up before, let’s get started.\n\nWe also have a need for ongoing bookkeeping work and Stripe/Xero advice/assistance - can be discussed.",
   "query": "data extraction",
   "found_at": "2026-08-21 00:26"
+ },
+ {
+  "id": 40661037,
+  "title": "Lukisan Digital Pemandangan Unik -- 2",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/digital-art/Lukisan-Digital-Pemandangan-Unik",
+  "desc": "Saya membutuhkan seorang seniman digital yang dapat membuat lukisan pemandangan berkualitas tinggi—mulai dari panorama alam tenang hingga bentang kota modern. Fokus utama saya adalah lukisan digital, namun akan sangat membantu jika Anda juga nyaman melakukan pengeditan foto ringan untuk penyesuaian warna atau tekstur ketika dibutuhkan.  \n\nRuang lingkup:\n• Membuat satu karya lukisan digital bertema pemandangan (landscape).  \n• Resolusi tinggi, siap cetak dan juga versi web‐optimized.  \n• File sumber terbuka (PSD, Procreate, atau format serupa) agar saya bisa melakukan perubahan kecil di kemudian hari.  \n• Revisi wajar sampai hasil benar‐benar sesuai visi.  \n\nDetail tambahan:\n• Tema pemandangan dapat berkembang—saya terbuka pada ide lain seperti potret atau konsep karakter jika proyek berlanjut.  \n• Tidak ada tenggat ketat; kualitas dan kesesuaian gaya lebih penting daripada kecepatan.  \n• Silakan lampirkan portofolio lukisan digital, terutama contoh pemandangan.  \n\nBila Anda senang bereksperimen dengan warna, komposisi, dan sentuhan editing kreatif, saya menantikan kolaborasi ini.",
+  "query": "web scraping",
+  "found_at": "2026-08-21 02:10"
+ },
+ {
+  "id": 40660987,
+  "title": "Global Luxury Watch Investor Outreach -- Serious Investors Only -- 2",
+  "budget_min": 50000.0,
+  "budget_max": 100000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/business-analysis/Global-Luxury-Watch-Investor-Outreach",
+  "desc": "Our online platform already sells a curated range of high-end jewellery with a core focus on luxury watches, and sales are strong enough to justify the next leap: opening flagship stores in the United States, the UAE, France, and Germany. To secure the capital and retail partners that will make these boutiques possible, we need serious financial investors who believe in our vision.\n\nWe are looking for visionary investors to help expand this business globally. The materials already prepared include professional brochures highlighting operations and market potential.\n\nWhat we offer:\n- Detailed business roadmap for expansion\n- Proven sales data indicating high profit margins in an exclusive market\n- A professional presentation deck and material ready to review \n\nPlease connect with us through Freelancer only if you’re a serious investor with actionable plans or funding resources.",
+  "query": "data extraction",
+  "found_at": "2026-08-21 02:10"
+ },
+ {
+  "id": 40661014,
+  "title": "Monthly Reels & Cinematic Editor",
+  "budget_min": 1000.0,
+  "budget_max": 2000.0,
+  "currency": "AUD",
+  "usd_rate": 0.713425,
+  "bids": 17,
+  "url": "https://www.freelancer.com/projects/cinematography/Monthly-Reels-Cinematic-Editor",
+  "desc": "I produce a steady stream of vertical reels for automotive and business clients—roughly 60-70 pieces every month—and I’m ready to hand that workload over to a fast, reliable editor who can keep quality consistently high.\n\nStyle & tone  \nEvery reel should feel cinematic and storytelling-driven rather than just a series of clips. For the occasional longer cinematic piece, I’m after a professional, polished finish that would hold up on any showroom screen or company website. YOU MUST BE PROFESSIONAL IN COLOUR GRADING\n\nCreative elements to include  \n• Text overlays that reinforce key messages or specs  \n• Background music matched to brand identity  \n• Voice-over integration when provided (clean sync and light EQ)\n\nDay-to-day flow  \nI supply raw footage, brand guidelines, and a rough outline in a shared cloud folder. You turn around first cuts quickly, we handle tweaks via timestamped comments, and you deliver the final reel in vertical and square formats plus the editable project file. Expect predictable monthly volume; if output rises, your pay rises with it. Cinematic videos will be commissioned ad-hoc at a higher per-piece rate.\n\nTools  \nI’m agnostic—Adobe Premiere Pro, Final Cut Pro, or DaVinci Resolve all work—so long as you can grade, stabilize, and mix audio to broadcast standards.\n\nNext steps  \nSend over a link to recent work that best shows cinematic storytelling. I’ll then share a short batch of clips for a demo edit. Impress me there, and the monthly contract is yours.",
+  "query": "gpt integration",
+  "found_at": "2026-08-21 02:10"
+ },
+ {
+  "id": 40661004,
+  "title": "Industrial Multi-Layer Power PCB",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "CAD",
+  "usd_rate": 0.726068,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/altium-designer/Industrial-Multi-Layer-Power-PCB",
+  "desc": "I am developing the True Ridge TRB-4CH-W, a modular industrial 12 VDC relay controller based on the ESP32-S3.\n\nI am seeking an experienced electronics/electrical engineer to design and validate the COMPLETE ELECTRICAL SCHEMATIC.\n\nThis project is for SCHEMATIC DESIGN ONLY. PCB placement/routing, Gerber generation, enclosure design and production firmware are not part of this job.\n\nThe completed schematic package will be provided to JLCPCB or another PCB layout service for PCB layout and prototype manufacturing.\n\nSYSTEM REQUIREMENTS\n\nThe TRB-4CH-W will use an ESP32-S3-WROOM-1U and provide:\n\n- Nominal 12 VDC power input\n- 4 independently controlled relay channels\n- Maximum design target of 30 A at 12 VDC per relay output channel\n- Field-replaceable power relays\n- Individual field-replaceable fuse for each relay output\n- 4 protected nominal 12 VDC digital inputs\n- 2 protected 0-10 V analog inputs\n- CAN/TWAI communications\n- Electronically controlled 120-ohm CAN termination\n- USB-C service/programming interface\n- Support for up to 4 identical TRB-4CH-W modules on the CAN network, providing 4, 8, 12 or 16 relay channels\n\nELECTRICAL DESIGN REQUIREMENTS\n\nThe engineer will be responsible for designing and selecting the appropriate components for:\n\n- ESP32-S3-WROOM-1U integration\n- 12 VDC input power circuitry\n- Voltage regulation for the ESP32-S3 and low-voltage electronics\n- Reverse-polarity protection\n- Input overcurrent protection\n- Appropriate transient/surge protection\n- Appropri",
+  "query": "gpt integration",
+  "found_at": "2026-08-21 02:10"
+ },
+ {
+  "id": 40661050,
+  "title": "Fan Audio Drama Transcription",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/writing/Fan-Audio-Drama-Transcription",
+  "desc": "I have a fan made audio drama from many years ago.\n\nI would like the dialogue transcribed, since the script is long lost.\n\nObviously, you will not be able to identify which character is speaking, so you only need to transcribe the dialogue, each speaker on a different line.\n\nThe audio drama is about 81 minutes and 37 seconds in total, over four episodes.",
+  "query": "python script",
+  "found_at": "2026-08-21 02:10"
+ },
+ {
+  "id": 40661046,
+  "title": "Customer Service Call Evaluations",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/phone-support/Customer-Service-Call-Evaluations",
+  "desc": "I need somebody to call a bunch of businesses and I will give you the phone numbers, and I will provide a script for you to use. And I need some recordings on these cars for comedy control purposes.",
+  "query": "python script",
+  "found_at": "2026-08-21 02:10"
  }
 ]
