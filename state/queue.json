@@ -3495,5 +3495,44 @@
   "desc": "I need a reliable local freelancer in Bermuda to visit “Schlumberger Global Resources Ltd, Clarendon House, 2 Church Street, Hamilton HM 11.” The task is straightforward: confirm that the business is indeed operating from this location and document your findings with clear, geo-tagged photographs of the exterior (and interior if access is granted without issue).  \n\nPlease prepare a brief field report summarising what you observe—company signage, building condition, any visible indicators of activity—and attach the geo-tagged images. A short caption under each photo noting date, time and vantage point will be enough.  \n\nDeliverables (all digital):  \n• A concise verification report (PDF or Word)  which will fill by the Company. \n• Geo-tagged photos of the premises  \n\nI will provide a simple template for the report once we agree to proceed. Let me know your availability to visit the site and the estimated turnaround time for submitting your final files.",
   "query": "pdf extraction",
   "found_at": "2026-08-21 12:16"
+ },
+ {
+  "id": 40662083,
+  "title": "Manufacturing Contacts Data Mining",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.01045,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/data-analysis/Manufacturing-Contacts-Data-Mining",
+  "desc": "I have a spreadsheet of about 1,500 manufacturing companies that is completely missing contact information. My goal is to enrich every record with at least two fresh, verified contacts:  \n\n• one person from the Purchase or Procurement department  \n• one Management-level representative (owner, CEO, MD, or similar)\n\nFor each contact I need the full name and a direct, business-grade email address—generic inboxes such as “info@” or “sales@” won’t work.  \n\nSimply return the same sheet, adding the new columns (Contact 1 Name, Contact 1 Email, Contact 2 Name, Contact 2 Email). I’ll spot-check for accuracy, so please use up-to-date sources—company websites, LinkedIn, trade registries, or validated email tools—and avoid bounces. Work is complete when every row has two unique, legitimate contacts that match the roles above.",
+  "query": "data extraction",
+  "found_at": "2026-08-21 13:17"
+ },
+ {
+  "id": 40662033,
+  "title": "AI Instagram Reels Production",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.01045,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/ai-video-editing/Instagram-Reels-Production",
+  "desc": "I want to establish a smooth, AI-driven workflow that turns short ideas into scroll-stopping Instagram Reels. The goal is to generate a steady stream of 15–30 second vertical videos that feel native to the platform, use trending audio, and grab attention in the first three seconds.\n\nHere’s what I need from you:  \n• Ideation support or prompt engineering that lets tools such as Runway, Descript, Synthesia, or any comparable generator create crisp footage or motion graphics.  \n• Royalty-free or fully generated visuals, sized 1080×1920, with dynamic text overlays and captions burned in.  \n• Final MP4s compressed for Instagram, plus the editable project files so I can tweak or repurpose later.  \n\nI’ll provide the core message for each Reel; you handle the AI production, light editing, voice or music syncing, and export. Videos must be delivered ready to post, no watermark, and meet Instagram’s quality guidelines.  \n\nIf you’ve already produced AI-assisted social content, send a link or two—seeing real examples helps me lock in the style quickly.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-21 13:17"
+ },
+ {
+  "id": 40662022,
+  "title": "Traditional Wedding Album Design Needed",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.01045,
+  "bids": 19,
+  "url": "https://www.freelancer.com/projects/album-design/Traditional-Wedding-Album-Design-Needed",
+  "desc": "I have a collection of wedding photographs that I want transformed into a timeless, traditional-style album. The goal is to create an elegant, print-ready layout that tells the day’s story from start to finish—ceremony, portraits, candid moments, and reception highlights—while keeping a classic aesthetic throughout.\n\nAll images are already edited and organised in sequence; what I need is your design expertise in arranging them into an album that feels cohesive and polished. Page size, number of spreads, and cover concept can follow your professional recommendation, provided the final files are delivered in high-resolution, press-ready PDF (CMYK) along with layered source files.\n\nBecause we would like to share a preview with family soon, I’m hoping to see a first draft right away and a final approved version shortly after. Let me know your typical turnaround for the initial concept and how many revision rounds you include. If you have wedding album samples in a traditional style, please link them so I can gauge fit.\n\nLooking forward to collaborating and getting this album completed as soon as possible.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-21 13:17"
  }
 ]
