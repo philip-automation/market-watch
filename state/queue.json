@@ -3430,5 +3430,70 @@
   "desc": "Saya membutuhkan seorang desainer grafis yang mampu merancang:  \n• 1 poster utama untuk acara seminar.  \n• 2 banner promosi untuk media sosial (ukuran feed dan story).  \n\nDetail pekerjaan:  \n– Saya belum memiliki konsep, jadi saya mengandalkan Anda untuk menawarkan ide visual yang segar, modern, dan komunikatif.  \n– Target audiensnya adalah masyarakat umum, sehingga pesan harus mudah dipahami oleh beragam kalangan.  \n– Tidak ada batasan warna atau panduan merek; silakan berkreasi bebas selama hasilnya tetap profesional.  \n– Gunakan Adobe Photoshop atau Illustrator agar file akhir dapat diedit ulang jika dibutuhkan.  \n– Tenggat waktu penyelesaian maksimal 3 hari sejak proyek dimulai.  \n\nHasil yang saya butuhkan:  \n1. File sumber berformat PSD atau AI untuk masing-masing desain.  \n2. Versi siap pakai (PNG/JPG) resolusi tinggi.  \n3. Variasi ukuran rasio 1:1 (feed) dan 9:16 (story) untuk banner.  \n4. Font dan aset pendukung terorganisir di folder terpisah.  \n\nBerikan portofolio singkat berisi contoh karya modern yang relevan agar saya dapat menilai kecocokan gaya Anda. Saya siap merespons cepat demi kelancaran revisi ringan bila diperlukan.",
   "query": "ai chatbot",
   "found_at": "2026-08-21 11:35"
+ },
+ {
+  "id": 40662005,
+  "title": "Manual Data Entry & Social Posts",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010453,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/google-sheets/Manual-Data-Entry-Social-Posts",
+  "desc": "This is a personal-use project that combines two separate but related tasks.  \n\n1) Manual data entry  \nI will supply source materials (spreadsheets, PDF tables, or scanned notes) and need them re-typed or copied accurately into a clean Excel or Google Sheets file. Everything is strictly manual—no scraping or automated scripts—so keen attention to detail, consistent formatting, and basic proof-checking are essential.\n\n2) Social media content creation  \nAlongside the data work, I also need fresh, engaging social media posts designed for my personal accounts. Graphics, short captions, and relevant hashtags that suit platforms such as Instagram or Facebook will be required. I’m not looking for blog articles or website copy at this stage; the focus is purely on social content that reflects my style and voice.\n\nDeliverables  \n• Completed, error-free spreadsheet in the agreed format  \n• A set of ready-to-publish social posts (image files or Canva links plus captions and hashtags)  \n\nIf you have solid Excel/Google Sheets skills paired with a flair for creative social media writing and light design, this project should be a smooth fit. Let me know your timeline for both parts, and feel free to suggest a sensible breakdown if you prefer to submit the work in stages.",
+  "query": "web scraping",
+  "found_at": "2026-08-21 12:16"
+ },
+ {
+  "id": 40661992,
+  "title": "Ready-Made ITSM Tool Needed",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010453,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/change-management/Ready-Made-ITSM-Tool-Needed",
+  "desc": "I need a fully-featured, production-ready ITSM application that comes with complete, editable source code. My immediate objective is to deploy it on a Windows environment, backed by SQL Server, so those two items are non-negotiable.\n\nThe solution must already include:\n• Incident Management  \n• Change Management  \n• Service Desk (ticketing, SLA tracking, knowledge base, etc.)  \n• Asset Management (discovery or manual registry, depreciation, life-cycle tracking)\n\nI am only interested in tools that are already finished and in daily use or demonstrably stable; I do not want a ground-up build. A quick online demo or recorded walkthrough proving all four modules work together will be the first step in our discussion.\n\nDeliverables\n1. Compiled installer or deployment package for Windows.\n2. Full source code with build instructions.\n3. Database schema and seed data for SQL Server.\n4. Installation and configuration guide.\n5. Basic user/admin documentation.\n\nAcceptance Criteria\n• I can install the system on a fresh Windows server, connect it to SQL Server, and log in as an admin without errors.  \n• All listed modules function end-to-end and share a common user database.  \n• Source code builds cleanly using the documented tool-chain.\n\nIf your product also supports Linux or macOS, or is compatible with other databases such as MySQL or PostgreSQL, feel free to mention it, but Windows + SQL Server must work flawlessly out of the box.\n\nSend over the tech stack, demo link, and a brief outlin",
+  "query": "data extraction",
+  "found_at": "2026-08-21 12:16"
+ },
+ {
+  "id": 40661975,
+  "title": "Website Testing and Pre-Launch Guidance",
+  "budget_min": 75.0,
+  "budget_max": 100.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/website-testing/Website-Testing-Pre-Launch-Guidance",
+  "desc": "This job is for testing and reporting only. You are not required to fix or modify the website.\n\nThe objective is to identify functional bugs, usability/mobile issues, incorrect configuration, broken user flows and anything that should be corrected before launch.\n\n1. Devices & Browsers\n\nTest on:\n\n* Mobile: Android/Chrome and/or iPhone/Safari\n* Desktop: Chrome\n* Another major browser where reasonably possible\n\nPlease specify actual devices, OS and browsers used. Mobile testing is particularly important.\n\n2. Complete User Flows\n\nTest complete journeys, not only individual buttons.\n\nExample:\n\nVisitor → Registration → Login → Search → Listing → Contact Seller → Message → Post Listing → Edit → Manage Listing.\n\nReport anywhere the user becomes confused, stuck or encounters an error.\n\n3. Homepage\n\nTest:\n\n* navigation and search;\n* sticky header/search;\n* categories/subcategories;\n* location selection;\n* listing cards and Premium badges;\n* mobile bottom navigation;\n* footer;\n* links/buttons;\n* scrolling and responsive behaviour.\n\nCheck for overlapping elements, broken layouts, bad spacing, truncated text, disappearing elements and inconsistent/incorrect information.\n\n4. Registration & Accounts\n\nTest:\n\n* registration;\n* login/logout and invalid login;\n* password reset;\n* email validation;\n* Google/Facebook login if enabled;\n* profile editing;\n* public seller profile;\n* dashboard;\n* My Listings;\n* Messages;\n* account navigation.\n\nReport confusing or duplicate functionality.\n\n5. Posting ",
+  "query": "data extraction",
+  "found_at": "2026-08-21 12:16"
+ },
+ {
+  "id": 40661956,
+  "title": "FTMO Challenge Day-Trading Specialist",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "EUR",
+  "usd_rate": 1.169898,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/forex-trading/FTMO-Challenge-Day-Trading-Specialist",
+  "desc": "I am about to start an FTMO evaluation and want a proven approach that will let me clear the challenge comfortably and manage the funded account with consistency afterward. My style is fast-paced day trading, so the strategy must suit intraday moves rather than longer swing or scalping extremes.  \n\nThe core focus is on forex; however, I also like to capitalise on the momentum that gold and silver related symbols often provide, so please weave those into the playbook where appropriate.  \n\nHere is what I need from you:  \n• A complete, back-tested day-trading strategy that meets FTMO’s risk parameters and daily loss limits.  \n• A clearly written risk-management framework—position sizing, maximum exposure per trade, and rules for pausing after drawdown.  \n• A trade-execution checklist and template journal I can follow every session.  \n• Support (chat or recorded walkthroughs) during the challenge phase to fine-tune entries, exits and psychology.  \n• Proof of concept: either verified MyFXBook, FTMO certificate, or similar track record that shows the method works under FTMO rules.  \n\nAcceptance criteria  \n– Strategy must observe FTMO’s 10% overall and 5% daily loss limits.  \n– Back-test or forward-test data must cover at least three months of recent market conditions. \n\nIf your methodology is robust and your past results align with the above, let’s get started—my goal is to pass on the first attempt and build a sustainable funded account straight after.",
+  "query": "data extraction",
+  "found_at": "2026-08-21 12:16"
+ },
+ {
+  "id": 40661995,
+  "title": "On-Site Verification, Bermuda",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/Site-Verification-Bermuda-fix",
+  "desc": "I need a reliable local freelancer in Bermuda to visit “Schlumberger Global Resources Ltd, Clarendon House, 2 Church Street, Hamilton HM 11.” The task is straightforward: confirm that the business is indeed operating from this location and document your findings with clear, geo-tagged photographs of the exterior (and interior if access is granted without issue).  \n\nPlease prepare a brief field report summarising what you observe—company signage, building condition, any visible indicators of activity—and attach the geo-tagged images. A short caption under each photo noting date, time and vantage point will be enough.  \n\nDeliverables (all digital):  \n• A concise verification report (PDF or Word)  which will fill by the Company. \n• Geo-tagged photos of the premises  \n\nI will provide a simple template for the report once we agree to proceed. Let me know your availability to visit the site and the estimated turnaround time for submitting your final files.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-21 12:16"
  }
 ]
