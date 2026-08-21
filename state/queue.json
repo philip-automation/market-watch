@@ -622,5 +622,57 @@
   "desc": "Busco especialista en **generación de leads B2B y creación de funnels enfocados en conseguir citas con prospectos calificados** para una agencia de marketing y servicios creativos.\n\nEl objetivo NO es únicamente crear una landing page o configurar un CRM. Buscamos desarrollar un **sistema completo y escalable de prospección y generación de citas B2B**.\n\n### Objetivo del proyecto\n\nConstruir un funnel capaz de identificar, contactar, nutrir y convertir prospectos B2B en **reuniones comerciales calificadas** con tomadores de decisión.\n\n### Alcance esperado\n\nEl freelancer deberá ser capaz de:\n\n* Analizar y definir nuestro ICP (Ideal Customer Profile).\n* Identificar los segmentos con mayor potencial.\n* Diseñar la estrategia de captación y prospección.\n* Crear una propuesta/oferta atractiva para generar reuniones.\n* Construir bases de datos de prospectos calificados.\n* Diseñar campañas de Cold Email.\n* Diseñar estrategia de prospección mediante LinkedIn.\n* Crear secuencias de seguimiento multicanal.\n* Desarrollar o estructurar landing pages de conversión.\n* Crear formularios de precalificación.\n* Integrar sistema de agenda para reuniones.\n* Configurar automatizaciones y nurturing.\n* Integrar todo el proceso con CRM.\n* Implementar Lead Scoring.\n* Diseñar pipeline comercial.\n* Crear dashboards para seguimiento de KPIs.\n* Realizar pruebas A/B y optimización del funnel.\n\n### Herramientas deseables\n\nExperiencia comprobable con herramientas como:\n\nHubSpot, GoHighLevel, Apollo, LinkedIn Sa",
   "query": "python automation",
   "found_at": "2026-08-21 20:35"
+ },
+ {
+  "id": 40662808,
+  "title": "SaaS UI/UX Redesigner FIGMA experience ",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010453,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/figma/SaaS-Redesigner-FIGMA-experience",
+  "desc": "We are current mobile-first iOS / Android SaaS app + website so we need to redo  full UX overhaul that will make it feel vibrant , corporate and effortlessly usable. You’ll work from screenshots and live demo access (no source code), \n\nrethinking every screen with special attention to interactive elements and micro-animations that guide and delight users.\n\nScope of work  \n• Map and refine end-to-end journeys for the Creator, Contributor, and Mentor roles.  \n\n• Produce low-fidelity UX flows and wireframes, then translate them into high-fidelity Figma mock-ups for both mobile and responsive web.  \n\n• Build a reusable design system: components, states, spacing, typography, color tokens—everything developers need to ship quickly and consistently.  \n\n• Supply a clickable Figma prototype showcasing core interactions and animations.  \n\nAcceptance criteria  \n1. All Figma files are organized with components, variants, and naming conventions ready for hand-off.  \n2. Animations run smoothly on common devices without compromising performance.  \n3. Usability testing (internal or moderated) confirms reduced friction across the key journeys.  \n\nTools & hand-off  \nDesign to be delivered exclusively in Figma, using Auto-Layout, Styles, and Design Tokens for effortless future development.",
+  "query": "web scraping",
+  "found_at": "2026-08-21 21:09"
+ },
+ {
+  "id": 40662790,
+  "title": "AE Template",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/animation/Template",
+  "desc": "I want you to build a **reusable After Effects template system**, not a one-off video.\n\nThe final videos will be around **60 seconds, vertical 9:16**, and I will reuse the same template for many different neighborhoods in Istanbul.\n\nThe visual style should feel like **modern editorial / Vox-inspired motion graphics**: clean, graphic, fast, typographic and data-driven. It should feel intelligent and visually interesting, but not overly flashy or complicated.\n\nI will record the voice-over separately. The animation should work together with short, rhythmic sentences and quick visual changes.\n\n## VIDEO STRUCTURE\n\n### 01 — MAP / HOOK\n\n**0–4 sec**\n\nStart with a clean xxxxxx map.\n\nQuick zoom from xxxxx into the selected neighborhood.\n\nThe neighborhood boundary becomes highlighted.\n\nLarge editable title:\n\n**THIS IS XXXXXXX**\n\nThe neighborhood name, map and highlighted area must be easily replaceable.\n\n---\n\n### 02 — POPULATION\n\n**4–10 sec**\n\nA large number appears.\n\nExample:\n\n**226,000**\n\nSmall supporting text:\n\n**people live here**\n\nSimple, strong animation.\n\nThe number should be the main visual focus.\n\n---\n\n### 03 — DENSITY\n\n**10–16 sec**\n\nMove naturally from population into population density.\n\nExample:\n\n**6,457 / km²**\n\nUse a visual system such as dots, grids, blocks or another graphic language to make the density feel visual.\n\nIt should not just look like a number appearing on screen.\n\n---\n\n### 04 — GREEN SPACE\n\n**16–22 sec**\n\nShow the green-space figure.\n\nExample:\n\n**3.2 m²**\n\n*",
+  "query": "data extraction",
+  "found_at": "2026-08-21 21:09"
+ },
+ {
+  "id": 40662788,
+  "title": "User Engagement Dashboard Build",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010453,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/data-visualization/User-Engagement-Dashboard-Build",
+  "desc": "I need a clean, responsive dashboard that lets me see how visitors actually interact with my site. The entire focus is data-driven visualization of user engagement, so I’m not looking to track sales or manage accounts—only to surface engagement insights in a way that’s quick to grasp and easy to act on.\n\nHere’s what I’m after:\n\n• Key engagement metrics visualised in real time (think session length, pages per session, click-through patterns, returning vs new users, scroll depth—whatever you recommend that best captures engagement).  \n• Interactive charts and graphs (line, bar, heat-map, cohort, etc.) built with a modern JS library such as Chart.js, D3.js, Highcharts or a framework you’re comfortable with.  \n• Ability to filter by date range, device type and referral source right from the dashboard.  \n• A lightweight back-end hookup so the dashboard pulls fresh data automatically from my existing analytics stack (Google Analytics 4 is in place; I can expose an API or give you access to BigQuery if that’s simpler).  \n• Mobile-first, responsive layout that can drop straight into a React component on my current site.  \n• Clear, maintainable code plus a short README so I can re-deploy or extend the visuals later.\n\nAcceptance criteria  \n1. All chosen engagement metrics load under three seconds on a typical broadband connection.  \n2. Visual elements resize gracefully on screens from 320 px to 1920 px.  \n3. Filters update the visuals without a full-page reload.  \n4. No console errors ",
+  "query": "data extraction",
+  "found_at": "2026-08-21 21:09"
+ },
+ {
+  "id": 40662783,
+  "title": "US Instagram Engagement Assistant",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010453,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/content-writing/Instagram-Engagement-Assistant",
+  "desc": "I run an Instagram account that targets a US-based audience and I’m ready to deepen the relationship with our followers through genuine, one-to-one conversations. Your entire focus will be follower engagement—specifically direct messaging.  \n\nHere’s what I need from you:  \n• Log in to the brand’s Instagram profile each day, identify new followers as well as recent engagers, and start a friendly, on-brand conversation with them via DM.  \n• Keep the tone warm, concise and consistent with the voice guidelines I’ll share.  \n• Track each conversation in a simple Google Sheet (name, date, purpose, next step) so I can see progress at a glance.  \n• Flag hot leads or urgent support questions immediately so I can jump in when needed.  \n\nSuccess looks like steady, respectful dialogue with at least 30 new or existing followers per day, zero unanswered messages in the inbox, and an organized log I can review any time. If you’re comfortable working US hours, writing fluid, idiomatic English, and you genuinely enjoy chatting on Instagram, let’s get started.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-21 21:09"
  }
 ]
