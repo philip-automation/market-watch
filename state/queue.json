@@ -258,5 +258,18 @@
   "desc": "I need a WhatsApp Business API account opened and fully configured so I can send high-volume campaigns focused on marketing. The messages will be strictly promotional offers, so the account and any supporting tools you recommend must comply with WhatsApp’s current policies for outbound marketing traffic.\n\nHere’s what I expect once we start:\n• You handle the application or partner onboarding required to obtain an active WhatsApp Business API number capable of bulk throughput.  \n• End-to-end setup of the API (webhooks, message templates, phone number verification, Facebook Business Manager link, etc.) so I can start broadcasting immediately.  \n• A simple guide or post-setup walk-through showing me how to upload my contact lists and trigger promotional blasts without exceeding WhatsApp limits.  \n\nIf you have experience with providers such as 360dialog, Gupshup, Twilio, or another official BSP, let me know—speed and reliability matter more than the specific vendor. The account should remain in my company’s name and be ready for marketing traffic on hand-over.",
   "query": "chatgpt api",
   "found_at": "2026-08-21 15:43"
+ },
+ {
+  "id": 40662395,
+  "title": "Legally Compliant Check Processing Support",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/accounting/Legally-Compliant-Check-Processing",
+  "desc": "While I am working abroad for the next several months, I still need a licensed North Carolina-based professional or firm that can receive my clients’ equipment-payment checks, deposit them, and handle all related paperwork in full accordance with state and federal regulations. Every payment originates from standard commercial sales; nothing is personal or consumer lending.\n\nTo begin, I will need clear proof that you are authorized to perform this service—a current legal certification that covers check handling or money transmission in North Carolina. Once verified, I will forward client checks directly to your office or lockbox. You will deposit them into the designated corporate account, maintain a transparent audit trail, and return digital copies of all stamped deposit slips for my records.\n\nBecause I remain overseas, visibility is critical. I require:\n• Payment tracking for each check—from receipt through cleared funds  \n• A concise monthly reporting package (PDF) summarizing deposits, dates cleared, and any exceptions  \n\nIf you can meet these compliance and reporting needs, let’s discuss workflow, turnaround times, and your service fee structure.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-21 16:15"
  }
 ]
