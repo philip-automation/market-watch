@@ -271,5 +271,57 @@
   "desc": "While I am working abroad for the next several months, I still need a licensed North Carolina-based professional or firm that can receive my clients’ equipment-payment checks, deposit them, and handle all related paperwork in full accordance with state and federal regulations. Every payment originates from standard commercial sales; nothing is personal or consumer lending.\n\nTo begin, I will need clear proof that you are authorized to perform this service—a current legal certification that covers check handling or money transmission in North Carolina. Once verified, I will forward client checks directly to your office or lockbox. You will deposit them into the designated corporate account, maintain a transparent audit trail, and return digital copies of all stamped deposit slips for my records.\n\nBecause I remain overseas, visibility is critical. I require:\n• Payment tracking for each check—from receipt through cleared funds  \n• A concise monthly reporting package (PDF) summarizing deposits, dates cleared, and any exceptions  \n\nIf you can meet these compliance and reporting needs, let’s discuss workflow, turnaround times, and your service fee structure.",
   "query": "pdf extraction",
   "found_at": "2026-08-21 16:15"
+ },
+ {
+  "id": 40657838,
+  "title": "Product Photo & Video Editing",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010452,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/background-removal/Product-Photo-Video-Editing",
+  "desc": "I have two parallel tasks I’d like to hand over.  \nFirst, a batch of product photos needs a clean, consistent look. Every image should have its background removed so the item sits crisply on pure white (or transparent, if that proves more useful for web). Color and proportions must stay true to life, but aside from that, it’s a straightforward background-removal job.\n\nSecond, I have some raw video footage that I want trimmed and polished for online use. I’ll share the source clips and we can decide together whether simple cutting, a few tasteful transitions, or on-screen text will work best. Feel free to suggest creative touches as long as the final cut stays focused on the product.\n\nDeliverables  \n• Product photos returned as high-resolution PNGs/JPEGs with backgrounds removed  \n• One final video file in MP4 (H.264) plus the project file in your editor of choice  \n\nPlease let me know your estimated turnaround time and any similar before/after samples you can show.",
+  "query": "web scraping",
+  "found_at": "2026-08-21 16:56"
+ },
+ {
+  "id": 40662444,
+  "title": "Bilingual Client Onboarding Assistant",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/customer-service/Bilingual-Client-Onboarding-Assistant",
+  "desc": "I run a residential cleaning company and need dependable remote help so every new prospect is welcomed politely and booked on the spot. Your two main duties are straightforward:\n\n• Answer inbound calls from potential clients in either English or Portuguese, strictly following the short script I’ll provide.  \n• Secure the booking in our shared Google Calendar, filling in the customer’s details and any special notes.\n\nWhen a call ends, it should either be a confirmed calendar slot or be flagged clearly for my attention—nothing slips through the cracks. I supply the script, VoIP credentials, calendar access and a quick-start guide so you can hit the ground running.\n\nAll you need is perfect fluency in both languages, a quiet workspace and solid internet. If you enjoy friendly customer interactions and have a knack for accurate scheduling, I’d love to work with you.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-21 16:56"
+ },
+ {
+  "id": 40662465,
+  "title": "Fantasy Box Illustration Design",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010452,
+  "bids": 19,
+  "url": "https://www.freelancer.com/projects/coreldraw/Fantasy-Box-Illustration-Design",
+  "desc": "I need a wrap-around illustration for my product box that instantly transports the viewer into a magical realm.\n\nOnce we begin, I’ll share the dieline, dimensions, and mood-board so you can sketch an initial concept directly in CorelDRAW. The final deliverable must be an editable, print-ready CDR file prepared in CMYK at 300 dpi with proper bleed and safety margins.\n\nDeliverables\n• One concept sketch for approval  \n• Final high-resolution CorelDRAW file aligned to the box dieline  \n• Up to two revision rounds to fine-tune color, detail, and placement  \n\nIf you excel at detailed illustration, love fantasy themes, and are comfortable working natively in CDR, I’m excited to see how you can turn this box into a piece of art.",
+  "query": "excel automation",
+  "found_at": "2026-08-21 16:56"
+ },
+ {
+  "id": 40662450,
+  "title": "Property Management Inquiry Calls (cold calling, mystery shopper)",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/cold-calling/Property-Management-Inquiry-Calls-cold",
+  "desc": "I have a short-notice assignment for someone who is physically in the United States and able to pick up the phone right away. I will hand you about ten contact numbers of a management companies that handles rentals and I will give you an address of a house you \"want to buy\". You simply play the role of a prospective buyer who wants the firm to manage the property once it is purchased.  \n\nYour only goal on each call is to gather clear, conversational answers on what they charge, what those fees cover, and any onboarding or contract terms they consider standard. Please sound natural—never hint that you are conducting a survey—and keep the chat focused on their service packages for a single home.  \n\nThe numbers can be worked through in roughly two to three hours, and I need your call notes back—brief but complete—no later than 6 p.m. New York time today. I will give you the online survey link with all the questions (you will put the answers there).  \n\nIf you are located in the U.S. and can start immediately, message me and I will forward the property address and a quick calling script to help you open the conversation.",
+  "query": "python script",
+  "found_at": "2026-08-21 16:56"
  }
 ]
