@@ -531,5 +531,57 @@
   "desc": "I’m developing a full-length, romantic adult feature and need an experienced video professional who can take the project from concept to final master. The shoot will blend cinematic storytelling with tasteful intimacy, so lighting, camera work, and sound must feel on par with mainstream romance films while remaining fully compliant with industry age-verification and release requirements.  \n\nHere’s what I expect to hand over at the end:  \n• A polished script (or revisions to my draft) approved before filming starts  \n• 4K multi-camera footage captured on location, complete with clean audio and lighting that flatters performers  \n• Professional editing in Adobe Premiere or DaVinci Resolve, colour-graded and sound-mixed for streaming and download platforms  \n• Final export in at least two formats (4K master and a compressed 1080p) plus all raw project files  \n• Signed model releases and proof of 18+ compliance for every performer  \n\nI’ll secure talent and locations; you handle crew, gear, and the creative flow on set. If you have a reel that shows romance-focused adult work—or mainstream romantic cinematography that demonstrates the same mood—please share it when you respond.",
   "query": "python script",
   "found_at": "2026-08-21 19:02"
+ },
+ {
+  "id": 40662712,
+  "title": "Figma Workflow Mockups Needed",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010447,
+  "bids": 19,
+  "url": "https://www.freelancer.com/projects/figma/Figma-Workflow-Mockups-Needed",
+  "desc": "I run SpellOut.in, an AI-driven legal-tech platform, and I want every user interaction mapped clearly in Figma so my development team can move fast with confidence. The priority is the Workflow module; that single area handles everything our users do once they land, so the flow must feel effortless and self-explanatory.\n\nHere is what I need from you:  \n• A complete, clickable flow in Figma that walks through each state of the Workflow module—from the moment a visitor lands to the point they finish a task and log out.  \n• Consistent components, styles, and naming so developers can grab assets without guesswork.  \n• Desktop and mobile frames joined by smart, intuitive transitions, with edge cases (errors, empty states, loading) covered as well.  \n\nI will provide the current site, brand colours, copy, and AI prompts as soon as we start; you will return a shareable Figma link plus a brief hand-off note explaining the structure.\n\nMy acceptance criteria are simple: every screen connected, no dead ends, and clear annotations that show how data flows between steps.\n\nTimelines are flexible but I value quick, iterative check-ins—call or WhatsApp me on +91-8130527381 to discuss scope and milestones in more detail.",
+  "query": "data extraction",
+  "found_at": "2026-08-21 19:33"
+ },
+ {
+  "id": 40662711,
+  "title": "Fragrantica Database CSV Extraction",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010447,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/scrapy/Fragrantica-Database-CSV-Extraction",
+  "desc": "I need a complete, one-time scrape of every fragrance listing on Fragrantica and nothing else—strictly factual catalogue information, no user reviews or personal data. The final deliverable should be a single, well-structured CSV file.\n\nRequired columns, in this exact order:  \nid, name, brand, gender, release_date, description, accords, notes, image_url.  \n\nKey points  \n• One-time extraction only; no ongoing sync.  \n• For the image field I just need the direct URL, please do not download or embed the files.  \n• Make sure text is clean (no HTML tags, line-break clutter, or duplicated records).  \n• Python with Scrapy or BeautifulSoup is fine, as long as the script is reproducible so I can rerun it if Fragrantica changes something in the future.  \n\nBefore hand-off, spot-check a few random entries against the live site so we both know everything lines up. Once the CSV passes that sanity check, the job is done.",
+  "query": "data extraction",
+  "found_at": "2026-08-21 19:33"
+ },
+ {
+  "id": 40662701,
+  "title": "Implementación y Prueba Piloto Kommo CRM",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 17,
+  "url": "https://www.freelancer.com/projects/crm/Implementaci-Prueba-Piloto-Kommo-CRM",
+  "desc": "Busco un especialista con experiencia comprobable en Kommo CRM para realizar una implementación piloto y evaluar si la plataforma se adapta a nuestra operación comercial.\n\nAlcance del proyecto\nVincular Kommo con Meta/Facebook Lead Ads, para recibir automáticamente los leads generados mediante formularios.\nConfigurar la importación de bases de prospectos desde Excel.\nCrear el flujo de seguimiento comercial y reglas básicas de automatización.\nConfigurar usuarios, permisos y responsabilidades para:\n3 asesores de ventas\n1 persona de Mesa de Control/Operaciones, responsable del seguimiento de expedientes.\n1 administrador/directivo, con acceso principalmente para monitoreo y supervisión.\nConfigurar alertas, tareas y recordatorios para asegurar el seguimiento oportuno de cada prospecto.\nCrear un dashboard sencillo que permita monitorear leads, responsables, estatus y seguimientos pendientes.\nPerfil requerido\n\nBusco a alguien que ya tenga experiencia práctica implementando Kommo, especialmente en:\n\nIntegración Kommo + Meta/Facebook Lead Ads.\nAutomatizaciones y reglas de seguimiento.\nConfiguración de pipelines, tareas y alertas.\nImportación y administración de bases de datos.\nConfiguración de roles y dashboards.\n\nNo buscamos desarrollar un CRM desde cero. El objetivo es aprovechar las funcionalidades existentes de Kommo y configurar un piloto funcional de manera rápida y sencilla, para probar la plataforma.",
+  "query": "excel automation",
+  "found_at": "2026-08-21 19:33"
+ },
+ {
+  "id": 40662705,
+  "title": "Dental Clinic Printables",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010447,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/print-design/Dental-Clinic-Printables",
+  "desc": "I need printable formats for both a prescription bill and procedure notes for my dental clinic. \n\nRequirements:\n- Formats: JPEG and PDF\n- Prescription Bill: Include patient details, and we will provide procedure list notes and rates list.\n- Procedure Notes: Should include procedure description.\n\nIdeal Skills and Experience:\n- Graphic design\n- Experience creating printable documents\n- Attention to detail",
+  "query": "pdf extraction",
+  "found_at": "2026-08-21 19:33"
  }
 ]
