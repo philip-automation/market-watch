@@ -583,5 +583,18 @@
   "desc": "I need printable formats for both a prescription bill and procedure notes for my dental clinic. \n\nRequirements:\n- Formats: JPEG and PDF\n- Prescription Bill: Include patient details, and we will provide procedure list notes and rates list.\n- Procedure Notes: Should include procedure description.\n\nIdeal Skills and Experience:\n- Graphic design\n- Experience creating printable documents\n- Attention to detail",
   "query": "pdf extraction",
   "found_at": "2026-08-21 19:33"
+ },
+ {
+  "id": 40662723,
+  "title": "YouTube MP3 Segment Extraction",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010448,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/audio-editing/YouTube-Segment-Extraction-40662723",
+  "desc": "I have two YouTube videos whose music I need turned into MP3 files. I only want particular sections from each clip, not the full tracks. Once we start, I’ll send you the video links plus clear, plain-language notes that describe the exact moments to capture (for example, “chorus that starts right after 2nd verse and fades before applause”). \n\nYour job is to:\n\n• Download each video, isolate the requested sections exactly as described, and export them as separate, clean MP3s—one file per video.  \n• Deliver the files in good-sounding, listener-ready quality (320 kbps preferred, but feel free to suggest an alternate setting if it helps retain fidelity).  \n• Trim any residual silence or abrupt clicks at the in/out points so the cuts sound natural.\n\nTypical tools like youtube-dl, yt-dlp, ffmpeg, Audacity, or similar are fine as long as the final audio is artifact-free.\n\nPlease confirm you can match the timestamps from descriptive notes before you begin, and let me know roughly how quickly you can turn this around.",
+  "query": "data extraction",
+  "found_at": "2026-08-21 19:54"
  }
 ]
