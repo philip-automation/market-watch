@@ -50,5 +50,57 @@
   "desc": "Social Media Manager + Reels Video Editor\n\nBrand: DataMavericks — @datamavericks\nPlatform: Instagram\nNiche: Data Analytics, Data Science, SQL, Power BI, Python & AI\nLocation: Remote — India\nType: Part-time / Long-term Freelance\nMonthly Budget: ₹20,000–₹25,000 INR\n\nAbout DataMavericks\n\nDataMavericks is an educational content brand focused primarily on Data Analytics, Data Science, SQL, Power BI, Python, career guidance and technology.\n\nWe already have an existing audience interested primarily in analytics-related content.\n\nWe are now looking to significantly improve the quality and consistency of our Instagram presence by introducing high-quality talking-head Reels, while continuing to publish valuable educational carousels.\n\nOver time, we will also gradually introduce AI and GenAI content relevant to Data Analysts and Data professionals.\n\nWe are looking for someone who can work with us long-term and take ownership of the day-to-day execution and growth of our Instagram page.\n\nMonthly Deliverables\n\nYou will be responsible for approximately:\n\n6 Premium Instagram Reels / Month\n\nWe will provide:\n\n- Professionally recorded studio-quality talking-head footage\n- Clean audio/voice\n- Core topic/content direction\n- Technical guidance where required\n\nYou will be responsible for converting the raw footage into high-quality, engaging 30–60 second Instagram Reels.\n\nThe Reels should include, wherever appropriate:\n\n- Strong first 2–3 second visual hooks\n- Retention-focused pacing\n- Professio",
   "query": "data extraction",
   "found_at": "2026-08-22 15:01"
+ },
+ {
+  "id": 40664197,
+  "title": "Instagram Content & Admin Support",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/social-media-management/Instagram-Content-Admin-Support",
+  "desc": "I’m looking for a reliable assistant who can take the lead on creating fresh, engaging content for my Instagram account while stepping in for light digital chores when needed. The role centres on Instagram content creation, yet now and then I may ask for basic data entry or straightforward administrative follow-ups.\n\nWhat I need most right now:\n• Original Instagram posts: simple graphics or photos, concise captions, relevant hashtags.  \n• Consistent delivery: propose a realistic posting rhythm and stick to it.  \n• Clear communication: update me on progress, ask questions early, and meet agreed deadlines.  \n• Flexibility: if a quick spreadsheet update or minor admin task pops up, you’re comfortable handling it.\n\nYou should be able to:\n– Follow written instructions without supervision.  \n– Work punctually and take ownership of the schedule you set.  \n– Use basic online tools (Canva, Google Workspace, or similar) to draft and share content for approval.\n\nExperience in social media management is welcome but not mandatory; I value responsibility and good communication even more.\n\nWhen you reply, please tell me:\n1. Your relevant experience (even if it’s personal projects).  \n2. How many Instagram posts you can produce weekly and your estimated turnaround time.  \n3. Your proposed fee or hourly rate.\n\nI’m eager to find someone who can start quickly and grow with the role as new digital tasks arise.",
+  "query": "data extraction",
+  "found_at": "2026-08-22 15:32"
+ },
+ {
+  "id": 40664192,
+  "title": "Wireless Video & Data Acquisition Prototype",
+  "budget_min": 37500.0,
+  "budget_max": 75000.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/embedded-systems/Wireless-Video-Data-Acquisition",
+  "desc": "Custom Embedded Video Telemetry & Data Acquisition System\n\nWe are seeking an experienced Embedded Systems / Hardware Integration Engineer to develop a compact proof-of-concept prototype for a low-latency, point-to-point wireless video and data acquisition system.\n\nKey Requirements:\n\n- Custom PCB design, schematics, and hardware integration\n- Digital video interface & processing (MIPI CSI / HDMI / H.264/H.265)\n- Low-latency wireless transmission and RF optimization\n- Firmware tuning, bitrate optimization, and power management\n- Compact thermal management and NTC-based safety protection\n- Li-Po power architecture with 4–5 hours target runtime\n- Prototype assembly, testing, and range/stability validation\n\nEngagement:\nPhase 1 – Architecture & component feasibility consultation\nPhase 2 – Functional bench prototype & testing\nPhase 3 – Pre-production enclosure/hardware planning\n\nDetailed specifications and deployment information will be shared with shortlisted candidates after NDA execution.\n\nPlease share relevant portfolio/case studies of custom embedded hardware projects taken from prototype to production.",
+  "query": "data extraction",
+  "found_at": "2026-08-22 15:32"
+ },
+ {
+  "id": 40664177,
+  "title": "Android Algebra Study App",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/android-app-development/Android-Algebra-Study-App",
+  "desc": "I want to turn my high-school algebra notes into a focused Android application that learners can carry in their pocket. The app will present each topic—linear equations, quadratic functions, factoring, and so on—in a clean, distraction-free interface and keep track of how far the student has progressed through the material. The progress-tracking dashboard is the must-have feature: after every section the user should instantly see completion percentages and a simple visual indicator showing what still needs review.  \n\nFeel free to suggest elegant ways to store that data locally or in the cloud, yet keep the first version light so it runs smoothly on typical student devices. Although practice quizzes or step-by-step solutions might be interesting future add-ons, you can ignore them for this build and focus your time on a rock-solid reading experience, intuitive navigation, and reliable progress persistence.\n\nDeliverables  \n• Full Android Studio project (Kotlin or Java) with well-commented source code  \n• Signed APK ready for Play Store submission  \n• Brief set-up document explaining how to update content and reset progress data  \n\nAcceptance criteria  \n• Topics load instantly, and progress bars update without glitches  \n• App installs on Android 7.0 and above with no crashes during a five-minute exploratory test  \n• Code passes a quick review for readability and uses standard Android architecture components  \n\nLet me know how you would structure the data model for tracking comp",
+  "query": "data extraction",
+  "found_at": "2026-08-22 15:32"
+ },
+ {
+  "id": 40664145,
+  "title": "AI-Generated YouTube Shorts Production",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/ai-video-editing/Generated-YouTube-Shorts-Production",
+  "desc": "I’m building a fresh stream of YouTube Shorts and want every step—concept, visuals, voice, music, and edit—handled through AI video creation tools. Expect snappy 15-60 second clips that hook viewers in the first three seconds, keep them watching with tight storytelling, and close on a clear call-to-action.\n\nHere’s what I need from you:\n• 100 % AI-generated vertical videos (9:16) delivered in 1080 × 1920 MP4  \n• Short, punchy scripts and prompts that feed the chosen AI platform smoothly  \n• Captions burned in, royalty-free music, and a bold thumbnail pulled from (or designed for) each video\n\nI’m flexible on the toolkit—Runway, Pika, Kaiber, CapCut, or any stack you know best—so long as the final Shorts are ready to upload without extra tweaks.\n\nWhen you apply, focus on your experience producing AI-driven Shorts: links to previous videos, the platforms you’ve mastered, and anything else that proves you can turn around polished clips quickly.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-22 15:32"
  }
 ]
