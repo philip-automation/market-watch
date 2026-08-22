@@ -1532,5 +1532,44 @@
   "desc": "Senior Odoo Enterprise Functional Architect + Technical Lead — Preclinical CRO / Pharma / Life Sciences.\nPhase 1 — Process mapping\n\nMap:\n\nLead → Client → Study Request → Study Design → Proposal → Contract → Study Planning → Resource Allocation → Department Requests → Procurement → Inventory → Study Execution → QA → Reporting → Billing → Study Closure\n\nPhase 2 — Gap analysis\n\nSeparate requirements into:\n\nStandard Odoo\n\nOdoo configuration\n\nStudio/customization\n\nCustom module development\n\nExternal integration\n\nPhase 3 — Prototype\n\nBuild one complete study from beginning to end.\n\nPhase 4 — Full implementation\n\nThen roll out:\n\nCRM → Sales → Study → Purchase → Inventory → Finance → HR → QAU → IT → Maintenance.",
   "query": "gpt integration",
   "found_at": "2026-08-22 09:46"
+ },
+ {
+  "id": 40663681,
+  "title": "Custom E-commerce Scraper",
+  "budget_min": 250000.0,
+  "budget_max": 500000.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/scrapy/Custom-commerce-Scraper",
+  "desc": "I need a custom scraper for an e-commerce site to extract text and images. \n\nRequirements:\n- Scrape product details, descriptions, and images.\n- Handle dynamic content and pagination.\n- Deliver data in a structured format (CSV, JSON).\n\nIdeal Skills and Experience:\n- Proficiency in Python or similar languages.\n- Experience with web scraping tools (BeautifulSoup, Scrapy).\n- Knowledge of anti-scraping measures and how to bypass them.\n- Prior experience with e-commerce sites is a plus.\n\nPlease include your relevant experience in your application.",
+  "query": "web scraping",
+  "found_at": "2026-08-22 10:08"
+ },
+ {
+  "id": 40663690,
+  "title": "Daily 20 Trending News Articles",
+  "budget_min": 10.0,
+  "budget_max": 100.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/seo-writing/Daily-Trending-News-Articles",
+  "desc": "I need a reliable writer (or small team) who can file twenty fresh, well–sourced news stories every single day. The brief is deliberately broad: anything that is trending anywhere in the world is fair game—politics, entertainment, tech, business, sport, science, lifestyle and breaking emergencies included.  \n\nHere’s what I expect each day:  \n• 20 standalone articles delivered on a rolling basis so I can publish while topics are still hot.  \n• Each story 500- 1000 words, written in clean, engaging English, free of fluff and click-bait.  \n• Clear attribution for facts, quotes and figures; I will run random fact checks.  \n• Headlines and sub-heads that capture the angle without overselling.  \n• A short meta description (140-160 characters) and 3-5 SEO-smart keywords per piece.  \n\nTurnaround speed is critical. I usually flag the first wave of topics at 07:00 GMT and need drafts within three hours; the rest of the day you’ll pitch or pick up stories as they break. We’ll stay in touch on Slack so nothing slips.  \n\nI’m open to any reliable research workflow—AP, Reuters, social listening tools, Google Trends, TweetDeck, Feedly, etc.—as long as sources are reputable and you can pivot fast when a bigger story erupts. If you already have access to paid wire services or analytics dashboards, let me know.  \n\nTo apply, send me:  \n1. Two recent news clips that went live within 60 minutes of the event.  \n2. One paragraph on how you spot and validate emerging stories.  \n3. Your timezone and t",
+  "query": "google sheets automation",
+  "found_at": "2026-08-22 10:08"
+ },
+ {
+  "id": 40663689,
+  "title": "Irrevocable Real Estate Sub Trust Draft",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/legal-writing/Irrevocable-Real-Estate-Sub-Trust",
+  "desc": "I am ready to move one parcel of real estate into an irrevocable sub-trust as part of a larger estate-planning strategy. The core task is to draft the complete trust instrument—clearly irrevocable—so that it can take title to the property and operate in harmony with the master trust that already exists.\n\nMust comply with Laws and regulations if miami dade county and state of floruda\n\nI will supply my current estate documents and the specific guidelines that the new sub-trust must follow (distribution rules, successor trustee provisions, and any required references to the master trust). Your job is to translate those directions into a fully compliant legal document that satisfies state law, records cleanly with the county recorder, and protects the asset long-term.\n\nDeliverables\n• Final irrevocable sub-trust agreement in editable Word and PDF  \n• Any ancillary documents needed for conveyance (e.g., warranty or quit-claim deed, assignment of beneficial interest)  \n• A brief implementation memo summarizing filing/recording steps and future trustee actions  \n\nAcceptance Criteria\n• Language reflects all provided guidelines without contradiction  \n• Clearly states irrevocability and segregation of liability from the master trust  \n• Ready for signature and recording with no further drafting required  \n\nIf you have solid trust-law experience—especially with real-estate-holding sub-trusts—let’s collaborate so I can finalize this component of my estate plan swiftly and accurately.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-22 10:09"
  }
 ]
