@@ -1090,5 +1090,57 @@
   "desc": "** At least 5 Project Attach ** \nI have a steady flow of new clients and I’m wasting too much time setting up each one by hand. I want a single GoHighLevel form submission to do the heavy lifting for me.\n\nWhen a prospect completes the form, the workflow must:\n\n1. Spin up a brand-new GoHighLevel sub-account.  \n2. Populate that sub-account with the business information that comes through the form.  \n3. Reach into Twilio, search for a fresh local phone number that matches the client’s area code, purchase it, and drop it straight into the new sub-account for calls and SMS.\n\nI’m already comfortable inside GoHighLevel; what I need is someone who can wire the APIs together reliably. Direct API calls, Zapier, Make (Integromat) or custom webhooks are all fine as long as the end result is bulletproof. You should know the Twilio REST API inside out and be confident working with VoIP‐style provisioning.\n\nAcceptance criteria  \n• Form submission creates the GHL sub-account within 30 seconds.  \n• Business profile fields in GHL match the form data exactly.  \n• A newly purchased Twilio number in the correct area code appears in the sub-account and is fully functional for outbound/inbound calls and SMS.  \n• Clear documentation of the flow and any environment variables or credentials needed for future maintenance.\n\nI see this as an ongoing engagement; once the core automation is live there will be refinements and additional triggers to build. If you’ve done GoHighLevel + Twilio integrations bef",
   "query": "data extraction",
   "found_at": "2026-08-22 06:16"
+ },
+ {
+  "id": 40663397,
+  "title": "Online Betting Platform Development",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 17,
+  "url": "https://www.freelancer.com/projects/web-development/Online-Betting-Platform-Development",
+  "desc": "I need a browser-based betting website that also gives me the management tools normally found in a business dashboard. The whole application must be delivered as a modern, responsive web app so it performs smoothly on desktop and mobile screens alike.\n\nCore scope  \n– Public-facing betting portal: user registration, KYC flow, secure wallet, real-time odds display, ticket creation, live-bet tracking, and payout confirmation.  \n– Back-office dashboard: consolidated view of turnover, profit/loss, active wagers, customer profiles, and automated reports exportable to CSV/PDF.  \n– Administration tools: role-based access, manual bet settlement override, odds configuration, and a notification center for system alerts.  \n– Payment integration: at least two mainstream gateways plus manual deposit/withdraw options, all logged in the ledger.  \n– Security & compliance: HTTPS everywhere, hashed credentials, audit logs, and a clear structure that allows the addition of local gaming-authority requirements.\n\nAcceptance criteria  \n1. All critical user journeys (sign-up, deposit, place bet, withdraw) must complete in under five clicks.  \n2. Real-time odds refresh without page reload, latency under 2 seconds.  \n3. Admin reports reconcile 1:1 with transaction records.  \n4. Source code passes an independent static-analysis scan with no high-severity findings.  \n5. Deployed demo on my chosen VPS for final review before hand-over of code, schema, and build scripts.\n\nFeel free to recommend the stack y",
+  "query": "web scraping",
+  "found_at": "2026-08-22 07:05"
+ },
+ {
+  "id": 40663337,
+  "title": "Digital Marketing Executive Needed",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/digital-marketing/Digital-Marketing-Executive-Needed-40663337",
+  "desc": "# Digital Marketing Executive – Lead Generation\n\n**Job Type:** Full-time\n**Experience:** 1–3 years preferred\n**Location:** Chennai\n**Salary:** Negotiable + Performance Incentives\n\n## About the Role\n\nWe are looking for a **Digital Marketing Executive** who can generate quality leads and help grow our business through online marketing channels.\n\nThe ideal candidate should have hands-on experience with **Facebook/Instagram Ads, Google Ads, social media marketing, lead generation, and campaign optimization**.\n\n## Key Responsibilities\n\n* Plan and execute digital marketing campaigns to generate leads.\n* Run and manage **Facebook & Instagram (Meta) Ads**.\n* Manage **Google Ads / Search Ads** campaigns.\n* Identify target audiences and create effective marketing campaigns.\n* Generate and improve the quality of leads through online channels.\n* Monitor campaign performance, CPL, conversions, and ROI.\n* Create and coordinate marketing content for social media.\n* Manage social media pages and increase engagement.\n* Test different ad creatives, audiences, and campaigns to improve results.\n* Track leads and coordinate with the sales team for follow-up.\n* Prepare regular reports on leads, campaign performance, and conversions.\n* Research competitors, market trends, and new lead-generation opportunities.\n* Continuously optimize campaigns to reduce cost per lead and increase conversions.\n\n## Requirements\n\n* 1–3 years of experience in digital marketing or lead generation.\n* Hands-on experience ",
+  "query": "data extraction",
+  "found_at": "2026-08-22 07:05"
+ },
+ {
+  "id": 40663360,
+  "title": "Cinematic 3D YouTube Intro",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/visual-effects/Cinematic-YouTube-Intro",
+  "desc": "I need a 20-second opener that feels like a premium South-Indian “mass hero entry,” yet is driven first and foremost by slick, futuristic 3D visuals. My own photo will become the digital hero on screen, so character modeling, match-move or mocap work will be required to keep me front and centre from the first frame until the final title reveal.\n\nVisual direction  \n• Palette: jet-black contrasted with deep crimson red  \n• Mood: dramatic lighting and rolling smoke as the key FX accent, with particles, sparks and lens flares used only where they enhance the cinematic feel  \n• Story beats: hints of travel and vlogging gear woven into the environment (think spinning passport stamp holograms, drone fly-bys, suitcase-as-mech transformation—surprise me) before the energy peaks in a bold 3D logo unveil\n\nCore expectations  \n1. Original animation and VFX—no marketplace templates or cookie-cutter gaming intros  \n2. 20-second master delivered in 4K (plus a 1080p social trim)  \n3. Editable project files (After Effects, Blender, C4D or your preferred stack) so I can update text or footage later  \n4. Music/sound design that complements the South-Indian heroic vibe (rights-cleared)  \n5. Two review rounds for tweaks on pacing, colour grade and VFX polish\n\nTo help you start, I’ll supply:  \n• High-res portrait photos and reference poses  \n• My current logo in vector format  \n• Example tracks that capture the energy I’m after\n\nWhen you reply, link me to past cinematic intros, AI-assisted VFX shot",
+  "query": "ai chatbot",
+  "found_at": "2026-08-22 07:05"
+ },
+ {
+  "id": 40663333,
+  "title": "ANSYS Helical Heat Exchanger Analysis -- 2",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/3d-modelling/ANSYS-Helical-Heat-Exchanger-Analysis",
+  "desc": "I need a complete ANSYS-based study of a helical tube heat exchanger turned around in just two days. I will supply the detailed geometric dimensions; from there, I want you to:\n\n• Build the 3-D geometry exactly to spec  \n• Generate a mesh and run a proper convergence study, documenting the grid-independent solution  \n• Set up and solve the thermal-fluid simulation, selecting models and boundary conditions that suit a coiled-tube exchanger  \n• Validate the solution numerically (residuals and energy balance) and present clear plots of temperature, velocity and pressure fields  \n• Summarise findings in a concise PDF report and hand over the ANSYS project files so results can be reproduced\n\nPlease highlight any turbulence models, wall treatments or user-defined functions you will apply, as well as the mesh metrics you will track during the refinement study. Meeting the 48-hour deadline is critical, so reply only if you are confident you can deliver on time without compromising accuracy.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-22 07:05"
  }
 ]
