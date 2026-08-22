@@ -102,5 +102,31 @@
   "desc": "I’m building a fresh stream of YouTube Shorts and want every step—concept, visuals, voice, music, and edit—handled through AI video creation tools. Expect snappy 15-60 second clips that hook viewers in the first three seconds, keep them watching with tight storytelling, and close on a clear call-to-action.\n\nHere’s what I need from you:\n• 100 % AI-generated vertical videos (9:16) delivered in 1080 × 1920 MP4  \n• Short, punchy scripts and prompts that feed the chosen AI platform smoothly  \n• Captions burned in, royalty-free music, and a bold thumbnail pulled from (or designed for) each video\n\nI’m flexible on the toolkit—Runway, Pika, Kaiber, CapCut, or any stack you know best—so long as the final Shorts are ready to upload without extra tweaks.\n\nWhen you apply, focus on your experience producing AI-driven Shorts: links to previous videos, the platforms you’ve mastered, and anything else that proves you can turn around polished clips quickly.",
   "query": "ai chatbot",
   "found_at": "2026-08-22 15:32"
+ },
+ {
+  "id": 40664231,
+  "title": "PLC-Controlled Microwave Automation",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/plc/PLC-Controlled-Microwave-Automation",
+  "desc": "I want my microwave to obey the same Start/Stop, cooking-time, and temperature commands that I already issue from my PLC / HMI instead of pressing the front panel keys. The idea is to tap into the oven’s control board (or replace it if that proves cleaner) and expose safe, isolated I/O points the PLC can drive.  \n\nThe job covers tracing the existing circuitry, designing a small interface that links the magnetron controls and door interlocks to digital or serial lines, and supplying the PLC logic and an HMI screen so I can trigger a cycle, set the exact seconds, and vary the power level without touching the appliance.\n\nSafety is critical: all native protections, RF shielding, and door-closed interlocks must stay intact. I am currently running a Siemens S7-1200 but can map your code to another platform if that speeds things up.\n\nDeliverables  \n• Schematic and wiring diagram for the microwave-to-PLC interface (opto-isolated preferred)  \n• Bill of materials and any PCB or breakout design files  \n• PLC program plus sample HMI layout handling Start, Stop, Time, and Temperature fields  \n• Step-by-step installation and test guide illustrated with photos or clear diagrams  \n\nI will handle the physical wiring on site following your instructions; remote collaboration is fine as long as the documentation is unambiguous.",
+  "query": "python automation",
+  "found_at": "2026-08-22 15:53"
+ },
+ {
+  "id": 40664210,
+  "title": "Industrial Control System Electrical Design",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/industrial-design/Industrial-Control-System-Electrical",
+  "desc": "I’m upgrading the control-side of an industrial installation and need a seasoned electrical designer to turn my functional requirements into complete, build-ready documentation. The scope is strictly the control system — power distribution and lighting are handled elsewhere — so the focus will be on I/O allocation, panel layouts, wiring schematics, interlock logic and all the drawings a panel shop and field team need to fabricate, install and commission the system.\n\nHere’s what I expect to walk away with:  \n• Detailed single-line and schematic drawings in AutoCAD Electrical or EPLAN (DWG + PDF).  \n• Control panel layout, terminal diagrams and cable schedules.  \n• Bill of materials with manufacturer part numbers and load calculations.  \n• Compliance notes to IEC/NFPA standards that apply to the plant.  \n• A concise design brief explaining operational sequences so my PLC programmer can pick it up without guesswork.\n\nIf you already work in a different CAD platform, mention it; I can adapt as long as I get editable files. Familiarity with PLC, SCADA and general automation practices is important because I value design decisions that anticipate programming and commissioning.\n\nI can supply the P&IDs, device list and an outline of the required sequences as soon as we start. Let me know your typical turnaround time for the first draft and how you prefer to handle design reviews.",
+  "query": "python automation",
+  "found_at": "2026-08-22 15:53"
  }
 ]
