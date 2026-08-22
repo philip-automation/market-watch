@@ -1740,5 +1740,44 @@
   "desc": "I have an existing employee handbook that needs a professional once-over before it is distributed company-wide. The document must be thoroughly proofread for grammar, spelling, and overall content accuracy, then reorganized so the flow is clear and every section is easy to locate. Additionally, the freelancer will need to compare the new handbook with the old one and align it by incorporating any beneficial details that might be missing.  Once the text is clean, I also need you to standardise headings, fonts, spacing, tables, and bullet styles so the entire handbook follows a polished, general-professional layout—no proprietary style guide is in place, so you have creative freedom so long as the end result feels consistent, modern, and HR-ready.  Finally, design a simple but eye-catching front cover that includes the company name, logo (I’ll supply the file), and publication date.  Deliverables • Proofread, reorganised handbook in an editable DOCX file • Print-ready PDF with the new cover page • Source file (or Canva/Illustrator link) for the cover so we can update it later  Acceptance will be based on: zero spelling or grammar errors, consistent formatting throughout, logical section order, and a clean, professional cover page ready for immediate distribution.",
   "query": "pdf extraction",
   "found_at": "2026-08-22 11:32"
+ },
+ {
+  "id": 40663841,
+  "title": "Daily Contact Info Entry",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/data-annotation/Daily-Contact-Info-Entry",
+  "desc": "I need a reliable data-entry partner for a recurring, same-day task. Each weekday morning I will share an Excel spreadsheet that contains fresh customer contact information. Your job is simple and very focused: extract just the Name, Email and Phone Number columns and enter them into my web form, one record at a time, with perfect accuracy.\n\nTurnaround is important because the data feeds directly into our outreach tools, so I ask that the full batch—typically 50-100 rows—is submitted before the end of the day you receive it. I’ll supply video instructions, login credentials and a sample file so you can see exactly how the form works.\n\nDeliverables:\n• Daily submission of every record provided that day  \n• Accurate entry of Name, Email and Phone Number only  \n• Confirmation message once the batch is complete, within 24 hours  \n\nIf you have a steady internet connection, solid Excel skills and a track record of careful, confidential data handling, let me know how soon you can begin.",
+  "query": "web scraping",
+  "found_at": "2026-08-22 11:54"
+ },
+ {
+  "id": 40663835,
+  "title": "Daily Customer Info Entry",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/data-analysis/Daily-Customer-Info-Entry",
+  "desc": "Each day I receive between 50 and 200 new customer records in Excel format, and I need those details transferred into my master sheet with perfect accuracy and consistent formatting. The files contain personal information only (names, addresses, contact numbers, etc.), so careful attention to privacy and data-handling best practices is essential.\n\nYou will:\n\n• Open the daily Excel spreadsheet I send.  \n• Check each row for obvious typos or missing fields.  \n• Copy the verified data into the designated columns of my master workbook (also Excel).  \n• Return the updated master file to me before the end of the same business day.\n\nTools involved are standard Microsoft Excel or an equivalent spreadsheet editor; no additional software is required. I expect under a 1 % error rate and no blank mandatory fields in the final file. Consistent, same-day turnaround and strict confidentiality are critical to the project’s success.",
+  "query": "data extraction",
+  "found_at": "2026-08-22 11:54"
+ },
+ {
+  "id": 40663859,
+  "title": "Elegant Product Label Design",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 17,
+  "url": "https://www.freelancer.com/projects/label-design/Elegant-Product-Label-Design",
+  "desc": "I need a striking, luxury-inspired label that instantly communicates quality. The final artwork must feel elegant and upscale, with refined typography, balanced negative space and a premium colour palette that suits high-end retail shelves.  \n\nRegardless of the exact product category—food, cosmetics, electronics, or another line—the label must clearly feature:  \n• Brand name and logo  \n• Ingredients and usage instructions  \n• Contact information and a scannable barcode  \n\nPlease craft the design in vector format (corel draw only) so my printer can resize it without loss of quality. Alongside the print-ready CMYK PDF, include the layered source file and a high-resolution mock-up to help me visualise the label on the actual packaging.\n\nAcceptance criteria  \n1. A refined, elegant aesthetic consistent across all elements.  \n2. All three required information blocks placed logically and legibly.  \n3. Files delivered in CDR, print-ready PDF, and PNG/JPEG mock-ups.  \n\nI’m happy to clarify dimensions, dielines and any brand assets once we begin.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-22 11:54"
  }
 ]
