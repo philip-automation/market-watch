@@ -661,5 +661,44 @@
   "desc": "I'm seeking a talented scriptwriter to adapt a thriller novel into a 100-page script aimed at a young adult audience. \n\nRequirements:\n- Experience in scriptwriting, particularly for thrillers\n- Ability to capture the essence of a novel while making it suitable for a script format\n- Understanding of young adult themes and preferences\n- Strong storytelling and character development skills\n- Must meet standard submission requirements for major producers\n- Provide samples of previous work\n- Participate in a Zoom conference prior to hiring",
   "query": "python script",
   "found_at": "2026-08-22 22:01"
+ },
+ {
+  "id": 40664694,
+  "title": "Cloud ERP Accounting Research Article",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/cloud-computing/Cloud-ERP-Accounting-Research-Article",
+  "desc": "1. Research focus\n\nI would like to develop a rigorous academic research article at the intersection of Cloud ERP, Information Systems, and luxury advertising, with the technological and information-integration capabilities of Cloud ERP serving as the central perspective.\n\nThe main objective is to examine how Cloud ERP can function as a digital information backbone that enables luxury brands to develop more credible, personalized, data-driven, and measurable advertising strategies, while preserving the distinctive characteristics of luxury branding.\n\nThe article should not simply describe the benefits of Cloud ERP for luxury companies. It should develop a clear academic argument explaining the mechanisms through which Cloud ERP capabilities can support luxury advertising activities.\n\n2. Research problem and research gap\n\nThe article should begin by identifying a well-supported research gap.\nthe potential role of Cloud ERP-enabled information integration as an underlying digital infrastructure supporting luxury advertising capabilities appears to be insufficiently conceptualized.\n\nThe article should therefore establish and demonstrate a specific research gap rather than simply stating that \"few studies have examined this topic.\"\n\nThe literature review should critically demonstrate:\n\nwhat is already known about Cloud ERP capabilities;\nwhat is already known about luxury advertising and digital luxury marketing;\nwhere the two streams of literature remain disconnected; and\nwhat new",
+  "query": "web scraping",
+  "found_at": "2026-08-22 22:34"
+ },
+ {
+  "id": 40664676,
+  "title": "Entrepreneur B2B pour Prospection Digitale (France)",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/b2b-marketing/Entrepreneur-pour-Prospection-Digitale",
+  "desc": "Objet : Opportunité Partnership / Setter B2B (Création de sites web - Fortes commissions)\nBonjour,\nJe m'appelle Prosper, fondateur de l'agence web Nezora (https://nezoraweb.netlify.app), et je recherche des freelances motivés pour m’aider à générer mes premiers clients.\nVotre rôle consistera à identifier des prospects qualifiés et à m'aider à décrocher des contrats.\nCe que je propose :\nNos prestations : Des sites web professionnels et modernes à partir de 600 €.\nRémunération attractive : 30 % de commission par client signé (soit un minimum de 180 € par vente).\nPaiement rapide : Versé immédiatement dès que le client règle son acompte.\nFlexibilité totale : 100 % en télétracté, horaires libres.\nOutils fournis : Supports de vente, argumentaires et lien de démonstration (https://nezoraweb.netlify.app) prêts à l'emploi.\nVos responsabilités :\nIdentifier les prospects (commerces, artisans, PME) via LinkedIn, cold emails, appels ou prospection locale.\nQualifier les leads et les orienter vers l'agence.\nContribuer à la signature (possibilité de me passer le relais pour le closing technique).\nProfil recherché :\nExpérience en prospection B2B ou vente de services digitaux.\nMaîtrise parfaite du français.\nAutonomie, ténacité et culture du résultat.\nNote : Rémunération 100 % au commissionnement pour démarrer, avec une vraie opportunité d’évolution vers un fixe + commissions si les performances sont au rendez-vous.",
+  "query": "web scraping",
+  "found_at": "2026-08-22 22:34"
+ },
+ {
+  "id": 40664687,
+  "title": "US YouTube Business Leads Scrape",
+  "budget_min": 37500.0,
+  "budget_max": 75000.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/data-scraping/YouTube-Business-Leads-Scrape",
+  "desc": "I need a fresh prospect list for my content agency, focused on U.S. businesses in Real Estate, Finance and Fitness that maintain an active YouTube presence. Please scrape YouTube only, filter for channels registered in the United States with subscriber counts between 100 and 99,000, and collect three key pieces of information:  \n\n• the publicly listed business email  \n• current subscriber count  \n• total number of videos uploaded  \n\nSkip any channel that does not publish a contact email.\n\nDeliver the data in a clean CSV with these columns: Business/Channel Name, Channel URL, Niche (Real Estate / Finance / Fitness), Email, Subscriber Count, Video Count, Date Scraped. A short test file of 10 rows helps me confirm format and filters before you run the full pull.\n\nAcceptance criteria  \n• Data must be scraped no more than 48 hours before delivery.  \n• At least 90 % of rows must contain a valid, clickable email.  \n• No duplicate channels.\n\nIf you already have a Python, Selenium, Puppeteer, or YouTube Data API workflow that can refresh this list weekly, mention it—I’ll likely need ongoing batches once this first round passes QA.",
+  "query": "data extraction",
+  "found_at": "2026-08-22 22:34"
  }
 ]
