@@ -180,5 +180,31 @@
   "desc": "Freelance Project: Model & Talent Agency Growth Manager\n\nAbout CITRINE MANAGEMENT\n\nCITRINE MANAGEMENT is a growing Model & Talent Management Agency currently representing approximately 33 models and talents.\n\nWe have an established social media presence and a growing talent network, but we currently need an experienced professional who can help us turn the agency into a properly structured, client-facing and revenue-generating business.\n\nAt the moment, our biggest challenge is that we are not consistently receiving brand projects, casting requirements or commercial clients.\n\nWe are looking for an experienced freelancer or small team who can take responsibility for building a practical growth and client-acquisition system for the agency.\n\nWhat We Need\n\nWe are NOT looking for someone who only posts content on Instagram.\n\nWe need someone who understands the model/talent management, fashion, advertising, casting and entertainment industry and can help us generate actual business.\n\nKey Responsibilities\n\n1. Agency Positioning\n\n* Review our current agency and identify what is missing.\n* Improve our positioning, services and presentation.\n* Help us create a clear agency profile for brands, production houses and casting directors.\n\n2. Talent Portfolio Management\n\n* Review our existing 33 models.\n* Identify which models need professional portfolios.\n* Create a proper system for collecting photos, measurements, experience, introduction videos and other talent information.\n* Help structu",
   "query": "pdf extraction",
   "found_at": "2026-08-22 16:35"
+ },
+ {
+  "id": 40664308,
+  "title": "Website-to-iOS App Conversion & Publishing -- 2",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/mobile-app-development/Website-iOS-App-Conversion-Publishing",
+  "desc": "# Convert Existing Website to iOS App & Publish on Apple App Store\n\n## Project Overview\n\nI already have a fully functional and responsive website and I want to convert it into an **iOS mobile application** using a WebView/native wrapper and publish it on the **Apple App Store**.\n\nI do **not have a MacBook** and currently do not have an Apple Developer account.\n\nI am looking for an experienced iOS developer who can handle the complete process from website integration to App Store publication.\n\n## Existing Website\n\nThe website is already developed and functional.\n\nThe developer will receive the website URL and access/details required for integration after discussion.\n\n## Required Work\n\n1. Convert my existing responsive website into an iOS application.\n2. Use WKWebView or an appropriate hybrid/native solution.\n3. Make the application properly optimized for iPhone/iPad.\n4. Add a professional app icon and splash screen.\n5. Implement proper navigation and back-button behavior.\n6. Support website login/session functionality.\n7. Support camera/file upload if required by the website.\n8. Support WhatsApp/external application links.\n9. Handle phone/email links correctly.\n10. Add push notifications if technically feasible.\n11. Add proper loading, offline and error handling.\n12. Configure the iOS application for App Store submission.\n13. Create/configure the required App Store assets.\n14. Upload and submit the application to Apple App Store.\n15. Handle Apple's review process and reasonabl",
+  "query": "gpt integration",
+  "found_at": "2026-08-22 17:04"
+ },
+ {
+  "id": 40664292,
+  "title": "Polish Korean Time-Travel Drama Script",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/screenwriting/Polish-Korean-Time-Travel-Drama",
+  "desc": "I have a completed Korean-style television script that hinges on soul-crossing time travel—an ethereal “spiritual traction” triggered by a life-redemption event. Before I move on to character tweaks or pacing, I need an experienced screenwriter to tighten the story logic, with a laser focus on how this specific time-travel mechanism works from scene to scene.\n\nYour job is to examine every beat where the protagonists slip between timelines, make sure the causal rules stay airtight, and flag or rewrite any moment that could confuse viewers. I want the transitions to feel inevitable yet surprising, the stakes crystal-clear, and the paradoxes resolved in a way that audiences can emotionally track without stopping to question the rules.\n\nDeliverables  \n• Marked-up script (Final Draft or PDF) showing all recommended changes  \n• Clean revised draft ready for table read  \n• Brief logic map that outlines the soul-crossing rules and how each jump advances the redemption arc  \n\nI’m looking for someone fluent in K-drama tone who can balance high-concept mechanics with heartfelt resonance. If you’ve already wrangled complex timelines or supernatural devices on screen, I’d love to see how you would elevate mine.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-22 17:04"
  }
 ]
