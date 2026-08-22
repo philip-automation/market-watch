@@ -440,5 +440,57 @@
   "desc": "I need a Dialpad expert to set up SMS registration for customer notifications related to my remote operated self-storage business using CCStorage.com. \n\nKey Tasks:\n- Implement SMS capability to receive and respond to texts\n- Set up SMS notifications for tenant invoices\n- Integrate with CCStorage.com for seamless operation\n\nIdeal Skills & Experience:\n- Proficiency in Dialpad\n- Experience with SMS setup and integration\n- Familiarity with CCStorage.com is a plus\n- Strong communication skills for effective setup and support",
   "query": "gpt integration",
   "found_at": "2026-08-22 19:40"
+ },
+ {
+  "id": 40664480,
+  "title": "Regain Locked Hotmail Access",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/microsoft/Regain-Locked-Hotmail-Access",
+  "desc": "My Hotmail account is currently locked after Microsoft flagged an unusual number of log-in attempts. I still know the correct password and the phone number on file is active, yet every time I try to verify, the system tells me that method is unavailable.  \n\nHere’s what I have already done without success:  \n• Contacted Microsoft support for standard assistance  \n• Completed the account recovery form several times  \n• Tried the usual password-reset flow  \n\nI have encountered this exact lockout only once before, so I’m convinced the profile data should still be intact. I need someone who genuinely understands Microsoft’s internal escalation paths, security policies, and the nuances of their recovery forms to walk the case through to resolution.  \n\nDeliverable  \n• Full, legitimate access to the account (successful sign-in, inbox visible.\n\nWhen you respond, please briefly outline how you’d approach Microsoft’s support tiers or other valid procedures and share any verifiable success stories with similar Hotmail or Microsoft account recoveries.",
+  "query": "data extraction",
+  "found_at": "2026-08-22 20:00"
+ },
+ {
+  "id": 40664549,
+  "title": "BUDDHU E-commerce Sales & Digital Marketing Setup",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/digital-marketing/BUDDHU-commerce-Sales-Digital-Marketing",
+  "desc": "Freelancer Required – BUDDHU E-commerce Online Sales Setup\n\nAbout the Project\n\nWe are looking for an experienced E-commerce / Digital Marketing Freelancer to help us take our brand BUDDHU live for online sales.\n\nOur website is already under development and almost ready. Product categories and products are currently being added. Our Facebook and Instagram pages are already created.\n\nWe need a freelancer to handle the online selling ecosystem and marketing setup, not basic website development.\n\nWork Required\n\n1. Meta / Facebook / Instagram Setup\n\n- Meta Business Manager setup/optimization\n- Facebook & Instagram integration\n- Product Catalogue setup\n- Instagram/Facebook Shop setup, wherever supported\n- Meta Pixel setup and verification\n- Conversion API setup\n- Events tracking and testing\n- Connect website with Meta\n\n2. Google Setup\n\n- Google Analytics 4\n- Google Search Console\n- Google Merchant Center\n- Product feed setup\n- Google Shopping setup\n- Conversion tracking\n- Basic SEO/Google visibility setup\n\n3. Online Sales Setup\n\n- Ensure website is properly connected with Meta and Google\n- Verify product catalogue/feed\n- Check complete purchase tracking\n- Test:\n  Product → Add to Cart → Checkout → Payment → Purchase\n- Setup retargeting audiences\n- Prepare the account structure for future advertising\n\n4. Advertising Setup & Strategy\n\n- Meta Ads account setup\n- Initial campaign structure\n- Facebook & Instagram advertising\n- Retargeting campaign setup\n- Google Ads/Shopping setup\n- Rec",
+  "query": "gpt integration",
+  "found_at": "2026-08-22 20:00"
+ },
+ {
+  "id": 40664459,
+  "title": "Open Versatile Content Writing Project",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/seo-writing/Open-Versatile-Content-Writing-Project",
+  "desc": "I have an open brief for fresh, engaging written content and I’m intentionally keeping the scope flexible so the right writer can help shape it. Whether the piece ends up as a blog post, full-length article, or concise website copy will depend on the angle you suggest and what best serves my audience once we define it together.  \n\nAt this stage I haven’t locked in topics, keywords, or even a specific readership profile. That means you can pitch creative ideas backed by solid research and on-page SEO logic. I’m interested in a collaborative process: you propose the concept, we fine-tune the outline, and you deliver polished text that is publication-ready. Strong English, clear structure, and an ability to match tone to purpose are all must-haves.  \n\nDeliverables for each assignment:  \n• Final draft in Google Docs or Word  \n• Meta title and description (where relevant)  \n• Brief two-sentence summary for quick promotion  \n\nLet me know how you handle ideation and revisions, share links to two or three samples that showcase your voice, and mention your usual turnaround time. If we click, expect multiple pieces to follow.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-22 20:00"
+ },
+ {
+  "id": 40664553,
+  "title": "Urgent Revit Model Creation",
+  "budget_min": 10.0,
+  "budget_max": 80.0,
+  "currency": "AUD",
+  "usd_rate": 0.7167,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/revit/Urgent-Revit-Model-Creation",
+  "desc": "I’m up against a hard deadline and need a Revit model turned around quickly. Once we agree to proceed I’ll share all reference material in the format I have available—whether that ends up being CAD files, PDFs, or rough sketches.  \n\nHere’s what I’m looking for:  \n• A clean, well-organised Autodesk Revit file (.rvt) that matches the source information I provide  \n• Correct use of families, levels, and naming so I can continue developing the project after delivery  \n• Exported views (PDF or DWG) that let me verify geometry and dimensions at a glance  \n\nSpeed matters, but accuracy does too; I need the model ready to plug straight into my workflow without major rework. Let me know your availability and the fastest realistic turnaround you can commit to, and please include a brief note on similar fast-track Revit jobs you’ve handled before.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-22 20:00"
  }
 ]
