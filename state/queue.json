@@ -765,5 +765,31 @@
   "desc": "I need detailed engineering drawings and calculations for a load-bearing concrete slab that will support a heavy metal baler. The design must comply with relevant Australian Standards for reinforced concrete and specify mesh/rebar throughout, while maintaining a uniform 30 mm cover around the entire machine base.\n\nKey requirements you will address:\nMachine weighs around 28 tonne in total - but also has a large door around 9 tonne that moves up and down while cycling. (See video) https://www.youtube.com/watch?v=rovHKsK7Nxg\n• Slab must remain perfectly flat and level under load, yet include drainage veins to direct liquid to designated exit point\n• A 100 mm high × 100 mm wide concrete retaining/bund wall is to be integrated around the perimeter of the base. It has two jobs: restrain any horizontal machine movement and capture liquids until they reach the drain. (approx 30mm clearance around machine base perimeter.  \n• I already have some dimensions for the slab footprint and baler anchoring points but need your help confirming final thickness, reinforcement pattern, and overall layout to suit the imposed loads.\nI only need design for  slab for base of machine, extra smaller slabs will be added with expainsion foam against main base slab to support hydraulic cylinder stands.\n\nThe set up for the concrete slab should be as simple as possible and include detailed connection drawings/instruction.\n\nCustomer has lots of SL92 Concrete mesh and 32mm bar in stock if this can be utilised.",
   "query": "pdf extraction",
   "found_at": "2026-08-21 23:43"
+ },
+ {
+  "id": 40662958,
+  "title": "AI-Powered Business Platform Developer",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/ai-app-development/Powered-Business-Platform-Developer",
+  "desc": "AI App Builder / Full-Stack Developer\n\nLocation: Hyderabad / Remote\nEmployment: Full-Time / Part-Time / Freelance\nExperience: 1–4 years\nIndustry: SaaS • AI • Business Technology\n\nAbout the Role\n\nWe are building a next-generation AI-powered business management platform designed to help businesses operate smarter, more transparently, and efficiently.\n\nWe are looking for an ambitious AI App Builder / Full-Stack Developer who can turn product ideas into working, scalable applications.\n\nYou will work closely with the founder and product team to build dashboards, mobile/web applications, AI-powered features, business intelligence tools, employee systems, automation, and real-time operational modules.\n\nWhat You'll Work On\n\n- Build modern web and mobile applications\n- Develop AI-powered features and automation\n- Create interactive dashboards and business analytics\n- Integrate AI APIs and third-party services\n- Build real-time data and notification systems\n- Develop employee, operations, inventory and workflow modules\n- Design and connect scalable backend APIs and databases\n- Integrate authentication, payments and external APIs\n- Convert Figma/UI concepts into functional products\n- Improve application performance, security and scalability\n- Test, debug and continuously improve the product\n\nRequired Skills\n\n- Strong knowledge of React / Next.js or similar frameworks\n- Experience with Node.js / Python or equivalent backend technologies\n- Experience with databases such as PostgreSQL / My",
+  "query": "web scraping",
+  "found_at": "2026-08-22 00:23"
+ },
+ {
+  "id": 40662965,
+  "title": "Upgrade Fashion Tech Pack Documentation",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/fashion-design/Upgrade-Fashion-Tech-Pack-Documentation",
+  "desc": "My current tech pack and a separate embroidery file are falling short; the first two samples came back with major issues. Complex corseted pieces and detailed embroidery are involved, yet the factory clearly isn’t receiving enough direction on construction, fit, or finishing.\n\nHere is what I need done:\n• Audit both existing files, point out every gap, and explain why the information is insufficient.  \n• Re-write the tech pack so construction details and fit specifications leave no room for interpretation—especially for the corsets and any other garment sections that look vague.  \n• Advise whether the embroidery pages also require deeper call-outs; I’m not sure yet and will rely on your judgement.  \n\nAcceptance criteria for the revised pack:\n• Annotated flat sketches with stitch types, seam allowances, and fastening positions.  \n• Graded measurement charts and tolerance tables.  \n• Clear BOM and colour/trim lists.  \n• Step-by-step assembly notes that a manufacturer can follow without emailing for clarification.  \n• Final files supplied in an editable format (AI, Excel or similar) plus a print-ready PDF.  \n\nOnce this is in place I can move straight to the next sampling round with confidence that workmanship and fit will finally meet the brief.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-22 00:23"
  }
 ]
