@@ -635,5 +635,31 @@
   "desc": "We're developing a premium smart case for the iPhone 15 (\"Techs\") housing a custom PCB, battery, ESP module, and a 1.69\" TFT display (240×280, ST7789) positioned beside the camera. This is a real hardware product going to manufacturing — not a concept render. We need the complete enclosure design taken all the way to production-ready files.\nScope — full enclosure design:\n\nPrecisely fitted to iPhone 15 dimensions (camera module, buttons, ports, charging alignment)\nBody + lid + internal PCB housing + battery compartment + display window\nSlim, pocket-comfortable profile despite housing electronics\niPhone-recognizable silhouette (camera cutout, optional Apple logo visibility)\nOur brand logo (\"Techs\") engraved/embossed or otherwise integrated into the case design — placement and execution style open to your suggestion\nElectrical insulation — no electronic component may directly contact the iPhone body (hard constraint, full guideline PDF provided)\nThermal consideration — heat from electronics must not be trapped against the phone\nFastening/assembly method that's fast for us to assemble in production but not user-openable\nDrop-resistant, good tactile feel, balanced weight\nSurface finish suitable for printing/branding\n\nDeliverables (fully manufacture-ready):\n\nFinal 3D CAD files (STEP + native format)\nComplete technical drawings with tolerances\nDFM/DFA validation for the chosen manufacturing process\nMaterial selection with justification (mechanical, thermal, cosmetic)\nManufacturing p",
   "query": "pdf extraction",
   "found_at": "2026-08-22 21:40"
+ },
+ {
+  "id": 40664675,
+  "title": "Fintech SaaS Pre-Launch & Growth Strategist Needed",
+  "budget_min": 750.0,
+  "budget_max": 1500.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/digital-marketing/Fintech-SaaS-Pre-Launch-Growth",
+  "desc": "Digital Marketing & Pre-Launch Growth Expert for Fintech / Trading SaaS\nWe are looking for an experienced Digital Marketing, Growth Marketing, or Fintech Marketing Specialist/Agency to develop and execute the pre-launch marketing and brand awareness campaign for the platform.\nThe platform is a professional stock-market research and trading analytics platform currently in its pre-launch phase.\nBefore the public launch, our immediate objective is to:\n•\tBuild awareness around the brand\n•\tEstablish credibility within trading communities\n•\tGenerate qualified traffic\n•\tBuild a strong Founding Members waitlist\n•\tCreate anticipation around the upcoming launch\n•\tDevelop an audience that can later be converted into active and paying subscribers\nThis is therefore not simply a project to “run some ads.”\nWe are looking for someone who understands SaaS pre-launch strategy, audience building, fintech positioning, and performance marketing.\nAbout The Platform\nThe platform is being developed as a modern trading research and analytics platform for active traders and investors.\nThe platform brings together professional market tools such as stock research, scanners, analytics, SEC filing tools, market news, stock information, charts, and other trader-focused functionality within one platform.\nIt is not a broker, investment advisory service, or trading signal provider.\nThe platform is intended for an international audience, with particular relevance to active retail traders and investors.\nCurrent",
+  "query": "data extraction",
+  "found_at": "2026-08-22 22:00"
+ },
+ {
+  "id": 40664658,
+  "title": "Thriller Novel Script Adaptation",
+  "budget_min": 5000.0,
+  "budget_max": 10000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/creative-writing/Thriller-Novel-Script-Adaptation",
+  "desc": "I'm seeking a talented scriptwriter to adapt a thriller novel into a 100-page script aimed at a young adult audience. \n\nRequirements:\n- Experience in scriptwriting, particularly for thrillers\n- Ability to capture the essence of a novel while making it suitable for a script format\n- Understanding of young adult themes and preferences\n- Strong storytelling and character development skills\n- Must meet standard submission requirements for major producers\n- Provide samples of previous work\n- Participate in a Zoom conference prior to hiring",
+  "query": "python script",
+  "found_at": "2026-08-22 22:01"
  }
 ]
