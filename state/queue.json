@@ -869,5 +869,57 @@
   "desc": "I’m re-imagining the five Voltron Paladins as a single Beastking: a Maximal, human/Cybertronian cybrid that can split into individual bots, transform, and then merge back into a powerful combiner. What I need is focused, inventive work on the engineering that makes that magic happen.\n\nYour task is to design brand-new combining features for this line of transforming action figures. I’m after a solution that feels intuitive in hand, locks together solidly, and still allows each component bot to have a clean, satisfying solo transformation. Think in terms of modern Generations-style engineering: ratcheting joints, secure tabs, hidden connection ports, minimal kibble.\n\nThe basic idea is to take the individual figures of the third-party combiner set Cangtoys Thunderking (reference: https://youtu.be/af_E_iEg7uY?is=H_BUBX1hZbxgaGBW) and modify each figure’s beast mode to remodel it after an appropriate Zoid. Zoids are animal-based mecha that humans can pilot and bond with emotionally—mechanical animals or mechanimals.\n\nFor each figure:\n- **Lion figure**: Modify it into a Liger Zero as the Voltron Paladin Shiro.\n- **Tiger figure**: Modify it to triple-change into a Zabat and a winged Zaberfang as the Voltron Paladin Katie.\n- **Gorilla figure**: Modify it into an Iron Kong as Allura.\n- **Vulture figure**: Modify it into a Fire Phoenix and Genobreaker for its secondary beast mode as the Voltron Paladin Keith.\n- **Buffalo figure**: Modify it into a Dibison as the Voltron Paladin Lance.\n",
   "query": "telegram bot",
   "found_at": "2026-08-22 03:04"
+ },
+ {
+  "id": 40663149,
+  "title": "Daily Customer PDF Data Entry",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/adobe-acrobat/Daily-Customer-PDF-Data-Entry",
+  "desc": "I receive a batch of customer records each day in PDF format and need every field transferred accurately into my online spreadsheet/CRM. The workflow is simple but must be handled with care: open each PDF, pull the customer details, and enter them into the sheet before the daily cut-off.\n\nYou will work Monday–Friday, roughly 50–100 rows per day. I provide the spreadsheet template, cloud access, and the PDFs; you return a fully updated file and flag anything unclear. Familiarity with Adobe Acrobat, Smallpdf, or similar PDF-to-Excel tools will help you move quickly while maintaining precision.\n\nDeliverables  \n• Completed customer spreadsheet uploaded daily by 17:00 GMT  \n• Brief note highlighting any missing or unsure data\n\nAcceptance Criteria  \n• 99 % accuracy when spot-checked against the PDFs  \n• Every required field populated or clearly flagged  \n• All work submitted within the agreed daily timeframe",
+  "query": "data extraction",
+  "found_at": "2026-08-22 03:59"
+ },
+ {
+  "id": 40663100,
+  "title": "Extract Images, Reconvert to PDF",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/adobe-acrobat/Extract-Images-Reconvert-PDF",
+  "desc": "I have a collection of source PDFs that contain embedded images I need isolated. Your task is to locate every image inside each file, pull it out cleanly, and then reconvert those extracted images back into individual PDF files.  \n\nPlease keep the workflow simple and loss-free: no edits or enhancements, just an accurate extraction followed by a straight conversion to the PDF format. Feel free to use whatever reliable tool you prefer—Adobe Acrobat Pro, Python (pdf2image, Pillow), or any other utility—so long as the output quality matches the originals.  \n\nDeliverables  \n• One PDF per extracted image, named logically to reflect the parent file and page.  \n• A brief note summarising how many images came from each original PDF.  \n\nI will supply the source PDFs as soon as we start; when you return the converted files I’ll verify that every original image appears in its corresponding PDF without cropping or resolution loss.",
+  "query": "data extraction",
+  "found_at": "2026-08-22 03:59"
+ },
+ {
+  "id": 40663084,
+  "title": "Custom Android Click Automation Tool",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 13,
+  "url": "https://www.freelancer.com/projects/android-app-development/Custom-Android-Click-Automation-Tool",
+  "desc": "I’m looking for a developer who can create an Android automation app that replicates Clickmate-style macros through the Accessibility Service. The core function is simple but must be rock-solid: repeat taps on pre-defined screen coordinates without root on a Tecno Spark 10 5G running Android 13 (arm64-v8a).\n\nKey workflow  \n• I open the app, record or enter the coordinates that should be tapped, set the interval and duration, then save the profile.  \n• At the time I schedule, the service wakes up and begins tapping exactly where I specified, continuing until the end of the timer or until I manually stop it.  \n\nThe interface needs to be full-featured and touch-friendly—think record, edit, save, play, and a simple timeline so I can fine-tune delays between clicks. A floating control panel during playback would be ideal for quick pause or stop commands.\n\nPlease rely exclusively on Accessibility APIs; no overlays that risk system bans. Performance must be smooth at 60 fps and remain stable in the foreground or background while respecting battery optimization rules on Android 13.\n\nDeliverables  \n• Signed release-ready APK compatible with arm64-v8a  \n• Clean, well-commented source code (Kotlin or Java)  \n• Setup guide and brief video or GIF demonstrating scheduled playback on a Tecno Spark 10 5G  \n\nAcceptance will be based on accurate tap execution, reliable scheduling, and zero crashes after a continuous two-hour run. Feel free to suggest libraries or design patterns that keep the ",
+  "query": "python automation",
+  "found_at": "2026-08-22 04:00"
+ },
+ {
+  "id": 40663086,
+  "title": "Hindi–English Contract Translation",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/legal-translation/Hindi-English-Contract-Translation-40663086",
+  "desc": "I have a set of legally binding contracts that must read as if they were originally drafted in both Hindi and English. Accuracy in legal terminology and preservation of intent are critical because the documents will be signed by stakeholders in India and abroad. The work involves translating clauses, schedules, and any accompanying notes in either direction—Hindi to English and English to Hindi—while keeping formatting intact for easy comparison.\n\nPlease have proven experience with contract translation and be fully comfortable with confidentiality requirements. If you rely on CAT tools such as Trados or MemoQ, that is fine, but every line must still receive a human legal-sense check.\n\nDeliverables  \n• Final bilingual contracts supplied in editable Word format and mirrored PDF versions  \n• A short terminology sheet highlighting key legal terms you standardised across languages  \n\nI will review for linguistic precision, consistency of legal phrasing, and layout fidelity before approving the job.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-22 04:00"
  }
 ]
