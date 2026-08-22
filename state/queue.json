@@ -1493,5 +1493,44 @@
   "desc": "I have a short-notice assignment for someone who is physically in the United States and able to pick up the phone right away. I will hand you about ten contact numbers of a management companies that handles rentals and I will give you an address of a house you \"want to buy\". You simply play the role of a prospective buyer who wants the firm to manage the property once it is purchased.  \n\nYour only goal on each call is to gather clear, conversational answers on what they charge, what those fees cover, and any onboarding or contract terms they consider standard. Please sound natural—never hint that you are conducting a survey—and keep the chat focused on their service packages for a single home.  \n\nThe numbers can be worked through in roughly two to three hours, and I need your call notes back—brief but complete—no later than 6 p.m. New York time today. I will give you the online survey link with all the questions (you will put the answers there).  \n\nIf you are located in the U.S. and can start immediately, message me and I will forward the property address and a quick calling script to help you open the conversation.",
   "query": "python script",
   "found_at": "2026-08-22 09:12"
+ },
+ {
+  "id": 40663666,
+  "title": "Entry-Level Data Entry Resume Creation",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/typing/Entry-Level-Data-Entry-Resume",
+  "desc": "I am a BCA student seeking a part-time data entry job. I have basic knowledge of Excel and typing skills. I need a professional resume in English that:\n- Highlights my status as a motivated BCA student\n- Showcases my willingness to learn and adapt\n- Focuses on my Excel and typing abilities\n- Is suitable for entry-level data entry and typing roles\nIdeal skills: Resume writing, English proficiency, understanding of data entry job requirements, and ability to present a fresher’s profile effectively.",
+  "query": "data extraction",
+  "found_at": "2026-08-22 09:46"
+ },
+ {
+  "id": 40663547,
+  "title": "Integrated Digital Marketing Strategy -- 2",
+  "budget_min": 1000.0,
+  "budget_max": 7000.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/content-marketing/Integrated-Digital-Marketing-Strategy",
+  "desc": "I need a cohesive, data-driven plan that fuses SEO, social media marketing, and content marketing to amplify brand awareness. The work must synchronise keyword-optimised site improvements with a steady stream of compelling, creative content, then distribute that content through Facebook, Instagram, LinkedIn, and YouTube to maximise reach and recognition.\n\nThe assignment covers three core pillars:\n\n• SEO: run a full audit, refine on-page elements, outline technical fixes, and map out authoritative backlink opportunities.  \n• Content: craft long-form articles and snackable visuals that reinforce our voice while supporting the chosen keywords.  \n• Social: build an editorial calendar, schedule posts, manage community interaction, and recommend paid promotion when it will extend organic traction.\n\nI rely on clear metrics, so include KPIs tied to impressions, share-of-voice, and follower growth, monitored through Google Analytics, Search Console, SEMrush, Ahrefs, and the native platform dashboards.\n\nDeliverables  \n- 90-day omnichannel strategy document  \n- Monthly content calendar covering all four platforms  \n- SEO audit with step-by-step action list  \n- Four in-depth blog posts plus twelve social creatives each month  \n- Weekly performance dashboard and insights report\n\nSuccess is defined by a measurable lift in brand visibility and consistent, recognisable messaging across every touchpoint.",
+  "query": "data extraction",
+  "found_at": "2026-08-22 09:46"
+ },
+ {
+  "id": 40663643,
+  "title": "Odoo Enterprise Architect and Lead for Preclinical CRO",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/odoo/Odoo-Enterprise-Architect-Lead-for",
+  "desc": "Senior Odoo Enterprise Functional Architect + Technical Lead — Preclinical CRO / Pharma / Life Sciences.\nPhase 1 — Process mapping\n\nMap:\n\nLead → Client → Study Request → Study Design → Proposal → Contract → Study Planning → Resource Allocation → Department Requests → Procurement → Inventory → Study Execution → QA → Reporting → Billing → Study Closure\n\nPhase 2 — Gap analysis\n\nSeparate requirements into:\n\nStandard Odoo\n\nOdoo configuration\n\nStudio/customization\n\nCustom module development\n\nExternal integration\n\nPhase 3 — Prototype\n\nBuild one complete study from beginning to end.\n\nPhase 4 — Full implementation\n\nThen roll out:\n\nCRM → Sales → Study → Purchase → Inventory → Finance → HR → QAU → IT → Maintenance.",
+  "query": "gpt integration",
+  "found_at": "2026-08-22 09:46"
  }
 ]
