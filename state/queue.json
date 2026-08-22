@@ -700,5 +700,44 @@
   "desc": "I need a fresh prospect list for my content agency, focused on U.S. businesses in Real Estate, Finance and Fitness that maintain an active YouTube presence. Please scrape YouTube only, filter for channels registered in the United States with subscriber counts between 100 and 99,000, and collect three key pieces of information:  \n\n• the publicly listed business email  \n• current subscriber count  \n• total number of videos uploaded  \n\nSkip any channel that does not publish a contact email.\n\nDeliver the data in a clean CSV with these columns: Business/Channel Name, Channel URL, Niche (Real Estate / Finance / Fitness), Email, Subscriber Count, Video Count, Date Scraped. A short test file of 10 rows helps me confirm format and filters before you run the full pull.\n\nAcceptance criteria  \n• Data must be scraped no more than 48 hours before delivery.  \n• At least 90 % of rows must contain a valid, clickable email.  \n• No duplicate channels.\n\nIf you already have a Python, Selenium, Puppeteer, or YouTube Data API workflow that can refresh this list weekly, mention it—I’ll likely need ongoing batches once this first round passes QA.",
   "query": "data extraction",
   "found_at": "2026-08-22 22:34"
+ },
+ {
+  "id": 40664729,
+  "title": "Higsfild Plan Setup Assistance",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/business-strategy/Higsfild-Plan-Setup-Assistance",
+  "desc": "I’m looking for a seasoned strategist who can take my raw idea for a “Higsfild” plan and turn it into a clear, actionable roadmap. I haven’t locked myself into a single format yet—business, marketing, or financial—so I’ll rely on your expertise to determine which structure (or blend of structures) will serve the objectives best.  \n\nHere’s what I need from you:  \n• An initial discovery call to unpack my goals and clarify any missing details.  \n• A concise outline showing how you’ll shape the plan, which metrics you’ll track, and the milestones you recommend.  \n• The complete plan itself, ready for presentation—well-researched, professionally formatted, and supported by any data you deem essential.  \n• A brief implementation guide so I can move from strategy to execution without second-guessing next steps.  \n\nI can supply background notes but not much hard data, so please be comfortable sourcing market insights and financial benchmarks on your own. If you have experience with similar “from-scratch” engagements, let’s talk about how you’d approach this and the timeline you envision.",
+  "query": "data extraction",
+  "found_at": "2026-08-22 23:31"
+ },
+ {
+  "id": 40664716,
+  "title": "Unreal Engine 5 Radio Model",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "AUD",
+  "usd_rate": 0.7167,
+  "bids": 20,
+  "url": "https://www.freelancer.com/projects/3d-design/Unreal-Engine-Radio-Model",
+  "desc": "I need a medium to high poly 3D model of a metallic base plate that will be laid on the floor in a central game play area for use in Unreal Engine 5. The plate will need to be a hexagon shape with 6 equal sides, each section containing symbols of the zodiac (2 per edge section). \nFrom each edge i'd like plain \"ramp\" (textured the same) to extend allowing tanks to ride onto the central plate. ALL these ramps need to be edged together (no gaps), basically the central area just needs tapering down to the surrounding area for the tanks. \nThe plate central area then would rise about two feet only. See the image for the dark metallic material/texture to match and type of symbology. The image with the green background is the actual way i'd like the zodiac symbols to be arranged-pointing inwards (no Month/dates though). I had a go with various AI, but it failed!\n\nRequirements:\n- FBX format\n- Standard textures included\n\nIdeal Skills:\n- Proficiency in 3D modelling software\n- Ability to create medium poly models",
+  "query": "ai chatbot",
+  "found_at": "2026-08-22 23:31"
+ },
+ {
+  "id": 40664728,
+  "title": "City Redline Response, Addition Remodel",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/architectural-engineering/City-Redline-Response-Addition-Remodel",
+  "desc": "The building department just returned the first set of red-line comments for my ongoing addition and remodeling project. Most of their notes hit two areas: structural items—roof—and related architectural design adjustments.  \n\nI need a professional who can prepare a clear, code-based response package that satisfies the plan checker so we can keep the permit process moving.\n\nScope of work  \n• Review the city’s marked-up plans and comment list (PDF + CAD files provided).  \n• Resolve every structural comment, supplying updated calculations, details, and notes for the load-bearing walls.  \n• Tackle the requested architectural design adjustments, updating drawings where needed while preserving the intended layout and aesthetics.  \n• Compile a concise written narrative that references each comment, explains the fix, and points to the revised sheet or detail.  \n• Deliver a clean set of clouded drawings (DWG + PDF) and the response letter ready for immediate resubmittal.\n\nAcceptance  \nThe resubmittal should address every numbered comment, follow the current CBC/CRC, and be stamped and signed if you hold the appropriate license.\n\nI can make myself available for quick clarifications and will turn comments around promptly so we stay on schedule. If you have recent experience answering city redlines for residential additions, especially where structural and architectural concerns overlap, I’d love to work with you.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-22 23:31"
  }
 ]
