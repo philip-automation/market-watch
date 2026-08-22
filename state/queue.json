@@ -1623,5 +1623,44 @@
   "desc": "I need a polished explainer video that makes a science concept feel exciting and relatable to a teenage audience on YouTube. You’ll take the topic from raw idea to a finished file that is ready for upload, blending clear narration with engaging motion graphics, stock footage or animation—whatever best keeps teens’ attention without dumbing the material down.\n\nPlease handle the full pipeline: research, concise script, storyboard, visual production, voice-over (friendly but not childish), editing, colour and audio mix, and YouTube-ready export (1080p or better, 16:9). Use whichever tools you are strongest with—Adobe Premiere Pro, After Effects, Blender, DaVinci Resolve, Final Cut Pro, or similar—as long as the result looks professional and modern.\n\nDeliverables  \n• Final HD video ready to upload  \n• Separate subtitle file (SRT)  \n• Project source files (so I can make future tweaks)  \n\nI’m happy to give quick feedback at storyboard and first-cut stages so revisions stay minimal. Let me know how you like to structure milestones and roughly how long you’ll need to turn this around.",
   "query": "python script",
   "found_at": "2026-08-22 10:44"
+ },
+ {
+  "id": 40663783,
+  "title": "Project Management App in Google Sheets",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/google-sheets/Project-Management-App-Google-Sheets",
+  "desc": "I need a streamlined project-management application built directly on Google Sheets, tailored for construction and engineering work. The data already lives in several spreadsheets; your job is to turn it into a single, reliable workspace that supports multiple user roles and keeps every stage of the job moving without email chains or manual updates.\n\nCore deliverables  \n• Dashboard – an at-a-glance view of project status, budget burn, pending tasks, and critical dates, driven by dynamic charts and conditional formatting.  \n• Workflow automation – Google Apps Script routines that create tasks, nudge assignees, escalate overdue items, and stamp time-stamped history records automatically.  \n• Approval system – tiered sign-off (site engineer → project manager → finance) with locked fields after each approval level to guarantee data integrity.\n\nAccess must be role-based so that site teams see only their tasks, managers see portfolio metrics, and admins retain full edit rights. The solution has to stay 100 % inside the Google Workspace stack, so please leverage Sheets formulas, Apps Script, and—if it speeds delivery—AppSheet views that sit on top of the same sheet.\n\nHand-off is complete when I can:  \n1. Add a new project in under two minutes.  \n2. Watch tasks cascade through the approval chain automatically.  \n3. Export or print a Bill of Quantities summary straight from the dashboard.\n\nIf you have previous examples of Google-Sheets-driven dashboards or automated approval flows, th",
+  "query": "data extraction",
+  "found_at": "2026-08-22 11:03"
+ },
+ {
+  "id": 40663741,
+  "title": "Automate Gmail Name Extraction",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 17,
+  "url": "https://www.freelancer.com/projects/automation/Automate-Gmail-Name-Extraction",
+  "desc": "I receive a steady flow of customer emails in Gmail every day and need an automated way to pull just the senders’ names into Excel. The task is straightforward:\n\n• Source: all data comes from my Gmail inbox.  \n• Data required: only the names, no addresses or phone numbers.  \n• Excel layout: one single column, with each new name appended beneath the previous entries.\n\nAn ideal solution would run daily—either on a fixed schedule or triggered when new mail arrives—collect the fresh names, and update the spreadsheet with zero manual effort from me. Google Apps Script, Python with the Gmail API, Zapier, or a comparable toolset are all fine as long as the result is reliable and easy for me to maintain.\n\nDeliverables:  \n1. Working script or automated workflow that connects to my Gmail, extracts the sender names, and writes them into the designated Excel file (XLSX).  \n2. Clear instructions so I can adjust the schedule or reconnect the script later if my credentials change.  \n3. Quick hand-off session (video or written) confirming everything runs end-to-end on my machine or cloud environment.\n\nIf you’ve set up similar Gmail-to-Excel automations before, I’d love to see a brief example or screenshot when you submit.",
+  "query": "data extraction",
+  "found_at": "2026-08-22 11:03"
+ },
+ {
+  "id": 40663738,
+  "title": "Peptide Sales Growth in Asia",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/crm/Peptide-Sales-Growth-Asia",
+  "desc": "I need a mid-level sales professional who already understands the peptide marketplace to expand our footprint across Asia. Your work will centre on three core objectives:  \n\n• Client acquisition – identify and pitch qualified labs, distributors, and biotech firms that can immediately benefit from our GMP-certified peptide catalogue.  \n• Client retention – nurture existing Asian accounts through consistent follow-ups, technical support, and upselling of new peptide lines.  \n• Market research – map competitor activities, pricing trends, and regional regulatory nuances, then translate those insights into actionable sales tactics.  \n\nDay-to-day you will tap into tools such as Salesforce (or your preferred CRM) for pipeline tracking, LinkedIn Sales Navigator for prospecting, and basic data-analysis platforms to quantify opportunity size.  \n\nSuccess will be measured by the volume of new qualified leads, conversion rate to first purchase, and quarterly growth of repeat orders from current clients. I will supply product training, marketing collateral, and access to our technical team for in-depth peptide questions. You will supply the strategy, outreach, and relationship management that drives sustained revenue growth throughout Asia.",
+  "query": "data extraction",
+  "found_at": "2026-08-22 11:03"
  }
 ]
