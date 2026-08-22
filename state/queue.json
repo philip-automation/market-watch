@@ -206,5 +206,70 @@
   "desc": "I have a completed Korean-style television script that hinges on soul-crossing time travel—an ethereal “spiritual traction” triggered by a life-redemption event. Before I move on to character tweaks or pacing, I need an experienced screenwriter to tighten the story logic, with a laser focus on how this specific time-travel mechanism works from scene to scene.\n\nYour job is to examine every beat where the protagonists slip between timelines, make sure the causal rules stay airtight, and flag or rewrite any moment that could confuse viewers. I want the transitions to feel inevitable yet surprising, the stakes crystal-clear, and the paradoxes resolved in a way that audiences can emotionally track without stopping to question the rules.\n\nDeliverables  \n• Marked-up script (Final Draft or PDF) showing all recommended changes  \n• Clean revised draft ready for table read  \n• Brief logic map that outlines the soul-crossing rules and how each jump advances the redemption arc  \n\nI’m looking for someone fluent in K-drama tone who can balance high-concept mechanics with heartfelt resonance. If you’ve already wrangled complex timelines or supernatural devices on screen, I’d love to see how you would elevate mine.",
   "query": "pdf extraction",
   "found_at": "2026-08-22 17:04"
+ },
+ {
+  "id": 40664379,
+  "title": "Android Freelance App Development",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/android-app-development/Android-Freelance-App-Development",
+  "desc": "I’m ready to turn a freelancing concept into a full-fledged Android application. The app’s core goal is to let users post projects, connect with skilled professionals, and manage jobs from first contact through completion—all within a smooth, modern Android experience.\n\nHere’s how I picture the build:\n\n• User-friendly onboarding for both clients and freelancers, with profile creation and skill tagging.  \n• Project posting, search, and filtering so users can easily match work to talent.  \n• In-app chat or messaging for real-time discussion.  \n• A simple milestone and payment flow (think “fund, submit, approve”) that can be wired to Stripe or a comparable gateway.  \n• Push notifications to keep everyone updated on new projects, bids, and approvals.  \n• Admin dashboard (web or in-app) for user management and dispute handling.\n\nI plan to work in agile sprints, so clear APK builds, source code, and brief release notes at each milestone will be the deliverables I sign off. Code should be written in Kotlin (or modern Java if you have strong reasons), built in Android Studio, and consume REST/JSON APIs cleanly; Firebase for auth or messaging is fine if it accelerates development.\n\nAcceptance criteria  \n1. Latest Android SDK compliance with backward compatibility to API 26.  \n2. Smooth sign-up/login flow and verified, working project creation.  \n3. Real-time messaging tested on at least two physical devices.  \n4. Payment flow tested in sandbox mode and demoed via screen-share.  \n5. Fi",
+  "query": "web scraping",
+  "found_at": "2026-08-22 17:40"
+ },
+ {
+  "id": 40664346,
+  "title": "区块链行情web推广",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/digital-marketing/web-40664346",
+  "desc": "我正在运营一款专注于加密货币行情分析的网站，核心功能包含实时价格走势图与深度行情分析报告，目前已覆盖比特币 (BTC)、以太坊 (ETH) 和莱特币 (LTC)。网站可以自选，收藏币种，可以多窗口看盘，,无广告打扰，简洁操作，\n计划通过返佣模式（最高可达 50%）扩大用户基础与市场影响力，希望你能为我制定并执行切实可行的推广方案。\n\n你需要做的事\n1. 梳理并优化现有推广素材，明确网站卖点与返佣规则。  \n2. 结合 SEO、社交媒体、加密社群及内容营销等渠道，设计多渠道投放策略。  \n3. 落地执行：发布内容、投放广告或对接 KOL/KOC，持续引流至专属推广链接。  \n4. 跟踪关键数据（点击、注册、活跃度、转化率），按周提交报告并依据数据迭代方案。  \n\n我期望看到\n• 可衡量的推广目标与时间表  \n• 清晰的返佣跟踪与统计方法  \n• 你过往在区块链或金融领域的推广成功案例（若有）  \n\n只要你熟悉加密市场的受众生态，并擅长量化结果的增长营销，就欢迎与你进一步讨论细节。",
+  "query": "web scraping",
+  "found_at": "2026-08-22 17:40"
+ },
+ {
+  "id": 40664351,
+  "title": "Concrete School Structure Design",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/building-designer/Concrete-School-Structure-Design",
+  "desc": "I need a complete structural design package for a brand-new concrete school building that will rise three to four storeys. The architectural concept is already sketched, so your focus is to translate it into a safe, code-compliant structural system I can hand straight to the local authorities and the contractors.\n\nPlease base the solution on reinforced concrete framing—slabs, beams, columns, and foundations—sized for typical classroom, corridor, and assembly loads. Local seismic and wind requirements must be reflected in your calculations.\n\nDeliverables I expect:  \n• Full set of structural drawings in DWG and PDF (plans, elevations, sections, details)  \n• Design calculations report generated from ETABS / SAP2000 / STAAD Pro (or equivalent) showing load cases, combinations, and member checks  \n• Rebar schedules and bar-bending lists  \n• General construction notes and material specifications suitable for tender  \n• A short summary explaining any assumptions so reviewers can trace your logic\n\nAcceptance will be based on:  \n• Conformance with the most recent national building code and the stated concrete materials preference  \n• Clear, clash-free drawings ready for printing at A1/A3  \n• Calculations that balance safety and economy and can be independently verified without missing data\n\nIf you have questions about grid spacing, live loads, or foundation soil parameters, let me know early so we keep momentum. I’m ready to move as soon as we agree on a timeline.",
+  "query": "data extraction",
+  "found_at": "2026-08-22 17:40"
+ },
+ {
+  "id": 40664383,
+  "title": "100k Android App Download Push",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/android-app-development/Android-App-Download-Push",
+  "desc": "I’m ready to scale my Android car-service & maintenance tracker from its current organic trickle to 100,000 real installs, and I’m starting with a clean slate—no ads, no influencer deals, no SEO work has been done yet.  \n\nYou’ll take ownership of the full growth funnel: market research, campaign design, creative production, launch, optimisation and reporting. I’m open to paid social, search, influencer collaborations, app-store optimisation, content marketing—whatever mix will move the needle fastest while keeping acquisition costs sensible and ratings healthy.  \n\nKey facts you’ll work with  \n• Platform: Android only  \n• Niche: vehicle servicing, reminders, expense tracking  \n\nPlease outline:  \n1. Your recommended channels with expected CPI and volume ranges  \n2. A 3-month roadmap broken into milestones (setup, test, scale)  \n3. The assets or access you’ll need from me  \n4. Metrics you will report weekly (installs, retention, cost, reviews)  \n\nI’ll judge success on verified Google Play downloads, retention after day-7, and an average rating of 4.0+. Let’s map out an aggressive but achievable path to 100k installs.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-22 17:41"
+ },
+ {
+  "id": 40664354,
+  "title": "USA 50+ Consumer Email List",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/data-collection/USA-Consumer-Email-List",
+  "desc": "I want to kick-off a B2C cold-email campaign aimed strictly at U.S. consumers aged 50 and above. For the pilot run I’ll purchase 50,000 addresses; if the performance is solid, I’ll scale to 100,000 every two-to-three days.\n\nWhat I need from you  \n• A fresh, permission-based list of U.S. consumer emails where every contact is 50+.  \n• All records must be fully verified and validated—hard-bounce rate near zero is a must.  \n• Standard fields: email, first name, last name (or at least initial), state/ZIP, age or DOB indicator, plus any extra demographic details you already hold.  \n• Delivery in CSV or Excel along with the verification report and date of last validation.\n\nI’ll test a small sample first; once it proves clean I’ll release the first milestone and proceed to the full 50k. Further quantities will follow on the same quality terms. Let’s chat about your source, typical match rates, and expected turnaround so we can move quickly.",
+  "query": "excel automation",
+  "found_at": "2026-08-22 17:41"
  }
 ]
