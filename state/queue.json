@@ -609,5 +609,31 @@
   "desc": "Screenwriter Needed — Ensemble Survival Dramedy Script\n\nProject Description (short):\n\nSeeking a screenwriter to script a feature or limited series from a completed treatment.\n\nConcept: A group of powerful people (CEO, general, head of state, tech founder, celebrity) are stranded with no staff and no one to delegate to — forced to survive on their own for the first time. Twist: the only one who actually knows how to survive is a low-level aide accidentally left behind.\n\nTone: Dramedy — Triangle of Sadness meets Succession, with real survival stakes.\n\nNeed:\n\n\t•\tStrong ensemble character writing\n\t•\tComedy + drama balance\n\t•\tFirst draft + one revision round\n\nTo apply, send:\n\n\t•\t1-2 samples (similar tone/genre)\n\t•\tRate + turnaround estimate.",
   "query": "python script",
   "found_at": "2026-08-22 21:04"
+ },
+ {
+  "id": 40664652,
+  "title": "Civil Engineering Video Course Creation",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/civil-engineering/Civil-Engineering-Video-Course-Creation",
+  "desc": "I’m putting together a series of university-level learning modules and I need a practicing civil / structural engineer who can turn complex concepts into clear, engaging video lectures. The audience already grasps the fundamentals, so the focus is on helping them master real-world design and analysis methods they will soon apply in practice.\n\nHere’s how I picture the work: you record short, concept-driven sessions that blend theory, hand calculations, and live demonstrations in tools StructLearn Pro. A steady screen-capture with voice-over is fine, but if you’re comfortable on camera that’s even better—authentic presence adds a lot of value for students.\n\nTypical topics will range from load path development and structural analysis techniques to reinforced-concrete and steel design examples, plus a touch of foundation or seismic detailing where relevant. I’ll provide a high-level syllabus; you fill in the depth, sequence, and worked examples.\n\nTo keep us both organized, I’d like each lecture delivered as:\n• A concise outline of learning objectives  \n• The slide deck or digital notes you teach from  \n• The edited HD video file (preferred length around 15–20 minutes, but flexible)  \n• Any calculation sheets, models, or datasets used in the demonstration  \n\nAccuracy, sound clarity, and visual readability are the key acceptance criteria. If you already have teaching experience or published educational content, please point me to a sample so I can gauge style and pacing.\n\nLet me kn",
+  "query": "google sheets automation",
+  "found_at": "2026-08-22 21:40"
+ },
+ {
+  "id": 40664645,
+  "title": "iPhone 15 Smart Case Industrial Design -- 2",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/industrial-design/iPhone-Smart-Case-Industrial-Design",
+  "desc": "We're developing a premium smart case for the iPhone 15 (\"Techs\") housing a custom PCB, battery, ESP module, and a 1.69\" TFT display (240×280, ST7789) positioned beside the camera. This is a real hardware product going to manufacturing — not a concept render. We need the complete enclosure design taken all the way to production-ready files.\nScope — full enclosure design:\n\nPrecisely fitted to iPhone 15 dimensions (camera module, buttons, ports, charging alignment)\nBody + lid + internal PCB housing + battery compartment + display window\nSlim, pocket-comfortable profile despite housing electronics\niPhone-recognizable silhouette (camera cutout, optional Apple logo visibility)\nOur brand logo (\"Techs\") engraved/embossed or otherwise integrated into the case design — placement and execution style open to your suggestion\nElectrical insulation — no electronic component may directly contact the iPhone body (hard constraint, full guideline PDF provided)\nThermal consideration — heat from electronics must not be trapped against the phone\nFastening/assembly method that's fast for us to assemble in production but not user-openable\nDrop-resistant, good tactile feel, balanced weight\nSurface finish suitable for printing/branding\n\nDeliverables (fully manufacture-ready):\n\nFinal 3D CAD files (STEP + native format)\nComplete technical drawings with tolerances\nDFM/DFA validation for the chosen manufacturing process\nMaterial selection with justification (mechanical, thermal, cosmetic)\nManufacturing p",
+  "query": "pdf extraction",
+  "found_at": "2026-08-22 21:40"
  }
 ]
