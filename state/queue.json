@@ -492,5 +492,70 @@
   "desc": "I’m up against a hard deadline and need a Revit model turned around quickly. Once we agree to proceed I’ll share all reference material in the format I have available—whether that ends up being CAD files, PDFs, or rough sketches.  \n\nHere’s what I’m looking for:  \n• A clean, well-organised Autodesk Revit file (.rvt) that matches the source information I provide  \n• Correct use of families, levels, and naming so I can continue developing the project after delivery  \n• Exported views (PDF or DWG) that let me verify geometry and dimensions at a glance  \n\nSpeed matters, but accuracy does too; I need the model ready to plug straight into my workflow without major rework. Let me know your availability and the fastest realistic turnaround you can commit to, and please include a brief note on similar fast-track Revit jobs you’ve handled before.",
   "query": "pdf extraction",
   "found_at": "2026-08-22 20:00"
+ },
+ {
+  "id": 40664587,
+  "title": "Exterior Construction Illustration Set",
+  "budget_min": 1500.0,
+  "budget_max": 3000.0,
+  "currency": "CAD",
+  "usd_rate": 0.725979,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/3d-modelling/Exterior-Construction-Illustration-Set",
+  "desc": "We are seeking an experienced architectural or construction illustrator to produce 10 detailed residential construction illustrations based on the current British Columbia Building Code 2024 (BCBC), including applicable revisions.\n\nIllustrations Required\n\n1. Foundations and Below Grade\n2. Structure and Framing\n3. Floors and Interior Stairs\n4. Exterior Walls and Siding\n5. Doors and Windows\n6. Decks and Exterior Structures\n7. Basements and Bedrooms\n8. Secondary Suites and Fire Safety\n9. Kitchens, Bathrooms \n10. Roofs, Attics and Ventilation\n\nEach section will use one comprehensive illustration with dimensions, labels, callouts and small enlarged construction details.\n\nBC Building Code Requirements\n\nThe illustrator must use the current BC Building Code 2024, particularly the applicable Part 9 requirements, to research, verify and add all relevant dimensions and construction requirements to each illustration.\n\nThis includes:\n\n- Minimum required dimensions\n- Maximum permitted dimensions\n- Required clearances\n- Spacing requirements\n- Height and opening limitations\n- Structural spans and bearing requirements\n- Fire-resistance ratings\n- Material and assembly thicknesses\n- Conditional requirements based on height, location or use\n- Requirements that vary according to climate, snow load, radon area or other site conditions\n\nEvery measurement must be clearly identified as one of the following:\n\n- MIN. — minimum required dimension\n- MAX. — maximum permitted dimension\n- TYP. — typical con",
+  "query": "web scraping",
+  "found_at": "2026-08-22 20:34"
+ },
+ {
+  "id": 40659952,
+  "title": "Competition Regulation Strategy Report",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/business-analysis/Competition-Regulation-Strategy-Report",
+  "desc": "I’m preparing a concise policy brief that shows how modern competition rules can push large corporations to keep innovating instead of resting on market power. Your job is to analyse current market-competition regulations, flag where they fall short, and draft actionable measures that regulators—or in-house compliance teams—could adopt to spark continuous innovation without creating unnecessary red tape.\n\nHere’s the flow I have in mind: start by mapping the existing competitive landscape in one major industry of your choice (tech, energy, or pharmaceuticals are all fine), highlight the regulatory levers that most influence R&D behaviour, then benchmark those findings against two or three international case studies. From there, translate the insights into clear, practical recommendations that could realistically be enforced on large corporations.\n\nDeliverables I need from you:\n• A well-structured report (≈4,000 words) with data-backed analysis and citations  \n• A one-page executive summary outlining the top recommendations  \n• A slide deck (10–12 slides) I can present to stakeholders\n\nI’ll provide any proprietary data I have once we start; you’ll bring the policy expertise, literature access, and sharp writing skills. If this sounds like your wheelhouse, let’s talk timeline and milestones so we can get this wrapped up efficiently.",
+  "query": "data extraction",
+  "found_at": "2026-08-22 20:35"
+ },
+ {
+  "id": 40664574,
+  "title": "Snapchat Ads Specialist for Saudi E-Commerce",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/digital-marketing/Snapchat-Ads-Specialist-for-Saudi",
+  "desc": "Expert Snapchat Ads Media Buyer for Saudi E-commerce – ROAS & ROI Focused\n\nProject Overview\n\nI own an e-commerce brand in Saudi Arabia selling automotive nano-ceramic heat insulation/window film.\n\nProduct page: https://poplarshield.com/عازل-نانو-سيراميك-سيدان/p1870020792\n\nI am looking for an experienced Snapchat Ads Media Buyer who can take full responsibility for managing and optimizing our Snapchat advertising campaigns with one primary goal:\n\nGenerate profitable sales and achieve the highest possible ROAS and ROI.\n\nThis is not a job for someone who simply creates campaigns and lets them run. I need someone who actively analyzes the data, tests different strategies, identifies winning audiences and creatives, cuts wasted spending, and continuously scales profitable campaigns.\n\nMain Responsibilities\n\n* Manage our Snapchat Ads account from campaign setup through optimization and scaling.\n* Develop a complete Snapchat advertising strategy for the Saudi Arabian market.\n* Research and identify the highest-potential Saudi audiences.\n* Create and test different campaign structures, audiences, creatives, offers, and messaging.\n* Monitor campaigns daily.\n* Analyze:\n    * ROAS\n    * ROI\n    * CPA / Cost per Purchase\n    * CTR\n    * CPC\n    * CPM\n    * Conversion Rate\n    * Add-to-Cart Rate\n    * Purchase Rate\n* Identify winning ads and audiences and scale them carefully.\n* Stop or reduce spending on campaigns, audiences, and creatives that are not profitable.\n* Build and optimize ret",
+  "query": "data extraction",
+  "found_at": "2026-08-22 20:35"
+ },
+ {
+  "id": 40663766,
+  "title": "Crypto Flash Transaction Desktop Tool -- 2",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/blockchain/Crypto-Flash-Transaction-Desktop-Tool",
+  "desc": "I am building a desktop-only application that can generate and manage USDT Flash TRC20 transactions with full control over their behaviour on the blockchain. The core requirement is the ability to push transactions that can remain in the recipient wallet for a user-defined period, show whether they settle with zero or full confirmations, and allow the funds to be forwarded at least twice to any other wallet type (SegWit, legacy, or bch32).\n\nKey capabilities I need implemented:\n• Create TRC20 USDT flash transactions and manually set how long they stay visible in the wallet.  \n• Choose low-, medium-, or high-priority network fees to speed up confirmation.  \n• Display real-time status (zero vs. 100 % confirmation).  \n• Full wallet compatibility, including SegWit and legacy addresses.  \n• Re-spendability: funds must be transferable to another wallet a minimum of two times.  \n• Built-in VPN, Tor, and proxy options for privacy.  \n• Single, secure admin interface only—no additional user roles.  \n\nDeliverable\nA compiled desktop app (or an Electron / Python build) with a clean UI, installation guide, and source code.\n\nTo be considered, please send over examples of past work on similar blockchain or security-focused applications so I can verify relevant experience. Feel free to outline the tech stack you’d prefer, any dependencies, and your estimated timeline.",
+  "query": "python automation",
+  "found_at": "2026-08-22 20:35"
+ },
+ {
+  "id": 40664586,
+  "title": "Florida CNC Polycarbonate Cutting",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/cnc/Florida-CNC-Polycarbonate-Cutting",
+  "desc": "I need a Florida-based shop that can precision-cut 3 mm polycarbonate covers and small boxes on a CNC router or similar equipment. All I’m looking for is clean, accurate cutting—no milling or engraving—so the edges are smooth.  I will pay by the piece .  THIS WORK IS MOSTLY HOLES FOR SWITCHES AND COVERS- SAMPLE  OF WHAT WE WOULD NEED IS ENCLOSED \n\nI’ll send over the gcode files( i would need you to check them to make sre all is good) along with quantity and dimensions ; you handle the nesting, cut, and light de-burring. Turnaround time is important because I’d like to drop the sheets off and pick the finished parts up (or use a short in-state courier) within a week.  \n\nIf everything lines up on quality and timing, I’ll have repeat batches. Let me know what machinery you run, your typical tolerance range on polycarbonate, and the best way to coordinate drop-off.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-22 20:35"
  }
 ]
