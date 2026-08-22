@@ -1064,5 +1064,31 @@
   "desc": "I need two tightly-connected Android applications built from the ground up:\n\n• A Customer app where users can search available slots, make and pay for bookings, follow the live status of their appointment, and receive automatic reminders. Built-in payment processing (Stripe or Razorpay, I’m flexible) must be seamless and PCI-compliant.\n\n• An Admin / Service-Provider app that lets staff open or block time slots, confirm or cancel requests, track each booking in real time, view payments, and run basic reports. The Admin role should have an extra layer for managing service-provider accounts and editing global settings.\n\nCore requirements  \n– Native Android or well-architected cross-platform framework that compiles to a smooth, modern Android experience.  \n– Secure login with role-based access for Customer, Service Provider, and Admin.  \n– Reusable REST/GraphQL API layer so I can eventually add an iOS front end.  \n– Cloud database (Firebase, Supabase, or your recommended option) with real-time triggers for status updates and push notifications.  \n– Clean UI in keeping with Google Material guidelines; Figma screens or similar handed over.  \n– Source code in a private Git repo with clear README and build instructions.\n\nAcceptance criteria  \n1. Customer can register, browse services, book an appointment, pay, and receive confirmation.  \n2. Service Provider sees new bookings instantly and can update status (“on the way”, “in progress”, “completed”), which reflects live in the Custome",
   "query": "google sheets automation",
   "found_at": "2026-08-22 05:47"
+ },
+ {
+  "id": 40663320,
+  "title": "Workshop Info Poster Design",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/adobe-illustrator/Workshop-Info-Poster-Design",
+  "desc": "I’m putting together a clear, eye-catching poster that will serve as the main informational display for an upcoming workshop. The piece must communicate the what, when, where and why at a glance, while still feeling energetic and on-brand.\n\nHere’s what I already know:\n• Format: single-page poster, optimised for both A3 print and an Instagram/Facebook story feed ratio so I can share the same artwork online.\n• Purpose: purely informational—the design needs to guide the viewer through key details rather than push a hard sell.\n• Tone: professional yet welcoming; think clean typography, balanced use of colour and space, and a focal graphic or illustration that instantly signals “workshop”.\n\nYou’ll take the brief and translate it into a polished, print-ready PDF plus high-resolution web exports (PNG/JPG). Source files (Adobe Illustrator or Photoshop) are also required so I can update dates or speaker names in future.\n\nIf we can move quickly, I’ll supply the copy, logo files and any brand colours the moment we agree on the project. Looking forward to seeing your visual approach and any relevant poster examples you’ve produced before.",
+  "query": "web scraping",
+  "found_at": "2026-08-22 06:16"
+ },
+ {
+  "id": 40663310,
+  "title": "Automate GoHighLevel-Twilio Onboarding (Add Portfolio) ",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/api/Automate-GoHighLevel-Twilio-Onboarding",
+  "desc": "** At least 5 Project Attach ** \nI have a steady flow of new clients and I’m wasting too much time setting up each one by hand. I want a single GoHighLevel form submission to do the heavy lifting for me.\n\nWhen a prospect completes the form, the workflow must:\n\n1. Spin up a brand-new GoHighLevel sub-account.  \n2. Populate that sub-account with the business information that comes through the form.  \n3. Reach into Twilio, search for a fresh local phone number that matches the client’s area code, purchase it, and drop it straight into the new sub-account for calls and SMS.\n\nI’m already comfortable inside GoHighLevel; what I need is someone who can wire the APIs together reliably. Direct API calls, Zapier, Make (Integromat) or custom webhooks are all fine as long as the end result is bulletproof. You should know the Twilio REST API inside out and be confident working with VoIP‐style provisioning.\n\nAcceptance criteria  \n• Form submission creates the GHL sub-account within 30 seconds.  \n• Business profile fields in GHL match the form data exactly.  \n• A newly purchased Twilio number in the correct area code appears in the sub-account and is fully functional for outbound/inbound calls and SMS.  \n• Clear documentation of the flow and any environment variables or credentials needed for future maintenance.\n\nI see this as an ongoing engagement; once the core automation is live there will be refinements and additional triggers to build. If you’ve done GoHighLevel + Twilio integrations bef",
+  "query": "data extraction",
+  "found_at": "2026-08-22 06:16"
  }
 ]
