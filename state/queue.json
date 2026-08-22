@@ -1870,5 +1870,57 @@
   "desc": "Ich benötige ein professionell formuliertes Arbeitszeugnis für einen ehemaligen Monteur in meinem Unternehmen. Der Text soll:\n\n• den Jobtitel „Monteur“ eindeutig nennen  \n• die Leistung als „hervorragend“ bewerten  \n• besonders seine ausgeprägte Fähigkeit zur Problemlösung hervorheben  \n\nDas Zeugnis muss in Deutschland üblicher Gesamtnote-Sprache (wohlwollend, aber wahrheitsgetreu) gehalten sein, formale Standards erfüllen und etwa eine Seite lang sein. Bitte liefere mir eine druckfertige PDF-Datei sowie die bearbeitbare Word-Version, damit ich bei Bedarf noch Angaben wie Datum und Unterschrift einfügen kann.\n\nIch freue mich auf deinen kurzen Zeitplan und ein Beispiel ähnlich verfasster Zeugnisse, damit ich Stil und Aufbau vorab prüfen kann.",
   "query": "pdf extraction",
   "found_at": "2026-08-22 12:56"
+ },
+ {
+  "id": 40664004,
+  "title": "Mobile Dev x UI/UX Strategic Partnership (Commission Based Only)",
+  "budget_min": 750.0,
+  "budget_max": 1500.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/ui-design/Mobile-Dev-Strategic-Partnership",
+  "desc": "PLEASE READ CAREFULLY BEFORE APPLYING (NO AUTOMATED BIDS / COPY-PASTE)\n\nWe are flutterlysolutions.com, a dedicated mobile and web app development agency. We are looking to build long-term strategic partnerships with UI/UX Agencies, Designers, and Developers.\n\nPartnership Opportunities\nSince UI/UX clients frequently require full development for their web or mobile applications, we offer two ways to collaborate:\n\nClient Referrals: Earn a 30% commission on every mobile or web development client you refer to us.\n\nWhite-Label Services: Expand your agency's service offerings by outsourcing development to us completely under your own brand name.\n\nOur Process & Safety\nStandardized Onboarding: We follow a structured referral and handover process to ensure complete transparency, safety, and smooth communication for all parties.\n\nPlatform Security: To maintain total safety and contract integrity, all projects, milestones, and payments will be managed exclusively through Freelancer.com (no off-platform communications or payments).\n\nIf you are an agency or developer interested in generating passive referral income or offering please apply.",
+  "query": "web scraping",
+  "found_at": "2026-08-22 13:39"
+ },
+ {
+  "id": 40663989,
+  "title": "WhatsApp Bulk Promo API Setup",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/api-developmet/WhatsApp-Bulk-Promo-API-Setup",
+  "desc": "I need the official WhatsApp Business API configured so I can broadcast image-based promotional campaigns at scale. My aim is purely promotional: once everything is live I want to trigger bulk sends to thousands of numbers in one go, but always within WhatsApp’s opt-in and anti-spam rules.\n\nWhat you will work with  \n•  A clean, permission-based contact list is already in hand, so no scraping or data collection is required.  \n•  Creative assets are image-heavy; message templates must therefore be approved to carry images.\n\nYour tasks  \n•  Complete or confirm Facebook Business verification, secure template approval, and enable the promotional (marketing) flag.  \n•  Deploy the API on a suitable Indian server (or guide me on a reliable cloud option), link webhooks, and deliver an easy trigger method—Postman collection, simple panel, or comparable script.  \n•  Implement best-practice number warming, rate-limiting, and fallback logic to keep the sending number healthy and compliant.  \n•  Demonstrate a live send to a small test segment, showing delivery reports and error handling.\n\nAcceptance criteria  \nA working endpoint that lets me upload a CSV, hit “send,” and watch image promotions reach the contacts with real-time status logs. Nothing less.\n\nBecause the campaign and payment flows are India-centric, I prefer an India-based specialist who already understands local DLT/​TRAI nuances for promotional traffic.  \n\nShare examples of previous WhatsApp API roll-outs, estimated timeline,",
+  "query": "web scraping",
+  "found_at": "2026-08-22 13:39"
+ },
+ {
+  "id": 40663978,
+  "title": "Classroom Cybersecurity Activity Pilot",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 13,
+  "url": "https://www.freelancer.com/projects/computer-science/Classroom-Cybersecurity-Activity-Pilot",
+  "desc": "I'm looking for a current US middle- or high-school teacher with a live class (roughly grades 6-12) who can set aside one or two class periods to trial three free, browser-based cybersecurity activities and measure what students learn. Your school's regular devices (Chromebook, laptop, desktop) work fine; nothing to install, no student accounts.\n\nThe flow:\n\nAdminister the brief pre-assessment (about 10 minutes; I provide it).\nHave students complete the three online cybersecurity activities in class (phishing awareness, cryptography, incident response). Please let students work through them independently rather than teaching the topics first, so the results reflect the activities themselves.\nAdminister the matching post-assessment.\n\nWhat I need back - a short, signed, dated one-page report including:\n\nThe aggregate before-and-after scores, so the change is visible (this is the key part).\nWhich grade, roughly how many students, and the dates.\nYour candid professional read: what worked, what didn't, and anything you'd improve.\nYour name, role, and any credential; on school or your own professional letterhead.\n\nWhat I most need is the measured before-and-after change in what students know and can do - not just whether they enjoyed it. No individual student data at any point: aggregate numbers only.\n\nTo be clear: I'm paying for your time and honest professional judgment, not for a positive result. If the scores don't move, that's a finding I need just as much. If this fits your up",
+  "query": "data extraction",
+  "found_at": "2026-08-22 13:39"
+ },
+ {
+  "id": 40663955,
+  "title": "Especialista Paid Media Part-time",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 20,
+  "url": "https://www.freelancer.com/projects/google-ads/Especialista-Paid-Media-Part-time",
+  "desc": "Somos una agencia de marketing digital con 6 clientes activos y buscamos un/a especialista en Paid Media para sumarse como freelance de forma recurrente, encargándose de la gestión completa de campañas publicitarias en Meta Ads y Google Ads (u otras plataformas según el cliente).\n\nLa agencia está en plan de crecimiento: buscamos ir sumando clientes más grandes con el tiempo. Para acompañar ese crecimiento, la estructura de pago cambia según la antigüedad de la cuenta: las 6 cuentas actuales se pagan a fee fijo ($50.000/mes cada una), pero cada cliente nuevo que se sume de ahora en más se paga con un % del fee mensual que ese cliente le paga a la agencia — así, cuanto más grande y rentable el cliente, más gana quien lo gestiona. Es una forma de crecer junto con la agencia en lugar de quedar atado a un monto fijo.\n\n(Nota interna: dejamos el % a definir según lo que negocies con el candidato — un rango típico ronda 10-15% del fee del cliente, pero ajustalo vos.)\n\nResponsabilidades:\n\nGestionar y optimizar las campañas activas de los clientes de la agencia (6 actuales, más los que se sumen).\nResolver problemas o incidencias que reporten los clientes en tiempo y forma.\nCrear nuevas campañas y/o piezas publicitarias cada 2 semanas.\nParticipar de 1 reunión mensual por cliente junto al equipo de la agencia.\nReportar resultados y sugerir optimizaciones de forma proactiva.\n\nRequisitos:\n\nExperiencia comprobable gestionando campañas de Meta Ads y/o Google Ads (pedimos portfolio o cuentas ",
+  "query": "google sheets automation",
+  "found_at": "2026-08-22 13:39"
  }
 ]
