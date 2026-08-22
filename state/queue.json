@@ -271,5 +271,18 @@
   "desc": "I want to kick-off a B2C cold-email campaign aimed strictly at U.S. consumers aged 50 and above. For the pilot run I’ll purchase 50,000 addresses; if the performance is solid, I’ll scale to 100,000 every two-to-three days.\n\nWhat I need from you  \n• A fresh, permission-based list of U.S. consumer emails where every contact is 50+.  \n• All records must be fully verified and validated—hard-bounce rate near zero is a must.  \n• Standard fields: email, first name, last name (or at least initial), state/ZIP, age or DOB indicator, plus any extra demographic details you already hold.  \n• Delivery in CSV or Excel along with the verification report and date of last validation.\n\nI’ll test a small sample first; once it proves clean I’ll release the first milestone and proceed to the full 50k. Further quantities will follow on the same quality terms. Let’s chat about your source, typical match rates, and expected turnaround so we can move quickly.",
   "query": "excel automation",
   "found_at": "2026-08-22 17:41"
+ },
+ {
+  "id": 40664411,
+  "title": "Administrative Operations Specialist – Parking Ticket & Toll Cleanup",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/google-sheets/Administrative-Operations-Specialist",
+  "desc": "We are a small vehicle rental company in the Boston, Massachusetts area looking for a highly organized freelancer to help us clean up historical parking tickets, municipal citations, and older toll records associated with our rental vehicles.\n\nThis is a short-term administrative research and cleanup project, with the possibility of limited ongoing work afterward.\n\nWe expect the initial cleanup project to take roughly 15–20 hours, more or less, depending on the number of outstanding citations and the amount of follow-up required with individual municipalities.\n\n*Scope of Work*\nParking Tickets & Municipal Citations\n\nYou will:\n\n- Review parking tickets and citation notices that have already been scanned into our virtual mailbox.\n- Enter all tickets into a tracking spreadsheet that we will provide.\n- Search municipal websites and contact municipalities to identify additional outstanding citations that we may not have received or retained.\n- Contact municipalities by phone and/or email when necessary.\n- Follow a provided script and process when communicating with municipalities.\n- Determine the current status of older citations, including citations that may already be 30+ days old.\n- Document any deadlines, forms, supporting documents, or next steps required by each municipality.\n- Flag anything unclear or unusual for owner review rather than making assumptions.\n\nMunicipalities may include Boston, Cambridge, Somerville, Newton, Revere, Lynn, Framingham, Worcester, Brockton, Milton",
+  "query": "google sheets automation",
+  "found_at": "2026-08-22 18:00"
  }
 ]
