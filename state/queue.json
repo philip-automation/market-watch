@@ -921,5 +921,57 @@
   "desc": "I have a set of legally binding contracts that must read as if they were originally drafted in both Hindi and English. Accuracy in legal terminology and preservation of intent are critical because the documents will be signed by stakeholders in India and abroad. The work involves translating clauses, schedules, and any accompanying notes in either direction—Hindi to English and English to Hindi—while keeping formatting intact for easy comparison.\n\nPlease have proven experience with contract translation and be fully comfortable with confidentiality requirements. If you rely on CAT tools such as Trados or MemoQ, that is fine, but every line must still receive a human legal-sense check.\n\nDeliverables  \n• Final bilingual contracts supplied in editable Word format and mirrored PDF versions  \n• A short terminology sheet highlighting key legal terms you standardised across languages  \n\nI will review for linguistic precision, consistency of legal phrasing, and layout fidelity before approving the job.",
   "query": "pdf extraction",
   "found_at": "2026-08-22 04:00"
+ },
+ {
+  "id": 40663199,
+  "title": "ASP.NET Multi-Step Booking Widget Development",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/api-developmet/ASP-NET-Multi-Step-Booking",
+  "desc": "I run the appointment system at http://qwicbook.com and I need to give our doctors a smoother way to embed it on their own sites. The goal is a self-contained booking widget that loads through an IFRAME, walks the patient through a clear multi-step flow, and talks to our existing ASP.NET back-end.\n\nHere is what I expect:\n\n• A polished, responsive front end built with the stack you are most comfortable with (JS, ASP.NET) that slots into an IFRAME at a fixed URL we will provide.  \n• The widget must handle the full booking journey: pick service → choose date/time → enter patient details → confirm.  \n• All calls for availability, creation, updates, and cancellations already exist in our ASP.NET Web API; your job is to wire them up from the front end.  \n• Any state management should stay inside the IFRAME so host sites never see patient data.  \n• Smooth hand-off back to the host page (optional redirect or postMessage) once the booking is complete.  \n• Clean, commented code and a short setup guide so each doctor’s webmaster can drop the IFRAME snippet into WordPress or plain HTML without tweaks.\nImportant: I need daily commits in GutHub. - You first need to demonstrate by producing a dummy visit so that we can align expctations\n\nCollaboration will be easiest if we can talk during IST working hours, so please confirm you can overlap. Once we agree on milestones I’ll spin up a staging environment and share API keys. Let’s chat if you’re ready to start.",
+  "query": "web scraping",
+  "found_at": "2026-08-22 04:43"
+ },
+ {
+  "id": 40663180,
+  "title": "Enterprise-Grade AI Digital Platform & Custom Web Infrastructure Development",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 13,
+  "url": "https://www.freelancer.com/projects/ai-chatbot-development/Enterprise-Grade-Digital-Platform-Custom",
+  "desc": "Looking for senior-level full-stack developers and AI system architects to build a high-performance, scalable web ecosystem from scratch.\n\nKey Requirements:\n\nCustom Full-Stack Development: High-speed web architecture optimized for maximum concurrency and fast response times.\n\nAI-Driven Automation: Integration of intelligent workflows, automated matchmaking algorithms, and agentic logic systems.\n\nPerformance & Security: Robust data security, clean code practices, and lightning-fast frontend/backend execution.\n\nThis is a long-term, high-scale initiative with continuous phase expansions. Only experienced developers with proven expertise in modern frameworks should apply. Detailed architecture documentation and API wireframes will be provided upon initial alignment.",
+  "query": "web scraping",
+  "found_at": "2026-08-22 04:43"
+ },
+ {
+  "id": 40663198,
+  "title": "Enhancing earnway.art Website & Integration",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/api-integration/Enhancing-earnway-art-Website",
+  "desc": "Tender Proposal Regarding Adding or Modifying Features to the earnway.art Website\n\nThe developer of the earnway.art website successfully delivered the required features by July 18, 2026 (including rebranding, Google Things setup, automated email setup, complete server setup, and installation of all necessary software, database configuration, etc.) and delivered the source code. However, modifications and additions to the features still require development.\n\n1. An issue was encountered when testing shortened links on the existing website. Using the \"Custom Alias\" option in advanced settings, the first shortened link was successfully generated, but subsequent attempts resulted in a system message indicating that the \"Custom Alias\" slot was already taken. Since our members use their own invitation codes as \"Custom Alias\" to identify daily tasks, this restriction is detrimental to many tasks as they require repeated use of the invitation code. Therefore, we request that this restriction be changed to unlimited.\n\n2. API integration with our central database is needed to add a database CRM member registration management system, EW Wallet, ART Wallet, member daily task delivery, partner affiliate links, etc. (Refer to the About Us document for design details). 3. When a user generates a short link, the following functions should be added:\n\nA. Users of this platform must be registered full members. If not registered, a registration page should pop up requiring registration.\n\nB. This ",
+  "query": "data extraction",
+  "found_at": "2026-08-22 04:43"
+ },
+ {
+  "id": 40663139,
+  "title": "iGaming Security Feature Press Release",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/article-writing/iGaming-Security-Feature-Press-Release",
+  "desc": "I need a compelling brand-awareness press release that spotlights the security DNA of our new iGaming platform. The narrative must lean heavily on product features, with particular emphasis on the twin pillars of our protection stack: robust data encryption and seamless user authentication.\n\nHere is what I’m after:\n\n• A newsroom-ready release (about 600–800 words) written in clear, engaging language that would resonate with both tech-savvy journalists and casual gaming audiences.  \n• A headline and sub-headline that instantly convey trust and innovation in the iGaming space.  \n• Two concise executive quotes (CEO and CTO) reinforcing our commitment to safe play.  \n• One short boilerplate paragraph about the company.\n\nAcceptance criteria  \n• Data encryption and user authentication are described in plain English first, then briefly backed by technical specifics (e.g., AES-256, multi-factor login) without slipping into jargon overload.  \n• No references to promotional offers, testimonials, or game variety—this release is purely about security-driven product features.  \n• Tone is authoritative yet friendly, avoiding fear-based language.  \n• Delivery in editable Google Doc plus a final PDF, both ready for immediate distribution.\n\nIf you have previous experience drafting tech or fintech press releases—or better yet, work in the regulated gaming arena—please bring that voice. I’ll provide background briefs and our brand style guide once we kick off.",
+  "query": "data extraction",
+  "found_at": "2026-08-22 04:43"
  }
 ]
