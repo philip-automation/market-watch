@@ -1584,5 +1584,44 @@
   "desc": "I need a clear, professional set of documentation that captures everything about the routers and switches in my environment—from physical and logical topology right through to configuration details and operating procedures. The end goal is to have a single source of truth that any engineer could open and immediately understand how the network is put together and how to replicate or restore it.\n\nYou’ll be working with information I provide (device lists, IP plans, current configs, and any diagrams I already have), then structuring it into well-organised, easy-to-follow documents. Visio or a similar diagramming tool will be useful for the network maps; a polished PDF or editable format is fine for the written sections.\n\nPlease include examples of past work on similar router- and switch-focused documentation so I can gauge style and depth.",
   "query": "pdf extraction",
   "found_at": "2026-08-23 11:40"
+ },
+ {
+  "id": 40665592,
+  "title": "Transcribe Handwritten Sheets to Excel",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/data-management/Transcribe-Handwritten-Sheets-Excel",
+  "desc": "I have fewer than 50 loose handwritten sheets that mix numbers with short text notes. I need every line entered accurately into a clean, well-structured Excel workbook so I can filter, sort, and run basic calculations later.\n\nBecause the pages are loose and the layout varies slightly from sheet to sheet, you’ll have to decide on sensible column headings, keep all numerical values exactly as written, and preserve spelling in the text fields. Any figure or word you are unsure of should be highlighted in a separate “Comments” column so nothing slips through unnoticed.\n\nDeliverables  \n• One .xlsx file containing all transcribed data in a single worksheet, fully editable  \n• A short log of any unclear handwriting or missing information that needs my review  \n\nIf you’re precise with data entry and comfortable interpreting mixed numeric/text content, I’d like to hear how soon you can start and your estimated turnaround time.",
+  "query": "data extraction",
+  "found_at": "2026-08-23 12:01"
+ },
+ {
+  "id": 40665600,
+  "title": "Complete Branding Identity and Design services",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/branding/Complete-Branding-Identity-Design-40665600",
+  "desc": "We are looking for an experienced **branding designer, packaging designer, or creative agency** to execute a complete brand identity and print/digital design project for a **GCC-based client**.\n\nShould have **strong portfolio, excellent design sense, and experience working with Middle East/GCC businesses**.\n\n## Scope of Work\n\n### 1. Brand Concept Development\n- Brand positioning, narrative and visual direction\n- Moodboards and creative concept exploration\n\n### 2. Logo Design\n- Primary logo\n- Secondary logo\n- Icon/monogram\n- Black/white and single-colour versions\n- Basic logo usage guidelines\n\n### 3. Company Profile\n- 8–12 page professionally designed company profile\n- Print + digital PDF\n- Content structure, layout and visual design\n\n### 4. Business Card\n- Front & back design\n- Print-ready artwork with bleed and crop marks\n\n### 5. QR Business Card\n- Dynamic QR code setup\n- Branded QR design\n- Print-ready artwork\n\n### 6. Premium Date Box Packaging\n- Structural and graphic design\n- Premium/luxury presentation\n- Print-ready artwork based on supplied guideline/specifications\n\n### 7. Premium Paper Bag\n- Branded paper bag design\n- Print-ready artwork\n- Correct colour profile and production specifications\n\n### 8. Digital Menu & QR Platform – 12 Months\n- Mobile-optimized online menu\n- Menu categories and item organization\n- Product descriptions, pricing and dietary tags\n- Dynamic QR code\n- Branded QR design\n- Responsive iOS/Android experience\n- 12-month hosting/platform access\n- Basic",
+  "query": "ai chatbot",
+  "found_at": "2026-08-23 12:01"
+ },
+ {
+  "id": 40665591,
+  "title": "Pembukuan Bulanan via Excel",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/financial-analysis/Pembukuan-Bulanan-via-Excel",
+  "desc": "Saya mencari bantuan untuk menangani pembukuan bisnis secara bulanan menggunakan Excel/Manual. Tugasnya meliputi:\n\n• Memasukkan seluruh transaksi harian dari struk, faktur, dan mutasi bank ke spreadsheet.  \n• Mengelompokkan akun sehingga laporan laba rugi dan neraca sederhana dapat terbentuk otomatis.  \n• Mencocokkan saldo kas dan bank dengan mutasi akhir bulan untuk memastikan akurasi.  \n• Menyerahkan file Excel final bersama ringkasan jika ada selisih atau temuan penting.\n\nSemua proses dilakukan langsung di Excel—saya tidak memakai QuickBooks atau Xero. Ruang lingkupnya dasar saja; yang saya butuhkan adalah laporan bulanan yang rapi dan akurat. Jika hasilnya memuaskan, saya terbuka untuk kerja sama berkelanjutan di bulan-bulan berikutnya.",
+  "query": "excel automation",
+  "found_at": "2026-08-23 12:01"
  }
 ]
