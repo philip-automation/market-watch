@@ -622,5 +622,18 @@
   "desc": "Incoming calls at my dental clinic need real-time attention, accurate triage and clear documentation.  Every call—whether it is about scheduling, a general question, or an emergency—must be answered professionally, recorded in full, and followed up where required.  \n\nHere is how the workflow should run:  \n• Greet the patient, gather their name, contact details, reason for calling, preferred appointment times and how urgently they need to be seen.  \n• If the matter is routine, offer the next suitable slot or politely advise on expected wait times.  \n• When an emergency is identified, flag it immediately and forward the details to my personal WhatsApp so I can step in.  \n• Enter every call into a shared log so I can review the day at a glance.  \n• Send automated or manual appointment reminders, then conduct short patient follow-ups after their visit to confirm they are recovering well.  \n\nA concise WhatsApp alert for emergencies plus an end-of-day call log constitute acceptance of each day’s work.  Familiarity with call-routing apps, simple CRMs or Google Sheets will be helpful, though I am flexible on the exact tools as long as the information stays organised and accessible.",
   "query": "google sheets automation",
   "found_at": "2026-08-23 20:35"
+ },
+ {
+  "id": 40666310,
+  "title": "Connect POTS to UNIFI Talk",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/sip/Connect-POTS-UNIFI-Talk",
+  "desc": "I need assistance connecting my Yeastar TA810 SIP adapter to UNIFI Talk via my Dream Machine Pro. This will enable me to make and receive calls using my analog POTS phone lines.\n\nRequirements:\n- Configure Yeastar TA810 with UNIFI Talk\n- Integrate with Dream Machine Pro\n- Ensure functionality for incoming and outgoing calls\n\nIdeal Skills and Experience:\n- Experience with Yeastar and UNIFI Talk\n- Strong knowledge of network configurations with Dream Machine Pro\n- Familiarity with POTS and SIP integration\n\nPlease ensure all connections are secure and provide a brief setup guide.",
+  "query": "gpt integration",
+  "found_at": "2026-08-23 21:03"
  }
 ]
