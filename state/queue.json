@@ -557,5 +557,70 @@
   "desc": "Vou participar de uma feira de fitness e fisiculturismo e preciso de uma pessoa de apoio no local. O trabalho será presencial, durante 1 dia inteiro — podendo estender-se para o segundo dia caso haja necessidade.\n\nLOCAL: RIO DE JANEIRO, RJ\nDATA: 19/12/26\n\nPrincipais responsabilidades:\n• Recepcionar e atender visitantes, respondendo dúvidas básicas e direcionando-os ao estande.  \n• Auxiliar na montagem e desmontagem do estande antes e depois do evento.  \n• Distribuir materiais promocionais e realizar demais tarefas inerentes ao andamento da feira (manter o espaço organizado, repor brindes, apoiar pequenas demandas de logística).\n\nTer experiência prévia em eventos de fitness ou fisiculturismo será um diferencial, mas não é obrigatório; valorizo proatividade, simpatia e disposição para aprender rapidamente.\n\nSe você é comunicativo(a), organizado(a) e aguenta o ritmo dinâmico de um evento, envie sua proposta informando disponibilidade, cidade de residência e qualquer experiência relevante.",
   "query": "data extraction",
   "found_at": "2026-08-23 20:00"
+ },
+ {
+  "id": 40666292,
+  "title": "Full-Stack Rideshare App Suite",
+  "budget_min": 750.0,
+  "budget_max": 1500.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 19,
+  "url": "https://www.freelancer.com/projects/android/Full-Stack-Rideshare-App-Suite",
+  "desc": "I’ve already uploaded the complete documentS and now need a seasoned team to turn it into a production-ready rideshare ecosystem. The scope covers three customer-facing channels—Android, iOS, and a responsive web app—plus dedicated driver portals and a full-featured admin dashboard.\n\nCore features to implement  \n• Custom user profiles with ratings that include advanced reviews, profile photos, bios, and the ability for riders to save their most frequented pickup and drop-off points.  \n• An integrated rewards and loyalty program that lets users earn points, unlock bonuses, and track their status directly in their account.  \n• Real-time fare bidding so riders can post a request and watch drivers competitively offer prices before confirming the trip.\n\nStandard rideshare essentials—GPS tracking, secure in-app payments, live ETA updates, push notifications, surge pricing logic, and dispute management—are assumed and detailed in the REDs. The backend must scale easily, expose clean REST/GraphQL APIs, and log every transactional event for analytics.\n\nDeliverables  \n1. Android app (Kotlin or cross-platform).  \n2. iOS app (Swift or cross-platform).  \n3. Web application for riders and drivers.  \n4. Web-based admin panel with real-time metrics and user management.  \n5. Source code, testing suite, and deployment scripts.  \n6. Post-launch support window we’ll define together.\n\nI’m open to your preferred tech stack—whether you lean toward Flutter, React Native, or native builds—as long as ",
+  "query": "web scraping",
+  "found_at": "2026-08-23 20:34"
+ },
+ {
+  "id": 40666269,
+  "title": "Commission-Based Website Sales Agent",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/sales/Commission-Based-Website-Sales-Agent-40666269",
+  "desc": "I’m launching a brand-new web design and development venture and I need a motivated sales professional who will be paid purely on commission to close website projects for small- and medium-sized businesses. Right now, I’m concentrating on the Health and Wellness space—think gyms, clinics, therapists—as well as Professional Services such as accountants, consultants, and law firms, so familiarity or an existing network in either field is a definite advantage.\n\nHere’s how I envision the collaboration:\n\nYou prospect, qualify, and nurture leads in those two sectors, pitch our tailored website packages, handle objections, and secure signed contracts. I supply portfolio pieces, price sheets, and all technical backup; you concentrate on relationship-building and closing. Each deal you bring in triggers an agreed percentage payout immediately after the client’s first milestone payment clears.\n\nSuccess for both of us looks like steady, month-over-month deal flow, satisfied clients, and transparent reporting of your pipeline. If you have a track record selling digital services, can demonstrate past wins, and are ready to operate on a commission-only model, let’s talk and get the first proposals in front of prospects this week.",
+  "query": "web scraping",
+  "found_at": "2026-08-23 20:34"
+ },
+ {
+  "id": 40666281,
+  "title": "Gold E-Commerce Marketing Boost",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/digital-marketing/Gold-Commerce-Marketing-Boost",
+  "desc": "I run an online bullion and precious-metals store and need a marketer who can move the sales needle through three levers: Instagram-driven social media marketing, Google pay-per-click campaigns, and solid white-hat SEO.  \n\nFirst, we’ll work together on a paid one-month test project ($300–$600) to prove traction and communication flow. If the results look good, we can roll straight into a monthly retainer in the $500–$1,500 range that scales with ad spend, or switch to an hourly setup at $8–$20 (capped at 10–15 hours per week). I’m flexible as long as the ROI is clear.\n\nCore scope  \n• Instagram: plan and schedule posts, craft ad creatives, refine audience targeting, and report weekly on engagement and conversions.  \n• Google Ads: build and optimize search/shopping campaigns, manage negative keywords, A/B test ad copy, and track ROAS through Google Analytics & Tag Manager.  \n• SEO: conduct keyword research geared to bullion buyers, tune on-page elements, secure high-trust backlinks, and deliver a prioritized action list so the dev team can implement technical fixes.\n\nSuccess for me means higher qualified traffic, lower acquisition costs, and measurable growth in transaction value. You’ll have full access to current analytics and previous campaign data so we can hit the ground running.  \n\nIf you know this niche and can demonstrate wins in competitive e-commerce spaces, let’s talk.",
+  "query": "data extraction",
+  "found_at": "2026-08-23 20:34"
+ },
+ {
+  "id": 40666248,
+  "title": "Minimalist Color-Specific Logo Design",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/adobe-illustrator/Minimalist-Color-Specific-Logo-Design",
+  "desc": "I need a clean, uncluttered logo that captures my brand’s personality in a single glance. The aesthetic I’m aiming for is strictly minimalist—think simple shapes, balanced whitespace, and no unnecessary flourishes. I already have a defined color palette and will provide the exact HEX values as soon as we start, so every concept should stay faithful to those tones.\n\nHere’s what I’d like handed over at the end:  \n• One primary logo and, if it fits naturally, a streamlined secondary mark or icon  \n• Editable vector files (AI or SVG) plus high-resolution PNG with transparent background  \n• A quick reference sheet showing the final color values and any fonts used  \n\nTwo or three rounds of refinement should be plenty; the main goal is a logo that feels timeless, scales well, and looks just as strong on a business card as it does online. If that sounds like your forte, I’m ready to see your ideas.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-23 20:34"
+ },
+ {
+  "id": 40666283,
+  "title": "Dental Clinic Virtual Receptionist",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/customer-service/Dental-Clinic-Virtual-Receptionist",
+  "desc": "Incoming calls at my dental clinic need real-time attention, accurate triage and clear documentation.  Every call—whether it is about scheduling, a general question, or an emergency—must be answered professionally, recorded in full, and followed up where required.  \n\nHere is how the workflow should run:  \n• Greet the patient, gather their name, contact details, reason for calling, preferred appointment times and how urgently they need to be seen.  \n• If the matter is routine, offer the next suitable slot or politely advise on expected wait times.  \n• When an emergency is identified, flag it immediately and forward the details to my personal WhatsApp so I can step in.  \n• Enter every call into a shared log so I can review the day at a glance.  \n• Send automated or manual appointment reminders, then conduct short patient follow-ups after their visit to confirm they are recovering well.  \n\nA concise WhatsApp alert for emergencies plus an end-of-day call log constitute acceptance of each day’s work.  Familiarity with call-routing apps, simple CRMs or Google Sheets will be helpful, though I am flexible on the exact tools as long as the information stays organised and accessible.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-23 20:35"
  }
 ]
