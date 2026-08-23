@@ -1298,5 +1298,18 @@
   "desc": "I’m streamlining the sales side of my business and the priority is automating every WhatsApp follow-up that happens after a lead first makes contact.  \n\nHere’s what I need built and fully working:  \n• Automated messaging – once a prospect reaches a defined stage in my CRM, the system should trigger the correct WhatsApp response without manual input.  \n• Message scheduling – I want to set precise intervals (for example: 1 hour, 24 hours, 3 days) so reminders go out exactly when they’re most effective.  \n• Template messages – reusable, editable message blocks that keep brand tone consistent while allowing quick customisation for name, product, price, or deadline fields.\n\nThe workflow must connect smoothly with my existing sales process, so you may need to integrate the WhatsApp Business API (or a provider such as Twilio, MessageBird, Gupshup, etc.) with my CRM and any middleware like Zapier or Make. I’m open to whatever stack you find most reliable, provided it supports future volume growth and complies with WhatsApp policies.\n\nPlease factor in:  \n– Clear instructions so my team can adjust timing or copy without coding.  \n– A simple dashboard or report showing sent, delivered, and replied status for each follow-up.  \n– Basic testing to confirm messages reach both Android and iOS users.  \n\nOnce delivered, I’ll test the full journey from new lead to final reminder; payment is released when every scheduled template fires automatically and tracking shows 100 % delivery inside Whats",
   "query": "python automation",
   "found_at": "2026-08-23 08:42"
+ },
+ {
+  "id": 40665329,
+  "title": "Obstetrics & Gynaecology Manuscript Medical Editor",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/academic-writing/Obstetrics-Gynaecology-Manuscript",
+  "desc": "Medical/Academic Editor Needed for Obstetrics & Gynaecology Manuscript – IJGO Submission\n\nProject description:\nI am looking for an experienced medical or academic editor to perform a detailed review and final edit of a research manuscript intended for submission to the International Journal of Gynecology & Obstetrics (IJGO).\n\nThe manuscript is a national cross-sectional study examining laparoscopic training and perceived readiness among obstetrics and gynaecology trainees in South Africa. The study and statistical analysis are complete, and the manuscript is already in draft staging\n\nI would like the editor to:\nReview the manuscript for scientific clarity, structure, flow and academic writing.\nEnsure that the Methods, Results, Discussion and Conclusions accurately reflect the study design and findings without overinterpretation.\nCheck statistical reporting and consistency between the text, tables and figures. The final statistical analysis has been performed by a biostatistician, so I am primarily looking for verification of reporting rather than a new analysis.\nReview tables and figures and advise whether any should be simplified, combined or moved to supplementary material.\nCheck every in-text citation against the referenced article where possible and ensure that the cited paper actually supports the claim being made.\nAssess the overall quality and strength of the reference list and identify any weak or inappropriate references.\nEnsure compliance with the current IJGO autho",
+  "query": "ai chatbot",
+  "found_at": "2026-08-23 09:12"
  }
 ]
