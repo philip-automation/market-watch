@@ -635,5 +635,31 @@
   "desc": "I need assistance connecting my Yeastar TA810 SIP adapter to UNIFI Talk via my Dream Machine Pro. This will enable me to make and receive calls using my analog POTS phone lines.\n\nRequirements:\n- Configure Yeastar TA810 with UNIFI Talk\n- Integrate with Dream Machine Pro\n- Ensure functionality for incoming and outgoing calls\n\nIdeal Skills and Experience:\n- Experience with Yeastar and UNIFI Talk\n- Strong knowledge of network configurations with Dream Machine Pro\n- Familiarity with POTS and SIP integration\n\nPlease ensure all connections are secure and provide a brief setup guide.",
   "query": "gpt integration",
   "found_at": "2026-08-23 21:03"
+ },
+ {
+  "id": 40666385,
+  "title": "I would need a sketch specialist ",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/google-sketchup/would-need-sketch-specialist",
+  "desc": "I would need a sketch specialist to first build a skp from a pdf drawing but just the shell no doors/windows/interior walls, etc.\nfloor thickness should also represent what is on pdf\n\nI would also need the stairs as on pdf. One thing that dimension is not as pdf is the height on basement. On the skp it should be 12 feet floor to ceiling (in basement)\n\nI need skp with floors, walls, stairs and for the roof use the timber trusses in the skp provided.\n\nSketchup 2025\nAre you available to work immediately?",
+  "query": "pdf extraction",
+  "found_at": "2026-08-23 21:55"
+ },
+ {
+  "id": 40666373,
+  "title": "Modern Retail Flex Space Design",
+  "budget_min": 5000.0,
+  "budget_max": 10000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/revit/Modern-Retail-Flex-Space-Design",
+  "desc": "I’m launching a new commercial flex space that must function as a retail showroom while still providing back-of-house storage and a small office area. I need an architect who can take the project from concept through permit-ready drawings, all wrapped in a clean, modern aesthetic.\n\nScope of work\n• Schematic layouts that blend showroom, storage, and office functions without sacrificing merchandising flow.  \n• Detailed floor plans, reflected ceiling plans, elevations, and sections produced in AutoCAD or Revit.  \n• 3D exterior and interior visualisations so stakeholders can sign off on look and feel.  \n• Coordination notes for MEP and any structural modifications to ensure the set passes local code review.  \n• A final permit set in PDF and editable CAD/Revit formats.\n\nAcceptance criteria\n1. Plans clearly designate showroom, storage, and office zones and meet egress/code requirements for a commercial occupancy.  \n2. Renderings accurately reflect specified finishes and modern design language.  \n3. All files deliver clean layers, correct scales, and title blocks ready for submission to authorities.\n\nPlease confirm your licensure or ability to stamp drawings in my jurisdiction, share relevant retail or flex-space samples, and outline your estimated timeframe for concept, DD, and CD phases.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-23 21:55"
  }
 ]
