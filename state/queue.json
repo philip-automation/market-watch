@@ -336,5 +336,31 @@
   "desc": "I am looking for a reliable freelancer to complete data entry work accurately and efficiently. The task may include entering data into Excel or Google Sheets, copy typing, PDF to Excel/Word conversion, web research, and basic data cleaning.\n\nRequirements:\n\n* Good typing speed and accuracy\n* Knowledge of Microsoft Excel and Google Sheets\n* Ability to follow instructions carefully\n* Attention to detail\n* Timely completion of assigned work\n\nThe amount of work will depend on the project requirements. Please provide clear instructions and source files, and I will complete the work accurately and on time.",
   "query": "web scraping",
   "found_at": "2026-08-23 17:08"
+ },
+ {
+  "id": 40666072,
+  "title": "Local Acting Agent Outreach",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/article-writing/Local-Acting-Agent-Outreach",
+  "desc": "This project centers on building my film and TV profile through a strictly local-only outreach campaign. The goal is twofold:   \n\n1. Secure representation by agents or managers who are known for guiding emerging actors and who are willing to provide hands-on training, materials, and career planning.  \n2. Open doors to roles and project-development opportunities—original work, book or studio IP—where I can both act and help shape the production.\n\nScope of work  \n• Research every reputable agent and manager in the local market whose résumé shows experience with emerging actors, solid film-industry connections, and a proven record of landing auditions. I also need prospects who are beginner-friendly and ready to mentor.  \n• Draft a compelling pitch package: résumé, reel links, headshots, and a concise project-development one-pager that invites collaboration.  \n• Send individualized outreach (email, phone follow-ups, or social media DMs where appropriate) and maintain a contact log.  \n• Actively scout local film, TV, and commercial productions in pre-production or development, flagging any roles or co-production angles that fit my brand.  \n• Provide weekly reports summarizing contacts made, responses, next steps, and new opportunities discovered.\n\nAcceptance criteria  \n– Minimum 30 qualified agents/managers contacted within the first two weeks.  \n– A live spreadsheet or CRM export documenting each touchpoint, status, and follow-up date.  \n– At least five actionable audition leads",
+  "query": "data extraction",
+  "found_at": "2026-08-23 17:39"
+ },
+ {
+  "id": 40666061,
+  "title": "On-Demand 1-Hour Services Marketplace App",
+  "budget_min": 5000.0,
+  "budget_max": 15000.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 20,
+  "url": "https://www.freelancer.com/projects/android-app-development/Demand-Hour-Services-Marketplace-App",
+  "desc": "Freelance Project: Need a Professional Android App Developer + Backend Team . Need to Develop app something like fiverr .  The concept is a 1-hour local services marketplace where people can find nearby individuals who are available to help for exactly one hour.  . \n\nExamples:\n Personal assistance — ₹500/hour\n Electrical work — ₹200/hour\n Tutoring — ₹300/hour\n Photography — ₹700/hour\n Home repairs\n Errands & delivery assistance\n Design / creative work\n Business & professional assistance . ETC........................\n\nA customer should be able to search “Who is available near me right now?”, see their hourly rate, skills, rating and distance, and book them for one hour.\n\n Android App Requirements\n\nCustomer App\n\nRegistration / Login / OTP\nGPS-based nearby people\nSearch & filters\nCategories\nList + Map view\nHelper profiles\nHourly pricing\nReal-time availability\nDate/time selection\nBooking\nOnline payment\nBooking tracking\nIn-app chat/call\nNotifications\nBooking history\nReviews & ratings\nCancellation/refund system\n\nHelper Side\n\nBecome a Helper\nProfile creation\nSkills/services\nHourly rate\nAvailability schedule\nAccept/reject bookings\nActive booking management\nEarnings dashboard\nWallet\nWithdrawal/payout\nReviews\nKYC/verification\n Backend / Admin Panel\n\nBackend should be scalable and API-based.\n\nPreferred stack:\n\nLaravel / PHP\nMySQL\nREST APIs\nAndroid native/Kotlin or modern Android framework\nGoogle Maps / Mapbox\nRazorpay/Stripe or suitable Indian payment gateway\nFirebase notifications\nReal",
+  "query": "google sheets automation",
+  "found_at": "2026-08-23 17:39"
  }
 ]
