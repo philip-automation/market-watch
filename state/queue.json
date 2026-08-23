@@ -921,5 +921,31 @@
   "desc": "I’m fitting out a new day-care centre and need a creative interior designer who can shape two key zones—our classrooms and adjoining play areas—into safe, stimulating environments for children aged 0-4. The goal is a cohesive concept that marries colour, durability, and easy maintenance with an inviting, child-centred aesthetic.\n\nWhat I’ll need from you  \n• A mood board and colour palette that feel playful yet calming  \n• Scaled floor plans showing furniture layout, storage, and clear staff sightlines, compliant with local safety regulations  \n• High-quality 3D renders or walkthroughs for both the classroom and play space  \n• An itemised FF&E schedule with product specs and sourcing links (ideally readily available or shippable items)  \n• Editable working files—SketchUp, Revit, or similar—plus PDF/JPEG exports for my contractor\n\nI’ll supply current CAD drawings and brand guidelines once we lock in timelines. If you’ve designed early-childhood spaces before, include project samples so I can see how you’ve handled circulation, sensory zones, and age-appropriate furnishings.\n\nI’m ready to start as soon as I find the right designer, and I look forward to collaborating on a space where our youngest learners feel inspired, secure, and free to explore.",
   "query": "pdf extraction",
   "found_at": "2026-08-23 04:55"
+ },
+ {
+  "id": 40665018,
+  "title": "Multi-Branch Gym Management System",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/frontend-development/Multi-Branch-Gym-Management-System",
+  "desc": "I want a single, web-based platform that lets me oversee several gym locations while still giving each branch its own secure space. The core idea is simple:\n\n• Super Admin can see and control everything across all gyms—members, staff, trainers, plans, payments, attendance, expenses and branch-wise reports—through one consolidated dashboard.\n• Gym/Branch Admin logs in and manages only the gym or gyms assigned to them, with full CRUD rights on their local data.\n• Trainers access the classes and member profiles they are responsible for.\n• Members can view their own schedules, payments and attendance history.\n\nThe system must let me add, edit, deactivate or completely remove a branch at any time without affecting the rest of the network. All data rolls up into real-time, company-wide summaries while still allowing drill-down into individual locations for detailed reporting.\n\nDeliverables\n1. Responsive web application (PHP/Laravel, Node.js or similar) with role-based access control for Super Admin, Gym/Branch Admin, Trainer and Member.\n2. Central dashboard showing key KPIs (active members, revenue, expenses, attendance) plus filters for branch or date range.\n3. Branch management module to create, update, deactivate and reactivate gyms.\n4. Reporting suite that exports branch-wise and company-wide PDF/CSV reports.\n5. Source code in a Git repository with clear installation and environment setup instructions.\n6. Short hand-over session or video walk-through detailing workflow, user ro",
+  "query": "web scraping",
+  "found_at": "2026-08-23 05:38"
+ },
+ {
+  "id": 40665026,
+  "title": "Optimize ESP32 Automotive Ignition System multispark Firmware",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "CAD",
+  "usd_rate": 0.725979,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/firmware-development/Optimize-ESP-Automotive-Ignition-System",
+  "desc": "I have a working but untidy firmware that converts a single 3.3 V ignition trigger from the vehicle’s PCM into a precise, doubled-width pulse that drives a FET-controlled dual-spark coil. The hardware is a CYD-branded ESP32 board, and the present code relies on a near-linear lookup chart to decide dwell and timing. It functions, yet the interrupt handling and pulse generation introduce more latency than I’m comfortable with, and nothing is saved once the unit powers down except the programmed defaults.\n\nHere’s what I need from the rewrite:\n\n• Tighter timing control. The priority is to shave latency and jitter to the minimum the ESP32 can offer while still keeping the logic straightforward to maintain.  \n• Persistent tuning data. Two items—ignition timing adjustments and pulse-duration settings—must survive resets by living in the ESP32’s NVS/EEPROM as simple key-value pairs. Stubs for future serial or BLE tuning would be a plus.  \n• Clean, well-commented code targeting ESP-IDF (Arduino layer acceptable if it doesn’t compromise latency) and a concise README explaining how to build, flash, and modify the stored parameters.\n\nhaving a working flow menu system would be nice, but if it could allow the OTA firmware updates, that would be even better.  but i think with LVGL, there is not enough room.  \n\nDeliverables\n1. Source in a Git repository with clear commit history.  \n2. Compiled binary and flashing instructions.  \n3. Brief latency report comparing old vs. new firmware.  \n\nAcce",
+  "query": "data extraction",
+  "found_at": "2026-08-23 05:38"
  }
 ]
