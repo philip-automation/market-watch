@@ -1233,5 +1233,70 @@
   "desc": "I'm looking for an experienced Pine Script developer to implement a trading strategy on TradingView. \n\nRequirements:\n- Basic alerts for buy/sell signals\n- Script should be efficient and well-documented\n\nIdeal Skills and Experience:\n- Proficiency in Pine Script\n- Experience with TradingView\n- Strong understanding of trading strategies and indicators\n\nPlease provide examples of previous work and a brief overview of your approach.",
   "query": "python script",
   "found_at": "2026-08-23 07:50"
+ },
+ {
+  "id": 40665302,
+  "title": "Banswara Food Product Shoot and Reel",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/photography/Banswara-Food-Product-Shoot-Reel",
+  "desc": "I’m working with a food-and-beverage brand in Banswara, Rajasthan and need the entire visual package completed on site. The assignment covers a product-showcase session focused on both close-up and lifestyle imagery that will feed directly into social media.  \n\nHere’s the flow:\n\n• Spend a day at the client’s facility or chosen location in Banswara capturing high-resolution close-ups that highlight texture and freshness, then stage lifestyle scenes that show the product in real-world use.  \n• Edit and colour-grade the best selects (minimum 20 finished photos) for web and print, ensuring consistent look and feel.  \n• Cut a vertical social-media reel, 30–60 seconds, built from the day’s footage; include light motion graphics and on-brand background music.  \n\nI’m happy with anyone who already handles DSLR or mirrorless setups and is comfortable finishing in Lightroom/Photoshop for stills and Premiere Pro, DaVinci Resolve, or similar for the reel. Final files can be delivered via a shared cloud folder; keep RAWs archived for two weeks in case the brand requests additional edits.  \n\nIf you’re able to reach Banswara reliably and can show a portfolio of food product work, let’s lock dates and move ahead.\n\ndrop your portfolio links with entries",
+  "query": "web scraping",
+  "found_at": "2026-08-23 08:42"
+ },
+ {
+  "id": 40665279,
+  "title": "Data entry ",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/after-effects/Data-entry-40665279",
+  "desc": "I have raw footage ready and now need a polished, attention-grabbing edit that can serve as a short marketing piece for our upcoming campaign. The goal is to turn the material into a concise, energetic video that highlights our offer, builds excitement, and is ready to share across social platforms and a landing page.\n\nBecause I don’t have fixed branding assets—no mandatory logo, tagline, colour palette, or font—you’ll have full creative freedom to choose motion graphics, transitions, music beds, and typography that fit a modern promotional vibe while still feeling consistent with standard corporate aesthetics.  \n\nCore expectations  \n• Trim and sequence the supplied clips into a strong narrative flow  \n• Add royalty-free background music and sound design that drives momentum  \n• Incorporate on-screen titles or lower thirds to underscore key points  \n• Apply colour correction and light grading so the final product looks cinematic and consistent  \n• Deliver one master file in 1080p (or higher if footage permits) plus platform-ready exports for Instagram, LinkedIn, and YouTube\n\nPreferred tools are Adobe Premiere Pro and After Effects, but if you’re faster in DaVinci Resolve or Final Cut Pro that’s fine—just keep project files organised so any future tweaks are straightforward.\n\nI’ll share the footage via cloud link as soon as we start. Let me know your estimated turnaround time and any examples of similar marketing edits you’ve completed. I’m looking for a smooth, collaborative ",
+  "query": "data extraction",
+  "found_at": "2026-08-23 08:42"
+ },
+ {
+  "id": 40665287,
+  "title": "Optimize Factory Machinery Layout",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/industrial-engineering/Optimize-Factory-Machinery-Layout",
+  "desc": "I’m looking for an industrial engineer who can study my current production floor and propose a new machinery layout that streamlines flow, shortens travel distances, and eliminates the choke-points that slow us down today. The focus is pure process optimization; supply-chain questions such as inventory policy or logistics routing are already handled elsewhere.  \n\nOur goal is clear: improve overall workflow efficiency. To get there, I’ll share CAD drawings of the facility, cycle-time data, and a brief video walk-through so you can see the real-world constraints (fixed columns, utility drops, safety aisles, etc.). I’d like you to model alternative placements, run the necessary time-and-motion or discrete-event simulations, and recommend the configuration that delivers the greatest efficiency gain without compromising safety or code compliance.\n\nDeliverables  \n• A concise report explaining your analysis, key assumptions, and quantified efficiency gains  \n• Updated floor plan (DWG or similar) showing the proposed machinery positions, aisles, and material flow arrows  \n• An implementation checklist prioritizing moves or tweaks we should tackle first  \n\nI’m ready to answer detailed questions about equipment specs, takt times, or anything else you need, and I’m happy to schedule a quick video call before you start so we’re perfectly aligned.",
+  "query": "data extraction",
+  "found_at": "2026-08-23 08:42"
+ },
+ {
+  "id": 40665258,
+  "title": "Build AI Video Editing Android App",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/ai-video-editing/Build-Video-Editing-Android-App",
+  "desc": "I want to launch a polished, AI-powered video editor for Android that can take raw clips and, with one tap, turn them into TikTok, Instagram Reels or YouTube Shorts. The goal is an experience so quick and beginner-friendly that casual users feel like pros, yet powerful enough that creators can rely on it every day.\n\nCore deliverables  \n• AI-driven automatic video editing (cut detection, highlight selection, pacing)  \n• One-tap Shorts/Reels generator with platform-specific aspect ratios  \n• Auto-captions and animated subtitles in multiple fonts and styles  \n• Voice and audio enhancement that removes silence and filler words  \n• Template library with AI-suggested effects, transitions and color looks  \n• In-app subscription system (monthly / yearly) with Google Play Billing  \n• Cloud or on-device processing pipeline using FFmpeg, MediaCodec, TensorFlow Lite (or a stack you recommend)  \n• Admin dashboard for user management, usage analytics and churn reporting  \n\nI’m looking for someone who has already solved similar challenges—ideally you have shipped Android apps that mix FFmpeg with custom ML models, manage subscriptions securely, and handle video workloads at scale.\n\nWhen you reply, please include:  \n1. Links to live apps, demo APKs or GitHub repos that showcase your AI video work  \n2. A brief outline of the architecture you would choose for this project  \n3. Rough cost estimate broken into logical milestones  \n4. Realistic timeline from prototype to Play-Store-ready release ",
+  "query": "ai chatbot",
+  "found_at": "2026-08-23 08:42"
+ },
+ {
+  "id": 40665226,
+  "title": "WhatsApp Sales Follow-Up Automation",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 20,
+  "url": "https://www.freelancer.com/projects/api-integration/WhatsApp-Sales-Follow-Automation",
+  "desc": "I’m streamlining the sales side of my business and the priority is automating every WhatsApp follow-up that happens after a lead first makes contact.  \n\nHere’s what I need built and fully working:  \n• Automated messaging – once a prospect reaches a defined stage in my CRM, the system should trigger the correct WhatsApp response without manual input.  \n• Message scheduling – I want to set precise intervals (for example: 1 hour, 24 hours, 3 days) so reminders go out exactly when they’re most effective.  \n• Template messages – reusable, editable message blocks that keep brand tone consistent while allowing quick customisation for name, product, price, or deadline fields.\n\nThe workflow must connect smoothly with my existing sales process, so you may need to integrate the WhatsApp Business API (or a provider such as Twilio, MessageBird, Gupshup, etc.) with my CRM and any middleware like Zapier or Make. I’m open to whatever stack you find most reliable, provided it supports future volume growth and complies with WhatsApp policies.\n\nPlease factor in:  \n– Clear instructions so my team can adjust timing or copy without coding.  \n– A simple dashboard or report showing sent, delivered, and replied status for each follow-up.  \n– Basic testing to confirm messages reach both Android and iOS users.  \n\nOnce delivered, I’ll test the full journey from new lead to final reminder; payment is released when every scheduled template fires automatically and tracking shows 100 % delivery inside Whats",
+  "query": "python automation",
+  "found_at": "2026-08-23 08:42"
  }
 ]
