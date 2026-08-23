@@ -505,5 +505,31 @@
   "desc": "I need a developer to create a video commerce platform with the following features:\n\nCore Functionality:\n  - Live streaming\n  - Product catalog with video reviews\n  - Integrated payment system supporting Credit/Debit Cards and UPI\n\nUser Authentication: Not necessary\n\nIdeal Skills:\n  - Experience in building e-commerce platforms\n  - Proficiency in video streaming technologies\n  - Strong knowledge of payment gateway integration\n\nLooking for a clean, user-friendly interface and robust backend.",
   "query": "gpt integration",
   "found_at": "2026-08-23 19:11"
+ },
+ {
+  "id": 40666243,
+  "title": "Set Up GA4, GTM & Google Ads Conversion Tracking with GCLID – Cashfree/Razorpay Payments",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/google-ads/Set-GTM-Google-Ads-Conversion",
+  "desc": "I am looking for an experienced Google Ads conversion tracking specialist to review, improve, and implement a reliable full-funnel conversion tracking system for my webinar business.\n\nMy funnel works as follows:\n\nGoogle Ads → ₹9 Webinar Purchase → Optional ₹199 Purchase → ₹5,000/₹10,000 Main Program Purchase\n\nThe main objective is to give Google Ads complete and accurate funnel/revenue information, so that over time I can optimize campaigns based on users who generate higher revenue rather than only optimizing for the cheapest ₹9 webinar registrations.\n\nCurrent Setup\n\nI currently use:\n\n- Google Ads\n- Google Analytics 4 (GA4)\n- Google Tag Manager (GTM)\n- Cashfree\n- Razorpay\n- Pabbly Connect\n- Google Sheets\n- GCLID capture/storage\n\nCashfree and Razorpay are used for collecting payments.\n\nCurrently, some conversion tracking depends on browser/page-based tracking. I want successful payments to be tracked reliably even if the customer closes the browser, does not reach the Thank You page, or purchases the main program later through a separate payment link.\n\nTracking Requirements\n\n1. ₹9 Webinar Purchase\n\nEvery successful ₹9 payment should be reliably sent to Google Ads with the appropriate:\n\n- GCLID / attribution information\n- Conversion value\n- Currency\n- Transaction/order ID\n- Conversion timestamp\n\nTracking should preferably use successful payment confirmation/webhook data rather than relying only on the Thank You page.\n\n2. ₹199 Optional Purchase\n\nSome webinar customers also purc",
+  "query": "data extraction",
+  "found_at": "2026-08-23 19:40"
+ },
+ {
+  "id": 40666218,
+  "title": "10 meter air shooting target DIY",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/electrical-engineering/meter-air-shooting-target-DIY",
+  "desc": "Project Title\n\n10m Electric Target Carrier / Target Retrieval System – Fabrication & Electrical Work\n\nProject Description\n\nI am looking for a freelancer/fabricator to design and build a simple electrically operated target carrier for a 10-metre air-pistol practice setup.\n\nI already have a 12V DC geared motor (30–60 RPM). The freelancer needs to fabricate the mechanical system and complete the electrical control system.\n\nRequirements\n\n- 10-metre target travel\n- 12V DC geared motor\n- Forward / Stop / Reverse operation\n- Two pulleys\n- Strong nylon rope or suitable cable\n- Moving target trolley/carrier\n- Steel or aluminium guide rail\n- Motor mounting bracket\n- Target holder\n- Two limit switches, one at each end\n- Fuse and safe low-voltage wiring\n- Compact control box\n- Smooth and reliable movement\n- Adjustable travel/stop positions\n\nWhat I Need From You\n\n1. Mechanical design/fabrication\n2. Motor and pulley mounting\n3. Target trolley fabrication\n4. Guide rail installation\n5. Electrical wiring and control switch\n6. Limit-switch integration\n7. Testing of the complete system\n8. Basic maintenance instructions\n\nPreferred Freelancer\n\n- Mechanical fabricator / automation technician / electrical technician\n- Experience with DC motors, limit switches and small automation projects\n- Ability to fabricate custom brackets and trolley\n- Local freelancer preferred, but remote design support is also welcome\n\nImportant\n\nThis is for a 10-metre air-pistol practice setup. The target carrier is only f",
+  "query": "gpt integration",
+  "found_at": "2026-08-23 19:40"
  }
 ]
