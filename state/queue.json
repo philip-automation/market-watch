@@ -297,5 +297,44 @@
   "desc": "One minute I was chatting with someone who said he had the formatting skills needed. Then the suspected scammer got kicked off the site. Yes, I write fiction, but this really happened to me yesterday. Clock is ticking. I need a professional formatting person for my Book # 6 which will be a \"paperback\" only version. Finish formatting with error free professional look and then prepare the file to meet Amazon/KDP requirements. I don't like AI and never use it. When they give an overview of this project, they add details not requested and miss some other things. NO PROOFREADING. IT HAS ALREADY BEEN DONE. NO WRITING ALLOWED. I UPLOAD MY OWN FILES TO AMAZON/KDP. PAPERBACK ONLY. NO EBOOK. You must agree to the following terms: No milestone payment will be made. One payment will be made upon the successful upload of my paperback file, which I do myself. You may not send in a low bid just to get my attention and then try to negotiate higher price with me. THIS IS VERY UNPROFESSONAL. Budget is now $150.00. Timeframe: 3-4 days. Manuscript is in good shape and is a Christian Skinny Novel 44,500 words. I prefer to work with freelancers in US. Must speak Fluent English. I want it to be a fun project that we both enjoy. I'm a Christian Author, Christian Life Coach, and Relationship Coach. Trust is important to me and the people helping me with my books. These three words/phrases DO NOT DESCRIBE ME: naive, vulnerable, or easily manipulated. I am fair and logical. Let's collaborate together, ",
   "query": "ai chatbot",
   "found_at": "2026-08-23 16:39"
+ },
+ {
+  "id": 40666044,
+  "title": "Responsive React TextUtils App",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/react-js/Responsive-React-TextUtils-App",
+  "desc": "I want to ship a fast, lightweight TextUtils web application built with React.js that feels just as smooth on mobile phones, tablets, and desktop computers. The core tools I need in place are:\n\n• Real-time text transformations: uppercase ↔ lowercase, remove extra spaces, clear text, copy to clipboard  \n• Live statistics: word count, character count, and an estimated reading-time indicator  \n• Instant preview pane so users can see their formatted text as they type  \n\nThe interface has to be clean and modern, leaning on standard HTML, CSS or Tailwind CSS so the layout scales gracefully across all breakpoints. Think subtle animations, intuitive navigation, and a color palette that can easily be expanded to light, dark, or any custom theme later on.\n\nUnder the hood, I expect reusable functional components, proper state management (React hooks), and tidy, commented code so future tweaks are painless. Performance matters: lazy-load anything heavy, keep bundle size lean, and make sure clipboard operations and counters are non-blocking.\n\nDeliverables  \n1. Full React project (source code) ready to run with npm/yarn start  \n2. Build script producing an optimized production bundle  \n3. Brief README explaining component structure, available scripts, and how to swap styles/themes  \n\nIf something in the spec is unclear, feel free to suggest improvements—the goal is a polished, responsive tool that end users can pick up on any device and instantly understand.",
+  "query": "web scraping",
+  "found_at": "2026-08-23 17:08"
+ },
+ {
+  "id": 40666041,
+  "title": "Nationwide SEO for Nidraya",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/content-writing/Nationwide-SEO-for-Nidraya",
+  "desc": "I need an SEO specialist who can secure the top national Google positions for my brand keyword, “Nidraya.” When people type that single word, I want nidraya.com to appear ahead of every other result, including a competing brand currently sharing the name.\n\nTo achieve this, start with a full technical and content audit of the site, then refine titles, meta descriptions, schema, and internal linking so every page clearly signals “Nidraya” to Google. From there, build quality, niche-relevant backlinks and craft supporting content that reinforces the brand term across blogs, PR features, and social profiles. Page-speed tuning, mobile friendliness, and structured data must all align with Core Web Vitals.\n\nYou’ll work nationally, so local packs are less critical than strong organic and brand SERP presence. I’ll provide access to Google Search Console and Analytics and expect you to track progress with industry tools such as Ahrefs, SEMrush, or Moz.\n\nDeliverable milestones  \n• Initial audit report with prioritized fixes  \n• On-page and technical implementation (staged or live)  \n• Off-page authority plan with first wave of links  \n• Monthly performance summary highlighting rank movement for “Nidraya,” impressions, clicks, and any next-step recommendations  \n\nIf you’ve taken a brand from obscurity to page-one dominance before, I’d love to see it.",
+  "query": "web scraping",
+  "found_at": "2026-08-23 17:08"
+ },
+ {
+  "id": 40666030,
+  "title": "Data Entry, Excel & Copy Typing Work",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/data-processing/Financial-Excel-Entry-Trend-Analysis",
+  "desc": "I am looking for a reliable freelancer to complete data entry work accurately and efficiently. The task may include entering data into Excel or Google Sheets, copy typing, PDF to Excel/Word conversion, web research, and basic data cleaning.\n\nRequirements:\n\n* Good typing speed and accuracy\n* Knowledge of Microsoft Excel and Google Sheets\n* Ability to follow instructions carefully\n* Attention to detail\n* Timely completion of assigned work\n\nThe amount of work will depend on the project requirements. Please provide clear instructions and source files, and I will complete the work accurately and on time.",
+  "query": "web scraping",
+  "found_at": "2026-08-23 17:08"
  }
 ]
