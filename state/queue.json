@@ -193,5 +193,70 @@
   "desc": "I have a ready-to-record script and five recurring characters that need to leap off the page in a vibrant 20-minute 2D episode. The story is written for young children, so colour, clarity and gentle humour are key.  \n\nWhat I need from you is the complete production pipeline: smooth 2D animation, lively voice acting for all principal and incidental roles, background music that keeps the energy moving, and playful sound effects that hit the comedic beats. Whether you prefer Toon Boom, Adobe Animate, After Effects or another 2D tool set, I only ask that the final master be delivered in 1080p (25 fps) with a clean stereo mix.\n\nTo keep us aligned, here are the concrete deliverables:  \n• Storyboard and animatic for approval before full production  \n• Final 20-minute 2D animation featuring the five main characters, rendered and composited  \n• Full audio package: voice tracks, mixed background score, synced SFX, and the final mastered track embedded in the video  \n• Separate stems for voices, music and effects for any future dubbing  \n\nOnce I approve the animatic, we can set milestones for rough cut, polished cut and final master. I’m after a collaborator who can balance creative flair with the technical polish kids’ content demands, so if this sounds like your wheelhouse I’d love to see examples of similar 2D children’s work and hear how you’d bring these characters to life.",
   "query": "python script",
   "found_at": "2026-08-23 15:41"
+ },
+ {
+  "id": 40665958,
+  "title": "Commercial Property Leasing Agent – Moga, Punjab, India",
+  "budget_min": 75000.0,
+  "budget_max": 150000.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/real-estate/Commercial-Property-Leasing-Agent-Moga",
+  "desc": "We are the owner of a commercial property in Moga, Punjab and are looking for an experienced commercial real-estate leasing agent / broker / lead-generation professional to help us find a suitable corporate tenant.\n\nThis is a success-based assignment. We are not looking for someone simply to post property listings. The objective is to identify, approach and convert genuine corporate tenants.\n\nScope of Work\n\nThe selected freelancer will be expected to:\n\n-Promote the property across relevant commercial real-estate portals, LinkedIn, Facebook/property groups and other suitable channels.\n-Identify companies that may be looking for commercial space in Moga and nearby areas.\n-Target corporate occupiers such as banks, NBFCs, insurance companies, healthcare/diagnostic companies, telecom companies, retail chains, QSRs, offices, logistics companies, automobile companies and other established businesses.\n-Identify relevant decision-makers such as Expansion, Administration, Facilities, Real Estate, Procurement or Branch Development personnel.\n-Contact prospective tenants through email, LinkedIn, phone/WhatsApp and other legitimate channels.\n-Approach local and regional commercial-property brokers who may have tenant requirements.\n-Generate and maintain a database of potential tenants and their requirements.\n-Qualify leads and coordinate introductions/site visits with us.\n-Assist with commercial discussions and follow-up until the deal is concluded.\n\nThis is a success-fee-only assignment.",
+  "query": "data extraction",
+  "found_at": "2026-08-23 16:02"
+ },
+ {
+  "id": 40665959,
+  "title": "Automated AI Support for PHP Site",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/ai-chatbot-development/Automated-Support-for-PHP-Site",
+  "desc": "My PHP-based site needs an AI layer that can step in as the first line of customer support. The goal is for the chatbot to recognise routine questions, search our existing FAQ/knowledge base, and deliver a clear, formally-worded reply without any human involvement. Whenever the issue goes beyond its scope, it must hand the conversation to a live agent through the hand-off endpoint we already use for Zendesk.\n\nKey points you will tackle include flowing the OpenAI (or comparable) API into our current PHP 8 and MySQL stack, mapping intents to the FAQ entries I will supply, and keeping full conversation logs so my team can refine prompts later. The bot’s tone must stay formal at all times, with templated greetings and closings I will provide.\n\nDeliverables  \n• PHP classes and front-end snippet that embed the chat widget and connect to the chosen LLM API  \n• JSON or SQL seed file linking intents to answers, ready for rapid re-training  \n• Fail-safe that detects a confidence drop or a “no match” state and triggers the existing Zendesk transfer hook  \n• Brief hand-over document covering install steps, environment variables, and how to add new FAQ pairs\n\nAcceptance criteria: in staging, the bot correctly answers at least 80 % of the supplied FAQ set and passes five scripted “escalation” tests by routing them to a human agent.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-23 16:02"
+ },
+ {
+  "id": 40665954,
+  "title": "Android Ludo Game Build",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/android-app-development/Android-Ludo-Game-Build",
+  "desc": "I need a complete Ludo game built specifically for Android. Each match should be short— ideally four to five minutes—with a clear score model that declares a winner when the timer runs out. Players must be able to enjoy the game solo against a solid AI as well as online against friends or random opponents; local multiplayer is not required.\n\nCore requirements  \n• Google-based sign-in only, no guest mode.  \n• Smooth online matchmaking for quick four-player games, plus a private-room option for those who want to share a code with friends.  \n• AdMob integrated for interstitials and optional rewarded videos, balanced so gameplay never feels spammy.  \n• Clean, modern UI that scales from small phones to large tablets.  \n• Final build published to my Google Play Console; I’ll provide all store assets, but you handle the signing, versioning, and rollout.\n\nDeliverables  \n1. Production-ready APK/AAB and full Unity (or comparable engine) project files.  \n2. Working Google Play Services, including login, cloud save, and real-time multiplayer.  \n3. AdMob implementation with test IDs swapped to live IDs just before release.  \n4. Simple admin panel or clearly documented JSON config to tweak match time, scoring, and ad frequency.  \n5. Brief hand-off guide covering build steps, key store info, and how to update the game.\n\nAcceptance criteria  \n• A four-minute test match finishes without crashes on at least three Android API levels (29, 30, 33).  \n• Online match starts in under 15 seconds on a",
+  "query": "ai chatbot",
+  "found_at": "2026-08-23 16:02"
+ },
+ {
+  "id": 40665941,
+  "title": "Drainage Company Google Ads Campaign",
+  "budget_min": 20.0,
+  "budget_max": 250.0,
+  "currency": "GBP",
+  "usd_rate": 1.3641,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/google-ads/Drainage-Company-Google-Ads-Campaign",
+  "desc": "I want to hand the day-to-day management of my Google Ads over to someone who already knows the drainage industry inside out. My only objective is to generate qualified leads, so every decision—from keyword selection to bidding strategy—must focus on phone calls and form fills that turn into booked jobs.\n\nThe ads will cover our three core services: emergency drainage call-outs, routine maintenance, and full drainage system installations. Each service needs its own tightly themed ad group, tailored ad copy and relevant extensions so we can appeal directly to homeowners, business owners and property managers alike.\n\nBecause you have run successful campaigns for other drainage companies, I expect you to back up your approach with real case studies showing cost-per-lead, conversion rate and overall ROI. I’ll use that evidence to choose the right partner.\n\nIf we work together, here is what I’ll need from you:\n\n• A quick audit of my current account (or a fresh build if starting from scratch).  \n• Keyword research that balances urgent “blocked drain” terms with longer-cycle installation phrases.  \n• Compelling, compliance-friendly ad copy and responsive search ads.  \n• Conversion tracking set up in Google Tag Manager and Google Analytics for calls, forms and chat.  \n• Weekly optimisation: negative keywords, bid adjustments, split-testing, and budget reallocation.  \n• Straightforward performance reports every seven days so I can see leads, spend and ROI at a glance.\n\nTools you should",
+  "query": "google sheets automation",
+  "found_at": "2026-08-23 16:02"
+ },
+ {
+  "id": 40665946,
+  "title": "3D product modeler/rendering artist",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/3d-visualization/product-modeler-rendering-artist",
+  "desc": "We are looking for an experienced 3D product modeler/rendering artist for ongoing work.\n\nWe develop premium homeware, giftware and Judaica products in materials including lucite/acrylic, resin, leather, candles and metal.\n\nFor each project, we will generally provide a PDF with dimensions, descriptions, colours/materials and reference images where relevant. You will create an accurate 3D model and high-quality photorealistic renders.\n\nThe renders are often used for our website and marketing, so it is extremely important that the product looks realistic and accurately follows the information provided.\n\nFor some projects, the model will also be used for manufacturing, so we may occasionally require an STL file.\n\nTypical deliverables:\n\n- High-resolution JPEG\n- Transparent PNG\n- Editable source 3D file\n- STL when required\n\nThis is ongoing work, with projects generally agreed at a fixed price per model/project.\n\nPlease send examples of your best photorealistic product renders, particularly products featuring acrylic/lucite, resin, glass, leather or metal, together with your typical pricing and turnaround time.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-23 16:02"
  }
 ]
