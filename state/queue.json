@@ -531,5 +531,31 @@
   "desc": "Project Title\n\n10m Electric Target Carrier / Target Retrieval System – Fabrication & Electrical Work\n\nProject Description\n\nI am looking for a freelancer/fabricator to design and build a simple electrically operated target carrier for a 10-metre air-pistol practice setup.\n\nI already have a 12V DC geared motor (30–60 RPM). The freelancer needs to fabricate the mechanical system and complete the electrical control system.\n\nRequirements\n\n- 10-metre target travel\n- 12V DC geared motor\n- Forward / Stop / Reverse operation\n- Two pulleys\n- Strong nylon rope or suitable cable\n- Moving target trolley/carrier\n- Steel or aluminium guide rail\n- Motor mounting bracket\n- Target holder\n- Two limit switches, one at each end\n- Fuse and safe low-voltage wiring\n- Compact control box\n- Smooth and reliable movement\n- Adjustable travel/stop positions\n\nWhat I Need From You\n\n1. Mechanical design/fabrication\n2. Motor and pulley mounting\n3. Target trolley fabrication\n4. Guide rail installation\n5. Electrical wiring and control switch\n6. Limit-switch integration\n7. Testing of the complete system\n8. Basic maintenance instructions\n\nPreferred Freelancer\n\n- Mechanical fabricator / automation technician / electrical technician\n- Experience with DC motors, limit switches and small automation projects\n- Ability to fabricate custom brackets and trolley\n- Local freelancer preferred, but remote design support is also welcome\n\nImportant\n\nThis is for a 10-metre air-pistol practice setup. The target carrier is only f",
   "query": "gpt integration",
   "found_at": "2026-08-23 19:40"
+ },
+ {
+  "id": 40666263,
+  "title": "Expert Price Trend Analyst for Industries",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/data-analysis/Expert-Price-Trend-Analyst-for",
+  "desc": "I'm a market research professional specializing in price trend analysis across Pharmaceutical, Nutraceutical, Petrochemical, and Cosmetic industries. I track API and commodity pricing, feedstock cost movements, and supply-demand dynamics driving weekly and monthly price changes in these sectors.\n\nMy work delivers clear, data-backed price insights — domestic and international benchmarks, regional comparisons, and cost-driver analysis — helping clients make informed sourcing and procurement decisions. I also understand regulatory frameworks relevant to APIs, nutraceutical ingredients, petrochemical intermediates, and cosmetic raw materials, so my reports reflect compliance factors that can affect supply and pricing.\n\nI prepare detailed market research reports, price trend summaries, feedstock cost impact analysis, and demand-supply outlooks in clean, professional formats ready for business use. My focus is always on accuracy, clarity, and actionable insight.",
+  "query": "data extraction",
+  "found_at": "2026-08-23 20:00"
+ },
+ {
+  "id": 40666249,
+  "title": "Ajudante para feira de fitness e fisiculturismo",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/event-management/Ajudante-para-feira-fitness",
+  "desc": "Vou participar de uma feira de fitness e fisiculturismo e preciso de uma pessoa de apoio no local. O trabalho será presencial, durante 1 dia inteiro — podendo estender-se para o segundo dia caso haja necessidade.\n\nLOCAL: RIO DE JANEIRO, RJ\nDATA: 19/12/26\n\nPrincipais responsabilidades:\n• Recepcionar e atender visitantes, respondendo dúvidas básicas e direcionando-os ao estande.  \n• Auxiliar na montagem e desmontagem do estande antes e depois do evento.  \n• Distribuir materiais promocionais e realizar demais tarefas inerentes ao andamento da feira (manter o espaço organizado, repor brindes, apoiar pequenas demandas de logística).\n\nTer experiência prévia em eventos de fitness ou fisiculturismo será um diferencial, mas não é obrigatório; valorizo proatividade, simpatia e disposição para aprender rapidamente.\n\nSe você é comunicativo(a), organizado(a) e aguenta o ritmo dinâmico de um evento, envie sua proposta informando disponibilidade, cidade de residência e qualquer experiência relevante.",
+  "query": "data extraction",
+  "found_at": "2026-08-23 20:00"
  }
 ]
