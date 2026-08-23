@@ -804,5 +804,18 @@
   "desc": "I’m gearing up to approach agents, managers, and producers with a hard-hitting action feature aimed squarely at adult audiences. What I need from you is a razor-sharp written pitch—no more than two pages—that instantly sells the concept’s dark, visceral tone while showcasing its commercial potential.\n\nThe final document should read like the best elevator ride they’ve ever taken: lean, vivid, and utterly impossible to forget. Open with a knockout logline, roll straight into a concise yet cinematic synopsis, and close with the hook that makes them reach for the phone. Make every sentence count; give me clear stakes, a compelling protagonist, a formidable antagonist, and a sense of relentless momentum that screams big-screen spectacle.\n\nDeliverables (all in one file):\n• Logline (25–35 words)  \n• One- to two-paragraph story synopsis capturing key plot turns  \n• Brief note on tone, visual style, and market positioning for adult viewers  \n• Finished length: 1–2 pages, professionally formatted (PDF or DOCX)\n\nI’m ready to move fast once I see a pitch that nails those beats. Let’s craft something agents will fight over.",
   "query": "pdf extraction",
   "found_at": "2026-08-23 01:55"
+ },
+ {
+  "id": 40664840,
+  "title": "Level designing for Black hole game",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/game-development/Level-designing-for-Black-hole",
+  "desc": "I’m building a “Black hole”-genre game in Unity and already have every 3D model, texture, material, and helper script prepared. Your job is to turn those assets into workable prefabs and then lay them out into 25 complete, playable levels. I already have 20 levels in place, I need 25 more. Lighting and camera are already setup.\n\nHere’s the flow:  \n• First, create tidy, reusable prefabs from the supplied meshes.  \n• Then, using my alignment utility script (it snaps objects into towers, circles, spirals and other patterns), drag-and-drop those prefabs into fresh scenes that feel polished and engaging.  \n• There will be some unique obstacle/mechanics like bridge, gate etc which also need to be placed.\n• Test those levels on your Android mobile and verify everything is working.\n\nI will provide a reference game videos which can be used to design such levels. It won't be the exact game but similar.\n\nFlat-fee budget: 5000 INR",
+  "query": "python script",
+  "found_at": "2026-08-23 03:11"
  }
 ]
