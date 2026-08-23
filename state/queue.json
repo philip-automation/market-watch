@@ -1376,5 +1376,83 @@
   "desc": "I run a growing entertainment-focused TikTok account and I’m ready to hand day-to-day creation and posting to a part-time specialist based in Pakistan. Your mission is simple: deliver fresh, on-trend entertainment videos every single day—specifically comedy skits, dance trends and the occasional lip-sync clip—while keeping the page lively, authentic and culturally relevant.\n\nWhat you’ll actually be doing  \n• Research the “For You” feed each morning to spot viral sounds, formats and local trends.  \n• Script, shoot and edit one short video per day (15–60 seconds). Basic cuts, captions, filters and transitions are enough; CapCut, InShot or TikTok’s own editor will do the job.  \n• Optimise captions, hashtags and posting times so each upload has the best chance to pop.  \n• Engage with comments for the first hour after posting and flag any community-management issues to me.  \n• Track growth analytics weekly and suggest tweaks that can push reach and follower count.\n\nAcceptance criteria  \n• A minimum of 7 original videos delivered and posted each week.  \n• Content must align with the three themes listed above and stay within TikTok community guidelines.  \n• Average view-through rate and engagement should trend upward month-over-month; we’ll review insights together.\n\nThe role is remote, long-term and flexible around your schedule so long as daily posting is consistent. If you’re an active TikTok user who already produces entertaining clips, I’d love to see your work—please share lin",
   "query": "python script",
   "found_at": "2026-08-23 09:47"
+ },
+ {
+  "id": 40665477,
+  "title": "SaaS Application for Tax Compliance",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/saas-development/SaaS-Application-for-Tax-Compliance",
+  "desc": "Hi,\n\nI am planning to develop a **web-based SaaS application for Chartered Accountants / Tax Practitioners for Income Tax Notice Management and Compliance**.\n\nThe basic concept is:\n\n**Income Tax Portal → Automatic Notice Retrieval → Notice Dashboard → Due Date → Client Documents → Staff Assignment → Reply/Compliance → Filing → Closure**\n\nThe software should be similar in concept to a **Notice Board**, but I want to make it more useful from the actual CA-office compliance point of view.\n\n### Key Features Required:\n\n1. CA/Firm login with multiple staff/user access.\n2. Add/manage multiple clients and PANs.\n3. Integration with Income Tax portal/API/ERI, subject to authorised availability, for automatic notice retrieval.\n4. Automatic sync and identification of new notices.\n5. Notice-wise details:\n\n   * Client/PAN\n   * AY/FY\n   * Section\n   * DIN/Reference\n   * Notice date\n   * Response due date\n   * Notice type\n   * Status\n6. Dashboard showing:\n\n   * New notices\n   * Pending notices\n   * Due today\n   * Due within 3/7 days\n   * Overdue\n   * Documents pending\n   * Reply pending\n   * CA approval pending\n   * Filed/Closed\n7. Powerful search and filters by client, PAN, AY, section, status and due date.\n8. Staff-wise assignment and responsibility.\n9. Client document request and document upload facility.\n10. Automated email/WhatsApp reminders.\n11. AI-based notice reading to extract important information and prepare:\n\n    * Notice summary\n    * Issue identified\n    * Documents/information",
+  "query": "web scraping",
+  "found_at": "2026-08-23 10:44"
+ },
+ {
+  "id": 40665468,
+  "title": "Minimalist Web App UI Refresh",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/ui-design/Minimalist-Web-App-Refresh",
+  "desc": "I have a fully-functional web application with roughly fifteen separate pages. While everything works, the interface feels dated and a little cluttered. I want to keep the core layout structure and our existing color scheme intact, yet elevate the overall look into a clean, minimalist style that immediately improves the user experience.\n\nHere’s the essence of the task:\n• Redesign the 15 pages so they look sharper and more professional without altering established workflows.  \n• Maintain the current colour palette and page structure, but refine spacing, typography, iconography and micro-interactions so the product feels lighter and easier to navigate.  \n• Supply high-fidelity mock-ups (Figma, Sketch or Adobe XD—whichever you prefer) and the accompanying style guide: updated font hierarchy, reusable components, button states and any new icons.  \n• Make sure each screen is responsive; our users switch constantly between laptop and tablet.  \n• Deliver assets organised and labelled so my dev team can plug them straight in.\n\nAcceptance criteria\n– All fifteen screens match the agreed minimalist aesthetic while respecting our existing colours and layout grid.  \n– Interactions, hover states and error messages are documented clearly.  \n– Final files are provided in an editable design tool with export-ready SVG/PNG assets.\n\nIf this sounds like the kind of polish you enjoy bringing to products, let’s talk and I can share a walkthrough of the current UI.",
+  "query": "web scraping",
+  "found_at": "2026-08-23 10:44"
+ },
+ {
+  "id": 40665413,
+  "title": "Excel Order Data Entry",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/data-entry/Excel-Order-Data-Entry",
+  "desc": "I have an Excel spreadsheet packed with our latest order records and I need every line transferred accurately into our online order-tracking dashboard. The file is already formatted in Excel—that’s the source you will be working from—so the task focuses purely on careful, error-free data entry rather than data cleaning.  \n\nOnce you’re onboard I’ll share the sheet, a short field-mapping guide and system credentials. Typical columns you’ll be copying include Order ID, Customer Name, Delivery Status and a few auxiliary notes; if anything looks unclear, flag it before proceeding so we keep the database pristine.  \n\nDeliverable: the order-tracking system fully populated with every row from the spreadsheet plus a brief hand-off report listing any rows you had questions about. Completion is confirmed when all mandatory fields are filled, values match the spreadsheet exactly and no blank records remain.  \n\nSpeed is appreciated, but accuracy is essential—you’re welcome to use keyboard shortcuts, paste-special tricks, or even a quick macro if that helps, as long as the final data mirrors the source. I’ll stay available by chat for quick clarifications throughout the job.",
+  "query": "data extraction",
+  "found_at": "2026-08-23 10:44"
+ },
+ {
+  "id": 40665430,
+  "title": "AI Platform Profile Owner Partnership",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/ai-chatbot/Platform-Profile-Owner-Partnership",
+  "desc": "Here’s the arrangement: a US-based partner registers and fully verifies an account on one or more AI data-annotation platforms—Handshake AI is ideal since you already know it well, and an Outlier.ai profile that is already KYC-cleared is an added advantage. Once the profile is live and you retain ownership, my technical team logs in, completes every task, and maintains quality. You keep 30 % of every payout generated through the account; the rest goes to us.\n\nYour workload is minimal: complete the sign-up and ID checks, respond to the occasional two-factor prompt, and keep the account in good standing. We’ll coordinate through a secure messaging app so questions are resolved quickly without clogging email threads or phone lines.\n\nDeliverables  \n• A fully verified US-based account on Handshake AI, Outlier.ai, or Alignerr, with credentials shared through our secure vault.  \n• Continued access permissions retained by you, with any 2FA resets handled within 24 h on request.\n\nAcceptance criteria  \n• Platform confirms the account is active, compliant, and eligible for paid projects.  \n• First payout lands, showing your 30 % share on the dashboard.\n\nNo annotation, coding, or model-training effort is required on your side beyond the initial verification steps; my team handles everything else. The collaboration can run indefinitely, and we can add more platforms later if you’re comfortable expanding.",
+  "query": "data extraction",
+  "found_at": "2026-08-23 10:44"
+ },
+ {
+  "id": 40665481,
+  "title": "Build EL TALK — Next-Gen Language Exchange App with AI, Gaming, Voice Rooms & Social Features",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/mobile-app-development/Build-TALK-Next-Gen-Language",
+  "desc": "We are looking for an experienced Flutter developer/team to build EL TALK, a next-generation language exchange and social app inspired by HelloTalk and YeeTalk, but with AI teaching, multiplayer language games, voice rooms, chat, communities, events, gamification, gifts, frames, VIP features and a virtual economy.\nOur initial budget is limited, so we are looking for someone comfortable starting small and building the app in phases. The app should be free for users initially, with future monetization through VIP, gifts, premium AI features and other options.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-23 10:44"
+ },
+ {
+  "id": 40664518,
+  "title": "Spreadsheet Pro for Solar Product Calculator Dashboard",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 17,
+  "url": "https://www.freelancer.com/projects/data-visualization/Spreadsheet-Pro-for-Solar-Product",
+  "desc": "Spreedsheet expert to build dasboard for mysolar digital  product excel sheet calculators for reussble protected sheetsSolarToolkit Pro — a professional digital product (handbook + Excel calculators) for solar installers, engineers, and serious homeowners in Nigeria and Africa.\nI need an experienced Excel specialist to design and build a set of clean, professional, user-friendly, and well-protected calculators/templates that form the core of the product.\nWhat I Need Built\nA suite of interconnected or standalone Excel workbooks covering:\nSolar Panel / Array Sizing Calculator\nDaily load calculation (Nigerian appliances with realistic wattages)\nPeak sun hours by location (Lagos and major Nigerian cities)\nSystem losses, orientation, and recommended array size (kWp)\nBattery Bank Sizing Calculator (LiFePO4 focused)\nAutonomy days, DoD, efficiency, temperature factors\nUsable capacity and recommended battery size (kWh)\nCable Sizing Calculator\nVoltage drop, current, distance, cable size recommendations (Nigerian copper cable context)\nHybrid System Overview / Matching Tool\nMatching inverter size, battery, and solar array\nBasic runtime estimates under different load scenarios\nAdditional supporting sheets (if time allows)\nSimple load list template\nQuotation summary sheet\nClear instruction / how-to-use tab",
+  "query": "google sheets automation",
+  "found_at": "2026-08-23 10:44"
  }
 ]
