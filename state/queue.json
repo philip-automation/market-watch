@@ -492,5 +492,18 @@
   "desc": "I am looking for an experienced automotive electronics and PCB design engineer to create a complete prototype PCB for controlling two independent brushed DC motors in a 12 V automotive environment.\n\nThis project covers hardware design only. No firmware, bootloader, desktop GUI, mobile application, or enclosure design is required.\n\nMAIN REQUIREMENTS\n- Two independent reversible brushed DC motors\n- One full H-bridge per motor with four external N-channel MOSFETs; eight bridge MOSFETs total\n- 10 A target continuous current per motor after thermal validation\n- 20 A for up to 1 second and 30 A start/stall peak for up to 100 ms\n- Independent 20 kHz PWM, forward, reverse, coast, and active brake\n- Independent bidirectional current measurement and fast hardware overcurrent shutdown\n- CAN FD with Classic CAN compatibility and LIN 2.x\n- USB-C service interface\n- Three protected analog inputs for buttons connected to GND\n- Two optional Hall-sensor inputs with protected 5 V supply\n- Battery-voltage measurement and two power-stage temperature sensors\n- Reverse-battery and automotive transient protection\n- Low-power sleep and wake hardware\n\nFIXED MAIN COMPONENTS\n- STM32G0B1CBT6 MCU\n- Infineon TLE9562-3QXJ automotive motor SBC\n- 8 x IAUC120N04S6N013 automotive MOSFETs\n- 2 x INA240A2-Q1 current-sense amplifiers\n- 2 x 0.5 mOhm Kelvin current shunts\n- TLV3202-Q1 hardware window comparators\n- Aptiv HCCPHPE24BKA90F sealed 24-position right-angle connector\n- USB-C service connector\n\nThe main Apti",
   "query": "pdf extraction",
   "found_at": "2026-08-23 18:44"
+ },
+ {
+  "id": 40666196,
+  "title": "Video Commerce Platform Development",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/video-streaming/Video-Commerce-Platform-Development",
+  "desc": "I need a developer to create a video commerce platform with the following features:\n\nCore Functionality:\n  - Live streaming\n  - Product catalog with video reviews\n  - Integrated payment system supporting Credit/Debit Cards and UPI\n\nUser Authentication: Not necessary\n\nIdeal Skills:\n  - Experience in building e-commerce platforms\n  - Proficiency in video streaming technologies\n  - Strong knowledge of payment gateway integration\n\nLooking for a clean, user-friendly interface and robust backend.",
+  "query": "gpt integration",
+  "found_at": "2026-08-23 19:11"
  }
 ]
