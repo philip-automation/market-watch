@@ -817,5 +817,18 @@
   "desc": "I’m building a “Black hole”-genre game in Unity and already have every 3D model, texture, material, and helper script prepared. Your job is to turn those assets into workable prefabs and then lay them out into 25 complete, playable levels. I already have 20 levels in place, I need 25 more. Lighting and camera are already setup.\n\nHere’s the flow:  \n• First, create tidy, reusable prefabs from the supplied meshes.  \n• Then, using my alignment utility script (it snaps objects into towers, circles, spirals and other patterns), drag-and-drop those prefabs into fresh scenes that feel polished and engaging.  \n• There will be some unique obstacle/mechanics like bridge, gate etc which also need to be placed.\n• Test those levels on your Android mobile and verify everything is working.\n\nI will provide a reference game videos which can be used to design such levels. It won't be the exact game but similar.\n\nFlat-fee budget: 5000 INR",
   "query": "python script",
   "found_at": "2026-08-23 03:11"
+ },
+ {
+  "id": 40664910,
+  "title": "Cost Effective Material Estimate",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/2d-drafting/Cost-Effective-Material-Estimate",
+  "desc": "I already hold complete 2-D drawings and photorealistic renders for a residential project and now need those visuals translated into a precise, product-based material estimate. The scope covers the living room, kitchen and one bedroom, and the brief is firmly geared toward cost-effective solutions rather but should look luxurious.\n\nUsing the plans I provide (PDF/DWG and JPEG renders), you will break down every visible finish, fixture, fitting and item of loose furniture, then recommend readily available products that achieve a similar look at a sensible price point. Please include material requirements in quantity, manufacturer or supplier names, SKU links where possible, and up-to-date unit costs so I can order straight from your schedule.\n\nDeliverables  \n• A room-by-room spreadsheet (or BOQ) showing: description, product reference, quantity, unit price and subtotal  \n• Short notes beside any proposed substitutions that explain how they preserve the design intent while lowering cost  \n• A single summary page with overall material spend, plus any bulk-purchase or supplier discount suggestions  \n\nAcceptance will be based on completeness (all items visible in the drawings are accounted for), clarity of supplier information, and realistic local pricing. If you are comfortable working this way, I will forward the drawing set immediately so you can begin the take-off.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-23 04:05"
  }
 ]
