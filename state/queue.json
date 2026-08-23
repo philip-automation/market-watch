@@ -1,1 +1,93 @@
-[]
+[
+ {
+  "id": 40665812,
+  "title": "Virtual Assistants Needed Urgently",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/data-entry/Virtual-Assistants-Needed-Urgently-40665812",
+  "desc": "Project Overview\n\nWe are looking for a reliable Virtual Assistant to assist with **creator research, prospect qualification and recruitment administration** for a growing creator-management business.\n\nThe role is primarily focused on online research, identifying suitable prospects, verifying publicly available information and maintaining an organized prospect database.\n\n Responsibilities\n\n* Research potential creators across social-media and livestreaming platforms.\n* Identify individual creators who match our provided criteria.\n* Verify that profiles are active and authentic.\n* Research publicly available professional/business contact information where available.\n* Record creator names, usernames, profile URLs and audience information.\n* Identify relevant public social-media profiles connected to each prospect.\n* Remove duplicate, inactive or unsuitable prospects.\n* Maintain an accurate Google Sheets/Excel database.\n* Add concise notes explaining why each prospect meets the qualification criteria.\n* Assist with initial professional outreach when requested.\n* Maintain confidentiality and handle prospect information responsibly.\n\n Required Skills\n\n* Lead generation\n* Web research\n* Social-media research\n* Data entry\n* Google Sheets / Excel\n* Prospect qualification\n* Strong attention to detail\n* Good written English\n* Reliable communication\n\nExperience with **creator/influencer research or talent sourcing** is a strong advantage.\n\n Initial Test Project\n\nWe would like to begin w",
+  "query": "web scraping",
+  "found_at": "2026-08-23 14:44"
+ },
+ {
+  "id": 40665804,
+  "title": "Copy website and all from given website ",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/content-writing/Copy-website-all-from-given",
+  "desc": "I need the product descriptions from my current website reproduced word-for-word on the new site. Only the text is required—design, images, pricing and SEO fields are outside the scope of this task.\n\nThe job involves:  \n• Extracting every product description exactly as it appears on the live site, including any HTML tags, bullet points or line breaks.  \n• Delivering the copied text in a clean format—either entered directly into the new platform or provided in a CSV/Google Sheet ready for import (whichever you prefer).  \n\nAcceptance criteria  \n• Each description must match the source content character-for-character.  \n• Spot checks will be run against the original pages before release of payment.\n\nFeel free to use scraping tools or manual copy-paste; accuracy takes priority over method. A quick turnaround is ideal, and I’ll be available to answer questions or verify samples along the way.",
+  "query": "web scraping",
+  "found_at": "2026-08-23 14:44"
+ },
+ {
+  "id": 40665843,
+  "title": "Instagram & YouTube Stock Market Content",
+  "budget_min": 5000.0,
+  "budget_max": 12000.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/video-editing/Instagram-YouTube-Stock-Market-Content",
+  "desc": "I need a hands-on partner who can both manage my Instagram and YouTube accounts and build engaging stock market videos entirely from scratch. Your role will start with researching timely market topics, scripting concise explanations, then editing the final “Stock market” videos so they are fast-paced, visually clear, and sized correctly for each platform.\n\nFor Instagram you’ll handle feed posts, Reels, Stories, and daily engagement; on YouTube you’ll publish the longer cuts, write SEO-friendly descriptions, and create eye-catching thumbnails. Every piece should feel cohesive across both channels, always reflecting current market moves and my brand voice.\n\nYou will:\n\n• Plan a weekly content calendar covering news recaps, trading tips, and evergreen fundamentals  \n• Write scripts or bullet outlines, source or design supporting graphics, and record voice-over if needed  \n• Edit the footage with clean motion graphics, captions, royalty-free music, and on-screen data pulls  \n• Deliver one vertical and one horizontal version of each video, optimized for Instagram and YouTube respectively  \n• Track performance in platform analytics and suggest tweaks for higher reach and watch time\n\nPlease share links to Instagram or YouTube accounts you currently manage, along with two “stock market” (or similarly data-driven) videos you have edited from scratch. Familiarity with tools such as Adobe Premiere Pro, After Effects, Photoshop, and a social scheduler like Hootsuite or Later will be impor",
+  "query": "data extraction",
+  "found_at": "2026-08-23 14:44"
+ },
+ {
+  "id": 40665820,
+  "title": "Fix & Deploy E-Commerce Stack",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/docker/Fix-Deploy-Commerce-Stack",
+  "desc": "Give them this exact requirement\n\nI have an existing grocery e-commerce project developed in Emergent AI. I have cancelled/refunded my previous Hostinger VPS, so I need a completely fresh production deployment on a new Hostinger VPS.\n\nExisting application stack:\n\nReact frontend\nPython/FastAPI backend\nMongoDB\nDocker/Docker Compose\nCloudflare R2 for product/refund images\nRazorpay\nTwilio Verify\nResend SMTP\n\nDomain: bestkart.in\n\nWebsite requirements\nCreate a fresh Hostinger Ubuntu VPS.\nDeploy the existing GitHub repository from scratch.\nConfigure Docker/Docker Compose correctly.\nConfigure MongoDB with persistent storage.\nConfigure Nginx reverse proxy.\nConfigure SSL/HTTPS for bestkart.in and www.bestkart.in.\nConfigure all production environment variables securely.\nNever commit .env or secrets to GitHub.\nConfigure Cloudflare R2 correctly for image storage.\nVerify product image upload/retrieval.\nVerify customer registration/login/logout.\nVerify admin login.\nVerify authentication/session persistence over HTTPS.\nVerify products, categories, cart and checkout.\nVerify Razorpay test payment.\nVerify order creation and admin order management.\nProvide a documented backup/restore procedure.\nMobile app requirements\nUse the existing mobile application/scaffold from the project.\nConfigure it to use the production BestKart API.\nVerify customer registration/login from Android.\nVerify products, cart and orders from Android.\nBuild a signed Android AAB.\nHelp me publish it to my own Google Play Devel",
+  "query": "ai chatbot",
+  "found_at": "2026-08-23 14:44"
+ },
+ {
+  "id": 40665846,
+  "title": "Email and File Automation Toolkit",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/email-handling/Email-File-Automation-Toolkit",
+  "desc": "I’m ready to replace two time-consuming routines—daily email triage and messy download folders—with a single, dependable workflow. Here’s what I need:\n\n1. Email handling automation  \n   • Automatically monitor one or more inboxes, identify incoming messages by rule (sender, subject, attachment type, date), and perform actions such as move, label, or forward.  \n   • Save attachments straight into the correct folder created by the file-sorting component below.  \n\n2. Smart file sorting  \n   • As soon as new files land in a watch folder (from email, downloads, or network share), sort them into a clear folder tree that separates Documents from Media (images & videos) and further sub-organises by date or naming convention we agree on.  \n   • Duplicate detection and safe overwrite logic are essential.\n\nI’m open to the toolset—Python (watchdog, imaplib, exchangelib), PowerShell, or a no-code option like Power Automate—as long as it runs reliably on Windows and can be scheduled or triggered in real time.  \n\nPlease include:  \n• A brief outline of your approach and chosen tech.  \n• The runnable script / flow with clear setup instructions.  \n• A quick demo (screenshots or short clip) that proves the automation works on sample emails and mixed file types.\n\nI’ll test against a mailbox and a folder packed with PDFs, Word docs, JPEGs, and MP4s; everything should land in its rightful home without manual intervention. Looking forward to streamlining this once and for all.",
+  "query": "python automation",
+  "found_at": "2026-08-23 14:44"
+ },
+ {
+  "id": 40665845,
+  "title": "Professional Blog and Website Copy",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/blog-writing/Professional-Blog-Website-Copy",
+  "desc": "I’m updating my site and want a cohesive, professional voice across both the marketing pages and our ongoing content. Specifically, I need:\n\n• Two core pages rewritten: the Home page and the Services page  \n• A series of fresh, well-researched blog posts (number to be agreed once we scope topics)\n\nEverything should read crisply and credibly, with clear calls to action and SEO-friendly structure—think logical H1/H2 hierarchy, natural keyword placement, and meta descriptions ready to drop into WordPress. Tone must stay professional throughout, matching an expert B2B audience.\n\nI’ll supply brand guidelines, background on our services, and preliminary keyword lists. Your copy should be original, pass Grammarly and Copyscape checks, and arrive in an editable Google Doc. I’ll review once, send consolidated feedback, and expect a clean final draft after revisions.\n\nIf that workflow sounds straightforward, let’s set milestones, lock topics, and get words flowing.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-23 14:44"
+ },
+ {
+  "id": 40665825,
+  "title": "Realistic 30-Sec Jedlik Delivery Promo",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/rendering/Realistic-Sec-Jedlik-Delivery-Promo",
+  "desc": "I need a tight, 30-second 3D animation that captures the buzz of an IPL evening when every house on one street keeps tapping “Order Now.” In the first beat we see a conventional two-wheeler rider juggling only two food bags per trip; the queue of orders grows, customers frown, and the kitchen dashboard flashes red.  \n\nCut to the same scene played back with our Jedlik last-mile electric vehicle: one sleek run, the entire street served in a single round. Doors open, steaming meals appear instantly, neighbours exchange smiles and high-fives. The contrast must feel real, energetic and emotionally satisfying—efficiency and customer happiness are the twin messages I want viewers to feel in their gut.\n\nStyle & quality  \n• Fully realistic 3D look—materials, lighting and motion close to live action.  \n• Cinematic but punchy pacing suitable for social feeds and B2B presentations.  \n• Subtle graphical overlays (order counter, delivery time) that reinforce the efficiency gain without distracting from the emotion.\n\nDeliverables  \n1. Script and storyboard reflecting the IPL-night narrative for sign-off.  \n2. All modelling, texturing, animation, lighting and compositing assets.  \n3. Final 30-second master in 1080p (mp4) plus clean version for localisation.  \n4. Still frames and a 5-second teaser loop for social snippets.\n\nAcceptance  \nThe promo is approved when the side-by-side before/after clearly shows Jedlik cutting delivery time, and the final shot leaves the viewer with a palpable sens",
+  "query": "excel automation",
+  "found_at": "2026-08-23 14:44"
+ }
+]
