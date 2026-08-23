@@ -89,5 +89,57 @@
   "desc": "I need a tight, 30-second 3D animation that captures the buzz of an IPL evening when every house on one street keeps tapping “Order Now.” In the first beat we see a conventional two-wheeler rider juggling only two food bags per trip; the queue of orders grows, customers frown, and the kitchen dashboard flashes red.  \n\nCut to the same scene played back with our Jedlik last-mile electric vehicle: one sleek run, the entire street served in a single round. Doors open, steaming meals appear instantly, neighbours exchange smiles and high-fives. The contrast must feel real, energetic and emotionally satisfying—efficiency and customer happiness are the twin messages I want viewers to feel in their gut.\n\nStyle & quality  \n• Fully realistic 3D look—materials, lighting and motion close to live action.  \n• Cinematic but punchy pacing suitable for social feeds and B2B presentations.  \n• Subtle graphical overlays (order counter, delivery time) that reinforce the efficiency gain without distracting from the emotion.\n\nDeliverables  \n1. Script and storyboard reflecting the IPL-night narrative for sign-off.  \n2. All modelling, texturing, animation, lighting and compositing assets.  \n3. Final 30-second master in 1080p (mp4) plus clean version for localisation.  \n4. Still frames and a 5-second teaser loop for social snippets.\n\nAcceptance  \nThe promo is approved when the side-by-side before/after clearly shows Jedlik cutting delivery time, and the final shot leaves the viewer with a palpable sens",
   "query": "excel automation",
   "found_at": "2026-08-23 14:44"
+ },
+ {
+  "id": 40665884,
+  "title": "Full CPSR for Essential Oil Blend",
+  "budget_min": 20.0,
+  "budget_max": 250.0,
+  "currency": "GBP",
+  "usd_rate": 1.3641,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/risk-assessment/Full-CPSR-for-Essential-Oil",
+  "desc": "I’m ready to take my essential-oil blend to market and need a Full Cosmetic Product Safety Report to clear the final regulatory hurdle. I have the full formulation, each ingredient’s safety data, and the recommended usage instructions prepared and will forward them straight away.\n\nUsing that material, please compile Part A (toxicological profile, exposure, margins of safety, etc.) and Part B (your professional safety assessment and conclusion) so the file meets current EU/UK Cosmetic Regulation 1223/2009 requirements. If any additional tests or refinements are necessary, list them clearly so I can arrange them without delay.\n\nDeliverables\n• CPSR Part A & Part B in PDF format  \n• Supporting calculation sheets or software outputs  \n• Brief note on any remaining compliance actions\n\nI’m aiming for a turnaround of about two weeks. When you reply, let me know your safety-assessor credentials and a couple of similar reports you have produced so I can move forward quickly.",
+  "query": "data extraction",
+  "found_at": "2026-08-23 15:06"
+ },
+ {
+  "id": 40665849,
+  "title": "AI Agent for MARG ERP",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/ai-chatbot-development/Agent-for-MARG-ERP",
+  "desc": "I need an AI-driven assistant that can sit on top of MARG ERP, listen to customers in real time, convert their spoken orders into data, and post those orders as Sale Challans through the standard human UI. The same agent must also be able to pull the resulting numbers from the Sales Invoicing and Reporting modules so that daily summaries can be produced automatically.\n\nKey points you should know  \n• Input method: voice only—no manual typing should be required once the call begins.  \n• Interaction layer: the agent must navigate the existing windows and dialog boxes of MARG ERP exactly as a person would, not through database back-doors, so screen-automation reliability is critical.  \n• Core scope: create, save, and confirm Sale Challans; generate the corresponding sales report on demand or at scheduled intervals.  \n• Extensibility: design the workflow so that additional inventory or analytics automations can be plugged in later with minimal re-work.\n\nDeliverables  \n1. Fully functioning AI agent installed on one workstation and demonstrated end-to-end: voice call → Sale Challan saved → report exported.  \n2. Setup script or step-by-step install guide.  \n3. Brief user cheat-sheet for our operators.\n\nI’m flexible on the underlying stack—whether you prefer GPT-4, Dialogflow, or Watson—as long as latency is low and accuracy in recognising Indian names and product codes is high. Show me a short proof-of-concept clip or live demo and we can move quickly to full roll-out.",
+  "query": "data extraction",
+  "found_at": "2026-08-23 15:06"
+ },
+ {
+  "id": 40665869,
+  "title": "PineScript Ichimoku Algo Trading",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/algorithmic-trading/PineScript-Ichimoku-Algo-Trading",
+  "desc": "I already have a complete PineScript strategy that reads Ichimoku-cloud signals and, in particular, fires when my custom cloud rules and Chikou-span crossovers align. Now I need that strategy to place live trades automatically.\n\nScope  \n• Brokers: First choice is Kotak Neo and Master Trust; if an identical flow is not possible on those, I will fall back to Upstox.  \n• Markets: The code must route orders for every NSE stock-futures contract as well as all actively traded MCX futures.  \n• Logic: Use my existing PineScript exactly as written so the entry, exit and risk filters remain untouched. Your job is to listen to its alerts (or refactor the core logic to another language if it improves reliability) and translate them into market/limit orders with correct quantity, product type and stop-loss/target.  \n• Execution quality: I expect rapid order acknowledgement, automatic error-retry, position reconciliation at session close and basic logging I can read in plain English.  \nensure proper risk management , i prefer exectuin using free server but needs opions how it will be executed\nDeliverables  \n1. A live, broker-authenticated execution module (Python, Node or any stable stack) deployed on my VPS or your recommended cloud instance.  \n2. Step-by-step documentation so I can change API keys, add new symbols or adjust quantity rules without touching the core logic.  \n3. One trading day of guided live-market testing to prove orders are placed, modified and squared off exactly when t",
+  "query": "python automation",
+  "found_at": "2026-08-23 15:06"
+ },
+ {
+  "id": 40665880,
+  "title": "Format & Publish Story on Wix",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/web-design/Format-Publish-Story-Wix",
+  "desc": "I have a 5,800-word fictional short story ready to go live on my Wix site. All the fonts are already chosen and embedded in the document, and I want the piece to appear online exactly as it reads now—one continuous flow, no chapter breaks, no new styles introduced.\n\nWhat I need from you:  \n• Recreate the story inside my Wix editor, preserving every font change, size shift, and emphasis.  \n• Make sure the layout scales cleanly on desktop and mobile.  \n• Set up the page URL, basic SEO title/description, and enable comments.  \n• Send me a preview link; I’ll do one round of revision notes if needed before we hit Publish.\n\nYou’ll get the final Word/Google Doc, the font files (if Wix needs them uploaded), and access to my site as a Contributor. Once the live link matches the original formatting, the job’s done.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-23 15:06"
  }
 ]
