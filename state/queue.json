@@ -414,5 +414,83 @@
   "desc": "I’m developing a  ≈ 18,000 sq ft pre-engineered steel building and need a concise yet complete design package. My immediate priority is the structural scheme—member sizing, connection detailing and foundation guidance—prepared in line with recognised industry best practices so fabrication drawings can move forward without re-work.  \n\nOnce the frame is locked in, I also require coordinated HVAC and MEP layouts. For MEP, the focus is on electrical and plumbing: panel schedules, single-line diagrams, lighting and small-power layouts, plus water supply, drainage and sanitary risers. Fire protection can be noted for future expansion but is not part of the current scope.\n\nPreferred tools are STAAD Pro or ETABS for analysis and AutoCAD/Revit (BIM-ready) for all drawings so my local contractor can pick them up seamlessly. I will provide the site survey, functional brief and preliminary floor plan the moment we start and will be available for quick-turn feedback.\n\nDeliverables  \n• Structural analysis file and calculation report  \n• General arrangement & fabrication drawings with connection details  \n• HVAC load calculations and duct/vent layouts  \n• Electrical single-line diagram, lighting & power plans, load schedule  \n• Plumbing schematics and fixture layouts  \n• Coordinated architectural plans (DWG & PDF)  \n• Discipline-wise bill of quantities  \n\nPlease outline your workflow, relevant PEB experience and the timeframe you need to reach IFC-level drawings.",
   "query": "pdf extraction",
   "found_at": "2026-08-23 18:00"
+ },
+ {
+  "id": 40666168,
+  "title": "Fleet Management & Business Platform Development",
+  "budget_min": 600.0,
+  "budget_max": 10000.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/flutter/Fleet-Management-Business-Platform",
+  "desc": "Freelancer Job Post: Fleet-Ops, Driver App & Business Platform\n1. Project Overview\nMangalore Travels Corporation (MTC) is seeking a developer/team to build the operational and business half of our live taxi/travel platform. You will integrate a net-new Flutter driver app, fleet-ops backend, billing system, unified inbox, and vendor portal into our existing FastAPI (backend) + Next.js (admin) architecture.\n\nNote: This is an extension of a live, working system, not a from-scratch rewrite.\n\n2. Existing Infrastructure (Your Foundation)\nBackend: FastAPI, PostgreSQL, SQLAlchemy (async), Alembic, Pydantic, JWT auth (httpOnly, refresh), RBA (SUPER_ADMIN/SUB_ADMIN), SSE real-time notifications, Cloudflare R2 storage.\n\nAdmin Dashboard: Next.js App Router. Currently manages booking inquiries (NEW → CONTACTED → CONFIRMED → COMPLETED/CANCELLED), a marketing-facing fleet catalog, simple fares, and sub-admins.\n\nIn Progress: Basic corporate-account and payment-allocation tracking (coordinate boundaries with us).\n\nMissing (Your Scope): Everything ops-related—Driver/trip models, Flutter app, GPS/telemetry, rate-card versioning, GST invoices, vendor portal, unified inbox.\n\n3. Required Tech Stack (Non-Negotiable)\nMobile App: Flutter (Android-first). Offline-first architecture is mandatory (actions queue locally and sync upon reconnection).\n\nBackend: FastAPI (matching existing layer conventions).\n\nReal-time Tracking: WebSocket (live GPS) + Redis (position pipeline). Postgres must not take per-pin",
+  "query": "web scraping",
+  "found_at": "2026-08-23 18:44"
+ },
+ {
+  "id": 40666166,
+  "title": "PSS/E v34 Expert Needed – PJM BESS Dynamic Model Validation & Compliance Testing",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/mechanical-engineering/PSS-Expert-Needed-PJM-BESS",
+  "desc": "PSS/E v34 Expert Needed – PJM BESS Dynamic Model Validation & Compliance Testing\n\nJob Description\nThis is transmission Planning task! \nWe are looking for an experienced PSS/E v34 / PJM dynamic modeling engineer to assist with a Battery Energy Storage System (BESS) interconnection dynamic-model validation project.\n\nThe project involves adapting and validating a WECC inverter-based resource dynamic model for a BESS project and completing the required PJM Dynamic Model Development Guideline (DMDG) testing and documentation.\n\nProject Scope\n\nThe project currently includes a PSS/E power-flow case (.sav) and dynamic model file (.dyr).\n\nThe BESS is represented using the following WECC dynamic models:\n\nREGCA1 – inverter/converter model\n\nREECA1 – electrical controls\n\nREPCA1 – plant controller\n\nVTGDCAT – voltage protection\n\nFRQDCAT – frequency protection\n\n\nThe BESS inverter is connected at Bus 300 (BARB-BES).\n\nThe dynamic model has already been adapted from a generic WECC template to the project topology, including correcting the model bus references and attaching the REGCA1/REECA1/REPCA1 models to the BESS bus.\n\nMain Tasks\n\nThe selected engineer will help with:\n\n1. Review the existing PSS/E .sav and .dyr files.\n\n\n2. Verify REGCA1/REECA1/REPCA1 model connectivity and initialization.\n\n\n3. Review and finalize model parameters based on the project power-flow ratings.\n\n\n4. Configure the REPCA1 control settings, including appropriate voltage/reference/frequency control flags.\n\n\n5. Verify dyn",
+  "query": "data extraction",
+  "found_at": "2026-08-23 18:44"
+ },
+ {
+  "id": 40666163,
+  "title": "E-commerce App UI Design",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/ui-design/commerce-App-Design-40666163",
+  "desc": "I'm looking for a skilled mobile app UI designer to create an intuitive and visually appealing interface for our e-commerce application. \n\nThe design should be user-friendly and enhance the shopping experience. \n\nKey Screens to Design:\n- Home Page: Engaging layout to showcase next generation AI based ecommerce app, which gives a feel of unusual AI experience.\n- Product Pages: Detailed and attractive presentation of individual products.\n- Checkout Process Screens: Streamlined and secure checkout flow.\n\nIdeal Freelancer Should Have:\n- Proven experience in designing UIs for e-commerce apps.\n- Strong portfolio showcasing similar projects.\n- Understanding of current design trends and user experience principles.\n- Proficient in design tools like Sketch, Figma, or Adobe XD.\n- Excellent communication skills to collaborate and incorporate feedback.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-23 18:44"
+ },
+ {
+  "id": 40666089,
+  "title": "Adult/Dating Media Buyer – WhatsApp/Telegram Lead Generation",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/advertising/Adult-Dating-Media-Buyer-WhatsApp",
+  "desc": "We are looking for an experienced media buyer to generate qualified inbound leads for a premium international companion agency.\n\nThe goal is simple: genuine potential clients contacting us directly via WhatsApp or Telegram.\n\nExperience with adult/dating traffic and platforms such as ExoClick, TrafficJunky, TrafficStars or similar traffic sources is strongly preferred.\n\nWe want to start with a small paid pilot to test lead quality before committing to a larger budget. If the test produces good leads, we are ready to scale quickly and are interested in long-term cooperation.\n\nWe currently do not have a dedicated landing page, so we are open to your recommendation regarding the best funnel.\n\nPlease include in your bid:\n\nYour experience with adult/dating campaigns\nWhich traffic source you would test first\nThe smallest realistic test budget\nHow quickly you could launch the test\nHow you would track WhatsApp/Telegram leads\nAny relevant CPL/CPA results\n\nNo bots, purchased databases, recycled leads or incentivized traffic. We are looking for genuine potential customers with purchasing intent.\n\nFor the initial pilot, I prefer either a small all-inclusive test budget or payment per qualified lead. I am not looking to commit to a large setup/management fee before lead quality has been demonstrated.",
+  "query": "telegram bot",
+  "found_at": "2026-08-23 18:44"
+ },
+ {
+  "id": 40664950,
+  "title": "Traditional Farmhouse Plan & Renders",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/3d-modelling/Traditional-Farmhouse-Plan-Renders",
+  "desc": "My plot is under 1,000 sq ft, and I want to make every square foot count while keeping the warm, familiar feel of a traditional farmhouse. Here is what I need from you:\n\n• A ground-floor layout drawn in AutoCAD, sized so I can print it neatly on A4 paper. I favour an open layout, so please minimise unnecessary internal walls while still allowing for basic zoning (living, kitchen-dining, bedroom, bath, utility).\n\n• A fully modelled 3D front elevation that captures classic farmhouse details—pitched roof, simple columns or verandah, balanced window placement—finished with a realistic daylight render.\n\n• Two photoreal interior perspectives: one of the living area and one of the bedroom. These should echo the exterior’s traditional character through materials, colours and light.\n\nPlease deliver the DWG file plus an exported PDF of the plan, high-resolution JPEG/PNG renders of the elevation and interiors, and any source files so I can make revisions later if needed.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-23 18:44"
+ },
+ {
+  "id": 40666127,
+  "title": "Automotive Dual Motor Controller PCB - KiCad, CAN FD & LIN",
+  "budget_min": 1500.0,
+  "budget_max": 2500.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/automotive-engineering/Automotive-Dual-Motor-Controller-PCB",
+  "desc": "I am looking for an experienced automotive electronics and PCB design engineer to create a complete prototype PCB for controlling two independent brushed DC motors in a 12 V automotive environment.\n\nThis project covers hardware design only. No firmware, bootloader, desktop GUI, mobile application, or enclosure design is required.\n\nMAIN REQUIREMENTS\n- Two independent reversible brushed DC motors\n- One full H-bridge per motor with four external N-channel MOSFETs; eight bridge MOSFETs total\n- 10 A target continuous current per motor after thermal validation\n- 20 A for up to 1 second and 30 A start/stall peak for up to 100 ms\n- Independent 20 kHz PWM, forward, reverse, coast, and active brake\n- Independent bidirectional current measurement and fast hardware overcurrent shutdown\n- CAN FD with Classic CAN compatibility and LIN 2.x\n- USB-C service interface\n- Three protected analog inputs for buttons connected to GND\n- Two optional Hall-sensor inputs with protected 5 V supply\n- Battery-voltage measurement and two power-stage temperature sensors\n- Reverse-battery and automotive transient protection\n- Low-power sleep and wake hardware\n\nFIXED MAIN COMPONENTS\n- STM32G0B1CBT6 MCU\n- Infineon TLE9562-3QXJ automotive motor SBC\n- 8 x IAUC120N04S6N013 automotive MOSFETs\n- 2 x INA240A2-Q1 current-sense amplifiers\n- 2 x 0.5 mOhm Kelvin current shunts\n- TLV3202-Q1 hardware window comparators\n- Aptiv HCCPHPE24BKA90F sealed 24-position right-angle connector\n- USB-C service connector\n\nThe main Apti",
+  "query": "pdf extraction",
+  "found_at": "2026-08-23 18:44"
  }
 ]
