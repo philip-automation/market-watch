@@ -1454,5 +1454,44 @@
   "desc": "Spreedsheet expert to build dasboard for mysolar digital  product excel sheet calculators for reussble protected sheetsSolarToolkit Pro — a professional digital product (handbook + Excel calculators) for solar installers, engineers, and serious homeowners in Nigeria and Africa.\nI need an experienced Excel specialist to design and build a set of clean, professional, user-friendly, and well-protected calculators/templates that form the core of the product.\nWhat I Need Built\nA suite of interconnected or standalone Excel workbooks covering:\nSolar Panel / Array Sizing Calculator\nDaily load calculation (Nigerian appliances with realistic wattages)\nPeak sun hours by location (Lagos and major Nigerian cities)\nSystem losses, orientation, and recommended array size (kWp)\nBattery Bank Sizing Calculator (LiFePO4 focused)\nAutonomy days, DoD, efficiency, temperature factors\nUsable capacity and recommended battery size (kWh)\nCable Sizing Calculator\nVoltage drop, current, distance, cable size recommendations (Nigerian copper cable context)\nHybrid System Overview / Matching Tool\nMatching inverter size, battery, and solar array\nBasic runtime estimates under different load scenarios\nAdditional supporting sheets (if time allows)\nSimple load list template\nQuotation summary sheet\nClear instruction / how-to-use tab",
   "query": "google sheets automation",
   "found_at": "2026-08-23 10:44"
+ },
+ {
+  "id": 40665509,
+  "title": "Rédaction Contenu Tech Qualité -- 2",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/research/daction-Contenu-Tech-Qualit",
+  "desc": "Je souhaite collaborer avec un(e) rédacteur(rice) capable de produire un contenu clair, engageant et bien documenté pour le secteur de la technologie. Les thématiques couvriront l’actualité IT, les tendances SaaS ou encore l’IA, selon le calendrier éditorial que nous définirons ensemble.\n\nCe dont j’ai besoin :\n• Recherches documentées et fiables pour étayer chaque texte  \n• Un ton accessible mais précis, adapté à un public professionnel  \n• Livrables rédigés en français, optimisés pour le web (SEO on-page basique : balises Hn, mots-clés fournis, méta description)  \n• Respect strict des délais convenus et capacité à travailler en télétravail autonome\n\nFormats envisagés : articles de blog, pages de site ou fiches produit – j’apprécie la flexibilité et nous choisirons ensemble la meilleure approche selon chaque sujet.\n\nMerci d’inclure un extrait ou lien vers un texte technique déjà publié afin que je puisse évaluer votre style. Au plaisir de bâtir une relation de travail fiable et durable !",
+  "query": "web scraping",
+  "found_at": "2026-08-23 11:07"
+ },
+ {
+  "id": 40665508,
+  "title": "Data Entry",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/data-entry/Data-Entry-40665508",
+  "desc": "I am looking for a freelancer to assist me with a data entry project. The main task will involve typing various types of data into a spreadsheet or database. \n\nRequirements:\n- Proficiency in typing and accuracy in entering data\n- Familiarity with spreadsheet software or database management systems\n- Ability to follow instructions and pay attention to detail\n\nSpecifics:\n- There is no specific format or template that needs to be followed, any format will do\n- The volume of data that needs to be handled is medium, with approximately 100-500 entries\n\nIf you have experience in data entry and are able to complete the task accurately and efficiently, please submit a proposal. Thank you!",
+  "query": "data extraction",
+  "found_at": "2026-08-23 11:07"
+ },
+ {
+  "id": 40665520,
+  "title": "Ethiopian 3D Adventure Mobile Game",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/unity/Ethiopian-Adventure-Mobile-Game",
+  "desc": "I’m putting together a small-scope, third-person action-adventure set in Ethiopia and want to release it first on Android. The core loop will be simple and pick-up-and-play, but the world, characters and soundtrack should instantly feel Ethiopian, with full text and UI support for Oromo, Amharic and English.\n\nHere’s what I’m looking for in one integrated team (or a tightly-coordinated group of specialists):\n\n• A Unity or Unreal developer who can build a lightweight APK, handle touch controls and optimise for mid-range devices.  \n• A character artist able to sculpt and rig believable 3D protagonists, NPCs and a handful of wildlife in a realistic style.  \n• An animator who can bring those models to life with smooth traversal, combat and interaction loops.  \n• A sound designer/composer to craft ambient soundscapes, effects and a short, culturally authentic score.\n\nDeliverables I’d like to see:\n\n1. Playable vertical slice (one level with combat, exploration and simple puzzle).  \n2. Three fully-rigged main characters plus placeholder NPCs.  \n3. Original soundtrack (stems + mastered OGG), SFX library and integration.  \n4. Multilingual UI strings implemented and switchable in-game.  \n5. Optimised Android build with source project and documentation.\n\nI’ll provide a draft GDD, location references and language files once we start. The scope is intentionally modest—think one hour of polished gameplay—so we can iterate quickly and expand in later phases if everything clicks. Let me know ",
+  "query": "gpt integration",
+  "found_at": "2026-08-23 11:07"
  }
 ]
