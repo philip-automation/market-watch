@@ -1727,5 +1727,57 @@
   "desc": "我需要一位同样注重细节、执行力强的助理，帮我完成以下事务并保持高效沟通：\n\n1) PowerPoint  \n   • 根据我提供的提纲或素材，从零开始创建完整演示文稿  \n   • 运用专业排版、动画与配色，确保内容逻辑清晰且视觉一致  \n   • 交付格式：.pptx 与 PDF\n\n2) 文职行政  \n   • 数据录入：按既定模板快速、准确录入并校对信息  \n   • 日常文件管理：整理、归档各类文档，维护云端文件夹结构  \n   • 会议纪要：在指定会议后 24 小时内整理要点并输出标准文档\n\n额外要求  \n• 可适应晚间工作节奏；任务一经分配需及时反馈进度  \n• 具备责任心，能按照既定流程执行并接受必要调整  \n• 申请时请突出相关经验，附 2 份代表性 PPT 截图或示例链接\n\n如能长期协作，我将持续提供清晰需求与稳定工作量。",
   "query": "pdf extraction",
   "found_at": "2026-08-23 12:58"
+ },
+ {
+  "id": 40665681,
+  "title": "Boost Educational Channel Growth",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/data-analysis/Boost-Educational-Channel-Growth",
+  "desc": "I run an educational YouTube channel and need to ramp up views and subscribers as quickly as possible. The channel already has a clear niche and regular upload schedule; what it lacks is a data-driven growth plan and the day-to-day execution that turns casual viewers into loyal followers.\n\nHere’s what I need delivered—fast:\n\n• Audit & Insights – a concise report on current performance using YouTube Analytics, identifying high-exit points, watch-time drops, and keyword gaps.  \n• Growth Strategy – a 30-day action plan covering topic clustering, keyword mapping (TubeBuddy/VidIQ), optimal upload timing, and viewer retention tactics.  \n• Optimization Toolkit – ready-to-use title, thumbnail, and description templates, plus end-screen & card placement guidelines.  \n• Engagement Playbook – community-building prompts, shorts/clip ideas, and a rollout calendar designed to spur comments, shares, and repeat watches.  \n• KPI Tracker – a simple sheet or dashboard I can update daily to monitor subscriber velocity, CTR, AVD, and session duration.\n\nThe sooner the first draft lands in my inbox the better; I intend to start implementing within days. If you have a proven track record of scaling educational channels, let’s move quickly.",
+  "query": "data extraction",
+  "found_at": "2026-08-23 13:40"
+ },
+ {
+  "id": 40665709,
+  "title": "AI-Powered Workout Coach",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/ai-development/Powered-Workout-Coach",
+  "desc": "I'm looking to develop AI agents that can help users track and plan their workouts, as well as provide feedback to improve their routines. The goal is to help individuals reach their fitness goals more efficiently.\n\nKey Requirements:\n- The AI agents should be capable of:\n  - Tracking workouts\n  - Planning workouts\n  - Providing feedback\n\n- The AI agents need to be accessible on mobile apps\n- The AI agents should specialize in:\n  - Cardio workouts\n  - Strength training\n\nIdeal Skills and Experience:\n- Experience in AI development, especially in fitness applications\n- Proficiency in mobile app development\n- Knowledge of cardio and strength training routines\n- Strong feedback and analytical capabilities\n\nLooking forward to your proposals!",
+  "query": "ai chatbot",
+  "found_at": "2026-08-23 13:40"
+ },
+ {
+  "id": 40665714,
+  "title": "Nuxt.js Admin Dashboard with Laravel",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/laravel/Nuxt-Admin-Dashboard-with-Laravel",
+  "desc": "I need a corporate-grade admin panel built on a Nuxt.js template styled with Vuetify, talking to a Laravel REST API backed by MySQL. The project is frontend-first: clean, component-driven pages that feel consistent with a professional SaaS back-office.  \n\nCore screens and widgets to design and wire to the API include:  \n• User management  \n• Analytics dashboard with charts and key metrics  \n• Content management (CRUD, status toggles, rich-text)  \n• Orders management  \n• Admin roles & permission matrix  \n• Product adding and importing functionalities \n• A few smaller utility pages (settings, profile, logs)\n\nVisual direction: polished, corporate, and professional—balanced whitespace, tidy typography, understated colour accents, responsive layouts. Re-usable Vue components, well-named props, and scoped SCSS are expected so future modules drop in easily.\n\nTechnical expectations  \n• Nuxt 3 composition API, Vuetify 3, TypeScript optional but preferred if you already work with it  \n• Axios (or ofetch) for API calls; endpoints will follow REST conventions I’ll supply  \n• Vue-Router guards tied to the permissions returned from Laravel Sanctum/JWT  \n• Localisation scaffolding (i18n) prepared, even if only English strings are filled initially  \n• Git commit history that’s logical and readable; feature branches and pull requests\n\nAcceptance criteria  \n1. Each feature listed above reachable from a sidebar menu, fully responsive down to 320 px.  \n2. Dummy API integration shown for all CRUD",
+  "query": "gpt integration",
+  "found_at": "2026-08-23 13:40"
+ },
+ {
+  "id": 40665678,
+  "title": "Detailed 2D AutoCAD Drafting",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/2d-drafting/Detailed-AutoCAD-Drafting",
+  "desc": "I need my reference PDF set converted into clean, editable 2D AutoCAD drawings suitable for construction. The scope covers complete floor plans, all exterior elevations, and building sections. I will supply the PDFs together with a dimension schedule, so the drawings must follow those exact measurements rather than default standards.  \n\nPlease include clear, construction-grade annotations for materials, levels, grid lines, and any notes already marked on the reference sheets. Layering and line-weights should follow common architectural CAD conventions so the files can drop straight into our consultants’ workflow.  \n\nDeliverables  \n• DWG files for each floor plan, elevation, and section  \n• Matching print-ready PDFs at the original sheet size  \n• A brief layer/line-type legend  \n\nI will review each sheet for dimensional accuracy, annotation completeness, and overall drafting clarity before sign-off. Looking forward to working with someone who can turn these around quickly while keeping sharp attention to detail.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-23 13:40"
  }
 ]
