@@ -947,5 +947,70 @@
   "desc": "I have a working but untidy firmware that converts a single 3.3 V ignition trigger from the vehicle’s PCM into a precise, doubled-width pulse that drives a FET-controlled dual-spark coil. The hardware is a CYD-branded ESP32 board, and the present code relies on a near-linear lookup chart to decide dwell and timing. It functions, yet the interrupt handling and pulse generation introduce more latency than I’m comfortable with, and nothing is saved once the unit powers down except the programmed defaults.\n\nHere’s what I need from the rewrite:\n\n• Tighter timing control. The priority is to shave latency and jitter to the minimum the ESP32 can offer while still keeping the logic straightforward to maintain.  \n• Persistent tuning data. Two items—ignition timing adjustments and pulse-duration settings—must survive resets by living in the ESP32’s NVS/EEPROM as simple key-value pairs. Stubs for future serial or BLE tuning would be a plus.  \n• Clean, well-commented code targeting ESP-IDF (Arduino layer acceptable if it doesn’t compromise latency) and a concise README explaining how to build, flash, and modify the stored parameters.\n\nhaving a working flow menu system would be nice, but if it could allow the OTA firmware updates, that would be even better.  but i think with LVGL, there is not enough room.  \n\nDeliverables\n1. Source in a Git repository with clear commit history.  \n2. Compiled binary and flashing instructions.  \n3. Brief latency report comparing old vs. new firmware.  \n\nAcce",
   "query": "data extraction",
   "found_at": "2026-08-23 05:38"
+ },
+ {
+  "id": 40665082,
+  "title": "AI-Driven Daily Tracker App",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/flutter/Driven-Daily-Tracker-App",
+  "desc": "I’m building a cross-platform daily-tracker that will eventually layer AI insights on top of the data we collect. Right now I need a full-stack Flutter pro who can take the app from blank canvas to store-ready on both iOS and Android.\n\nCore modules to deliver:  \n• Activity tracking  \n• Habit tracking  \n• Task management  \n• Quick notes  \n• Expense logging  \n\nThese features should sit behind a straightforward email-and-password sign-up flow, with the codebase structured so we can bolt on additional authentication or AI services later without a rewrite.\n\nI’ll provide wireframes and a rough data model; you’ll turn them into clean Flutter UI, hook up a solid backend, and handle deployment to both stores. Code needs to be well-documented, test-covered, and flexible enough for future machine-learning add-ons.\n\nOnce each module is complete I’ll review the build, test the flows, and green-light the next milestone. If you love building polished, scalable Flutter apps, let’s talk timelines and get started.",
+  "query": "data extraction",
+  "found_at": "2026-08-23 06:16"
+ },
+ {
+  "id": 40665079,
+  "title": "Agri Motor Control Mobile App",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/ios/Agri-Motor-Control-Mobile-App",
+  "desc": "I need a cross-platform mobile app (iOS and Android) that lets farm staff remotely start, stop and schedule irrigation motors and their associated valves. Each motor can be shared with up to four named users, and a simple role system—admin versus standard operator—must govern who can edit settings or only view and trigger commands.\n\nCore workflow  \n• The app sends control commands to our server, which then pushes them to the motor controller via its onboard SIM.  \n• In the opposite direction, the app must poll or listen for status updates and instantly refresh the dashboard (run time, voltage, fault flags, etc.).  \n• Motors are uniquely identified through a triple key: Motor ID + SIM ID/UUID + authorised mobile number. All requests and responses have to respect that matching logic.\n\nTechnical expectations  \nThe interface should feel modern and dynamic, with clean animations and charts rather than plain text tables. I’m open to the tech stack, but Firebase (Auth, Cloud Messaging, Realtime/Firestore) is acceptable wherever it simplifies authentication, notifications or data sync.\n\nDeliverables  \n1. Source-code repository with clear commit history  \n2. Signed builds for TestFlight and Google Play internal testing  \n3. Lightweight admin panel or in-app admin mode to assign the four users per motor  \n4. API documentation and postman collection covering all endpoints used  \n5. Deployment and hand-over guide\n\nAcceptance criteria  \n• Command latency under three seconds on a 4G connec",
+  "query": "data extraction",
+  "found_at": "2026-08-23 06:16"
+ },
+ {
+  "id": 40665071,
+  "title": "Compact GPS Data Logger Assembly",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/embedded-systems/Compact-GPS-Data-Logger-Assembly",
+  "desc": "Build Compact GPS Data Logger – Mumbai Freelancer Required\n\nI am looking for a Mumbai-based embedded systems / ESP32 developer to assemble and test a very small standalone GPS data logger.\n\nI will provide the main components:\n\n* HGLRC M100 Mini GPS\n* Seeed Studio XIAO ESP32-S3\n* 150mAh 3.7V LiPo battery\n* Mini slide switch\n\nRequired functionality\n\n* GPS logging at 10 Hz\n* Record:\n    * UTC timestamp\n    * latitude\n    * longitude\n    * GPS speed\n    * heading/course\n    * satellite/fix-quality information\n* Store data in the ESP32-S3 internal flash\n* No phone required while recording\n* Device should automatically begin recording after GPS lock\n* Data should be downloadable afterward through USB and/or a simple Wi-Fi webpage\n* Battery charging through the XIAO USB-C port\n* ON/OFF slide switch\n* Target operating time: approximately 30–60 minutes\n\nImportant physical requirement\n\nThe finished device needs to be as compact and lightweight as possible, ideally around:\n\n40 × 25 × 12 mm or smaller\nunder approximately 20 g where practical\n\nThe GPS ceramic antenna must remain unobstructed.\n\nScope\n\nI need the freelancer to:\n\n* solder and assemble the supplied components\n* program the ESP32-S3\n* verify stable 10 Hz GPS logging\n* test battery operation and charging\n* provide the firmware/source code\n* provide a sample recorded GPS file\n* help arrange the components compactly for a later 3D-printed enclosure\n\nNo custom PCB is required for this version.\n\nBudget for assembly/programming/test",
+  "query": "data extraction",
+  "found_at": "2026-08-23 06:16"
+ },
+ {
+  "id": 40664272,
+  "title": " AI Voice Agent -- 2",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/ai-voice-agents/Voice-Agent",
+  "desc": "Hi, I’m looking for a freelancer who can build an AI voice-calling agent for my business. The agent should be able to receive and make calls, talk naturally with customers, understand their requirements, qualify leads, schedule appointments, send SMS confirmations, and integrate with Google Calendar",
+  "query": "ai chatbot",
+  "found_at": "2026-08-23 06:16"
+ },
+ {
+  "id": 40665074,
+  "title": "Sleek Google Sites One-Pager",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/web-design/Sleek-Google-Sites-One-Pager",
+  "desc": "I need a clean, professional-looking single page on Google Sites for my BYOB event business in Varanasi. The aim is to stay completely on the free Google Sites platform—no external hosting—while still using the custom domain I’ve just bought on Hostinger/GoDaddy. Once the page is designed, I want that domain mapped so visitors land directly on the new site.\n\nThe page itself should follow a professional and sleek style, showcasing the images and text I supply. The only mandatory content block is clear Contact Information; if you think an extra section will improve flow, feel free to suggest it, but keep everything on a single scroll.\n\nFor bookings, please embed a Google Form that can collect guest details and handle a simple cover-charge payment. I’ll provide the form fields; you just need to place it prominently and test that it works end-to-end.\n\nTimeline is tight—I’d like the site live within 1–2 days of kickoff. I’m setting aside roughly ₹1,500–₹2,000 for the complete setup, so the job is mostly configuration, layout, and domain pointing rather than heavy custom coding.\n\nDeliverables for sign-off:\n1. Fully designed Google Sites page with my content\n2. Custom domain mapped and resolving correctly worldwide\n3. Embedded Google Form functioning for bookings and payments\n\nIf you’ve done Google Sites domain mapping before and can turn this around quickly, I’m ready to get started right away.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-23 06:16"
  }
 ]
