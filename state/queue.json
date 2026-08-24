@@ -869,5 +869,83 @@
   "desc": "My goal is to boost efficiency across several digital touch-points and I need a seasoned AI professional who can comfortably move between AI automation, prompt engineering, and image generation.  \n\nThe core of the engagement is to design reliable automations that remove manual steps from my current workflow, craft well-structured prompts that consistently deliver the right textual or visual output, and produce high-quality AI-generated images that match brand style guidelines. I value clear communication, meticulous attention to detail, and proactive progress updates; a flexible schedule is fine as long as we agree on milestones and you meet them.  \n\nPlease tell me about similar projects you have handled, the tools or frameworks you prefer (e.g., Python, OpenAI API, Midjourney, Stable Diffusion, LangChain, Make/Zapier, or any others you excel in), and share links or files that demonstrate the results you achieved. The stronger the proof of your past success, the easier it will be for me to move forward quickly.  \n\nDeliverables (at minimum):  \n• An end-to-end automation or workflow that materially reduces manual effort.  \n• A prompt library or prompt template set with documentation.  \n• A curated collection of AI-generated images, delivered in the agreed formats and resolutions.  \n\nI review proposals on a rolling basis and will happily answer clarifying questions so you can scope your work precisely. Looking forward to seeing how your expertise can turn these ideas into effici",
   "query": "ai chatbot",
   "found_at": "2026-08-24 04:10"
+ },
+ {
+  "id": 40666862,
+  "title": "Predictive modelling for classification ",
+  "budget_min": 75000.0,
+  "budget_max": 150000.0,
+  "currency": "INR",
+  "usd_rate": 0.010454,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/data-science/Predictive-modelling-for-classification",
+  "desc": "I want to turn a large, well-organised spreadsheet of historical records into a reliable classifier. The goal is straightforward: feed in new rows of structured data and instantly receive a category prediction with clear confidence scores.\n\nYou will start with a clean CSV export that already includes labelled outcomes. Feel free to work in Python with scikit-learn, XGBoost, LightGBM, or a comparable library—whatever gets the best accuracy while keeping inference times low. I’m open to simple baseline models first, followed by feature engineering and hyper-parameter tuning to squeeze out extra performance.\n\nBecause this is strictly a classification task, success is measured by precision, recall, F1 and a well-calibrated ROC-AUC on a hold-out test set. I’d also like a brief explanation notebook so non-technical stakeholders can understand how key features influence the prediction.\n\nDeliverables\n• Clean, commented source code and environment file  \n• Trained model artefact (pickled or equivalent)  \n• Evaluation report with the metrics above and confusion matrix visuals  \n• Short Markdown or Jupyter notebook highlighting feature importance and usage instructions  \n\nIf you can optionally add a lightweight REST endpoint (FastAPI or Flask) for real-time predictions, let me know—the extra polish would be appreciated.",
+  "query": "data extraction",
+  "found_at": "2026-08-24 05:05"
+ },
+ {
+  "id": 40666847,
+  "title": "Visually Engaging NGO Annual Report",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010454,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/content-writing/Visually-Engaging-NGO-Annual-Report",
+  "desc": "I need a comprehensive annual report for our NGO targeted at our donors. The report should not only inform but also engage our donors with compelling visuals.\n\nKey Components:\n- Financial summaries: Clear and concise financial data.\n- Impact stories: Narratives showcasing the difference we make.\n- Future plans: Insights into our upcoming initiatives.\n\nDesign Requirements:\n- The report should be visually engaging with graphics to capture and retain donor interest. \n\nIdeal Skills and Experience:\n- Expertise in financial reporting.\n- Strong storytelling and narrative development.\n- Graphic design proficiency.\n- Experience with NGO reports or similar projects.\n\nLooking forward to your bids!",
+  "query": "data extraction",
+  "found_at": "2026-08-24 05:05"
+ },
+ {
+  "id": 40666816,
+  "title": "A COMPARATIVE LEGAL ANALYSIS OF INDIA’S GOODS AND SERVICES TAX (GST) AND NEPAL’S VALUE ADDED TAX (VAT) SYSTEM: IMPLICATIONS FOR CROSS-BORDER TRADE AND TAX POLICY REFORM",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 20,
+  "url": "https://www.freelancer.com/projects/academic-writing/Nepal-India-GST-VAT-Doctoral",
+  "desc": "I’m preparing a PhD thesis chapter that contrasts India’s Goods & Services Tax with Nepal’s Value Added Tax while analysing the cross-border implications that arise when goods, services and digital products move between the two jurisdictions. I need a fully referenced, publication-ready research paper that:\n\n• Opens with a rigorous historical narrative charting the evolution of VAT in Nepal and GST in India, highlighting key legislative milestones, policy shifts and political drivers.  \n• Moves into a doctrinal and empirical comparison of the present frameworks—rate structures, input-credit mechanics, compliance architecture, exemptions and dispute-resolution mechanisms.  \n• Dedicates separate, data-rich sections to cross-border taxation pressures on the e-commerce, manufacturing and services sectors, supported by case law, bilateral agreements and trade-flow statistics.  \n• Critically evaluates how divergent indirect-tax models affect competitiveness, supply-chain design and revenue leakage across the open border.  \n• Concludes with policy recommendations and areas for harmonisation or future research.\n\nAcceptance criteria  \n1. 15 pages, excluding bibliography and appendices.  \n2. Minimum 80 recent academic or official sources, cited consistently in APA 7th (EndNote/Zotero file included).  \n3. Originality report showing ≤10 % similarity.  \n4. Tables, charts or infographics (editable) illustrating comparative data.  \n5. Delivered in Word and PDF, with all underlying datasets ",
+  "query": "data extraction",
+  "found_at": "2026-08-24 05:05"
+ },
+ {
+  "id": 40666860,
+  "title": "Crypto Bot Micro-Influencer Campaign",
+  "budget_min": 75000.0,
+  "budget_max": 150000.0,
+  "currency": "INR",
+  "usd_rate": 0.010454,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/influencer-marketing/Crypto-Bot-Micro-Influencer-Campaign",
+  "desc": "I want to put our automated crypto-trading bot in front of as many fresh eyes as possible, so the sole KPI for this project is brand awareness. The plan is to leverage micro-influencers (1 K–100 K followers) who already speak the language of crypto, fintech, or passive income and can create engaging content on Instagram and YouTube.\n\nHere’s what I need from you:\n\n• A curated shortlist of 25–30 qualified creators, complete with audience demographics, engagement rates, and contact details  \n• Platform-specific outreach templates (DMs or emails) that feel authentic to both Instagram and YouTube culture  \n• End-to-end outreach and negotiation support until content slots are secured and scheduled  \n• A live campaign tracker (Google Sheets, Notion, or your preferred CRM) showing post dates, links, and performance once each piece goes live  \n\nAcceptance criteria: at least 15 influencers commit to posting, with a combined potential reach of 500 K+ followers.\n\nI’m comfortable if you use discovery tools like BuzzSumo or Upfluence alongside your own network—it’s the results that matter. First draft of the influencer list is expected within five days; full rollout over the following three weeks. Let’s make this bot impossible to ignore.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-24 05:05"
+ },
+ {
+  "id": 40666801,
+  "title": "Hatha Yoga Asana Guide Creation",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010454,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/yoga/Hatha-Yoga-Asana-Guide-Creation",
+  "desc": "I run an online yoga platform and I need a seasoned yoga trainer who can craft crystal-clear, beginner-friendly Hatha yoga asana instructions that I can publish across my website, PDFs and social channels.\n\nScope of work\nYou will select a set of foundational Hatha poses and write concise yet thorough breakdowns for each one. Every pose write-up must include:\n• Step-by-step guides that a first-timer can safely follow  \n• Benefits of each pose so students know why they are practising it  \n• Modifications for beginners to accommodate limited flexibility or strength  \n\nIf you are comfortable creating simple line drawings or photo-based posters in Canva or a similar tool, that is a plus, as I would love each pose packaged with a clean visual that matches my brand palette.\n\nAcceptance criteria\n1. A minimum of 10 individual asana sheets delivered in editable Google Doc (text) and PDF formats.  \n2. Each sheet follows the three bullet elements above and stays under 400 words for easy reading.  \n3. Language remains warm, motivational and completely free of jargon.  \n4. Visuals (if included) are royalty-free and sized for both Instagram feed and story.  \n5. All content must be original; any references are cited.\n\nI am happy to answer questions about tone, brand colours or target audience before you begin. Looking forward to seeing how you translate classic Hatha wisdom into engaging, modern content.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-24 05:05"
+ },
+ {
+  "id": 40666783,
+  "title": "Guionistas Narrativos Historia de Videojuegos",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/content-writing/Guionistas-Narrativos-Historia",
+  "desc": "Busco uno o varios guionistas con talento para escribir ensayos narrativos centrados en la historia del videojuego. El canal está orientado a público hispanohablante que disfruta de relatos bien documentados y con un tono cercano, casi como si escuchara una mini-serie documental. Es necesario que sean o residan en Argentina \n\nQué espero del guion:  \n• Longitud aproximada: 1 500 – 2 000 palabras por episodio.  \n• Estructura clara con introducción, nudo y cierre que invite a la reflexión.  \n• Relato cronológico o temático (por ejemplo, el auge de los arcades, la transición 2D-3D, franquicias que marcaron época).  \n• Datos históricos contrastados y citados; incluye al menos tres fuentes verificables.  \n• Recursos narrativos: anécdotas de desarrollo, testimonios de creadores, curiosidades poco conocidas.  \n• Indicaciones de ritmo para la locución y sugerencia de imágenes o clips de apoyo (timestamp opcional).  \n\nFlujo de trabajo:  \n1. Propongo tema y público objetivo.  \n2. Recibo esquema breve para validar enfoque.  \n3. Entregas la versión completa, revisamos ajustes menores.  \n\nHerramientas o formatos preferidos: Google Docs para facilitar comentarios.  \n\nSi disfrutas investigando la industria y transformando datos en historias que enganchen, me encantará leer tu propuesta. Indícame experiencia previa, ejemplos de guiones o artículos afines y tu disponibilidad semanal.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-24 05:05"
  }
 ]
