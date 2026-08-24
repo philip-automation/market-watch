@@ -2546,5 +2546,18 @@
   "desc": "We’re building **Intelligent CRM**, an AI-powered CRM for B2B sales teams, and we’re looking for a motivated **Sales Intern in Bangalore**, primarily focused on **cold calling and lead generation**.\n\nWe’re at an early stage, so you’ll work closely with the founders and get hands-on experience in B2B SaaS sales.\n\nOur product is currently **free for early customers**, including AI and infrastructure costs. Your goal will be to identify relevant businesses, reach out to decision-makers, introduce Intelligent CRM, and book product demos.\n\n### What you’ll do\n\n* Cold call potential B2B customers\n* Speak with founders, business owners and sales managers\n* Explain our CRM platform and understand their current sales process\n* Qualify interested prospects and schedule demos\n* Follow up with prospects after initial conversations\n* Maintain leads and follow-ups in our CRM\n* Collect feedback from potential customers\n\n**Strong and confident communication is the most important skill.** Previous sales or cold-calling experience is helpful, but not required.\n\nYou should be comfortable speaking to new people over the phone, handling rejection, and having a high number of conversations every day.\n\nThis is a good opportunity for someone who wants **hands-on experience in B2B SaaS sales and wants to grow with an early-stage startup.**\n\n**Location:** Bangalore\n**Role:** Sales Intern – Cold Calling / Lead Generation",
   "query": "ai chatbot",
   "found_at": "2026-08-24 22:47"
+ },
+ {
+  "id": 40668764,
+  "title": "Automate Sales in GoHighLevel -- 2",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "CAD",
+  "usd_rate": 0.722392,
+  "bids": 19,
+  "url": "https://www.freelancer.com/projects/marketing/Automate-Sales-GoHighLevel",
+  "desc": "I need my GoHighLevel account configured so that sales activities run on autopilot. The focus is full-scale sales automation: every new lead should enter the right funnel, receive the correct sequence of follow-up emails, be scored in real time, and see available appointment slots without anyone on my team lifting a finger. My ultimate use case is to create automated real estate systems capturing all leads through social media, forms, manual lead creation, and import everything from FollowUpBoss CRM.\n\n1.⁠ ⁠Migration (blocking)\n\t•\tFUB migration incomplete — phone number, contacts, and fields not fully migrated. Notes in each FUB contact contain data that needs to be read and mapped into the correct GHL custom fields, not left as unstructured notes.\n\t•\tNumber porting not started — Twilio has no porting request on file. Need this submitted immediately; it’s a hard dependency for calls/texts going live.\n\n2.⁠ ⁠Data Foundation (do before building more automation on top)\n\t•\tContact fields — currently bloated/unstructured; needs a review and cleanup pass.\n\t•\tCustom values — not in use at all. Need to be implemented for both workflows and email templates so content (phone numbers, office info, links, etc.) is centrally managed instead of hardcoded.\n\t•\tTags, custom fields, and custom values — full review needed as a system foundation before further build-out.\n\t•\tLead scoring — currently done manually inside workflows. Should use GHL’s native lead scoring engine instead of workflow logi",
+  "query": "data extraction",
+  "found_at": "2026-08-24 23:12"
  }
 ]
