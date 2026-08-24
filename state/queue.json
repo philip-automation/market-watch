@@ -1402,5 +1402,70 @@
   "desc": "I’m ready to hand over the complete production cycle for a new series of educational YouTube videos. Each piece will run 5–10 minutes and must convey information in a formal, highly professional tone while still feeling clear and engaging for viewers.\n\nHere’s the flow I need you to manage:\n\n— Research the topic I provide and craft a concise, audience-friendly script.  \n— Record or generate a polished voice-over that matches the formal style.  \n— Add accurate, well-timed captions and on-screen call-outs.  \n— Design or source all visuals—whether motion graphics, stock footage, or screen captures—and edit them into a seamless final cut.  \n— Deliver the finished video in 1080p (or higher) along with separate files for the script, captions, and audio.\n\nI typically work in Adobe Premiere Pro, After Effects, and Audition, but I’m open to your preferred tools as long as the end result looks broadcast-ready and can be tweaked if needed.\n\nWhen you reply, please attach links to at least two educational videos you produced from start to finish, and walk me through your usual concept-to-final delivery process. Let me know your average turnaround time for a 5–10 minute video and any questions you have about the content or workflow.\n\nIf your style aligns with mine, we’ll move forward with a test project and then scale to a regular release schedule.",
   "query": "python script",
   "found_at": "2026-08-24 09:08"
+ },
+ {
+  "id": 40667453,
+  "title": "Web-based Digital Twin 3D Visualization",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010447,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/3d-modelling/Web-based-Digital-Twin-Visualization",
+  "desc": "Hi Dear,\n\nI’m looking for a web-based 3D Digital Twin / interactive 3D visualization POC for a cloud-based BMS platform.\n\nThe client already collects HVAC data through BACnet/IP, Modbus, MQTT and LoRaWAN, and exposes normalized data to northbound applications through REST API or MQTT.\n\nInitial POC: AHU\n\nWe need a detailed AHU 3D model rendered inside a browser using Three.js/WebGL or an appropriate web 3D technology, preferably optimized GLB/GLTF.\n\nThe model must be data-driven, not just a static 3D viewer.\n\nThe BMS JSON contains:\n\n* Supply/return/mixed/outdoor air temperature\n* CHW supply/return temperature\n* Humidity, filter DP, duct static pressure, CO₂\n* CHW/heating valve position %\n* Supply/return fan VFD speed\n* Outdoor/return/exhaust damper position\n* Fan ON/OFF status\n* VFD faults\n* Smoke/freeze/filter alarms\n* Fan start/stop and damper commands\n\nRequired behaviour\n\nJSON values must dynamically control the 3D model.\n\nExamples:\n\nVFD speed → fan animation speed\nValve % → valve position\nDamper % → damper angle\nFan status → fan ON/OFF\nAlarm/fault → visual alarm state\nTemperature/pressure/humidity/CO₂ → live UI values\n\nFor the POC, simulated JSON is sufficient, but the architecture should later support the client's REST API/MQTT.\n\nReusability\n\nThis must be designed as a reusable framework for:\n\nAHU, Chiller, Cooling Tower, Pumps, VAV, VRF, STP and other HVAC/Energy/Water equipment.\n\nWe want parameter-to-object/animation mapping to be configurable wherever practical rather ",
+  "query": "web scraping",
+  "found_at": "2026-08-24 10:07"
+ },
+ {
+  "id": 40667496,
+  "title": "Indoor Navigation System Development",
+  "budget_min": 150000.0,
+  "budget_max": 250000.0,
+  "currency": "INR",
+  "usd_rate": 0.010447,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/3d-modelling/Indoor-Navigation-System-Development",
+  "desc": "Hi, I’m looking for a developer/team who can help us build a **real-time indoor navigation system**.\n\nThe main requirement is:\n\n* Convert existing **CAD/PDF/floor plans into a structured 2D/3D indoor map**\n* Support **multiple floors**\n* Implement **BLE beacon-based indoor positioning**\n* Use **BLE + accelerometer + gyroscope + compass** for accurate positioning\n* Show the user’s **real-time location and direction** on the map\n* Provide **turn-by-turn indoor navigation**\n* Calculate the best route between two points\n* Support **stairs, elevators, escalators, gates, corridors, rooms, etc.**\n* Provide **dynamic rerouting** if the user moves away from the planned route\n* Develop the navigation engine/API/SDK so it can later be integrated into an **Android application**\n\nThis is intended for a large indoor environment  so accuracy, scalability, multi-floor navigation, and real-time positioning are important.\n\nPlease let me know:\n\n1. Have you worked on similar indoor navigation projects?\n2. What technology/SDK would you recommend?\n3. How would you implement BLE positioning?\n4. What accuracy can you realistically achieve?\n5. What information/data would you need from our side?\n6. Estimated development timeline and cost?\n\nI can share the detailed technical requirements and floor plans once we confirm the approach.",
+  "query": "data extraction",
+  "found_at": "2026-08-24 10:07"
+ },
+ {
+  "id": 40667445,
+  "title": "On-Site Passport Verification",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010447,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/data-entry/Site-Passport-Verification",
+  "desc": "I need a reliable professional who can visit a residential complex each day and verify the authenticity of a small batch of passports—never more than ten in a single shift. The task is entirely on-site; no documents leave the premises.  \n\nYour job is to:  \n• Inspect each passport for physical security features (watermarks, holograms, UV threads, etc.).  \n• Confirm MRZ and chip data against the printed details, logging any discrepancies.  \n• Capture a clear photo of the data page and add a brief status note in my secure template before moving on to the next resident.  \n\nYou may bring your own verification tools—handheld UV lamp, magnifier, NFC reader, or a mobile document-scanner app are all welcome—but everything must be self-contained and quick to set up because residents will be scheduled in short windows.  \n\nAccuracy and discretion are paramount. If you spot even the slightest irregularity, flag it immediately so I can follow up. A concise daily report (in PDF or Excel) summarising verified names, results, and any issues will close out each visit.  \n\nLet me know your availability for weekday afternoons and what verification tools you normally use.",
+  "query": "data extraction",
+  "found_at": "2026-08-24 10:07"
+ },
+ {
+  "id": 40667481,
+  "title": "Urgent Detailed CAD Sections & Elevations",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010447,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/building-designer/Urgent-Detailed-CAD-Sections-Elevations",
+  "desc": "I need two building sections and two façade elevations fixed as it’s already done basics directly from the SketchUp model and the base plans I will supply. These drawings are for fully-fledged technical documentation, so everything must be highly detailed with clear annotations and my own custom line-weight scheme rather than a generic industry template.\n\nThe scope is tight:\n• Translate the SketchUp geometry faithfully into CAD.\n• Apply my line-weight standards layer-by-layer so the PDFs read cleanly at any scale.\n• Add all typical technical call-outs, levels, grids and key dimensions so the files are construction-ready.\n• Deliver both DWG (2013 or later) and plotted PDFs.\n\nTiming is critical—please start as soon as the files arrive and have all four sheets back to me no later than this Friday. If you work quickly in AutoCAD (or equivalent), understand façade detailing, and are comfortable tweaking line-weight tables to match a supplied legend, you’ll fit the brief perfectly. Send a short note confirming you can begin immediately and keep me updated with a mid-way draft for review.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-24 10:07"
+ },
+ {
+  "id": 40667495,
+  "title": "Publish Company Page on Wikipedia",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/content-writing/Publish-Company-Page-Wikipedia",
+  "desc": "I have gathered a full set of reliable, third-party sources—news articles, company reports, press releases, and additional PR pieces hosted on various websites and I now need a seasoned Wikipedia contributor to turn them into a live, fully approved company page.\n\nThe article must follow Wikipedia’s standard corporate template: lead summary, infobox, properly headed sections for history, products and services, key milestones, founders, awards, and investment rounds. Inline citations should be formatted with <ref></ref> tags, using only the sources I provide or that you independently locate and clear with me first. All writing has to meet the encyclopedia’s neutral-point-of-view and notability guidelines, with no promotional language.\n\nDeliverables  \n• Draft article in sandbox, complete with infobox and all citations  \n• Record of every source used (URL or PDF)  \n• Submission through Articles for Creation (AfC) or direct main-space move, as appropriate  \n• One revision round if a reviewer requests changes  \n• Confirmation link to the published, publicly viewable page\n\nAcceptance criteria: the page must survive review and appear in main space without maintenance tags for notability or conflict of interest.\n\nIf you have a strong track record of successful AfC approvals and understand the nuances of corporate pages, let’s get started right away.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-24 10:07"
  }
 ]
