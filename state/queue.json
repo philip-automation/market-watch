@@ -1532,5 +1532,18 @@
   "desc": "I need a sealed drainage plan that will satisfy Florida residential permitting requirements for a single-family lot. The parcel is in Florida, so the design must reference the relevant county stormwater ordinance, Florida Building Code, and any applicable FEMA flood-zone considerations.  \n\nThe end product should integrate cleanly into the overall site plan, showing surface grading, proposed inlets, pipe sizes, discharge points, and runoff calculations that demonstrate compliance with the allowable post-development flow rates. If you prefer to start from my survey and architectural footprint, I can supply the CAD files; if your workflow is different, let me know what formats you need and I will arrange them.\n\nDeliverables I will need:\n• Signed/sealed drainage plan sheet in PDF (24\"×36\") plus the native CAD file  \n• Supporting hydrologic/hydraulic calculations in PDF  \n• Brief memo summarizing assumptions, design criteria, and maintenance notes  \n\nPlease confirm your familiarity with Florida residential stormwater standards and give me an estimated turnaround time for the first draft and any expected revisions.",
   "query": "pdf extraction",
   "found_at": "2026-08-24 10:57"
+ },
+ {
+  "id": 40667673,
+  "title": "Android Gaming App Development",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010446,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/android-app-development/Android-Gaming-App-Development-40667673",
+  "desc": "I’m ready to turn my game idea into a fully-playable Android title and need a developer who can guide the project from first pitch to Google Play release. The exact genre is still open, so I value someone comfortable brainstorming mechanics, polishing the core loop, and advising on what will engage players on Android devices.  \n\nYou’ll handle coding, art or asset integration, UI/UX, testing, and deployment, making sure the final build meets current Android SDK requirements and runs smoothly across popular screen sizes. Whether you prefer Unity, Unreal, Godot, or native Kotlin/Java, I’m flexible as long as performance remains solid and the code base is clean and well-documented.\n\nI’d like regular playable builds, clear communication on milestones, and guidance on Play Store submission (store listing, signing, versioning, and post-launch updates).  \n\nDeliverables:  \n• Production-ready APK + full source  \n• Brief technical documentation and build instructions  \n• Assistance with first live release on Google Play  \n\nIf you’ve shipped Android games before and can demonstrate polished gameplay and stable FPS, let’s discuss timelines and your recommended tech stack.",
+  "query": "gpt integration",
+  "found_at": "2026-08-24 11:37"
  }
 ]
