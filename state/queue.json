@@ -1545,5 +1545,57 @@
   "desc": "I’m ready to turn my game idea into a fully-playable Android title and need a developer who can guide the project from first pitch to Google Play release. The exact genre is still open, so I value someone comfortable brainstorming mechanics, polishing the core loop, and advising on what will engage players on Android devices.  \n\nYou’ll handle coding, art or asset integration, UI/UX, testing, and deployment, making sure the final build meets current Android SDK requirements and runs smoothly across popular screen sizes. Whether you prefer Unity, Unreal, Godot, or native Kotlin/Java, I’m flexible as long as performance remains solid and the code base is clean and well-documented.\n\nI’d like regular playable builds, clear communication on milestones, and guidance on Play Store submission (store listing, signing, versioning, and post-launch updates).  \n\nDeliverables:  \n• Production-ready APK + full source  \n• Brief technical documentation and build instructions  \n• Assistance with first live release on Google Play  \n\nIf you’ve shipped Android games before and can demonstrate polished gameplay and stable FPS, let’s discuss timelines and your recommended tech stack.",
   "query": "gpt integration",
   "found_at": "2026-08-24 11:37"
+ },
+ {
+  "id": 40667698,
+  "title": "Sophos Firewall/Microsoft 365 & Infrastructure Administration",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.01045,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/network-security/Sophos-Firewall-Microsoft-Infrastructure",
+  "desc": "I need a seasoned IT Infrastructure Manager who can take full ownership of my mixed environment. The top priority is monitoring and securing our network through Sophos Firewall—reviewing current rules, tightening IPS and web policies, enabling meaningful alerts, and reacting to incidents before they escalate.\n\nBeyond the firewall, you’ll keep our Microsoft 365 tenant running smoothly. Exchange Online, , and properly governed with clear policies, permissions, and retention settings.\n\nOn-prem workloads sit on Windows Server hosts virtualised with Hyper-V. You’ll build new servers, harden and patch existing ones, watch performance counters, and troubleshoot anything from failed backups to unexpected reboots.\n\nDeliverables\n• Weekly health report summarising Sophos threat logs, network performance, and any remedial action taken  \n• Documented change log for every adjustment made in Sophos, Microsoft 365, or Windows Server  \n• Prompt resolution of all high-severity alerts.\n\nSuccess means a quiet monitoring dashboard, no unanswered alerts, and clear documentation. If you live daily inside Sophos Central, the Microsoft 365 admin centre, and Hyper-V Manager, I’m ready to work with you.",
+  "query": "web scraping",
+  "found_at": "2026-08-24 12:16"
+ },
+ {
+  "id": 40667692,
+  "title": "Daily Text Captcha Typing",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.01045,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/data-entry/Daily-Text-Captcha-Typing-40667692",
+  "desc": "I’m looking for reliable help entering a steady stream of text-based captchas. The workload is light—well under 1,000 entries per day—but accuracy is essential because each solved string is used immediately inside my application. You’ll log in to a web panel, type the captcha exactly as shown, submit, and move to the next one.  \n\nTurnaround should be near-real-time during the agreed shift, and I’ll spot-check results to keep accuracy above 98 %. If you have prior experience with captcha services or fast, error-free typing, this will be straightforward work you can slot into your daily routine.  \n\nLet me know your typical solving speed, your time zone, and when you can start.",
+  "query": "web scraping",
+  "found_at": "2026-08-24 12:16"
+ },
+ {
+  "id": 40667734,
+  "title": "Advanced AI & 3D Rendering for Blender",
+  "budget_min": 150000.0,
+  "budget_max": 250000.0,
+  "currency": "INR",
+  "usd_rate": 0.01045,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/blender/Advanced-Rendering-for-Blender",
+  "desc": "Project Title: AI-Driven 2D-to-3D / Video Generation Pipeline in Blender (Photo-real, 3D Cartoon, Anime Styles)\nCategory: 3D Animation / Blender Scripting / AI Integration\nDescription:\nWe have a working baseline Blender automation pipeline (built using Kiki K3) that generates basic 3D videos from 2D images. We're now looking to upgrade this into a more advanced system capable of true volumetric depth and multi-style rendering.\nCore Problem:\nOur current pipeline projects 2D images onto image planes, which results in a flat \"paper-cut\" look. We need to solve this by adding real volume, depth, and multi-view consistency (front/side/back/top) so outputs hold up from multiple camera angles — not just a flat cutout facing the camera.\nWhat We Need:\nIntegration of AI models/APIs for depth estimation and/or 3D mesh generation (e.g., depth-to-mesh, NeRF/Gaussian Splatting, or similar neural rendering approaches) into our existing Blender + automation workflow\nPBR-ready texturing for realistic material/lighting response\nSupport for three output styles: photo-realistic, 3D cartoon, and anime\nA functional prototype demonstrating the upgraded pipeline end-to-end\nDeliverables Requested from Applicants:\nA brief technical feasibility assessment — how you'd approach integrating AI-based 2D-to-3D volumetric workflows with Blender\nEstimated cost/fee structure for building the initial prototype\nExpected timeline and proposed resourcing/team structure for execution\nIdeal Skills:\nBlender Python API",
+  "query": "ai chatbot",
+  "found_at": "2026-08-24 12:16"
+ },
+ {
+  "id": 40667730,
+  "title": "Interior Design Lead-Gen Meta Ads",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.01045,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/ai-image-generation/Interior-Design-Lead-Gen-Meta",
+  "desc": "I need a results-driven specialist to plan, launch, and continuously optimise Meta advertising that brings qualified interior-design leads straight to my inbox. Campaigns will run on Facebook and Instagram only, and every asset must be purpose-built for lead generation rather than simple reach.\n\nCreative production is part of the brief. I want eye-catching AI-generated images and short video snippets that feel on-brand for high-end interiors. Whether you prefer Runway, Midjourney, Firefly, or another tool is up to you—as long as the final ads look polished, scroll-stopping, and are ready to upload in Meta Ads Manager.\n\nBecause lead quality matters more than sheer volume, I expect you to handle audience research, funnel setup, A/B testing, pixel or Conversion API configuration, and weekly performance tweaks so we can hit an efficient cost per lead. I’ll supply brand guidelines, past client photos, and any real project footage you might weave into the AI outputs.\n\nDeliverables  \n• Campaign structure and targeting plan  \n• 4–6 AI-generated image ads and 2–3 short video ads for initial launch  \n• Full ad copy and headlines tailored to each creative  \n• Ongoing optimisation report every seven days with clear next steps  \n\nAcceptance criteria  \n• All assets delivered in Meta-approved sizes/formats  \n• Campaigns live within one week of project start  \n• Cost per lead trend-line falling or stable after the first optimisation cycle\n\nIf you’re comfortable blending paid-social strategy ",
+  "query": "ai chatbot",
+  "found_at": "2026-08-24 12:16"
  }
 ]
