@@ -2559,5 +2559,31 @@
   "desc": "I need my GoHighLevel account configured so that sales activities run on autopilot. The focus is full-scale sales automation: every new lead should enter the right funnel, receive the correct sequence of follow-up emails, be scored in real time, and see available appointment slots without anyone on my team lifting a finger. My ultimate use case is to create automated real estate systems capturing all leads through social media, forms, manual lead creation, and import everything from FollowUpBoss CRM.\n\n1.⁠ ⁠Migration (blocking)\n\t•\tFUB migration incomplete — phone number, contacts, and fields not fully migrated. Notes in each FUB contact contain data that needs to be read and mapped into the correct GHL custom fields, not left as unstructured notes.\n\t•\tNumber porting not started — Twilio has no porting request on file. Need this submitted immediately; it’s a hard dependency for calls/texts going live.\n\n2.⁠ ⁠Data Foundation (do before building more automation on top)\n\t•\tContact fields — currently bloated/unstructured; needs a review and cleanup pass.\n\t•\tCustom values — not in use at all. Need to be implemented for both workflows and email templates so content (phone numbers, office info, links, etc.) is centrally managed instead of hardcoded.\n\t•\tTags, custom fields, and custom values — full review needed as a system foundation before further build-out.\n\t•\tLead scoring — currently done manually inside workflows. Should use GHL’s native lead scoring engine instead of workflow logi",
   "query": "data extraction",
   "found_at": "2026-08-24 23:12"
+ },
+ {
+  "id": 40668771,
+  "title": "Russian-English Affiliate Manager",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/affiliate-marketing/Russian-English-Affiliate-Manager",
+  "desc": "I need an experienced affiliate manager who can operate fluently in both Russian and English and drive SALES as the core KPI for our program.\n\nYour mission\n• Recruit and onboard high-quality content creators and influencers in Russian- and English-speaking markets.  \n• Negotiate commission structures, create tracking links, and supply creatives that convert.  \n• Monitor daily performance, spot optimization opportunities, and prepare concise reports.  \n• Coordinate product launches and seasonal pushes with selected partners.  \n\nDeliverables I expect\n1. A 30-day action plan outlining recruitment tactics, target verticals, and projected sales impact.  \n2. A vetted list of new affiliates (content creators and influencers) with contact details and agreed terms.  \n3. Weekly performance dashboard highlighting traffic, conversion, and revenue data.  \n4. Ongoing management and strategic recommendations for continual sales growth.  \n\nWhat will set you apart\n• Proven success scaling affiliate programs focused on sales results.  \n• Native-level command of both Russian and English—comfortable negotiating, writing outreach emails, and producing simple promo copy in either language.  \n• Familiarity with popular affiliate platforms such as Impact, Partnerize, or similar, plus solid analytics skills.  \n\nI’m open to fresh ideas and new tools, and once the core creator and influencer base is thriving, we can discuss expanding to coupon or deal sites. If you’re ready to own the full affiliate cy",
+  "query": "data extraction",
+  "found_at": "2026-08-24 23:40"
+ },
+ {
+  "id": 40668786,
+  "title": "Gestionnaire Ads Reddit & Facebook",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/facebook-ads/Gestionnaire-Ads-Reddit-Facebook",
+  "desc": "Je cherche un expert capable de concevoir, lancer et optimiser des campagnes publicitaires performantes sur Reddit et Facebook.  \nMon objectif est clair : augmenter les ventes de manière mesurable, tout en maintenant un ROAS positif.\n\nCe que j’attends :  \n• Audit rapide de mon tunnel actuel et sélection précise des audiences sur les deux plateformes.  \n• Création des visuels, messages et formats adaptés aux spécificités de Reddit et de Facebook (y compris Ads Manager).  \n• Paramétrage complet : structure des ensembles de publicités, pixels de suivi, événements, et exclusions pour éviter la cannibalisation.  \n• Optimisation continue : tests A/B, ajustements budgétaires, veille concurrentielle, et recommandations pour maximiser les conversions.  \n• Reporting hebdomadaire synthétique, assorti de KPIs clés (CPA, ROAS, CTR, CPM) et de suggestions d’amélioration.\n\nPour être retenu, merci d’inclure dans votre candidature des propositions de projet détaillées : votre méthodologie, les outils que vous utilisez (par exemple : Reddit Ads Dashboard, Facebook Ads Manager, Google Analytics, Hotjar), un planning estimatif et quelques résultats chiffrés obtenus sur des projets similaires.\n\nJe privilégie la transparence, la réactivité et une approche orientée performance. Si vous maîtrisez ces deux écosystèmes publicitaires et que vous savez transformer des clics en ventes, j’ai hâte de découvrir votre proposition.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-24 23:40"
  }
 ]
