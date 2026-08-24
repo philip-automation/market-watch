@@ -2429,5 +2429,83 @@
   "desc": "I have a collection of handwritten notes captured as photos and I need every piece of usable information moved cleanly into Excel. The content varies—some pages are straight text, others list figures, and a few contain rough tables—so I want each type of data extracted and placed on its own worksheet:\n\n• Text details on one sheet  \n• All numerical data on another  \n• Any table-style content rebuilt on a third\n\nAccuracy is critical: spelling must match the originals, numbers must remain exactly as written, and tables should preserve their row-and-column structure. Feel free to propose a smarter layout if you can justify why it serves the data better, but plan to deliver a single .xlsx file with those three clearly labelled tabs. A quick sample from one of the photos will be expected before we move on to the full batch so we can confirm formatting and clarity.",
   "query": "data extraction",
   "found_at": "2026-08-24 20:53"
+ },
+ {
+  "id": 40668654,
+  "title": "Meta Ads Manager",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010447,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/facebook-ads/Meta-Ads-Manager-40668654",
+  "desc": "I’m ready to scale a physical product line and need a Meta Ads specialist who can squeeze every last sale from Facebook. The objective is simple: build and optimise sales-conversion campaigns that turn cold traffic into paying customers.\n\nYou’ll get full access to my existing Business Manager, pixel, catalogue and creative assets. Your job is to structure the account, craft high-intent audiences, test copy and visuals, manage budgets and iterate quickly based on ROAS. Expect to work with CAPI, Advantage+ Shopping, look-alikes, dynamic product ads and whatever other tools you deem necessary to keep the conversion cost trending down.\n\nDeliverables:\n• Campaign set-up on Facebook focused on conversion events\n• Ad sets and creatives launched, tested and refined\n• Weekly performance reports with clear next-step actions\n• Ongoing optimisation until we hit agreed CPA/ROAS targets\n\nIf you thrive on data, love split-testing and have recent proof of scaling physical products on Facebook, let’s talk.",
+  "query": "data extraction",
+  "found_at": "2026-08-24 21:38"
+ },
+ {
+  "id": 40668666,
+  "title": "Advanced Modding Assistant and Tool Forge",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010447,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/game-development/Advanced-Modding-Assistant-Tool-Forge",
+  "desc": "Hi I Want a Jarvis For My Pc That Can Control Apps Like Blender , Vs Studio and So More Apps That Are Required To Make Game Mods.\nAnd There Are Some Games Whose Modding Tools Or Tutorials Are Not Available On Internet, GitHub,Reddit or Anywhere. There Should Be A Tool Forge Feature In That Jarvis That If No Tools Or Tutorials Are Available Jarvis Should Be Like No Problem Boss I Got It I Am Creating A Tool To Read This Game Files To Create Your Dream Mod So Called To Be (Impossible Mods).\nThere Should Be An Assistant Also With Whom I Will Talk About The Mod It Gives Me Suggestions Image , Video And Artifact Previews Like Meta Ai, Gemini , Chatgpt And More.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-24 21:38"
+ },
+ {
+  "id": 40668619,
+  "title": "Humanoid English Tutor Robot development",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/robotics/Humanoid-English-Tutor-Robot-development",
+  "desc": "### Project Title\n\n**4-Foot AI Humanoid English Teaching Robot Prototype**\n\n### Description\n\nWe are looking for an experienced **robotics / mechanical design expert** to help us develop a 4-foot humanoid robot for **spoken English learning in schools**.\n\nWe already have a concept design and basic hardware idea.\n\nThe robot should have:\n\n* Human-like 4-foot body\n* Screen face with animated eyes/expressions\n* Camera\n* Microphone and speakers\n* Moving head\n* Moving arms/hands\n* Raspberry Pi + ESP32\n* Servo-based movements\n* Stable base\n* 3D printed / PVC / acrylic / aluminium body\n\nThe robot will eventually use AI to **talk with students, ask English questions, evaluate pronunciation and provide feedback**.\n\n### What we need\n\nWe need someone who can:\n\n* Review our concept\n* Suggest better mechanical design\n* Create 3D CAD design\n* Design head, body, arms, hands and neck mechanisms\n* Recommend servos and electronics\n* Help with 3D printing / CNC / laser-cut fabrication\n* Build a working prototype if possible\n\n**Previous experience with humanoid robots, animatronics, social robots or similar projects is highly preferred.**\n\nPlease share **photos/videos of similar robots you have already built**.\n\nWe are interested in starting with the design/prototype and continuing for future versions if the collaboration is successful.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-24 21:38"
+ },
+ {
+  "id": 40668638,
+  "title": "Washington Stamped Redi-Rock Retaining Wall Design",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 19,
+  "url": "https://www.freelancer.com/projects/geotechnical-engineering/Washington-Stamped-Redi-Rock-Retaining",
+  "desc": "I need a Washington-licensed civil engineer to design a ~170' l.f., two-tier, 4' height (each tier) retaining wall for a permit package. The wall’s job is structural support along a sloped yard, and I want it built using Redi-Rock. Because groundwater moves through the area, especially from November to March, the design must include a connection to the integrated underdrain stormwater system —think perforated pipe, weep holes, and properly detailed filter fabric—to keep hydrostatic pressure down.\n\nYou’ll review my site measurements and photos, verify loading assumptions, and produce sealed calculations and drawings that meet the current Washington State and local county codes. Since the retaining wall be over 8' in height, permitting will require at least a cursory global stability analysis. I have soil maps, reports, and a geotechnical survey to speed things up.\n\nDeliverables  \n• Stamped structural calculations, including perfunctory global stability analysis (PDF)  \n• Plan, section, and elevation sheets sized for county submittal (PDF + DWG + SVG)  \n• Construction notes that spell out brick specification, reinforcement schedule, footing dimensions, geogrid lengths, and the complete drainage layout  \n• Your professional seal and signature for Washington State\n\nAcceptance criteria  \nThe building department must accept the plans without requesting major structural revisions. Files should open cleanly in AutoCAD, Adove Illustrator, and .pdf and plot to scale at 24\"×36\".\n\nI resp",
+  "query": "google sheets automation",
+  "found_at": "2026-08-24 21:38"
+ },
+ {
+  "id": 40668664,
+  "title": "Enterprise Cisco Network Deployment",
+  "budget_min": 50.0,
+  "budget_max": 150.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/network-engineer/Enterprise-Cisco-Network-Deployment",
+  "desc": "I need to take my current high-level design and turn it into a fully working enterprise-grade network that I can open in PNETLab and put straight into production. The build must revolve around Cisco routers and Layer 3 switches and use the following core features that are already sketched out:\n\n• VLANs with solid Inter-VLAN routing  \n• EtherChannel (LACP) for link aggregation  \n• MSTP spanning-tree optimisation  \n• Dual-router HSRP gateways  \n• OSPF as the single dynamic routing protocol  \n• End-to-end services: DHCP, NAT, DNS resolution, Site-to-Site IPsec VPN  \n• Tight, well-documented ACLs and other security controls\n\nYour job spans the whole lifecycle—design refinement and configuration, rigorous testing and troubleshooting, and the final security hardening. I will load everything into PNETLab, so every device must boot with clean, annotated startup-configs and work immediately once licenses are applied.\n\nAcceptance criteria:\n\n1. A PNETLab topology file with all nodes, links, and resource settings pre-defined.  \n2. Device configurations that deliver full reachability, successful OSPF adjacencies, stable HSRP failover, and zero spanning-tree loops.  \n3. Verified traffic flows for VLAN-to-VLAN, NAT-to-Internet, and VPN tunnels, captured in a short test report.  \n4. A concise document (PDF or Markdown) explaining design choices, security measures, and any commands a field engineer would need for future expansion.  \n5. Issue-free demonstration via screen share or recorded ses",
+  "query": "pdf extraction",
+  "found_at": "2026-08-24 21:38"
+ },
+ {
+  "id": 40668650,
+  "title": "Audiobook Production & Distribution",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/audio-editing/Audiobook-Production-Distribution",
+  "desc": "I have a finished non-fiction manuscript sitting in a Word/PDF file and I’m ready to turn it into a polished audiobook that the general public can stream or purchase on Amazon (Audible/ACX), Spotify, Facebook, Instagram, and LinkedIn.  \n\nWhat I need from you  \n• A clear, engaging narration that matches the direct, informative tone of the book.  \n• Professional editing, mastering, and chapter-level file splits that satisfy ACX and Spotify technical standards (RMS, peak level, noise floor, constant bitrate, etc.).  \n• An opening and closing credit read, plus short retail sample.  \n• Metadata sheet and simple instructions so I can upload without hiccups to each platform.  \n\nAcceptance criteria  \n1. All audio passes ACX quality control and plays cleanly on Spotify.  \n2. Each chapter delivered as its own high-quality MP3 plus a consolidated WAV/FLAC master.  \n3. Turn-in includes a brief guide showing exact upload steps for Amazon, Spotify, Facebook, Instagram, and LinkedIn.  \n\nIf you can provide a short audition from the first page, even better—I’ll confirm the voice direction quickly so we can move straight into full production.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-24 21:38"
  }
 ]
