@@ -2416,5 +2416,18 @@
   "desc": "Busco a un especialista que se haga cargo de mis campañas pagadas en Instagram y TikTok para aumentar la visibilidad de mi marca dentro del mercado peruano.  \n\nQué necesito de ti:  \n• Auditoría rápida del perfil y de los públicos actuales.  \n• Propuesta de segmentación específica para Perú.  \n• Creación de anuncios basados en imágenes atractivas (el formato prioritario que prefiero).  \n• Configuración y optimización diaria de las campañas.  \n• Reporte semanal con métricas clave de alcance, impresiones y costo por resultado, junto con recomendaciones claras para seguir creciendo.  \n\nMi objetivo principal es la notoriedad de marca, así que priorizaremos alcance y reconocimiento, aunque estoy abierto a explorar objetivos secundarios si aportan valor. Si además dominas formatos como Reels o Stories, lo consideraré un plus.  \n\nIndica en tu propuesta casos de éxito parecidos y las herramientas que utilizas habitualmente (Ads Manager, Creator Studio, Google Analytics, etc.). Quiero empezar cuanto antes.",
   "query": "google sheets automation",
   "found_at": "2026-08-24 20:17"
+ },
+ {
+  "id": 40668576,
+  "title": "Transcribe Photo Notes to Excel",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010442,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/copy-typing/Transcribe-Photo-Notes-Excel",
+  "desc": "I have a collection of handwritten notes captured as photos and I need every piece of usable information moved cleanly into Excel. The content varies—some pages are straight text, others list figures, and a few contain rough tables—so I want each type of data extracted and placed on its own worksheet:\n\n• Text details on one sheet  \n• All numerical data on another  \n• Any table-style content rebuilt on a third\n\nAccuracy is critical: spelling must match the originals, numbers must remain exactly as written, and tables should preserve their row-and-column structure. Feel free to propose a smarter layout if you can justify why it serves the data better, but plan to deliver a single .xlsx file with those three clearly labelled tabs. A quick sample from one of the photos will be expected before we move on to the full batch so we can confirm formatting and clarity.",
+  "query": "data extraction",
+  "found_at": "2026-08-24 20:53"
  }
 ]
