@@ -1467,5 +1467,70 @@
   "desc": "I have gathered a full set of reliable, third-party sources—news articles, company reports, press releases, and additional PR pieces hosted on various websites and I now need a seasoned Wikipedia contributor to turn them into a live, fully approved company page.\n\nThe article must follow Wikipedia’s standard corporate template: lead summary, infobox, properly headed sections for history, products and services, key milestones, founders, awards, and investment rounds. Inline citations should be formatted with <ref></ref> tags, using only the sources I provide or that you independently locate and clear with me first. All writing has to meet the encyclopedia’s neutral-point-of-view and notability guidelines, with no promotional language.\n\nDeliverables  \n• Draft article in sandbox, complete with infobox and all citations  \n• Record of every source used (URL or PDF)  \n• Submission through Articles for Creation (AfC) or direct main-space move, as appropriate  \n• One revision round if a reviewer requests changes  \n• Confirmation link to the published, publicly viewable page\n\nAcceptance criteria: the page must survive review and appear in main space without maintenance tags for notability or conflict of interest.\n\nIf you have a strong track record of successful AfC approvals and understand the nuances of corporate pages, let’s get started right away.",
   "query": "pdf extraction",
   "found_at": "2026-08-24 10:07"
+ },
+ {
+  "id": 40667523,
+  "title": "Advanced Cross-Platform Content Editor",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010446,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/c-sharp-programming/Advanced-Cross-Platform-Content-Editor",
+  "desc": "I’m building an all-in-one content editor that lets users create, edit, and preview text, images, and video from the same interface. The application must run smoothly on both desktop (Windows/macOS; think Electron, WPF, or Qt) and mobile (iOS + Android via React Native, Flutter, or native SDKs). A future web version is possible, so clean, modular code is important.\n\nCore text capabilities need to feel professional: real-time syntax highlighting for multiple languages, rich-text formatting (headings, links, tables, inline media), and an unobtrusive spell checker with multi-language dictionaries. Image tools should cover basic crop, resize, and metadata editing. Video handling can be limited to trimming, thumbnail capture, and playback preview for now.\n\nDeliverables\n• Source code and build instructions for desktop and mobile targets  \n• A polished UI/UX that mirrors features across platforms  \n• Documentation and an API or plugin system so new content types can be added later  \n• Quick test suite or demo scripts showing syntax highlighting, formatting, and media editing working together  \n\nAcceptance criteria\n1. Editor opens a mixed-content document on desktop and mobile without feature loss.  \n2. Syntax highlighting, rich-text commands, and spell check respond in <100 ms on a 10-page document.  \n3. Image crop and video trim export correctly and remain linked in the document.  \n4. Code passes linting/tests and compiles with one command per platform.  \n\nIf something in the scope",
+  "query": "web scraping",
+  "found_at": "2026-08-24 10:57"
+ },
+ {
+  "id": 40667564,
+  "title": "Data entry",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010446,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/data-entry/Data-entry-40667564",
+  "desc": "I am looking for a freelancer to assist with a data entry project. The ideal candidate should have experience in creating a format or template for data entry tasks. \n\nSpecific requirements for the project include:\n- Creating a format or template for data entry\n- Entering textual data into the provided format or template\n- Handling a medium-sized dataset, which consists of 500-1000 entries\n\nSkills and experience required:\n- Proficiency in data entry and data management\n- Attention to detail and accuracy in entering textual data\n- Ability to create a format or template for data entry tasks\n- Experience in handling medium-sized datasets\n\nIf you are interested in this project, please provide examples of your previous work in data entry and your proposed approach for creating the format or template.",
+  "query": "data extraction",
+  "found_at": "2026-08-24 10:57"
+ },
+ {
+  "id": 40667566,
+  "title": "Malaysia Pharma B2B Sales Closer",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010446,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/b2b-marketing/Malaysia-Pharma-Sales-Closer",
+  "desc": "I am preparing to launch a high-value line of pharmaceutical products into the Malaysian market and need a proven B2B seller who can turn board-room interest into signed purchase orders. Our buyers sit inside hospitals, private medical centres, group purchasing organisations and large pharmacy chains, so you must already understand how decisions are made in Malaysian healthcare and be comfortable navigating tender procedures, formulary committees and multi-step approval flows.  \n\nYour day-to-day work will centre on identifying the right decision makers, opening conversations that focus on clinical benefit and cost efficiency, handling every objection, and ultimately closing contracts worth six and even seven figures. Fluency in Bahasa Malaysia and English, plus an existing network in hospital procurement, will let you hit the ground running. CRM discipline, clear weekly pipeline updates and tight follow-through are essential, because our internal team will use your data to plan stock and regulatory activity.  \n\nDeliverables  \n• Weekly report summarising outreach, active opportunities and next actions  \n• Minimum five new qualified hospital or GPO opportunities added to the funnel each month  \n• Signed supply agreements or purchase orders that meet the agreed quarterly revenue target  \n\nI can provide full product dossiers, clinical papers, and price structures; you bring the relationships and closing skills needed to make this launch a commercial success.",
+  "query": "data extraction",
+  "found_at": "2026-08-24 10:57"
+ },
+ {
+  "id": 40667544,
+  "title": "YouTube Business Case Study Editor",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010446,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/data-visualization/YouTube-Business-Case-Study-Editor",
+  "desc": "I'm looking for an experienced YouTube editor to create engaging business case study videos. \n\nKey Requirements:\n- Edit videos specifically for business case studies\n- Incorporate data analysis insights, real-world examples, and visual aids like charts and graphs\n- Craft a professional, polished final product suitable for a business audience\n\nIdeal Skills and Experience:\n- Proficiency in video editing software (e.g., Adobe Premiere Pro, Final Cut Pro, DaVinci Resolve)\n- Strong understanding of data visualization and analysis\n- Experience in creating content for a professional or business-oriented YouTube channel\n- Attention to detail and ability to work within a specified budget",
+  "query": "data extraction",
+  "found_at": "2026-08-24 10:57"
+ },
+ {
+  "id": 40667600,
+  "title": "Florida Residential Drainage Plan",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010446,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/land-surveying/Florida-Residential-Drainage-Plan",
+  "desc": "I need a sealed drainage plan that will satisfy Florida residential permitting requirements for a single-family lot. The parcel is in Florida, so the design must reference the relevant county stormwater ordinance, Florida Building Code, and any applicable FEMA flood-zone considerations.  \n\nThe end product should integrate cleanly into the overall site plan, showing surface grading, proposed inlets, pipe sizes, discharge points, and runoff calculations that demonstrate compliance with the allowable post-development flow rates. If you prefer to start from my survey and architectural footprint, I can supply the CAD files; if your workflow is different, let me know what formats you need and I will arrange them.\n\nDeliverables I will need:\n• Signed/sealed drainage plan sheet in PDF (24\"×36\") plus the native CAD file  \n• Supporting hydrologic/hydraulic calculations in PDF  \n• Brief memo summarizing assumptions, design criteria, and maintenance notes  \n\nPlease confirm your familiarity with Florida residential stormwater standards and give me an estimated turnaround time for the first draft and any expected revisions.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-24 10:57"
  }
 ]
