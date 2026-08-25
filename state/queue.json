@@ -1415,5 +1415,57 @@
   "desc": "*1. JUDUL PROYEK*\n`Desain Rumah Tinggal 2 Lantai Gaya Minimalis Modern - Luas 8x12m\n\n*2. TUJUAN PROYEK*\n desain rumah dengan gaya [minimalis modern/tropis/scandinavian]. Fokus: fungsional, banyak cahaya, dan hemat budget.\n\n*3. DETAIL SPESIFIKASI RUMAH*\n- *Luas Tanah*: [8m x 12m]\n- *Luas Bangunan*: [±90m2]\n- *Jumlah Lantai*: [1 / 2 lantai]\n- *Jumlah Kamar*: [3 Kamar Tidur, 2 Kamar Mandi]\n- *Ruangan Wajib*: [Ruang Tamu, Ruang Keluarga, Dapur, Ruang Makan, Carport 1 Mobil]\n- *Gaya Arsitektur*: [Minimalis modern, atap pelana, banyak jendela besar]\n- *Budget Bangun*: [± Rp 400 juta]\n\n*4. KEBUTUHAN GAMBAR/DESAIN*\nSaya butuh:\n1. *Denah*: Denah lantai 1 & 2 ukuran A3\n2. *Tampak*: Tampak depan, samping, belakang\n3. *3D Eksterior*: 2-3 view render realistis\n4. *3D Interior*: Ruang tamu + Kamar utama\n5. *File*: PDF + DWG + JPG render\n\n*5. REFERENSI & INSPIRASI*\nSaya suka gaya seperti ini: [link Pinterest/IG]\nWarna dominan: \nYang TIDAK mau: [atap datar, terlalu banyak sekat]\n\n*6. DEADLINE & REVISI*\n- *Deadline*: [14 hari kerja]\n- *Revisi*: [Termasuk 3x revisi minor]\n[Putih][abu][kayu]\n\n*7. INFO TAMBAHAN*\n- Orientasi matahari: [Hadap Utara]\n- Catatan khusus: [Butuh banyak ventilasi karena daerah panas]",
   "query": "pdf extraction",
   "found_at": "2026-08-25 18:17"
+ },
+ {
+  "id": 40670781,
+  "title": "Spanish Social Media Launch Content",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/article-writing/Spanish-Social-Media-Launch-Content",
+  "desc": "Estoy preparando la campaña de gran inauguración para e-Planos.com y necesito un creador de contenido con español nativo que pueda transformar el material existente en el sitio web y en nuestro folleto en una serie de publicaciones diarias durante dos semanas.\n\nAlcance\n• Plataformas: Instagram, Facebook, LinkedIn, Pinterest, X y WhatsApp Business; aunque Instagram, Facebook y LinkedIn son la prioridad.\n• Enfoque de formato: videos cortos y llamativos. Puedes combinar imágenes estáticas y fragmentos de texto extraídos del sitio, pero cada día debe girar en torno a un video breve siempre que sea posible.\n• Volumen: 14 días consecutivos, 1 publicación por red al día (se permite la publicación cruzada cuando tenga sentido).\n\nLo que te proporcionaré\n– Acceso total a todas las cuentas de redes sociales.\n– El folleto de e-Planos (PDF) y permiso para reutilizar cualquier imagen o texto que aparezca en el sitio web.\n\nLo que necesito de ti\n– Un calendario de contenidos sencillo que muestre qué se publicará cada día.\n– Edición creativa: recortar imágenes, añadir gráficos en movimiento, superponer subtítulos... todo lo que haga destacar la gran inauguración.\n– Textos (captions) originales en español y una lista seleccionada de hashtags inteligentes y relevantes para el negocio, ya que no tengo ninguno predefinido.\n– Programación de las publicaciones directamente en cada plataforma (Meta Business Suite, LinkedIn, etc.) una vez que yo apruebe el calendario.\n\nCriterios de aceptación\n1. 14 p",
+  "query": "web scraping",
+  "found_at": "2026-08-25 19:05"
+ },
+ {
+  "id": 40670734,
+  "title": "Zoho Payroll Specialist for Setup & Automation",
+  "budget_min": 37500.0,
+  "budget_max": 75000.0,
+  "currency": "INR",
+  "usd_rate": 0.010499,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/automation/Zoho-Payroll-Specialist-for-Setup",
+  "desc": "Need an experienced Zoho Payroll specialist for configuration and automation work. Not a generalist Zoho CRM/Books person — must have implemented Zoho Payroll specifically.\n\nScope of work:\n\nAudit an existing Zoho Payroll setup and identify what is misconfigured vs what genuinely needs custom work\nBuild automation using custom functions (Deluge), workflow rules and scheduled tasks\nDesign custom fields and modules to replace data currently held in Excel\nAutomate recurring salary components that are presently calculated by hand each cycle\nSet up date-triggered alerts based on employee service milestones\nWork with the one-time earnings and deductions bulk import path\nTest against historical figures so the client can see the new logic matches their existing numbers before cutover\nDocument everything so an HR team can run it without you\n\nMust know:\n\nWhich Zoho Payroll features are gated behind Premium vs Professional plans, and how that constrains a solution design\nThe limits of Salary Withhold and when New Joinee Arrears is the correct feature instead\nHow to handle a salary component that has no native support in Zoho Payroll\n\nStrong plus:\n\nGCC/UAE payroll experience — gratuity, annual leave salary, WPS\nExperience across more than one Zoho Payroll regional edition\nZoho People or Zoho Flow alongside Payroll\n\nYour bid must answer these or it will not be reviewed:\n\nHow many Zoho Payroll implementations have you completed end to end?\nWhich regional editions have you worked in?\nDescrib",
+  "query": "data extraction",
+  "found_at": "2026-08-25 19:05"
+ },
+ {
+  "id": 40670789,
+  "title": "AI Anime Rom-Com Video Creation",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010499,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/ai-animation/Anime-Rom-Com-Video-Creation",
+  "desc": "I want to launch a series of short, anime-style rom-com sketches on my YouTube channel and need someone who can generate the visuals entirely with AI tools, then stitch everything into a polished 1–2 minute video. The storyline, voice-over and music are ready on my side; what I’m missing is the animated component—stylish, colorful, and unmistakably “anime” in look and feel.\n\nYour job is to handle the full visual pipeline: prompt-crafting or fine-tuning the model, creating fluid motion, adding subtle character expressions, and delivering a final 1080p (or higher) MP4 that matches the timing of my audio track. If you prefer working in Stable Diffusion, Runway, AnimateDiff, or a comparable platform, just let me know; I’m flexible as long as the end product is smooth and on-model throughout.\n\nTo keep things organised, I’ll provide a rough storyboard and the voice track once we start. In return, I need:\n• The completed 1–2 minute video, fully synced to my audio  \n• Source project files or prompts for future edits  \n• Two short (10-second) teasers trimmed from the finished piece for channel promotion  \n\nDeliver on those three points and we’re good. Looking forward to seeing how you bring this rom-com concept to life with AI animation magic!\n\nSend a Sample videos.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-25 19:05"
+ },
+ {
+  "id": 40670785,
+  "title": "Budget Restaurant Concept & Elevations",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010499,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/architectural-visualization/Budget-Restaurant-Concept-Elevations",
+  "desc": "I am developing a cost-conscious yet memorable restaurant that combines three distinct experiences under one roof: an all-day dining area, a playful game zone, and a versatile banquet hall, capped by an inviting rooftop. I need a modern concept package that ties the whole property together while making each zone feel special.\n\nScope of work  \nYou will translate my functional brief into an integrated concept that includes:  \n• A complete space-planning layout showing dining, kitchen, circulation, game zone, banquet hall, rooftop seating, services, and back-of-house.  \n• Mood-board level interior concepts for every zone, clearly illustrating palette, finishes, furniture style, and accent features.  \n• Exterior elevations that give the building a fresh, contemporary street presence.  \n• A signature selfie point that encourages social-media sharing.  \n• Strategies for unique, cost-efficient lighting and pockets of greenery that flow organically through the project.  \n\nWhat I value  \nCreativity is vital, but solutions must stay mindful of budget—smart material choices, modular furniture ideas, and multipurpose design moves will be key. The concept should feel cohesive from curbside to rooftop, offering guests a seamless “wow” moment at every step.\n\nDeliverables & acceptance  \n1. Annotated master layout (PDF + CAD).  \n2. 3D perspective renders (minimum 2 per zone).  \n3. Colored elevations (front and side).  \n4. Material / lighting specification sheets with indicative costs or local",
+  "query": "google sheets automation",
+  "found_at": "2026-08-25 19:05"
  }
 ]
