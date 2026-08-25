@@ -1688,5 +1688,18 @@
   "desc": "Busco un animador profesional con experiencia en Spine 2D para preparar y animar un personaje principal de un videojuego tipo slot/casino con temática vikinga.\nYa tengo el diseño del personaje: un enano vikingo con hacha y escudo.\nNecesito:\n- Preparación/separación del personaje para animación.\n- Rig completo en Spine 2D.\n- Un único rig reutilizable.\n- 4 animaciones:\n  - Idle\n  - Power Attack\n  - Victory / Big Win\n  - Bonus Entry\n- Movimientos secundarios de barba, ropa, hacha y escudo.\n- En Power Attack, un evento llamado impact para sincronizar efectos dentro del juego.\n- Todas las animaciones deben regresar correctamente a Idle.\n- Exportación compatible con PixiJS/Web.\n- Entrega del archivo fuente editable .spine.\n- Entrega de JSON, atlas y texturas necesarias para integración.\n- Rig organizado para poder agregar nuevas animaciones en el futuro.\n- Derechos de uso comercial.\n- Al menos una ronda de correcciones.\nEl plazo ideal es de 4 a 6 días.\nBusco a alguien con experiencia real trabajando específicamente con Spine 2D. Por favor indicar precio total y, si es posible, enviar ejemplos de personajes previamente riggeados y animados en Spine.",
   "query": "web scraping",
   "found_at": "2026-08-25 22:09"
+ },
+ {
+  "id": 40671063,
+  "title": "Lead Generation Specialist for Graphic Design",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/lead-generation/Lead-Generation-Specialist-for-Graphic",
+  "desc": "Project Title\nClient Acquisition & Lead Generation Specialist Needed for Graphic Design & Branding Projects\nProject Description\nLooking for an experienced Lead Generation / Sales / Client Acquisition Specialist to bring in high-paying graphic design and branding clients for me.\nWhat I Offer to Clients:\nProfessional Logo Design & Brand Identity\nUrgent / Express Delivery options available (24–48 Hours)\nHigh-quality Vector, Source Files (AI, EPS, PSD, SVG, PNG)\nPremium Customer Support\nYour Role:\nFind and acquire clients who need logo design, rebrand, or visual identity services.\nPitch the services, negotiate, and close the deal.\nManage the initial communication until the project is awarded.\nPayout Structure:\nFixed Base Pay + Performance Commission: A agreed base fee plus 15% to 20% commission for every successfully closed project/client.\nRequirements:\nProven experience in B2B lead generation, cold outreach, or freelancing sales.\nExcellent communication skills in English.\nStrong track record of acquiring international clients.\nPlease submit your proposal with examples of past client acquisition success!",
+  "query": "ai chatbot",
+  "found_at": "2026-08-25 22:49"
  }
 ]
