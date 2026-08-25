@@ -1701,5 +1701,18 @@
   "desc": "Project Title\nClient Acquisition & Lead Generation Specialist Needed for Graphic Design & Branding Projects\nProject Description\nLooking for an experienced Lead Generation / Sales / Client Acquisition Specialist to bring in high-paying graphic design and branding clients for me.\nWhat I Offer to Clients:\nProfessional Logo Design & Brand Identity\nUrgent / Express Delivery options available (24–48 Hours)\nHigh-quality Vector, Source Files (AI, EPS, PSD, SVG, PNG)\nPremium Customer Support\nYour Role:\nFind and acquire clients who need logo design, rebrand, or visual identity services.\nPitch the services, negotiate, and close the deal.\nManage the initial communication until the project is awarded.\nPayout Structure:\nFixed Base Pay + Performance Commission: A agreed base fee plus 15% to 20% commission for every successfully closed project/client.\nRequirements:\nProven experience in B2B lead generation, cold outreach, or freelancing sales.\nExcellent communication skills in English.\nStrong track record of acquiring international clients.\nPlease submit your proposal with examples of past client acquisition success!",
   "query": "ai chatbot",
   "found_at": "2026-08-25 22:49"
+ },
+ {
+  "id": 40671074,
+  "title": "Online Rental Boyfriend Platform Development",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010505,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/web-development/Online-Rental-Boyfriend-Platform-40671074",
+  "desc": "I’m ready to launch an “online rental boyfriend” service and need the complete platform built out as both a responsive website and companion mobile apps (iOS and Android). The core flow is straightforward: visitors browse available “boyfriend” profiles, check schedules, book time slots, and chat securely within the app—everything authenticated through phone-number verification to keep onboarding simple and fraud-resistant.\n\nWhat I need engineered:\n• A modern web front-end plus native or cross-platform mobile apps that stay visually consistent.  \n• Profile management for the rental boyfriends—photos, bio, rates, availability calendar—and a public browsing grid with filters.  \n• A real-time booking engine that blocks double bookings, handles cancellations, and sends SMS / in-app notifications.  \n• An in-app messaging system (text first, with the architecture ready for voice/video add-ons later).  \n• Admin dashboard where I can vet new boyfriend accounts, adjust fees, issue refunds, and pull usage reports.\n\nPhone Number Verification must be the sole login method, integrating an SMS OTP provider such as Twilio or Firebase Auth. Data should be encrypted at rest and in transit; GDPR-ready consent screens are required because user data is sensitive.\n\nA brief acceptance checklist:\n1. Website and apps pass device-agnostic UI tests.  \n2. Booking clashes are impossible under load.  \n3. OTP login works globally and logs events.  \n4. Messages are stored securely and delivered instantly.  ",
+  "query": "web scraping",
+  "found_at": "2026-08-25 23:17"
  }
 ]
