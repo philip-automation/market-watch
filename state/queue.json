@@ -1467,5 +1467,83 @@
   "desc": "I am developing a cost-conscious yet memorable restaurant that combines three distinct experiences under one roof: an all-day dining area, a playful game zone, and a versatile banquet hall, capped by an inviting rooftop. I need a modern concept package that ties the whole property together while making each zone feel special.\n\nScope of work  \nYou will translate my functional brief into an integrated concept that includes:  \n• A complete space-planning layout showing dining, kitchen, circulation, game zone, banquet hall, rooftop seating, services, and back-of-house.  \n• Mood-board level interior concepts for every zone, clearly illustrating palette, finishes, furniture style, and accent features.  \n• Exterior elevations that give the building a fresh, contemporary street presence.  \n• A signature selfie point that encourages social-media sharing.  \n• Strategies for unique, cost-efficient lighting and pockets of greenery that flow organically through the project.  \n\nWhat I value  \nCreativity is vital, but solutions must stay mindful of budget—smart material choices, modular furniture ideas, and multipurpose design moves will be key. The concept should feel cohesive from curbside to rooftop, offering guests a seamless “wow” moment at every step.\n\nDeliverables & acceptance  \n1. Annotated master layout (PDF + CAD).  \n2. 3D perspective renders (minimum 2 per zone).  \n3. Colored elevations (front and side).  \n4. Material / lighting specification sheets with indicative costs or local",
   "query": "google sheets automation",
   "found_at": "2026-08-25 19:05"
+ },
+ {
+  "id": 40670875,
+  "title": "WordPress Adult Streaming Website",
+  "budget_min": 750.0,
+  "budget_max": 1500.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/video-streaming/WordPress-Adult-Streaming-Website",
+  "desc": "Hello!\nI am writing regarding the WordPress-based video subscription website project.\nThe goal is to build a VIP membership platform that follows the model of alettaoceanlive.com in terms of features, layout, and overall functionality.\nSince the nature of the content and video protection are critically important, I would like to clarify the technical architecture in advance to avoid any runtime and server-side bottlenecks.\nRequirements and questions regarding the project:\n1.\tVideo Infrastructure & Content Protection: I want to store and stream the videos securely via an external CDN (Bunny Stream), utilizing HLS encryption and anti-download protection. Do you have experience integrating Bunny Stream with WordPress?\n2.\tHosting / VPS Specifications: Since the videos will be served by Bunny Stream, the web server will exclusively run the WordPress core and the database. Which specific VPS provider and resource package (RAM, CPU, NVMe storage) do you recommend for this purpose?\n3.\tMembership & Payment System: Access management should be handled by MemberPress (or an equivalent solution), and recurring monthly subscriber card payments will be integrated via CCBill (or another adult-friendly payment gateway). Do you have relevant experience with this?\n4.\tReferences & Quote: Could you share 1–2 previous membership or video websites you have built? Please also provide an estimated price quote and expected delivery timeline.\nI will register and set up the hosting, domain, and video CD",
+  "query": "web scraping",
+  "found_at": "2026-08-25 19:48"
+ },
+ {
+  "id": 40670863,
+  "title": "Agentic AI Developer - Voice & Chat Automation",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/agentic-ai/Agentic-Developer-Voice-Chat-Automation",
+  "desc": "Agentic AI Developer - Voice & Chat Automation\n\nExpected Outcomes in This Role -\n\n• Voice and Chat Agentic Agents that successfully resolve the majority of customer interactions autonomously\n\n• Measurable reduction in reliance on static IVR menus and scripted chatbot workflows\n\n• Highly performant, scalable automation systems capable of supporting real-time interactions\n\n• Continuous improvement in automation accuracy, completion rates, and overall user experience\n\nRole Overview\n\nWe are seeking an experienced Agentic AI Developer to design, build, and optimize Voice and Chat Agentic Agents that handle customer interactions before they are transferred to live agents. This role focuses on creating intelligent, autonomous agents that resolve customer needs through natural voice and chat experiences, leveraging reasoning, context, and backend integrations instead of static scripts or decision trees.\n\nThe ideal candidate brings a strong technical foundation in LLMs, agent orchestration, and distributed systems, along with experience evolving traditional IVR or chatbot solutions into modern agentic AI architectures.\n\nKey Responsibilities\n\nAgentic AI Development\n\n• Design and implement Voice and Chat Agentic Agents capable of multi-step reasoning, tool execution, and dynamic decision-making\n\n• Develop agent architectures leveraging planning, tool usage, memory management, and orchestration frameworks\n\n• Build systems that enable agents to autonomously resolve customer intents end-to",
+  "query": "data extraction",
+  "found_at": "2026-08-25 19:48"
+ },
+ {
+  "id": 40670823,
+  "title": "Point Cloud Segmentation - AI Model to Segment Identical Object based on Geometry",
+  "budget_min": 250000.0,
+  "budget_max": 500000.0,
+  "currency": "INR",
+  "usd_rate": 0.010498,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/3d-visualization/Urgent-Point-Cloud-Segmentation",
+  "desc": "I need an experienced freelancer for identical object segmentation from point cloud data. This is an immediate requirement.\n\nImagine 10 identical objects of known dimensions that are tightly packed together. We already know the exact geometry and dimensions of one object. Using the camera image, 3D point cloud, and the known object geometry, the goal is to segment the point cloud into individual objects, even when they are touching or closely packed. Essentially, the system needs to determine where one object ends and the next begins, and accurately assign the corresponding 3D points to each object based on its expected size, shape, and spatial arrangement.\n\nIdeal skills and experience:\n- Proficiency in point cloud processing software\n- Strong background in object segmentation algorithms\n- Experience with 3D data visualization tools\n- Ability to deliver high-quality results under tight deadlines\n\nPlease include relevant experience in your application.",
+  "query": "data extraction",
+  "found_at": "2026-08-25 19:48"
+ },
+ {
+  "id": 40670876,
+  "title": "Create Mixed Media Interior Design Course",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010498,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/instructional-design/Create-Mixed-Media-Interior-Design",
+  "desc": "I’m building an online interior-design program and need end-to-end course content that blends engaging written lessons with companion video material. The result should feel like a cohesive, self-paced learning experience that moves smoothly between readable guides, downloadable worksheets, and clear on-camera explanations or screencasts.\n\nScope of work  \n• Develop a logical course outline with clear learning objectives for each module.  \n• Write concise, conversational lesson text (≈1,000–1,500 words per lesson) including practical examples, exercises, and reference images.  \n• Provide complete video scripts or detailed talking-point outlines matching each written lesson, noting where demonstrations, slides, or on-screen graphics appear.  \n• Supply any supporting assets: slide decks (PowerPoint/Keynote), worksheet PDFs, source image lists, and brief quiz questions to reinforce key concepts.\n\nStyle & voice  \nMaterial should be friendly yet authoritative—approachable for newcomers but rich enough to keep hobbyists and aspiring professionals engaged. Please avoid heavy jargon unless you immediately clarify it.\n\nTechnical notes  \n• All text delivered in Google Docs.  \n• Video scripts/outlines in Word or Google Docs, formatted for easy teleprompter import.  \n• Images and graphics must be royalty-free or original, with attribution noted.  \n• If suggesting software demonstrations (SketchUp, AutoCAD, Photoshop), specify version and provide screenshots or screen-capture cues.\n\nAccepta",
+  "query": "google sheets automation",
+  "found_at": "2026-08-25 19:49"
+ },
+ {
+  "id": 40670855,
+  "title": "Planos CYPE hoteles y viviendas",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "EUR",
+  "usd_rate": 1.16701,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/autodesk-revit/Planos-CYPE-hoteles-viviendas",
+  "desc": "Busco un delineante con dominio de CYPE que pueda generar la documentación técnica completa para proyectos comerciales, con un enfoque inicial en hoteles y, eventualmente, algunas viviendas unifamiliares asociadas. \n\nQué necesito:\n• Planos arquitectónicos y de ingeniería listos para obra, elaborados en CYPE.  \n• Detalles constructivos y listados de materiales coherentes con normativa local.  \n• Coordinación de instalaciones (estructuras, eléctricas, fontanería, climatización) dentro del mismo entorno BIM.  \n• Entrega de archivos editables (.cyc, .dwg) y versión PDF para revisión.\n\nCómo trabajaremos:\nProporcionaré esquemas preliminares, memorias y criterios de diseño. Espero que conviertas esa información en un set de planos claro y ordenado, siguiendo las buenas prácticas de presentación y nomenclatura.\n\nQué valoro en tu propuesta:\nPor favor, destaca tu experiencia concreta usando CYPE en proyectos similares. Si ya has desarrollado planos para hoteles o conjuntos residenciales, adjunta ejemplos o capturas.\n\nPlazo y comunicación:\nNecesito la primera entrega de planos base en un plazo estimado de dos semanas desde la adjudicación. Revisaremos juntos, harás los ajustes requeridos y cerraremos con la versión final lista para permisos y obra.\n\nSi tienes disponibilidad inmediata y la experiencia adecuada, me encantará colaborar contigo.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-25 19:49"
+ },
+ {
+  "id": 40670844,
+  "title": "Open Textbook",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010498,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/content-writing/Open-Textbook",
+  "desc": "I’m putting together an openly licensed textbook and need a collaborator who can take the project from concept to publication-ready files. The exact subject is still flexible, so whether your strengths lean toward academic, professional, or creative material, I’m interested in hearing how you’d approach the research and writing.  \n\nFormat is open as well—PDF, EPUB, or HTML all work for me—so feel free to recommend the best route for accessibility and distribution. We’ll pin down the final length once we have a solid outline; that could be a concise five-chapter primer or a full eleven-plus-section reference, depending on what best serves the topic and audience.  \n\nWhat I’m looking for:  \n• A well-structured outline with clear learning objectives  \n• Engaging, clearly written chapters with accurate citations  \n• Open-source images, figures, or tables where they add value  \n• Consistent application of an open license throughout  \n• Clean, accessible layout files ready for upload to an open repository  \n\nWhen you reply, please include examples of any textbooks or long-form educational content you’ve produced, note the authoring tools you prefer (LaTeX, InDesign, Pressbooks, Markdown, etc.), and briefly describe your workflow from initial outline to final export.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-25 19:49"
  }
 ]
