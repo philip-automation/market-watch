@@ -141,5 +141,70 @@
   "desc": "We are looking for an experienced Revit Structure & Rebar Modeling Specialist to translate finalized structural design documents into precise 3D reinforcement models and production drawings.\n\nPlease note: The structural design, reinforcement sizing, and complete documentation for all 19 beams in Phase 1 are already fully done. Your core task will be to interpret these comprehensive design documents/drawings and accurately model the 3D rebar in Autodesk Revit.\n\nIf Phase 1 is executed successfully, there is a strong pipeline of additional structural elements and future phases waiting.\n\nSoftware Provision Note: Selected candidates will be provided direct access to official Autodesk Revit and Autodesk Construction Cloud (ACC) licenses for the duration of this project.\n\nDetailed Scope of Work (Phase 1)\n1.\tDocument Interpretation & 3D Rebar Modeling: Carefully interpret structural rebar layout documents, schedules, and cross-sections (such as provided sample sheets) to model accurate 3D reinforcement for the 19 beam types in Autodesk Revit, adhering to cover, lap splices, and anchorage requirements.\n2.\tProduction Drawings Generation: Generate clean, professional structural drawings for each beam type, featuring:\no\tAccurate and comprehensive annotations, dimensions, and tagging.\no\tDetailed Longitudinal Sections (Long Sections) showing top, bottom, and bent-up bars.\no\tPrecise Cross-Sections at critical spans, supports, and mid-spans showing stirrup configurations and tie arrangements",
   "query": "google sheets automation",
   "found_at": "2026-08-25 08:02"
+ },
+ {
+  "id": 40669566,
+  "title": "Excel Sales Data Reformat & Percentages",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010463,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/data-analysis/Excel-Sales-Data-Reformat-Percentages",
+  "desc": "I’m supplying a raw Excel file that lists recent sales, and I need it cleaned up so the information is easy to read and work with. The task has two parts:\n\n• First, re-arrange or tidy the sheet wherever it’s messy—uniform column headers, clear number formats, and a logical flow that makes future filtering or pivoting straightforward.\n\n• Second, build in the one basic calculation I do require: percentage-change formulas that compare figures across the relevant periods already in the data. These should auto-fill down the sheet so updated numbers recalculate instantly.\n\nKeep everything in a single workbook, no external links, and please label any new columns you add. Once finished, I should be able to hand the file to a colleague who can grasp the structure immediately and trust the percentage calculations are correct.",
+  "query": "data extraction",
+  "found_at": "2026-08-25 08:56"
+ },
+ {
+  "id": 40669561,
+  "title": "Informatica-Driven SAP HANA Migration",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/informatica/Informatica-Driven-SAP-HANA-Migration",
+  "desc": "I need an experienced Informatica specialist to move data from our existing database landscape into SAP HANA. All mapping, transformation, and load activities must be built and executed in Informatica so we keep auditability and re-usability of the workflows.\n\nScope  \n• Analyse the current schemas and provide a detailed migration plan.  \n• Build Informatica mappings, sessions, and workflows that stage, cleanse, and load the data into SAP HANA tables.  \n• Reconcile record counts and key metrics to verify 100 % accuracy post-load.  \n• Supply runbooks and source files so my in-house team can repeat the process.\n\nEnvironment & tools  \nInformatica PowerCenter 10.x is already installed; access to SAP HANA database schemas and development accounts will be granted. If you prefer complementary tools such as Informatica Data Quality for profiling, let me know so I can arrange licenses in advance.\n\nTimeline  \nThe full migration and validation must be wrapped up within a month, so please outline a realistic schedule with milestones, including unit tests and final sign-off.\n\nAcceptance criteria  \n• All target tables in SAP HANA populated as per mapping specs.  \n• Zero data loss and no integrity violations; referential constraints validated.  \n• Complete technical documentation (mapping spec, workflow screenshots, and runbook).  \n\nShare a brief note on similar SAP HANA loads you have executed with Informatica and highlight any performance-tuning techniques you typically apply.",
+  "query": "data extraction",
+  "found_at": "2026-08-25 08:56"
+ },
+ {
+  "id": 40669553,
+  "title": "Omnichannel Brand Awareness Campaign",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010463,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/marketing/Omnichannel-Brand-Awareness-Campaign",
+  "desc": "I’m ready to ramp up our visibility and need a savvy marketer who can plan and run an integrated campaign across every major digital platform—search, social, display, email, and emerging channels that make sense for our audience. The single, clear objective is to increase brand awareness; every tactic you propose should roll up to that goal.\n\nI’m looking for someone who can think holistically, stitch together creative messaging with precise targeting, and optimise continuously through data-driven insights. Please respond with a detailed project proposal that walks me through your recommended strategy, the channels you’ll prioritise, sample KPI frameworks, and how you’ll report progress along the way. Feel free to showcase relevant past successes if they help illustrate your approach, but depth of strategy is what will guide my decision.\n\nOur timeline is flexible, so you’ll have room to develop a thoughtful plan, pilot ideas, and iterate. Let me know the milestones you’d set and any resources you’ll need from my side to launch smoothly.\n\nIf you excel at orchestrating multi-platform campaigns that leave a lasting impression, I look forward to reviewing your proposal.",
+  "query": "data extraction",
+  "found_at": "2026-08-25 08:56"
+ },
+ {
+  "id": 40669642,
+  "title": "French-Speaking Market Researcher – SME Problem Discovery",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/qualitative-research/French-Speaking-Market-Researcher-SME",
+  "desc": "We are looking for a French-speaking market researcher / B2B researcher to conduct an initial market discovery project with small and medium-sized businesses in French-speaking markets.\n\nObjective\n\nWe are not selling a product and this is not a traditional lead-generation or cold-calling campaign.\n\nOur goal is to discover real, recurring operational problems faced by SMEs that could potentially be solved with software.\n\nWe want evidence from real businesses rather than assumptions or generic market reports.\n\nTarget market\n\nPlease research SMEs in:\n\n* France\n* Wallonia, Belgium\n* Luxembourg\n\nPriority sectors:\n\n* Real estate\n* Consulting / professional services / agencies\n* E-commerce\n\nYour responsibilities\n\nYou will:\n\n* Identify approximately 30 relevant SMEs.\n* Identify the appropriate decision-maker (owner, founder, manager, etc.).\n* Research and document each company and contact.\n* Contact decision-makers in French using personalized outreach.\n* Request short 10–15 minute research conversations.\n* Conduct interviews when business owners/managers are willing to participate.\n* Ask open-ended questions and follow up on concrete examples.\n* Understand how businesses currently handle the problem and what tools/workarounds they use.\n* Document the findings clearly in Google Sheets.\n* Identify recurring problems, their frequency, impact and current solutions.\n* Provide a concise final summary of the strongest recurring problems and interesting opportunities.\n\nImportant – research ",
+  "query": "ai chatbot",
+  "found_at": "2026-08-25 08:56"
+ },
+ {
+  "id": 40669577,
+  "title": "Review Stock Market Product use case Architecture",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010463,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/architecture/Review-Stock-Market-Product-use",
+  "desc": "I have built a real-time Indian stock-market product and now need a fresh, expert eye on the underlying technical architecture. I want you to dive deep, question every assumption, and provide clear, actionable feedback on two fronts in particular:  \n\n- Architecture and use case diagrams and challenge and understand the issues associated if any\n- Scalability when this goes beyond initial limits\n\nWhat I expect from you  \n1. An architectural review document (PDF or Markdown) that maps the current components, pinpoints bottlenecks or overlap, and explains trade-offs.  \n2. A prioritised set of recommendations, each with an estimated effort level and expected impact.  \n\nYour experience in finance-grade systems will weigh heavily in my selection. If you have previously optimised high-throughput trading or analytics platforms, tell me about it when you apply; that context will help me trust your advice.  \n\nNo need for a full-blown security audit right now—though if that’s in your wheelhouse we can tackle it later. For this engagement, clarity, depth and candour on scale and integration are what matter most.",
+  "query": "gpt integration",
+  "found_at": "2026-08-25 08:56"
  }
 ]
