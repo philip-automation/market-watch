@@ -102,5 +102,44 @@
   "desc": "I have a batch of PDFs that must be turned into fully editable .docx files while keeping the layout looking the same to the naked eye—headings, tables, images, page breaks, everything. Some files are straightforward text, others mix graphics and scanned pages, so you’ll need reliable OCR alongside solid formatting skills in Word, Adobe Acrobat, ABBYY FineReader or similar tools.\n\nWhat I will send you: a folder of original PDFs, numbered in sequence.  \nWhat I expect back: a matching set of .docx files, each one named exactly like its source. I’ll compare the Word version side-by-side with the PDF; if spacing, bullet alignment or images shift noticeably, I’ll ask for a quick adjustment.\n\nDeliverables  \n• One clean, editable Word document per PDF supplied  \n• All fonts embedded or substituted so there are no missing-font warnings on open\n\nOnce the first file passes review, we’ll move through the rest at an agreed daily page rate. Let me know how many pages you can comfortably convert each day and which software you prefer to use so I can plan the schedule.",
   "query": "pdf extraction",
   "found_at": "2026-08-25 07:04"
+ },
+ {
+  "id": 40669453,
+  "title": "Commission-Driven Client Acquisition Caller",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/lead-generation/Commission-Driven-Client-Acquisition",
+  "desc": "I need a self-starting sales professional who can turn raw data into paying customers. Your day will begin by scraping and compiling fresh lead lists, then moving straight into 30–40 focused cold calls aimed at retail and local shops, restaurants, hotels, real-estate firms, construction companies, salons & beauty studios, fitness centers, schools, healthcare providers, automotive businesses, small enterprises and e-commerce brands.  \n\nThe goal on every call is simple: introduce our services, qualify interest, and push qualified prospects toward conversion. When a prospect shows intent, you’ll nurture the relationship with timely follow-ups until the deal closes. Throughout the process you’ll keep our lead sheet or CRM updated so I can see real-time progress.\n\nCompensation is performance-oriented: ₹1,000 fixed each month plus a 10 % commission on every client who signs. That commission has no cap, so the more deals you bring in, the higher your earnings climb.\n\nDeliverables I expect:\n• A clean, growing lead spreadsheet with contact details and industry tags  \n• Daily notes on calls made, outcomes, and next steps  \n• Weekly summary of conversions so we can release commissions quickly  \n\nIf you already have experience in cold calling, lead generation, or business development, you’ll hit the ground running. Let’s start closing new clients together.",
+  "query": "web scraping",
+  "found_at": "2026-08-25 08:02"
+ },
+ {
+  "id": 40663477,
+  "title": "Daily Customer Data Entry",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 20,
+  "url": "https://www.freelancer.com/projects/crm/Daily-Customer-Data-Entry-40663477",
+  "desc": "I need help maintaining a live Google Sheets file where new customer contact information is added every single day. You’ll receive raw details from our CRM export, copy-edit for consistency (names, email addresses, phone numbers, ZIP codes), then insert them into the correct columns without disturbing existing formulas or sorting rules.   \n\nAccuracy and swift turnaround are critical because the sheet drives our daily outreach. I update the source file by 5 p.m. GMT and expect the cleaned, fully entered records back in the shared sheet before 10 a.m. the next morning, Monday through Friday.  \n\nWhen you send your proposal, focus on a clear outline of your approach: how you’ll keep errors to a minimum, handle duplicate detection, and automate repetitive steps inside Google Sheets (e.g., using data validation, conditional formatting, or simple Apps Script if you prefer). A concise, step-by-step plan will help me choose quickly.  \n\nThe engagement will start with a one-day paid trial; if everything lines up—speed, accuracy, and communication—we’ll roll into an ongoing arrangement.",
+  "query": "data extraction",
+  "found_at": "2026-08-25 08:02"
+ },
+ {
+  "id": 40669503,
+  "title": "Revit 3D Rebar Modeling Specialist Needed",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010449,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/revit/Revit-Rebar-Modeling-Specialist-Needed",
+  "desc": "We are looking for an experienced Revit Structure & Rebar Modeling Specialist to translate finalized structural design documents into precise 3D reinforcement models and production drawings.\n\nPlease note: The structural design, reinforcement sizing, and complete documentation for all 19 beams in Phase 1 are already fully done. Your core task will be to interpret these comprehensive design documents/drawings and accurately model the 3D rebar in Autodesk Revit.\n\nIf Phase 1 is executed successfully, there is a strong pipeline of additional structural elements and future phases waiting.\n\nSoftware Provision Note: Selected candidates will be provided direct access to official Autodesk Revit and Autodesk Construction Cloud (ACC) licenses for the duration of this project.\n\nDetailed Scope of Work (Phase 1)\n1.\tDocument Interpretation & 3D Rebar Modeling: Carefully interpret structural rebar layout documents, schedules, and cross-sections (such as provided sample sheets) to model accurate 3D reinforcement for the 19 beam types in Autodesk Revit, adhering to cover, lap splices, and anchorage requirements.\n2.\tProduction Drawings Generation: Generate clean, professional structural drawings for each beam type, featuring:\no\tAccurate and comprehensive annotations, dimensions, and tagging.\no\tDetailed Longitudinal Sections (Long Sections) showing top, bottom, and bent-up bars.\no\tPrecise Cross-Sections at critical spans, supports, and mid-spans showing stirrup configurations and tie arrangements",
+  "query": "google sheets automation",
+  "found_at": "2026-08-25 08:02"
  }
 ]
