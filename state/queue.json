@@ -206,5 +206,57 @@
   "desc": "I have built a real-time Indian stock-market product and now need a fresh, expert eye on the underlying technical architecture. I want you to dive deep, question every assumption, and provide clear, actionable feedback on two fronts in particular:  \n\n- Architecture and use case diagrams and challenge and understand the issues associated if any\n- Scalability when this goes beyond initial limits\n\nWhat I expect from you  \n1. An architectural review document (PDF or Markdown) that maps the current components, pinpoints bottlenecks or overlap, and explains trade-offs.  \n2. A prioritised set of recommendations, each with an estimated effort level and expected impact.  \n\nYour experience in finance-grade systems will weigh heavily in my selection. If you have previously optimised high-throughput trading or analytics platforms, tell me about it when you apply; that context will help me trust your advice.  \n\nNo need for a full-blown security audit right now—though if that’s in your wheelhouse we can tackle it later. For this engagement, clarity, depth and candour on scale and integration are what matter most.",
   "query": "gpt integration",
   "found_at": "2026-08-25 08:56"
+ },
+ {
+  "id": 40669751,
+  "title": "Plain Text Data Entry",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010478,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/google-sheets/Plain-Text-Data-Entry-40669751",
+  "desc": "I have a batch of plain-text (.txt) documents that need to be lifted out of their current loose-file state and entered accurately into a structured format. The job is straightforward: open each file, copy the contents exactly as they appear (preserving line breaks and basic punctuation), and paste them into the destination I provide—most often an Excel sheet, though I’m open to a Google Sheet if that is easier for you.\n\nConsistency and zero-error typing are critical. All characters, including special symbols or accent marks, must carry over intact, and you’ll flag any unreadable fragments so I can review them. \n\nWhen you deliver, I’ll check:\n• Every source file is accounted for.  \n• Text matches the original byte-for-byte (no dropped lines, doubled spaces, or smart-quote substitutions).  \n• Sheet rows remain in the same order as my file list.\n\nOnce everything passes that spot check, I release the milestone and we move on to the next folder. If you work quickly and cleanly, there will be additional batches ready straight away.",
+  "query": "data extraction",
+  "found_at": "2026-08-25 09:47"
+ },
+ {
+  "id": 40669672,
+  "title": "Calm Instagram Reels Editing",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010478,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/adobe-premiere-pro/Calm-Instagram-Reels-Editing",
+  "desc": "I shoot short “video editar” clips for Instagram and need someone who can turn that raw footage into polished Reels that feel smooth, relaxed, and effortlessly watchable. Think gentle pacing, tasteful instrumental beds, and transitions that glide instead of snap.\n\nWhat matters most to me is flow: colour-matched shots, subtle motion graphics where they help, and audio levels that keep the music present without overpowering any spoken bits. I usually deliver vertical 1080×1920 files, plus any brand assets, and I’d like the finished reel returned in the same resolution (MP4, H.264), ready to post. If you’re cutting in Premiere Pro, Final Cut, DaVinci Resolve, or CapCut I’m fine—use whatever you’re fastest in, just export cleanly.\n\nOnce we start, I’ll provide:\n• Raw footage (Google Drive link)  \n• A short brief for each reel (storyline, duration target, text overlays if needed)  \n• Brand font and colour codes  \n\nYou’ll return:\n• Final edited Reel  \n• One thumbnail image pulled from the edit  \n• Optional: the project file so I can make tiny tweaks later if needed  \n\nSmooth transitions, calm pacing, and instrumental music are non-negotiable. If that’s your style too, let’s get a reel underway this week.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-25 09:47"
+ },
+ {
+  "id": 40669756,
+  "title": "Publish Articles on Guest Sites",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010478,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/blog-writing/Publish-Articles-Guest-Sites",
+  "desc": "You need to post guest blog posting on the agreed websites. Write basic content using chatgpt and link with given landing pages.",
+  "query": "chatgpt api",
+  "found_at": "2026-08-25 09:47"
+ },
+ {
+  "id": 40669716,
+  "title": "Short Film Edit Assistance",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010478,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/after-effects/Short-Film-Edit-Assistance",
+  "desc": "I’m sitting on a folder of raw footage for a narrative short and need a sharp-eyed editor to transform it into a seamless final cut. The goal is simple: get the video fully edited so it plays smoothly from first frame to last.\n\nYou’ll receive all takes, reference notes, and a draft script that lays out the intended flow. I’m open to your creative suggestions—whether that means tightening pacing, grading the colour for a consistent mood, or weaving in tasteful transitions and effects where they add impact. Audio is already cleaned, so your main focus stays on the picture edit.\n\nPlease work in Premiere Pro, DaVinci Resolve, or another professional NLE you’re comfortable with; I’ll need the finished 1080p file plus the project file so I can archive the timeline. One revision pass is included to fine-tune timing or minor aesthetic tweaks after I review the first export.\n\nIf you thrive on shaping story through rhythm and visuals, let’s get started.",
+  "query": "python script",
+  "found_at": "2026-08-25 09:47"
  }
 ]
