@@ -1610,5 +1610,70 @@
   "desc": "Architectural Review & Minor Improvement of Final House Plan\n\nI am looking for an experienced residential architect to review and make minor improvements to my nearly final 453.5 m² single-storey house plan. I will provide both PDF and editable DWG files.\n\nThe house is for a family of five – two parents and three children.\n\nThe main concept must remain unchanged:\n\n3 children's bedrooms on the east\n\nMaster bedroom on the west\n\nLiving room, dining and kitchen on the south\n\nTechnical/service rooms mainly on the north\n\nGarage, veranda and future swimming pool in their current general locations\n\n\nI do not want a new concept or major redesign. I want practical improvements to room dimensions, circulation, doors, windows, furniture layout, bathrooms, storage, privacy, acoustics and everyday functionality.\n\nThe house should have a flat stepped roof, with several horizontal roof/parapet levels of approximately 3.20 / 3.40 / 3.60 m, including proper drainage and provision for photovoltaic panels.\n\nPlease also check:\n\ngarage-to-kitchen/pantry access\n\nplumbing and wet-room positions\n\ntechnical/HVAC spaces\n\nstructural practicality\n\nunnecessary or wasted space\n\npossible expensive or difficult construction details\n\n\nPlease quote separately for:\n\nOption A: Professional review + annotated PDF + recommended improvements.\n\nOption B: Review + implementation of approved improvements in the DWG.\n\nPlease include your price, delivery time, relevant experience and examples of similar residential proj",
   "query": "pdf extraction",
   "found_at": "2026-08-25 20:51"
+ },
+ {
+  "id": 40670980,
+  "title": "Commission-Only Sales Partner – 30% Per Website Sale",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/sales/Commission-Only-Sales-Partner-Per",
+  "desc": "## Commission-Only Sales Partner – 30% Per Website Sale\n\nI’m looking for a motivated freelance sales partner to help me find and close clients who need professional websites.\n\nThis is a **100% commission-based opportunity**.\n\n**There is no base salary, hourly pay, or upfront payment.**\n\n### What you’ll earn\n\nYou receive **30% commission on every client you personally close**.\n\nTypical website prices are:\n\n* $500–$1,500+ per project\n* Your commission: approximately $150–$450+ per closed client\n* No commission cap\n* The more clients you close, the more you earn\n\n### Your role\n\nYou will be responsible for:\n\n* Finding potential clients\n* Contacting prospects\n* Starting conversations\n* Understanding what they need\n* Presenting our website service\n* Following up with prospects\n* Closing deals\n\nYou can use your own preferred methods, including LinkedIn, email outreach, social media, cold outreach, networking, or other ethical sales channels.\n\n### My role\n\nI handle everything related to the website itself:\n\n* Web design\n* Development\n* AI-assisted development when appropriate\n* Revisions\n* Client requests\n* Final delivery\n\nYou focus on sales. I focus on building and delivering the websites.\n\n### Who I’m looking for\n\nExperience in sales, lead generation, appointment setting, cold outreach, or business development is preferred, but strong beginners are also welcome.\n\nYou should be:\n\n* Comfortable communicating with potential clients\n* Proactive and independent\n* Able to follow up consi",
+  "query": "web scraping",
+  "found_at": "2026-08-25 21:37"
+ },
+ {
+  "id": 40670987,
+  "title": "64×80 mm 320-RGB LED PCB Design",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "EUR",
+  "usd_rate": 1.167385,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/electronic-design/RGB-LED-PCB-Design",
+  "desc": "I need a compact, production-ready PCB that fits 320 individually addressable RGB pixels into a ~64 × 80 mm footprint. The LEDs (WS2812C-2020 or similar addressable RGB LEDs) must sit in a precise 16 × 20 grid with a 4 mm centre-to-centre pitch. All LEDs go on the top layer; \nThe 5 V, GND, DIN and DOUT Solder points should be on the rear side, so routing should stay to a straightforward two-layer stack-up. (See the attached image)\n\nPlease use a HASL lead-free finish and follow the usual application notes: suitably wide power traces for roughly 5 A peak, a clean serpentine data path that lets me chain multiple boards edge-to-edge. (See the image) Vias, stitching and grounding strategy are at your discretion provided the board remains manufacturable at common fabs such as JLCPCB or PCBWAY.\n\nPreferred toolchain is KiCad 7; if you work in Altium or Eagle, just make sure I still receive KiCad-compatible Gerbers and PnP data.\n\nDeliverables\n• Gerber, drill and IPC-356 net-list files  \n• Pick-and-place/centroid file and BOM with exact LED footprint reference  \n• Source project in KiCad 7 (or exported equivalent)  \n• Quick fabrication note confirming two-layer stack-up and HASL lead-free finish\n\nThe design is considered done once it passes KiCad DRC and JLCPCB’s online pre-check with the LEDs perfectly aligned to the 4 mm grid.",
+  "query": "data extraction",
+  "found_at": "2026-08-25 21:37"
+ },
+ {
+  "id": 40670984,
+  "title": "Modular Flight Rights Platform",
+  "budget_min": 10000.0,
+  "budget_max": 15000.0,
+  "currency": "INR",
+  "usd_rate": 0.010505,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/api-developmet/Modular-Flight-Rights-Platform",
+  "desc": "The project centres on a green-field, service-oriented “Flight Rights Intelligence Platform”.  I need a cleanly separated architecture in which every major domain concern can evolve on its own release cycle yet still work together through well-defined APIs.\n\nKey deliverables  \n• Flight-data ingestion service able to plug in multiple external providers (REST, SOAP, SFTP or future formats) and let me add or drop a provider with no code change in downstream modules.  \n• Normalised historical flight database optimised for both point-in-time look-ups and bulk analytics.  \n• Regulatory rules engine that is fully version-controlled.  A ruleset must be timestamped, stored, and traceable so any decision can be reproduced even years later.  \n• Evidence processing microservice that accepts boarding passes, weather feeds, NOTAMs, etc., and links them to each claim.  \n• Compensation calculator that applies the active ruleset to the captured evidence to produce a legally sound payout recommendation.  \n• Claim-outcome tracker to record negotiations, airline responses, paid amounts and final status.  \n• A decision engine façade that orchestrates the above services and exposes a single, stable endpoint to client apps.\n\nTechnical expectations  \nThe stack is open, but the solution has to be container-ready (Docker/Kubernetes), fully documented (OpenAPI for external calls, README for internal repo structure) and CI/CD friendly.  Code must be unit-tested and integration-tested; each module should",
+  "query": "data extraction",
+  "found_at": "2026-08-25 21:37"
+ },
+ {
+  "id": 40670957,
+  "title": "PCB Diagnostic & Repair",
+  "budget_min": 20.0,
+  "budget_max": 250.0,
+  "currency": "GBP",
+  "usd_rate": 1.365078,
+  "bids": 19,
+  "url": "https://www.freelancer.com/projects/pcb-design-and-layout/PCB-Diagnostic-Repair",
+  "desc": "PCB Troubleshooting. I have a pcb that someone designed for me, i have had it built but it is not connecting to the machine. I require someone to take a look for me, answer my questions and determine where the fault is.\n\nThe debugging steps i have taken are\n\nWindows Machine\nMacbook\nUSBC Data cable confirmed working with an android phone\nBridged the power button with a single cable.\nChecked 12v PSU",
+  "query": "data extraction",
+  "found_at": "2026-08-25 21:37"
+ },
+ {
+  "id": 40670954,
+  "title": "Pine Bluff ARKANSAS Parcel Photo Gig",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/video-production/Pine-Bluff-ARKANSAS-Parcel-Photo",
+  "desc": "I need clear, up-to-date visuals of a vacant parcel on W 9th Ave, Pine Bluff 71603. Once we agree, I’ll share pin-point directions so you can find the exact spot quickly.\n\nYour visit should capture the full context of the property: how it looks from the street, the immediate surroundings, any structures, and any obvious damage or notable landmarks. Natural daylight shots are preferred so every detail is easy to see.\n\nDeliverables\n• 8–10 high-resolution photographs (JPG or PNG):  \n- Wide street view showing the parcel in its setting  \n- Close-ups that highlight lot boundaries, fencing, signage, utilities, or structures  \n- Any visible damage, debris, or distinctive landmarks  \n\n• 1 short, sweeping video\n\nSend the files via Google Drive, Dropbox, or a direct download link the same day you shoot. No heavy editing is necessary—just clean, in-focus images and a steady video that accurately represent what you see on site.",
+  "query": "google sheets automation",
+  "found_at": "2026-08-25 21:37"
  }
 ]
