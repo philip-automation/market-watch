@@ -1571,5 +1571,44 @@
   "desc": "Our React + Tailwind frontend is ready; now I need the Node.js, Express, MongoDB Atlas and Socket.io backend that will let brands and creators collaborate smoothly and at scale.  \n\nCore scope  \n• Authentication & Roles – JWT-based signup / login for Brand, Creator and Admin dashboards.  \n• Escrow State Machine – a five-step milestone flow (Funding → Script → Video Draft → Live Post → Payout Release) with status persistence and webhooks for each transition.  \n• Search & Filter API – performant Mongo queries across 13 demographic attributes, with particular emphasis on engagement-metric filters; latency under 200 ms for typical requests.  \n• Payment & Tax Engine – Razorpay or Cashfree integration, automatic calculation of platform fee and 1 % Section 194-O TDS, and instant payout triggers once milestones clear.  \n• Deal Chat – real-time brand-creator messaging via Socket.io with read receipts and conversation history stored in Mongo.  \n• Database & Deployment – well-indexed schemas, a Postman collection for every route, and final deployment on Render (I’m open to AWS if it simplifies anything).  \n\nDeliverables will be a GitHub repo, environment sample, migration scripts, and clear setup docs; I’ll validate with my own Postman tests and a staging push to Render.  \n\nWhen you apply, please share past work that shows comparable marketplaces, payment flows, or complex Mongo querying. A concise note on how you would model the escrow state machine or the chat layer will help me assess",
   "query": "gpt integration",
   "found_at": "2026-08-25 20:18"
+ },
+ {
+  "id": 40670949,
+  "title": "Real-Money Gaming Platform Development",
+  "budget_min": 75000.0,
+  "budget_max": 150000.0,
+  "currency": "INR",
+  "usd_rate": 0.010505,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/php/Real-Money-Gaming-Platform-Development",
+  "desc": "Budget: ₹1,00,000–₹1,50,000 Maximum\n\nI want to develop a real-money gaming platform with INR and cryptocurrency support.\n\nReference Website:\n\nThis website is provided only as a functional and UX reference. I am not requesting an exact copy, clone, or reproduction of the reference website.\n\nI want an original real-money gaming platform with similar categories of functionality and a modern, user-friendly interface. The developer must use completely original code, branding, graphics, UI assets and design implementation.\n\nThe final website should not copy the reference website’s logos, trademarks, copyrighted graphics, source code, text, or proprietary assets.\n\n1. Platform Structure\n\nThe platform should have a modern, responsive gaming interface with:\n\n* Homepage/Main\n* Casino/game lobby\n* Live games where supported\n* Game categories\n* Featured/popular games\n* Game search\n* Bonuses/promotions\n* User account\n* Wallet\n* Deposits\n* Withdrawals\n* Transaction history\n* Game/betting history\n* Mobile-responsive interface\n\nThe reference page visibly includes Casino, Live Dealers, TV Games, eSport, Bonuses and game/category navigation. \n\n2. Casino / Gaming API\n\nI currently do not have a casino API.\n\nThe developer should integrate a legitimate licensed/authorized casino aggregator API that preferably operates on a revenue-share/GGR model, rather than requiring a large upfront game-licensing payment.\n\nThe API should ideally provide:\n\n* Large casino game catalogue\n* Slots\n* Live casino where",
+  "query": "web scraping",
+  "found_at": "2026-08-25 20:51"
+ },
+ {
+  "id": 40670952,
+  "title": "Custom MES Development",
+  "budget_min": 1500.0,
+  "budget_max": 3000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/manufacturing/Custom-MES-Development",
+  "desc": "I need a comprehensive Manufacturing Execution System (MES) tailored to my production needs. The system should include:\n\n- Production Scheduling: Optimize and manage production timelines.\n- Quality Control: Ensure product quality meets standards.\n- Inventory Management: Track and manage materials and products.\n- Maintenance: Schedule and track equipment maintenance.\n- OEE (Overall Equipment Effectiveness): Monitor and improve equipment efficiency.\n- Traceability: Track product journey through production.\n- KPI (Key Performance Indicators): Measure and display performance metrics.\n- Shopfloor Management: Oversee and manage shop floor activities.\n\nIdeal candidates should have experience in developing MES solutions, strong understanding of manufacturing processes, and skills in software development and systems integration.",
+  "query": "gpt integration",
+  "found_at": "2026-08-25 20:51"
+ },
+ {
+  "id": 40670933,
+  "title": "Review & Improve Final House Plan",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "EUR",
+  "usd_rate": 1.167455,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/building-architecture/Review-Improve-Final-House-Plan",
+  "desc": "Architectural Review & Minor Improvement of Final House Plan\n\nI am looking for an experienced residential architect to review and make minor improvements to my nearly final 453.5 m² single-storey house plan. I will provide both PDF and editable DWG files.\n\nThe house is for a family of five – two parents and three children.\n\nThe main concept must remain unchanged:\n\n3 children's bedrooms on the east\n\nMaster bedroom on the west\n\nLiving room, dining and kitchen on the south\n\nTechnical/service rooms mainly on the north\n\nGarage, veranda and future swimming pool in their current general locations\n\n\nI do not want a new concept or major redesign. I want practical improvements to room dimensions, circulation, doors, windows, furniture layout, bathrooms, storage, privacy, acoustics and everyday functionality.\n\nThe house should have a flat stepped roof, with several horizontal roof/parapet levels of approximately 3.20 / 3.40 / 3.60 m, including proper drainage and provision for photovoltaic panels.\n\nPlease also check:\n\ngarage-to-kitchen/pantry access\n\nplumbing and wet-room positions\n\ntechnical/HVAC spaces\n\nstructural practicality\n\nunnecessary or wasted space\n\npossible expensive or difficult construction details\n\n\nPlease quote separately for:\n\nOption A: Professional review + annotated PDF + recommended improvements.\n\nOption B: Review + implementation of approved improvements in the DWG.\n\nPlease include your price, delivery time, relevant experience and examples of similar residential proj",
+  "query": "pdf extraction",
+  "found_at": "2026-08-25 20:51"
  }
 ]
