@@ -1545,5 +1545,31 @@
   "desc": "I’m putting together an openly licensed textbook and need a collaborator who can take the project from concept to publication-ready files. The exact subject is still flexible, so whether your strengths lean toward academic, professional, or creative material, I’m interested in hearing how you’d approach the research and writing.  \n\nFormat is open as well—PDF, EPUB, or HTML all work for me—so feel free to recommend the best route for accessibility and distribution. We’ll pin down the final length once we have a solid outline; that could be a concise five-chapter primer or a full eleven-plus-section reference, depending on what best serves the topic and audience.  \n\nWhat I’m looking for:  \n• A well-structured outline with clear learning objectives  \n• Engaging, clearly written chapters with accurate citations  \n• Open-source images, figures, or tables where they add value  \n• Consistent application of an open license throughout  \n• Clean, accessible layout files ready for upload to an open repository  \n\nWhen you reply, please include examples of any textbooks or long-form educational content you’ve produced, note the authoring tools you prefer (LaTeX, InDesign, Pressbooks, Markdown, etc.), and briefly describe your workflow from initial outline to final export.",
   "query": "pdf extraction",
   "found_at": "2026-08-25 19:49"
+ },
+ {
+  "id": 40670886,
+  "title": "Investigative Piece: Prices and Fees for Real Estate Brokers",
+  "budget_min": 3000.0,
+  "budget_max": 5000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/investigative-journalism/Investigative-Piece-Prices-Fees-for",
+  "desc": "I’m commissioning an investigative article that digs into how residential real-estate brokers in major U.S. cities use commission models that seem to resemble a industry-wide fixed price.  The work should go beyond surface explanations: if it is a price fix, the article should describe why recent DOJ and private lawsuits have had trouble breaking the price- cartel.\n\nScope of work  \n• Identify and interview multiple on-record sources— including legal cases that seek to break the fixed high commission model in the US  \n• Collect and interpret any available, public filings, or policy documents by think tanks and professors that commissions in the US are super-high relative to other countries and other industries and possibly a result of a price-fix.  \nIf the literature proves the price-fix, why is it that legal claims by private actors have failed.\n• Deliver a tightly argued, 1,500–2,000-word article (ready for publication), fully fact-checked with inline citations and a short bibliography of sources.\n\nAcceptance criteria  \n• Minimum three on-record interviews, plus additional background sourcing.  \n• Balanced analysis that clearly explains what has happened to prevent fees from being set by market forces as the law would prescribe.\n• Polished narrative with an engaging lead, strong nut-graph, and logical flow.  \n• File submitted as a Word or Google Doc, along with separate notes containing source contact info and any supporting data spreadsheets.\n\nTimeline is short—I’ll share e",
+  "query": "data extraction",
+  "found_at": "2026-08-25 20:17"
+ },
+ {
+  "id": 40670889,
+  "title": "Scalable Backend for Creator Platform",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010507,
+  "bids": 17,
+  "url": "https://www.freelancer.com/projects/mongodb/Scalable-Backend-for-Creator-Platform",
+  "desc": "Our React + Tailwind frontend is ready; now I need the Node.js, Express, MongoDB Atlas and Socket.io backend that will let brands and creators collaborate smoothly and at scale.  \n\nCore scope  \n• Authentication & Roles – JWT-based signup / login for Brand, Creator and Admin dashboards.  \n• Escrow State Machine – a five-step milestone flow (Funding → Script → Video Draft → Live Post → Payout Release) with status persistence and webhooks for each transition.  \n• Search & Filter API – performant Mongo queries across 13 demographic attributes, with particular emphasis on engagement-metric filters; latency under 200 ms for typical requests.  \n• Payment & Tax Engine – Razorpay or Cashfree integration, automatic calculation of platform fee and 1 % Section 194-O TDS, and instant payout triggers once milestones clear.  \n• Deal Chat – real-time brand-creator messaging via Socket.io with read receipts and conversation history stored in Mongo.  \n• Database & Deployment – well-indexed schemas, a Postman collection for every route, and final deployment on Render (I’m open to AWS if it simplifies anything).  \n\nDeliverables will be a GitHub repo, environment sample, migration scripts, and clear setup docs; I’ll validate with my own Postman tests and a staging push to Render.  \n\nWhen you apply, please share past work that shows comparable marketplaces, payment flows, or complex Mongo querying. A concise note on how you would model the escrow state machine or the chat layer will help me assess",
+  "query": "gpt integration",
+  "found_at": "2026-08-25 20:18"
  }
 ]
