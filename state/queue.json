@@ -1675,5 +1675,18 @@
   "desc": "I need clear, up-to-date visuals of a vacant parcel on W 9th Ave, Pine Bluff 71603. Once we agree, I’ll share pin-point directions so you can find the exact spot quickly.\n\nYour visit should capture the full context of the property: how it looks from the street, the immediate surroundings, any structures, and any obvious damage or notable landmarks. Natural daylight shots are preferred so every detail is easy to see.\n\nDeliverables\n• 8–10 high-resolution photographs (JPG or PNG):  \n- Wide street view showing the parcel in its setting  \n- Close-ups that highlight lot boundaries, fencing, signage, utilities, or structures  \n- Any visible damage, debris, or distinctive landmarks  \n\n• 1 short, sweeping video\n\nSend the files via Google Drive, Dropbox, or a direct download link the same day you shoot. No heavy editing is necessary—just clean, in-focus images and a steady video that accurately represent what you see on site.",
   "query": "google sheets automation",
   "found_at": "2026-08-25 21:37"
+ },
+ {
+  "id": 40671032,
+  "title": "Animador Profesional en Spine 2D Solicitado",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/2d-animation/Animador-Profesional-Spine-Solicitado",
+  "desc": "Busco un animador profesional con experiencia en Spine 2D para preparar y animar un personaje principal de un videojuego tipo slot/casino con temática vikinga.\nYa tengo el diseño del personaje: un enano vikingo con hacha y escudo.\nNecesito:\n- Preparación/separación del personaje para animación.\n- Rig completo en Spine 2D.\n- Un único rig reutilizable.\n- 4 animaciones:\n  - Idle\n  - Power Attack\n  - Victory / Big Win\n  - Bonus Entry\n- Movimientos secundarios de barba, ropa, hacha y escudo.\n- En Power Attack, un evento llamado impact para sincronizar efectos dentro del juego.\n- Todas las animaciones deben regresar correctamente a Idle.\n- Exportación compatible con PixiJS/Web.\n- Entrega del archivo fuente editable .spine.\n- Entrega de JSON, atlas y texturas necesarias para integración.\n- Rig organizado para poder agregar nuevas animaciones en el futuro.\n- Derechos de uso comercial.\n- Al menos una ronda de correcciones.\nEl plazo ideal es de 4 a 6 días.\nBusco a alguien con experiencia real trabajando específicamente con Spine 2D. Por favor indicar precio total y, si es posible, enviar ejemplos de personajes previamente riggeados y animados en Spine.",
+  "query": "web scraping",
+  "found_at": "2026-08-25 22:09"
  }
 ]
