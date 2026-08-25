@@ -2949,5 +2949,44 @@
   "desc": "I'm seeking a talented Mandarin female voice actor to record a script for a tour. \nThe word count will be around 9600 characters. I'll share the script as soon as it's ready. \nCandidate should be: \n- Native Chinese (Mandarin)\n- Could do a narration (with a freindly and professional tone) \n\nPlease provide samples of your work in mp3 or WAV.",
   "query": "python script",
   "found_at": "2026-08-25 04:48"
+ },
+ {
+  "id": 40669183,
+  "title": "Data entry",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010447,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/data-entry/Data-entry-40669183",
+  "desc": "I am looking for a freelancer to assist with a data entry project. The ideal candidate should have experience in creating a format or template for data entry tasks. \n\nSpecific requirements for the project include:\n- Creating a format or template for data entry\n- Entering textual data into the provided format or template\n- Handling a medium-sized dataset, which consists of 500-1000 entries\n\nSkills and experience required:\n- Proficiency in data entry and data management\n- Attention to detail and accuracy in entering textual data\n- Ability to create a format or template for data entry tasks\n- Experience in handling medium-sized datasets\n\nIf you are interested in this project, please provide examples of your previous work in data entry and your proposed approach for creating the format or template.",
+  "query": "data extraction",
+  "found_at": "2026-08-25 05:23"
+ },
+ {
+  "id": 40669233,
+  "title": "AI Model Accuracy Troubleshooting",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010447,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/ai-model-development/Model-Accuracy-Troubleshooting",
+  "desc": "My supervised-learning application is already live, but its accuracy is lagging behind expectations. I need an experienced AI architect or engineer who can jump on a series of quick screen-share calls with me, inspect the current pipeline, and guide me toward immediate, measurable improvements.  \n\nYou’ll be diving into:  \n• Dataset quality and preprocessing steps (feature selection, class balance, train/validation split)  \n• Model architecture and hyper-parameter tuning techniques (grid/random search, cross-validation)  \n• Evaluation metrics now in use versus metrics that might expose hidden issues  \n• Practical ways to harden the model before deployment (regularization, ensemble ideas, monitoring hooks)  \n\nAcceptance criteria  \n• Accuracy uplift demonstrated on our held-out validation set  \n• Clear, step-by-step notes or code snippets that document every change we make together  \n• All work completed through live calls and follow-up messages so I can replicate the fixes independently  \n\nI’m ready to start ASAP and will be scheduling the first call as soon as we agree on scope and time.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-25 05:23"
+ },
+ {
+  "id": 40669230,
+  "title": "Stonnington Elevated Deck Plans",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "AUD",
+  "usd_rate": 0.715114,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/cad-drafting-review/Stonnington-Two-Story-Deck-Plans",
+  "desc": "I already have a current site survey and now need a full set of working drawings for a new two-story wood deck at the rear of my property in Melbourne. The design must satisfy every requirement in Stonnington City Council’s residential building code, including setbacks, overshadowing and permissible heights.\n\nKey elements of the design  \n• Structure:one level connected to garden by exterior stairs  \n• Material palette: treated or durable timber throughout (joists, bearers, decking boards)  \n• Safety: compliant timber railings.\n• Amenity: integrated pergola for shade and weather protection with the intention of installing a vergola roof system.  \n\nDeliverables I’m expecting  \n• Architectural and structural plans (floor plans, elevations, sections, footing details) ready for council submission in PDF plus editable CAD/DWG  \n• Engineering notes and calculations to demonstrate compliance with AS 1684/AS 1720 or equivalent Victorian standards  \n• A concise materials schedule for timber sizes, hardware and finishes  \n• Any shadow diagrams or articulation schedules Stonnington typically requests  \n\nI will send the site survey in DWG and PDF along with council checklists as soon as we start. Please factor in one round of revisions after the first council feedback so we can secure the permit smoothly.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-25 05:23"
  }
 ]
