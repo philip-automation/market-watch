@@ -1,1 +1,106 @@
-[]
+[
+ {
+  "id": 40669426,
+  "title": "Situs Unduh Game Berbasis Iklan",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 20,
+  "url": "https://www.freelancer.com/projects/web-development/Situs-Unduh-Game-Berbasis-Iklan",
+  "desc": "Saya membutuhkan sebuah situs web yang memungkinkan pengunjung mengunduh game mobile sekaligus menghasilkan pendapatan iklan. Fokus utama proyek ini adalah monetisasi—setiap halaman unduh harus memiliki penempatan banner atau interstitial yang optimal tanpa mengganggu pengalaman pengguna.\n\nRuang lingkup inti:\n• Halaman beranda yang menampilkan daftar game mobile terbaru, terpopuler, dan rekomendasi.  \n• Halaman detail game berisi deskripsi, tangkapan layar, ukuran file, versi, serta tombol unduh.  \n• Sistem manajemen konten sederhana agar saya bisa menambah, mengedit, atau menghapus game tanpa pengetahuan teknis mendalam.  \n• Integrasi jaringan iklan (Google AdSense atau setara) pada posisi strategis: header, sidebar, dan dalam halaman unduh.  \n• Fitur pencarian dan kategori untuk memudahkan pengguna menemukan game.  \n• Desain responsif sehingga nyaman diakses lewat smartphone maupun desktop.  \n• Optimasi kecepatan dan SEO dasar agar halaman cepat dimuat dan mudah terindeks.  \n• Dashboard analitik bawaan atau terhubung ke Google Analytics untuk memantau performa iklan dan trafik.\n\nKriteria keberhasilan:\n– Situs aktif dan bisa diakses publik tanpa bug kritis.  \n– Iklan tampil sesuai penempatan yang telah disepakati dan tidak menutupi tombol unduh.  \n– Proses unggah/unduh game lancar di perangkat mobile.  \n– Dokumentasi singkat tentang cara menambah game dan mengganti slot iklan.\n\nSaya membutuhkan penyelesaian secepatnya (segera). Silakan jelaskan pendekatan teknis Anda—apakah ",
+  "query": "web scraping",
+  "found_at": "2026-08-25 07:04"
+ },
+ {
+  "id": 40669389,
+  "title": "Corporate Web Dev Referral Partner",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010448,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/sales/Corporate-Web-Dev-Referral-Partner",
+  "desc": "We are looking for reliable business development professionals, freelancers, agencies, and IT consultants who can help us bring genuine software development projects from clients.\n\nWe have also ready product for sale , Microfinane Loan Software, NIDHI Company Finance Management Software Hotel Management Software, Laundry Service Market Place Software.\n\nWe have an experienced software engineering team capable of handling projects across:\n\n• Java / Spring Boot and Microservices\n• React, Angular, Next.js and TypeScript\n• Python / FastAPI / Flask\n• PHP / Laravel\n• Mobile App Development\n• SQL / MySQL / PostgreSQL / MongoDB\n• Azure, AWS and DevOps\n• Data Engineering, Power BI and Automation\n• AI integrations and business applications\n\nHow the partnership works:\nYou identify and introduce a genuine client/project that requires software development. We handle the technical discussion, estimation, development and delivery with the client.\n\nFor every successfully closed project, you receive 15% commission from the agreed project value, based on mutually agreed terms.\n\nWe are interested in long-term partnerships and recurring project referrals. Serious partners with access to businesses or software-development leads are welcome.\n\nIf you have software projects or clients looking for a reliable development team, please contact us with the project details and your preferred partnership arrangement.",
+  "query": "web scraping",
+  "found_at": "2026-08-25 07:04"
+ },
+ {
+  "id": 40669381,
+  "title": "Google Ads Growth Campaigns -- 2",
+  "budget_min": 750.0,
+  "budget_max": 1500.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 20,
+  "url": "https://www.freelancer.com/projects/google-ads/Google-Ads-Growth-Campaigns",
+  "desc": "I run Sabar Growth, a remote performance-marketing consultancy serving clients across Dubai, the wider UAE, Oman and the GCC. The next growth phase calls for a dedicated Google Ads partner who can take full ownership of strategy, build and continual optimisation.\n\nScope of work  \n• Audit any existing accounts and tracking to surface wasted spend and missed opportunities  \n• Design a data-driven campaign structure aligned with qualified-lead and sales targets  \n• Implement conversion tracking (GA4, GTM, offline imports) so every dirham is attributable  \n• Launch and manage Search, Display or Shopping formats as required, refining bids, audiences and creative in real time  \n• Report weekly on CAC, ROAS and net new revenue, with clear optimisation actions\n\nAcceptance criteria  \n• Campaigns go live error-free, fully tracked and approved within the agreed timeline  \n• CAC and ROAS targets, set together before launch, are met or beaten for two consecutive optimisation cycles  \n• All learnings, ad copies, keyword lists and reports are shared in editable format (Sheets, Looker Studio, Data Studio)\n\nYou will be working directly with me, so expect quick feedback, crisp KPIs and room to test bold ideas. Experience across GCC markets, Arabic/English ad copy and a portfolio of successful Google Ads case studies will stand out.\n\nReady to scale results? Share two recent Google Ads wins and the exact numbers you moved.",
+  "query": "data extraction",
+  "found_at": "2026-08-25 07:04"
+ },
+ {
+  "id": 40669388,
+  "title": "SCARA Robot Design and Development -- 2",
+  "budget_min": 37500.0,
+  "budget_max": 75000.0,
+  "currency": "INR",
+  "usd_rate": 0.010448,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/robotics/SCARA-Robot-Design-Development",
+  "desc": "Design & Development of 3-Axis SCARA Robot – Mechanical, Electronics, Firmware & ROS2 Software\n\nProject Description\n\nWe are looking for an experienced Robotics/Mechatronics Engineer or Robotics Development Team to design and develop a 3-axis SCARA robot based on the performance and functionality of an existing commercial SCARA robot such as the Oriental Motor OVR series.\n\nThe goal is to develop an independently engineered robot design, including mechanical design, electronics, firmware, control software and ROS2 integration. The final design should be suitable for prototyping and future commercial development.\n\nImportant: We are looking for an original/independently engineered design, not a direct copy of any manufacturer's proprietary CAD, drawings, firmware or software.\n\nTarget Specifications\n3-axis SCARA robot\nApprox. 400–450 mm working reach\nApprox. 3 kg payload\n2 rotary joints + Z axis\nHigh repeatability target: approximately ±0.03–0.05 mm\n24/48 VDC operation\nClosed-loop motors with encoders\nIndustrial-quality mechanical construction\nModular and serviceable design\nScope of Work\n\n1. Mechanical Design\n\nComplete 3D CAD model\nBase, arms, joints and Z-axis mechanism\nMotor and reducer selection\nBearings, shafts and couplings\nCable management\nEnd-effector mounting\nManufacturing drawings\nAssembly drawings\nGD&T and tolerances\nComplete BOM\nDesign suitable for CNC/aluminium manufacturing\n\n2. Electronics\n\nMotor/actuator architecture\nMotor drivers\nEncoder interface\nMain controller PC",
+  "query": "gpt integration",
+  "found_at": "2026-08-25 07:04"
+ },
+ {
+  "id": 40669349,
+  "title": "AutoCAD Automation Prototype",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010448,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/automation/AutoCAD-Automation-Prototype",
+  "desc": "We are looking for an experienced AutoLISP developer to develop and demonstrate an automation concept inside AutoCAD.\n\nUsing one of our existing AutoCAD drawings as the base, the prototype should:\n\nAutomatically generate a new drawing based on user-supplied parameters such as dimensions, connection points, component locations, annotations, etc.\nAutomatically update the relevant geometry, dimensions and annotations based on the selected parameters.\nReuse our existing drawing standards, blocks, layers and templates wherever practical.\nDemonstrate a simple on-screen visual simulation/parametric movement or clearance check within the same DWG.\nBe designed in a way that the workflow can later be expanded to additional drawing types.\nTechnical Requirements\nMust run natively inside AutoCAD.\nAutoLISP only for the first phase.\nNo external add-ins or separate software.\nClean, structured and commented .LSP source code.\nUser-friendly AutoCAD command for entering parameters.\nThe generated output should remain fully editable in AutoCAD.\nSource code must be delivered in editable format.",
+  "query": "python automation",
+  "found_at": "2026-08-25 07:04"
+ },
+ {
+  "id": 40669341,
+  "title": "TO-3 Transistor Datasheet Redesign & Correction",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010448,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/technical-writing/Transistor-Datasheet-Redesign-Correction",
+  "desc": "We have a 2-page product datasheet (2N3773 NPN power transistor) that needs technical corrections and a professional redesign. The current PDF has one factual error, a couple of unverified/unsupported spec entries, and is missing several parameters that should be present when checked against the manufacturer's reference datasheet (ON Semiconductor's 2N3773 sheet, which we're treating as the source of truth).\n\nWhat we're providing:\n\nThe current PPD datasheet (PDF)\nA detailed change brief (Word doc) listing every correction, removal, and addition needed — old value → new value, exact test conditions, and where each item belongs in the layout\nThe ON Semiconductor reference datasheet for cross-checking\n\nWhat we need done:\n\nApply all the corrections/additions/removals listed in the brief\nRebuild page 2 (package/mechanical info) from an editable source — the current PDF has that page as a single flattened image with no text layer, so it can't be text-edited and needs to be reconstructed\nKeep our existing branding, layout style, colors, and logo consistent across both pages\nMake sure the footer (document number, revision, release date) matches exactly across both pages, with only the page number differing\nDeliver an editable source file (InDesign, Illustrator, Figma, or similar — your choice) plus a final print-ready PDF\n\nIdeal skills: technical/electronics datasheet design, layout & typesetting, comfort reading component spec sheets, attention to detail on numeric tables.\n\nDelivera",
+  "query": "google sheets automation",
+  "found_at": "2026-08-25 07:04"
+ },
+ {
+  "id": 40669373,
+  "title": "Traditional Wedding Album Layout",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010448,
+  "bids": 19,
+  "url": "https://www.freelancer.com/projects/adobe-photoshop/Traditional-Wedding-Album-Layout",
+  "desc": "I’m ready to have our wedding memories transformed into a beautifully designed 12x12-inch album with a timeless, traditional layout. The final book should flow naturally from the ceremony through to the key family portraits, capturing the emotion and formality of the day without veering into modern or vintage styling.\n\nHere’s what I’ll need from you:  \n• Page-by-page design files (InDesign or Photoshop, layered and print-ready)  \n• High-resolution PDF proof for review  \n• One round of revisions to fine-tune photo placement or captions  \n\nAcceptance criteria  \n• Classic margins, balanced white space, and elegant typography consistent across all spreads  \n• All ceremony photos and family portraits placed prominently, sequenced to tell a clear story  \n• Final export set to the printer’s exact 12x12-inch bleed and color profile specifications  \n\nIf you’ve created similar traditional albums before and understand print-ready preparation, I’d love to see a couple of samples alongside your proposal.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-25 07:04"
+ },
+ {
+  "id": 40669317,
+  "title": "Accurate PDF-to-Word Conversion",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010448,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/abbyy-finereader/Accurate-PDF-Word-Conversion-40669317",
+  "desc": "I have a batch of PDFs that must be turned into fully editable .docx files while keeping the layout looking the same to the naked eye—headings, tables, images, page breaks, everything. Some files are straightforward text, others mix graphics and scanned pages, so you’ll need reliable OCR alongside solid formatting skills in Word, Adobe Acrobat, ABBYY FineReader or similar tools.\n\nWhat I will send you: a folder of original PDFs, numbered in sequence.  \nWhat I expect back: a matching set of .docx files, each one named exactly like its source. I’ll compare the Word version side-by-side with the PDF; if spacing, bullet alignment or images shift noticeably, I’ll ask for a quick adjustment.\n\nDeliverables  \n• One clean, editable Word document per PDF supplied  \n• All fonts embedded or substituted so there are no missing-font warnings on open\n\nOnce the first file passes review, we’ll move through the rest at an agreed daily page rate. Let me know how many pages you can comfortably convert each day and which software you prefer to use so I can plan the schedule.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-25 07:04"
+ }
+]
