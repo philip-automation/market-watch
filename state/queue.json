@@ -2195,5 +2195,31 @@
   "desc": "I’m upgrading five separate commercial sites to support more than five Level 2 electric vehicle chargers in each car park and need clear, professional concept plans to move the projects forward.\n\nWhat I’m after  \n• A site-specific concept drawing package for each property showing proposed charger locations, conduit routes, panel connections and a clean single-line schematic.  \n• Basic load calculations and any transformer or switchboard upgrades that the concept requires.  \n• A brief narrative per site explaining assumptions, code references and next-step recommendations so my facilities team can present the plan to local utilities and obtain detailed quotes.\n\nFile format  \nPDF for easy sharing plus the editable source (AutoCAD or Revit—whichever you’re most comfortable with).\n\nAcceptance  \nDrawings must be legible at A3, reflect standard electrical symbols, and align with NEC/IEC guidelines for Level 2 commercial installations. I’ll review one property first; once that layout is approved, you can roll the logic into the remaining four.\n\nWork needs to be completed by 3rd September, firm deadline. Thank you.",
   "query": "pdf extraction",
   "found_at": "2026-08-26 07:03"
+ },
+ {
+  "id": 40671788,
+  "title": "Instagram Impersonation Investigator Needed",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/digital-forensics/Instagram-Impersonation-Investigator",
+  "desc": "Someone has set up a fake Instagram profile that uses my name, photos and bio. I need a seasoned online investigator who can quickly unmask whoever is running it and provide everything required for a platform takedown and, if feasible, potential legal action.\n\nHere is what I expect:\n\n• A clear investigation plan outlining the open-source intelligence, digital forensics or subpoena-ready methods you will apply. Common tools such as Maltego, Spiderfoot, reverse-image search engines, WHOIS/IP look-ups or any proprietary databases are welcome—explain which apply and why.\n\n• Ongoing status updates so I know what leads are being followed, what data has been preserved, and where you need my input (screenshots, profile links, correspondence, etc.).\n\n• A concise final bundle that includes:\n  – A narrative report of your findings (timeline, linked accounts, probable real-world identity if discovered, confidence level).\n  – Verifiable evidence files: screenshots with URLs/time stamps, archived HTML, metadata exports, and any traceable IP or device information.\n  – Step-by-step guidance for filing the official impersonation complaint with Instagram and, if desired, law-enforcement or legal counsel.\n\nThe job is complete once the report and evidence package are delivered in a format suitable for court or platform review, and I can proceed confidently with the takedown.\n\nPlease tell me how soon you can start, estimated turnaround, and any similar cases you have successfully closed.",
+  "query": "data extraction",
+  "found_at": "2026-08-26 07:56"
+ },
+ {
+  "id": 40671817,
+  "title": "Professional Explainer Video Editor",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010494,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/explainer-videos/Professional-Explainer-Video-Editor",
+  "desc": "I'm looking for an experienced video editor to create a professional explainer video using stock footage and motion graphics. \n\nRequirements:  \n- Use provided script  \n- Incorporate stock footage  \n- Maintain a professional tone  \n\nIdeal Skills:  \n- Proficiency in video editing software  \n- Experience with stock footage integration  \n- Strong understanding of professional video aesthetics  \n- Attention to detail and good communication skills  \n\nPlease provide samples of previous work.",
+  "query": "gpt integration",
+  "found_at": "2026-08-26 07:56"
  }
 ]
