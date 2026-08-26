@@ -2390,5 +2390,70 @@
   "desc": "Programa: Crianza con Ciencia · Del Caos a la Calma\nMercado: Estados Unidos (leads en español)\nModalidad: Remoto – llamadas / Zoom\n\nBuscamos\nSales Closers profesionales para cerrar ventas de un programa de intervención familiar y acompañamiento parental, dirigido a padres y madres que ya han mostrado interés real en el servicio.\n\n* NO es cold calling\n* NO es vender desde cero\n* Son leads calientes, previamente filtrados y agendados\n\nTu rol como Closer\n\n* Atender llamadas previamente agendadas\n* Seguir un script probado (no improvisar)\n* Diagnosticar la situación del lead\n* Presentar el programa con claridad y empatía\n* Cerrar ventas de forma ética y profesional\n* Registrar resultados básicos (ventas / no ventas)\n\nModelo de pago\n\n* Pago 100% por comisión\n* Comisión por venta cerrada: 10% – 15% (a definir según experiencia)\n* Sin techo de comisiones\n\nUn closer activo puede cerrar varias ventas por semana.\n\n¿Qué ofrecemos?\n\n* Producto validado, con alto dolor y alta conversión\n* Leads calientes (personas que ya pidieron ayuda)\n* Script completo y estructura clara\n* Proceso ordenado (setter + closer)\n* Acompañamiento inicial para entender el programa\n* Posibilidad de relación a largo plazo\n\nRequisitos\n\n* Experiencia previa cerrando ventas (idealmente high-ticket o servicios)\n* Comunicación empática y clara\n* Capacidad de escuchar y guiar decisiones\n* Compromiso y ética profesional\n* Disponibilidad horaria acorde a EE. UU.\n* Español nativo o nivel alto\n\nNO es para ti si:\n\n* Buscas",
   "query": "python script",
   "found_at": "2026-08-26 10:46"
+ },
+ {
+  "id": 40672234,
+  "title": "Satta Matka Android App Build",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010501,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/kotlin/Satta-Matka-Android-App-Build",
+  "desc": "I need a full-featured Android application that lets users play a classic Satta Matka game wrapped in a traditional Matka look and feel. The flow should cover user registration, wallet management, number selection, live draw updates, and automatic payout calculation. Please weave an intuitive payment-gateway integration (UPI, cards, net-banking) into the wallet so deposits and withdrawals happen seamlessly.\n\nAlongside the player app, I also require a secure web-based admin panel. From there I should be able to:\n\n• open and close markets, post results, and adjust odds in real time  \n• view, filter, and settle bets  \n• monitor user balances, deposits, withdrawals, and overall revenue  \n\nA clean REST or GraphQL API between app and admin is preferred so scaling is painless.\n\nKey points to keep in mind  \n• Platform: Android only (Kotlin or Flutter is fine—whichever gets smoother performance)  \n• Primary function: Satta Matka gameplay with real-time results  \n• Design: traditional Matka theme—vibrant reds, earthy backgrounds, and familiar number-drawer visuals  \n• Security: OTP login, encrypted data at rest, and checksum-verified payment callbacks  \n• Deliverables: Android APK + complete source code, admin panel code, SQL/NoSQL schema, brief deployment guide  \n\nI’m happy to answer technical questions quickly so you can move fast; just outline your proposed tech stack, past Matka or gaming work, and an estimated timeline in your bid.",
+  "query": "web scraping",
+  "found_at": "2026-08-26 11:16"
+ },
+ {
+  "id": 40672223,
+  "title": "10K Large Finance CEO Leads",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/data-analysis/Large-Finance-CEO-Leads",
+  "desc": "I need a clean, well-structured list of 10,000 executives sourced directly from ZoomInfo. Every contact must meet three non-negotiable filters:  \n\n• Industry: Finance/asset managements only  \n• Title: CEO or Founder  \n• Company size: 501+ employees  \n\nFor each lead, include first and last name, exact job title, company name, company size bracket, corporate email (no info@ addresses), direct phone if available, city/state, country, and LinkedIn URL. I will check the file against ZeroBounce, so a bounce rate under 5 % is part of the acceptance criteria.\n\nPlease deliver the final list in a single CSV. Before we begin, share a 50-lead sample so I can verify data quality and formatting.",
+  "query": "data extraction",
+  "found_at": "2026-08-26 11:16"
+ },
+ {
+  "id": 40672230,
+  "title": "Zoho Creator ERP Development for Rice Mill",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010501,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/zoho-creator/Zoho-Creator-ERP-Development-for",
+  "desc": "Rice Mill ERP in Zoho##\n\nZoho Creator Developer Needed – Custom ERP for Rice Mill\n\nI run a rice milling, procurement and distribution business in Tamil Nadu and am looking for an experienced Zoho Creator + Deluge developer to build and complete our customized ERP.\n\nWe have already started developing the application in Zoho Creator, so this is not completely from scratch. The developer will need to understand the existing architecture, improve it where required, and build the remaining modules and workflows.\n\nThe main areas include Paddy Procurement, Farmer/Supplier Management, Token & Purchase Management, Weighment, Paddy Stock, Milling & Production, Rice and By-product Inventory, Batch/Lot Tracking, Sales Orders, Customer & Intermediary Management, SKU & Rate Management, Delivery Planning, Customer/Intermediary/Supplier Ledgers, Payments, Outstanding Management and Operational Dashboards.\n\nStrong Deluge and business-logic experience is important. This includes automatic rate selection based on SKU/intermediary/date, stock movements, ledger transactions, payment allocation, credit controls, production calculations, validations and automated document generation.\n\nWe are also open to integrating Zoho Books or Zoho Inventory where it provides a better overall solution.\n\nExpected deliverables include a complete and scalable Creator application, Deluge workflows, validations, dashboards, reports, automated PDFs/documents, required integrations, testing with sample data, documentat",
+  "query": "data extraction",
+  "found_at": "2026-08-26 11:16"
+ },
+ {
+  "id": 40672220,
+  "title": "Commission-Based AI Course Sales",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010501,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/advertising/Commission-Based-Course-Sales",
+  "desc": "I run an established marketing and advertising firm that has just rolled out a line-up of premium Generative AI courses. Demand from students and fresh graduates is high, so I’m opening the doors to independent partners who can help us reach this audience and convert interest into paid enrollments.\n\nHere’s how the collaboration works: you share a unique referral link (or personally introduce leads) across your own channels—social media, campus networks, email lists, communities, or any other outlet you control. Whenever someone signs up through your effort, you receive a preset percentage of the course fee. No upfront costs, quotas, or geographic limits; promote whenever and wherever you like.\n\nTo set you up for success, I’ll supply branded creatives, product copy, and clear talking points that highlight learning outcomes, project demos, and career benefits. You’re free to add your personal voice or local context as long as the core messaging remains intact.\n\nDeliverables (per partner)\n• Unique referral link generated in our dashboard  \n• Regular report of clicks, leads, and confirmed sales  \n• Prompt payout on each verified enrollment (via the agreed method)  \n\nAcceptance criteria\n• Only first-time buyers tracked to your link count toward commission  \n• Leads must come from ethical, non-spam promotion techniques  \n• Minimum of one successful sale within the first 30 days to keep the link active  \n\nIf you have a solid network among college communities or entry-level talent an",
+  "query": "ai chatbot",
+  "found_at": "2026-08-26 11:16"
+ },
+ {
+  "id": 40672213,
+  "title": "Comprehensive Storefront and Interior Design",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 17,
+  "url": "https://www.freelancer.com/projects/exterior-design/Comprehensive-Storefront-Interior-Design",
+  "desc": "### 1. Exterior Design\n\n* Modern and attractive storefront design.\n* New facade, signage, logo, lighting, entrance and outdoor displays.\n* Design should match the existing building and surroundings.\n\n### 2. Winter Canopy\n\n* Canopy covering the required outdoor areas.\n* Protection from snow, rain, wind and sunlight.\n* Proper drainage and snow-load considerations.\n* Exact dimensions and construction details.\n\n### 3. Shelves & Displays\n\n* Exact dimensions for every shelf, rack and display.\n* Technical drawings with height, width, depth and materials.\n* Clear placement plan for all equipment.\n\n### 4. Interior Design\n\n* Complete modern interior design.\n* Cashier area, refrigerators, shelves and product sections.\n* Proper lighting, flooring, walls and ceiling.\n* Comfortable customer movement and **customer flow**.\n\n### 5. Technical Drawings\n\n* Detailed floor plan with dimensions.\n* Elevations and sections where necessary.\n* Construction-ready drawings that contractors can follow.\n\n### 6. Materials & Cost Planning\n\n* Recommended materials and finishes.\n* Material specifications and approximate quantities.\n* Practical solutions that balance quality and cost.\n\n### 7. Design Variations\n\nPlease provide **2–3 design concepts**:\n\n* **Budget:** Simple and affordable.\n* **Standard:** Modern and balanced.\n* **Premium:** High-end and visually impressive.\n\n**Important:** I need a practical, construction-ready project, not only attractive 3D renders. Final files should include **PDF + editable ",
+  "query": "pdf extraction",
+  "found_at": "2026-08-26 11:16"
  }
 ]
