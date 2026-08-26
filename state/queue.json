@@ -2338,5 +2338,57 @@
   "desc": "I need a seasoned PCB designer to translate my schematic into a production-ready, multi-layer board for an industrial control application. The board must respect tight mechanical size constraints and accommodate several predetermined components, so part placement and routing strategy will be critical.\n\nHere’s what I will supply:\n• Complete schematic and BOM with the locked-in parts\n• Target layer count and preferred stack-up\n\nWhat I expect back:\n• Editable PCB layout files (Altium or KiCad preferred), Gerber/ODB++ packages, drill files, and assembly drawings\n• Clear documentation of the layer stack, impedance-controlled traces if required, and any design rules you applied\n• A brief hand-off review call or annotated PDF explaining the routing choices and how the size and part requirements were met\n\nIf you have a track record designing compact, multi-layer boards for industrial environments and can turn this around quickly without sacrificing DFM discipline, I’d like to work with you.",
   "query": "pdf extraction",
   "found_at": "2026-08-26 09:52"
+ },
+ {
+  "id": 40672138,
+  "title": "Deploy Healthcare AI on Huawei Cloud",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010501,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/cloud-computing/Deploy-Healthcare-Huawei-Cloud",
+  "desc": "I already have a healthcare-focused AI solution ready for production; what I need now is an engineer who truly knows Huawei Cloud inside out to turn it into a robust, scalable service for a hospital environment.\n\nScope  \nThe application will automate key hospital workflows, with two immediate priorities: real-time patient monitoring and intelligent staff scheduling. Low-latency inference, strong uptime, and strict data-security controls comparable to HIPAA are non-negotiable. You may propose the best mix of ModelArts, ECS, CCE/Kubernetes, Cloud Eye, and any other Huawei Cloud services that keep costs sensible while preserving performance.\n\nKey deliverables  \n• End-to-end deployment pipeline (code → ModelArts training/inference → production)  \n• Secure APIs or micro-services exposing patient-monitoring and staff-scheduling endpoints  \n• Auto-scaling and monitoring dashboards configured in Cloud Eye  \n• Deployment documentation and hand-off session so my in-house team can maintain and iterate\n\nAcceptance criteria  \nHigh Throughput\nFaster Response\nEnd to end testing\nScalable",
+  "query": "data extraction",
+  "found_at": "2026-08-26 10:46"
+ },
+ {
+  "id": 40672121,
+  "title": "Premium Women’s Activewear Technical Designer & Product Developer",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010501,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/textile-design/Gym-Activewear-Design-Pattern-Making",
+  "desc": "I am launching a premium women’s activewear / athleisure brand in India and am looking for an experienced technical apparel designer / activewear product developer to help develop my first small collection.\n\nThis is NOT a fashion illustration project. I need someone who understands the technical side of taking a garment from concept to production.\n\nInitial collection\n\nThe collection will include women’s fitted activewear such as:\n\n* High-waisted leggings\n* Flared leggings\n* Sports bras\n* Fitted tops\n* Shorts\n* Other premium, body-conscious athleisure pieces\n\nThe aesthetic is sexy, chic, fashion-forward, feminine and premium, with a strong focus on fit and quality.\n\nWhat I need from you\n\nIdeally, you should be able to help with:\n\n* Technical flats — front and back\n* Detailed tech packs\n* Measurement/specification sheets\n* Points of measurement and tolerances\n* Activewear fabric recommendations\n* Stretch, recovery and GSM considerations\n* Seam and stitch/construction details\n* Trims, elastic and lining specifications\n* Pattern development\n* Size grading\n* Sample development\n* Fit corrections after sampling\n* Communication with the manufacturer during development\n* Final production-ready technical documentation\n\nExperience required\n\nI am particularly interested in someone who has personally developed women’s activewear, sportswear, leggings, sports bras or other stretch garments.\n\nPlease do NOT apply if your main experience is only fashion illustration or graphic design.\n\nIn you",
+  "query": "google sheets automation",
+  "found_at": "2026-08-26 10:46"
+ },
+ {
+  "id": 40672135,
+  "title": "Fehlersuche und Neurouting für KiCad-Layout",
+  "budget_min": 750.0,
+  "budget_max": 1500.0,
+  "currency": "EUR",
+  "usd_rate": 1.16649,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/embedded-systems/Fehlersuche-und-Neurouting-KiCad-Layout",
+  "desc": "KiCad-Layout Rev B: Fehlersuche + Neurouting\n\n6-Lagen-Board (Dual-STM32H7S3, Automotive Ethernet)\n\nFreelance-Auftrag · Layout & Signalintegrität · Angebot mit Aufwandsschätzung erbeten\n\nWir haben ein gefertigtes 6-Lagen-Board und lassen es in eine korrigierte Revision B gehen: 106 × 34 mm, 208 Positionen, 2 × STM32H7S3 im TFBGA225 mit 0,8 mm Pitch, ein TJA1102A 100BASE-T1 Dual-PHY, Octa-NOR-Flash an XSPI, USB-C mit USB-PD, BLE-Modul. Schaltplan und Netzliste stehen — gesucht ist Layout-Arbeit und Ursachensuche.\n\nDer Anlass: zwei Bauteile funktionieren auf dem gefertigten Board nicht\n\nDer Ethernet-PHY läuft überhaupt nicht an — kein Management-Zugriff, kein Referenztakt, auf keinem der beiden Ports. Firmware, Pin-Zuordnung, Footprint-Geometrie und Strapping sind vollständig durchgeprüft und in Ordnung; es bleibt die Elektrik und das Layout. Hier wollen wir deine eigene Ursachensuche, nicht nur die Ausführung einer Liste.\n\nBeim BLE-Modul ist die Ursache gefunden — die Landfläche hatte die Pads auf den falschen Kanten, korrigiert. Dort geht es darum, beim Neurouten zu prüfen, ob noch ein zweiter Fehler dahintersteckt.\n\nWeitere Aufgaben\n1. Vier korrigierte Landflächen ins PCB übernehmen und die betroffenen Bereiche neu routen. Die Footprints sind fertig und gegen die Hersteller-Zeichnungen geprüft.\n\n2. Ein Bauteil umplatzieren und den Fan-out neu ziehen. An der jetzigen Position ist die Ausfädelung nachweislich nicht auflösbar — das Bauteil sitzt über einem dicht belegten Buskana",
+  "query": "pdf extraction",
+  "found_at": "2026-08-26 10:46"
+ },
+ {
+  "id": 40672067,
+  "title": "Closers de Ventas para Programa de Crianza con Ciencia/Del Caos a la CALMA -- 2",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "EUR",
+  "usd_rate": 1.16649,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/telemarketing/Closers-Ventas-para-Programa-Crianza",
+  "desc": "Programa: Crianza con Ciencia · Del Caos a la Calma\nMercado: Estados Unidos (leads en español)\nModalidad: Remoto – llamadas / Zoom\n\nBuscamos\nSales Closers profesionales para cerrar ventas de un programa de intervención familiar y acompañamiento parental, dirigido a padres y madres que ya han mostrado interés real en el servicio.\n\n* NO es cold calling\n* NO es vender desde cero\n* Son leads calientes, previamente filtrados y agendados\n\nTu rol como Closer\n\n* Atender llamadas previamente agendadas\n* Seguir un script probado (no improvisar)\n* Diagnosticar la situación del lead\n* Presentar el programa con claridad y empatía\n* Cerrar ventas de forma ética y profesional\n* Registrar resultados básicos (ventas / no ventas)\n\nModelo de pago\n\n* Pago 100% por comisión\n* Comisión por venta cerrada: 10% – 15% (a definir según experiencia)\n* Sin techo de comisiones\n\nUn closer activo puede cerrar varias ventas por semana.\n\n¿Qué ofrecemos?\n\n* Producto validado, con alto dolor y alta conversión\n* Leads calientes (personas que ya pidieron ayuda)\n* Script completo y estructura clara\n* Proceso ordenado (setter + closer)\n* Acompañamiento inicial para entender el programa\n* Posibilidad de relación a largo plazo\n\nRequisitos\n\n* Experiencia previa cerrando ventas (idealmente high-ticket o servicios)\n* Comunicación empática y clara\n* Capacidad de escuchar y guiar decisiones\n* Compromiso y ética profesional\n* Disponibilidad horaria acorde a EE. UU.\n* Español nativo o nivel alto\n\nNO es para ti si:\n\n* Buscas",
+  "query": "python script",
+  "found_at": "2026-08-26 10:46"
  }
 ]
