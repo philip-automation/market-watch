@@ -1714,5 +1714,31 @@
   "desc": "I’m ready to launch an “online rental boyfriend” service and need the complete platform built out as both a responsive website and companion mobile apps (iOS and Android). The core flow is straightforward: visitors browse available “boyfriend” profiles, check schedules, book time slots, and chat securely within the app—everything authenticated through phone-number verification to keep onboarding simple and fraud-resistant.\n\nWhat I need engineered:\n• A modern web front-end plus native or cross-platform mobile apps that stay visually consistent.  \n• Profile management for the rental boyfriends—photos, bio, rates, availability calendar—and a public browsing grid with filters.  \n• A real-time booking engine that blocks double bookings, handles cancellations, and sends SMS / in-app notifications.  \n• An in-app messaging system (text first, with the architecture ready for voice/video add-ons later).  \n• Admin dashboard where I can vet new boyfriend accounts, adjust fees, issue refunds, and pull usage reports.\n\nPhone Number Verification must be the sole login method, integrating an SMS OTP provider such as Twilio or Firebase Auth. Data should be encrypted at rest and in transit; GDPR-ready consent screens are required because user data is sensitive.\n\nA brief acceptance checklist:\n1. Website and apps pass device-agnostic UI tests.  \n2. Booking clashes are impossible under load.  \n3. OTP login works globally and logs events.  \n4. Messages are stored securely and delivered instantly.  ",
   "query": "web scraping",
   "found_at": "2026-08-25 23:17"
+ },
+ {
+  "id": 40671159,
+  "title": "Freelance Sales Partner — Earn €80 Per Client",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "EUR",
+  "usd_rate": 1.167418,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/sales/Freelance-Sales-Partner-Earn-Per",
+  "desc": "About Omnexa Studios\n\nOmnexa Studios is a web design and development service focused on creating modern, professional and affordable websites for businesses.\n\nWebsite: https://omnexastudios.com/\n\nWe are looking for motivated freelance sales partners / lead generators who can help us find businesses that need a new website or want to improve their existing online presence.\n\nThis is a commission-based freelance opportunity with flexible hours and unlimited earning potential.\n\nWhat You Earn\n\nYou will receive €80 for every client you bring to Omnexa who becomes a paying customer.\n\nThere is no limit to the number of clients you can refer.\n\n1 client = €80\n5 clients = €400\n10 clients = €800\n20 clients = €1,600\n\nThe more clients you bring, the more you earn.\n\nWhat You Will Do\n\nYour main job is to find businesses that could benefit from having a professional website and introduce them to Omnexa.\n\nPotential clients can include:\n\n* Restaurants and cafés\n* Hotels and accommodation\n* Barbers and beauty salons\n* Gyms and fitness businesses\n* Tour operators\n* Real estate businesses\n* Local shops\n* Small businesses\n* Startups\n* Professionals and service providers\n\nYou can find potential clients through Google Maps, Instagram, Facebook, LinkedIn, local businesses, personal contacts, cold outreach or your own network.\n\nYou do not need to build the website.\n\nYour role is to find and introduce the potential client. Omnexa handles the website development, communication and delivery.\n\nHow It Works",
+  "query": "web scraping",
+  "found_at": "2026-08-26 00:25"
+ },
+ {
+  "id": 40671129,
+  "title": "Executive  Virtual Assistant ( Full Time)",
+  "budget_min": 25000.0,
+  "budget_max": 40000.0,
+  "currency": "INR",
+  "usd_rate": 0.010505,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/lead-generation/Executive-Virtual-Assistant-Full-Time",
+  "desc": "About the Role We are a premier Canadian advisory firm specializing in mortgages, business consulting, and merchant financing. We are seeking a sharp, highly autonomous, and detail-oriented Virtual Assistant to support daily operations, client acquisition, and file preparation. This is not a task-taker role; we need a proactive problem-solver who anticipates needs, utilizes AI tools effectively, and maintains absolute confidentiality when handling sensitive financial data.\nKey Responsibilities\n•\tCalendar & Communication: Manage email correspondence, coordinate schedules, and book client meetings professionally.\n•\tLead Generation & Research: Prospect online to identify potential business and mortgage clients, driving lead generation efforts.\n•\tFile Preparation & Precision: Assist with basic loan underwriting reviews, organize application files, and fill out complex financial forms with zero tolerance for errors.\n•\tSocial Media & Content Creation: Set up and manage LinkedIn and Instagram accounts, leveraging AI tools to research trends and create engaging, professional posts.\n•\tAutonomous Problem Solving: Independently troubleshoot day-to-day operational roadblocks using AI and independent research before escalating to management.\nIdeal Candidate Qualifications\n•\tExperience: Background working in a bank, loan underwriting, sales, or accounting. Familiarity with financial documents and lending processes is a strong advantage.\n•\tCommunication: Exceptional written and verbal Engli",
+  "query": "data extraction",
+  "found_at": "2026-08-26 00:25"
  }
 ]
