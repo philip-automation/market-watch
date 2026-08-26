@@ -2221,5 +2221,70 @@
   "desc": "I'm looking for an experienced video editor to create a professional explainer video using stock footage and motion graphics. \n\nRequirements:  \n- Use provided script  \n- Incorporate stock footage  \n- Maintain a professional tone  \n\nIdeal Skills:  \n- Proficiency in video editing software  \n- Experience with stock footage integration  \n- Strong understanding of professional video aesthetics  \n- Attention to detail and good communication skills  \n\nPlease provide samples of previous work.",
   "query": "gpt integration",
   "found_at": "2026-08-26 07:56"
+ },
+ {
+  "id": 40671937,
+  "title": "Regional Business PIN Code List",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010501,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/data-collection/Regional-Business-PIN-Code-List",
+  "desc": "I need a clean, up-to-date database of businesses located in a single region of my choosing. For each record I only care about the address component that pinpoints location—the ZIP / PIN code. No street names, cities, phone numbers, or opening hours are required.\n\nYour task is to research and compile every unique PIN code that is actively used by businesses in that region and deliver it in a spreadsheet (Excel or Google Sheets is fine). Please make sure each entry is accurate, deduplicated, and sourced from reliable public listings. If you already have scraping scripts or access to commercial datasets, feel free to use them as long as the final list is verifiable.\n\nDeliverable:\n• A spreadsheet containing one column: “PIN / ZIP Code”, listing every valid code found for the specified region.\n\nI’ll supply the region details and any boundary notes once we start.",
+  "query": "web scraping",
+  "found_at": "2026-08-26 08:56"
+ },
+ {
+  "id": 40671917,
+  "title": "Client Hunter / Business Development Partner – Commission Based",
+  "budget_min": 3000.0,
+  "budget_max": 5000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/business-development/Client-Hunter-Business-Development",
+  "desc": "We are looking for a results-driven Client Hunter / Business Development Partner who can consistently bring us 2–3 high-paying clients every month for our digital services.\n\nOur Services:\n\nAI & Software Development\nWeb & Mobile App Development\nAI Automation & AI Agents\nSaaS & CRM Solutions\nE-commerce Development\nDedicated Developers / Engineering Teams\nDigital Marketing & Social Media Solutions\n\nYour Responsibilities:\n\nFind and target high-value potential clients\nGenerate qualified leads through LinkedIn, Upwork, Freelancer, cold outreach, networking, etc.\nCommunicate with prospects and understand their requirements\nSchedule meetings and help convert prospects into paying clients\nMaintain a consistent monthly sales pipeline\n\nCompensation:\nThis is a 100% commission-based role with no fixed salary. You will earn commission on every successfully closed client.\n\nOur target is 2–3 quality, high-ticket clients per month, not simply a large number of low-quality leads.\n\nIdeal Candidate:\n\nProven experience in B2B sales or client acquisition\nStrong communication and negotiation skills\nExperience selling software, AI, web development, or digital services is a plus\nExisting client network or proven lead-generation channels are highly preferred\nSelf-motivated and results-oriented\n\nIf you can consistently bring high-value clients and want to earn based on your performance, we would like to hear from you.",
+  "query": "web scraping",
+  "found_at": "2026-08-26 08:56"
+ },
+ {
+  "id": 40671930,
+  "title": "Science Experimental Study Paper Writing",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010501,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/scientific-research/Science-Experimental-Study-Paper-Writing",
+  "desc": "I have already completed the data collection for an experimental study in the Science and Technology domain and now need the full research paper drafted. The raw datasets are clean and organized; what I require is a skilled writer-researcher who can analyse these results, interpret them accurately, and shape the findings into a publication-ready manuscript.\n\nThe final document must follow standard journal structure—abstract, introduction, methodology (detailing the experiment), results with appropriate statistical treatment, discussion, conclusion, references—and be formatted in Microsoft Word with citations in APA style unless you recommend a more suitable format for the target journal.\n\nDeliverables  \n• Word manuscript ready for peer-review submission  \n• All supporting tables, figures, and statistical outputs in editable form  \n• A short cover letter summarising the study’s novelty and significance  \n\nI’m happy to provide the dataset, lab notes, and any background literature the moment we start so you can move straight into analysis and writing.",
+  "query": "data extraction",
+  "found_at": "2026-08-26 08:56"
+ },
+ {
+  "id": 40671924,
+  "title": "AI Marketing Video Creation",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010501,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/ai-video/Marketing-Video-Creation-40671924",
+  "desc": "I'm seeking a skilled freelancer to create an AI-generated promotional video for marketing purposes.\n\nRequirements:\n- The video should be engaging and visually appealing, designed to capture the attention of potential customers.\n- Background music will be included to enhance the video's atmosphere.\n\nIdeal Skills:\n- Experience in creating AI-generated marketing videos\n- Proficiency in video editing and production\n- Ability to select and integrate suitable background music\n- Strong understanding of marketing principles and audience engagement\n\nPlease provide samples of previous work and a brief outline of your approach to this project.",
+  "query": "ai chatbot",
+  "found_at": "2026-08-26 08:56"
+ },
+ {
+  "id": 40671906,
+  "title": "Instagram & YouTube Reels Editing",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010501,
+  "bids": 13,
+  "url": "https://www.freelancer.com/projects/video-editing/Instagram-YouTube-Reels-Editing",
+  "desc": "I’m looking for an experienced video editor who can turn my raw footage into engaging Reels for both Instagram and YouTube. Each clip will be 30–60 seconds, formatted in 9:16 and 16:9, with tight pacing, color-consistent grading, clear audio, and dynamic on-screen text that keeps viewers watching to the very last frame.\n\nHere’s how we’ll work together: I’ll provide the footage, a rough script, and music references. You’ll select the best takes, trim them for maximum impact, balance the sound, add smooth transitions, captions, and light motion graphics, then export upload-ready MP4 files along with the project file (Premiere Pro, Final Cut, or DaVinci Resolve—whichever you prefer).\n\nAlthough this job focuses on video editing, I frequently automate small tasks with Python, so if you’re comfortable writing quick scripts to batch-rename clips or pull channel analytics, that’s a welcomed plus.\n\nDeliverables\n• One finished Reel per brief, exported in 1080p (or higher) for Instagram (9:16) and YouTube (16:9)  \n• Editable project file and any custom assets  \n• Up to one revision round within 48 hours of delivery\n\nAcceptance criteria\n• Final runtime under 60 seconds  \n• Captions free of typos and properly synced  \n• Audio levels within –14 LUFS to –10 LUFS  \n• Delivery within 3 days of receiving footage\n\nIf this sounds like a good fit, share at least three social-media Reels you’ve edited and tell me briefly how you’d approach elevating short-form content.",
+  "query": "python automation",
+  "found_at": "2026-08-26 08:56"
  }
 ]
