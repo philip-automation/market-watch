@@ -3846,5 +3846,31 @@
   "desc": "I’m putting together an engaging PowerPoint deck for elementary-school students and I’d like fresh, visually appealing slides that can hold young attention spans while reinforcing key concepts. The core content is ready in outline form; what I need is a creative hand to transform that outline into a polished .pptx file complete with age-appropriate graphics, simple animations, and clear, legible text.\n\nThe ideal flow should move from an inviting title slide, through bite-sized explanation slides, into a short interactive quiz section, and finish with a neat summary. Think bright colors, large fonts, minimal on-screen text, and plenty of images or icons that illustrate each idea without overwhelming the kids.\n\nDeliverables  \n• A 15- to 20-slide PowerPoint (.pptx) formatted for widescreen  \n• Consistent theme, color palette, and typography suitable for elementary learners  \n• Light animations/transitions that enhance—never distract  \n• Presenter notes beneath each slide summarizing talking points in simple language  \n• Royalty-free images or original illustrations properly credited inside a “Resources” slide  \n\nAcceptance criteria  \n• Slides run without errors in Microsoft PowerPoint 2019+ or Office 365  \n• Text and visuals remain readable from the back of a standard classroom  \n• Quiz slides use built-in PPT triggers or hyperlinks that work when exported to PDF  \n\nI can share the existing outline and any reference material as soon as we start. Let me know your turnaround time ",
   "query": "pdf extraction",
   "found_at": "2026-08-29 21:19"
+ },
+ {
+  "id": 40679057,
+  "title": "Harden SOAP API Access Control",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010484,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/oauth/Harden-SOAP-API-Access-Control",
+  "desc": "I need a security specialist to lock down my publicly facing SOAP API. Right now it is shielded only by Basic Authentication, and I am concerned this is not enough to prevent unauthorized access.  \n\nYour first task is to examine the existing endpoints, auth flow, and server configuration, identify every crack that could let an intruder in, and then propose concrete counter-measures. From there, I expect you to implement stronger mechanisms—whether that means WS-Security headers, message-level encryption, mutual TLS, moving to token-based or OAuth authentication, or another proven strategy you can justify.  \n\nPlease plan to:  \n• Deliver a concise audit report outlining current vulnerabilities.  \n• Apply and test the agreed-upon hardening measures in a staging environment.  \n• Provide step-by-step deployment notes and verification scripts so I can reproduce the setup in production.  \n\nI will grant access to the codebase, WSDL, and hosting console as soon as we align on a plan. Success is measured by clean security-scan results and verified denial of unauthorized requests while legitimate traffic continues to flow uninterrupted.",
+  "query": "chatgpt api",
+  "found_at": "2026-08-29 23:34"
+ },
+ {
+  "id": 40679017,
+  "title": "Reproduce Hand-Drawn House Plans",
+  "budget_min": 750.0,
+  "budget_max": 1500.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/2d-drafting/Reproduce-Hand-Drawn-House-Plans",
+  "desc": "I need hand-drawn scale house plans reproduced into PDF format. \n\nRequirements:\n- Exact replication of original plans\n- Detailed drawings for exterior wall at center of structure due to height, including:\n  - Material specifications\n  - Structural reinforcements\n  - Anchoring from foundation\n\nIdeal Skills:\n- Proficiency in architectural drafting\n- Experience with detail drawings\n- Familiarity with PDF output of work\n\nLooking for accuracy and attention to detail.",
+  "query": "pdf extraction",
+  "found_at": "2026-08-29 23:34"
  }
 ]
