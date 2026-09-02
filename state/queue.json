@@ -7837,5 +7837,70 @@
   "desc": "---\n\nI have a fantasy-themed puzzle image titled \"The Tenfold Atlas\" that needs solving. It contains 20 letters scattered across 5 terrain regions (Ice, Fire, Land, Forest, Water), each region holding exactly 4 letters. The goal is to select 2 letters from each region, in the sequence Ice → Fire → Land → Forest → Water, to reveal a hidden 10-letter message/word.\n\n**What I've already figured out:**\n- All 20 letters and their region groupings are identified\n- 2 of the 5 stone tablets in the image contain real, translated text (Latin: *\"He who is not born does not reign\"* and Russian: *\"One points, the other conceals\"*)\n- The other 3 tablets (styled as Arabic, Japanese, and an unknown script) appear to be decorative/non-linguistic — I've tested reversing/rotating them with no clear result\n- A working theory: each region's icon symbolism (what \"reveals\" vs \"conceals\") determines the correct 2 letters\n\n**What I need:**\n- Fresh eyes to verify or challenge my letter/region groupings\n- Someone skilled in visual puzzles, ARGs, or cipher logic to help pin down the Fire, Land, and Forest picks (Ice and Water are fairly solid)\n- Final proposed 10-letter sequence with reasoning, and ideally what word/phrase it spells\n\nI can share the source image, my full analysis notes, and cropped close-ups of every tablet and letter. Looking for someone experienced with puzzle hunts / ARG-style decoding.\n\n---\n\nWant me to make a shorter version too, or tailor it for a specific platform (Upwork vs Fiverr",
   "query": "python script",
   "found_at": "2026-09-01 23:32"
+ },
+ {
+  "id": 40685370,
+  "title": "Multi Platform Social Media Graphics",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/project-management/Multi-Platform-Social-Media-Graphics",
+  "desc": "I need a skilled graphic designer to create a cohesive set of social media visuals that look equally strong on Facebook, Instagram and Twitter. The goal is to give my posts a professional, on-brand feel while making sure each image meets the exact sizing and display guidelines of the three platforms.\n\nYou’ll handle the full design process—from concept and layout through to polished, ready-to-post files—using industry-standard tools such as Adobe Photoshop or Illustrator. Please keep color, typography and overall style consistent across all versions so that followers can recognise the brand instantly, no matter where they see it.\n\nDeliverables  \n• One master concept adapted to the current recommended dimensions for Facebook, Instagram and Twitter  \n• Layered source files (PSD or AI) plus web-optimized PNG/JPG exports  \n• Brief hand-off notes outlining any fonts or imagery that require licensing\n\nI’ll consider the project complete when the graphics display crisply on each platform, maintain visual consistency, and are supplied with editable layers for future updates. If you have a quick turnaround and a strong portfolio of social media work, I’m ready to get started right away.",
+  "query": "web scraping",
+  "found_at": "2026-09-02 01:22"
+ },
+ {
+  "id": 40685389,
+  "title": "High Volume Typing Project",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/google-sheets/High-Volume-Typing-Project",
+  "desc": "I have between 100 and 500 pages that need to be re-typed quickly and flawlessly. The source material is a mix of Word documents, PDF files, and a batch of clear scanned images. Your task is to turn all of that into a single, well-structured spreadsheet (Excel or Google Sheets) while preserving every character, number, and punctuation mark exactly as shown.\n\nAccuracy is everything here—no missing fields, transposed digits, or stray spaces. I will spot-check random rows, so please feel comfortable working at 100 % precision even when the pace is brisk. A solid grasp of basic data cleaning and consistent formatting (dates, currency, capitalization) will help the final sheet look professional from the start.\n\nDeliverables  \n• One master .xlsx or Google Sheet containing every entry, neatly formatted and ready for analysis.  \n• A brief change log or notes tab if you encounter illegible text, duplicates, or anomalies.  \n\nI can supply the files immediately and would like daily progress updates so we stay on schedule. If this sounds like a natural fit for your typing speed and attention to detail, let me know your estimated turnaround time and, if possible, attach a short sample of similar work.",
+  "query": "data extraction",
+  "found_at": "2026-09-02 01:22"
+ },
+ {
+  "id": 40685373,
+  "title": "Full-Stack Mobile App Development",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010523,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/full-stack-development/Full-Stack-Mobile-App-Development-40685373",
+  "desc": "I’m ready to build a brand-new mobile application and need one partner who can handle the entire full-stack effort from first commit through store release. The project starts at concept stage, so you’ll help shape both the client-side experience and the server-side architecture.\n\nOn the front end, I’m open to native or cross-platform approaches (React Native, Flutter, Swift/Kotlin, etc.) as long as the result is smooth, responsive, and ready for iOS and Android distribution. Server-side work includes selecting the tech stack, designing the database, creating secure REST or GraphQL APIs, and setting up cloud deployment with basic CI/CD.\n\nKey deliverables\n• Fully coded mobile app (iOS & Android)  \n• Production-ready backend, database, and API documentation  \n• Source in a shared Git repository with commit history  \n• Basic test coverage plus instructions for local setup, build, and deployment  \n• Assistance through initial app-store submission\n\nI’ll provide wireframes, branding assets, and functional requirements once we begin; you’ll advise on best practices and iterate with me until everything meets the agreed acceptance criteria: consistent UI/UX across devices, zero critical bugs, and successful end-to-end data flow between app and backend.\n\nIf you thrive on building complete solutions—front to back—and can communicate progress clearly, I’d love to hear how you would approach the stack and timeline.",
+  "query": "data extraction",
+  "found_at": "2026-09-02 01:22"
+ },
+ {
+  "id": 40685313,
+  "title": "Global Creator Agency Outreach",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 13,
+  "url": "https://www.freelancer.com/projects/influencer-marketing/Global-Creator-Agency-Outreach",
+  "desc": "I’m ready to build direct, long-term partnerships with agencies that already manage influencers, streamers, and broader content creators across Latin America, Europe, and Asia. My immediate focus is on launching brand-led collaborations and audience-growth campaigns on TikTok, Facebook, YouTube, and similar social platforms, so I need representation that can activate talent quickly and transparently—no intermediaries, please.  \n\nTell me about your roster, the regions and languages you cover, platform strengths, and a few representative creators (follower counts and niche are enough). I’m especially interested in how you structure deals, typical engagement formats, and the timetable you need to move from brief to live content.  \n\nTo move forward, share:  \n• A concise agency deck or PDF overview  \n• Proof you officially manage the listed talent  \n• A direct contact who can negotiate campaigns within five business days  \n\nOnly established agencies or official managers who meet these points will be considered.",
+  "query": "pdf extraction",
+  "found_at": "2026-09-02 01:22"
+ },
+ {
+  "id": 40685391,
+  "title": "Actress For Academic Study",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/acting/Actress-For-Academic-Study",
+  "desc": "I am studying an exercise psychology unit and have a project due where I need to interview someone. They suggest a family member or friend, but I don't have anyone available.\n\nI have written a script. The main focus is on me. I just need someone who can be the interviewee and respond to my questions  as scripted in the most natural way... so it doesn't seem like it's a script!\n\nIt will be a zoom video call format and the recorded interbvew is the submission. \n\nI need a female as the character you will play is:\n\nCase 1: Time-poor new parent with low back discomfort  Allegra is a 30-year-old Australian who recently returned to part-time work after having her first baby. She describes constant time pressure, irregular sleep, and feeling “stiff through my lower back and hips” since pregnancy. Most days she walks short distances with the pram but hasn’t done structured exercise for months. She wants to feel more energetic, move more freely when lifting and carrying her baby, and “get back to feeling like myself again.” Allegra is upbeat but admits to feeling embarrassed about her current fitness and unsure where to start. She’d prefer simple options she can do at home during nap windows or short breaks at work. She values feeling competent and supported, and she lights up when talking about being active with her child outdoors.  \n\nI need to get this done asap.\n\nThanks",
+  "query": "python script",
+  "found_at": "2026-09-02 01:22"
  }
 ]
