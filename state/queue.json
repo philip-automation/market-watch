@@ -10567,5 +10567,83 @@
   "desc": "I need an experienced federal-court practitioner to take my employment-based civil action from draft to docket. The case combines employment discrimination, personal injury, negligence, fraud, and denial of public accommodation, so every filing must track both the Federal Rules of Civil Procedure and the local rules of the U.S. District Court where it will be lodged.\n\nScope of work  \n• Prepare all pleadings (complaint, amended complaints if needed, answers, counterclaims).  \n• Draft accompanying motions—Rule 12, Rule 56, discovery-related, and any procedural or scheduling motions that arise.  \n• Create full discovery packets: interrogatories, requests for production, requests for admission, and deposition notices.  \n• Convert each document to text-searchable PDF, add proper caption, signature block, certificate of service, and ensure page limits and font rules are met.  \n• File every item through the CM/ECF system under the correct event codes and provide me with the resulting docket numbers and stamped copies.\n\nAcceptance criteria  \n1. Every document cites the governing rule or statute and is free of typographical errors.  \n2. Formatting complies with the court’s standing order on margins, font size, and word limits.  \n3. CM/ECF receipts and notices of electronic filing are returned to me within 24 hours of docketing.  \n4. All deadlines I provide are met or earlier.\n\nAccess to my CM/ECF credentials will be arranged through a secure channel, and I will stay available for any ",
   "query": "pdf extraction",
   "found_at": "2026-09-03 18:45"
+ },
+ {
+  "id": 40689405,
+  "title": "Revenue-Share Social Media Promoters",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/influencer-marketing/Revenue-Share-Social-Media-Promoters",
+  "desc": "I run an American LLC with a fully built, ready-to-sell web product. The site offers a single subscription that unlocks everything for our users, priced at $10; every confirmed sale you drive earns you a 40 % cut—$4 straight to you—paid as soon as the transaction clears.  \n\nBecause every dollar has already been poured into building the platform, I’m growing strictly through performance-based promotion. I’m looking for influencers or page owners who can put the offer in front of engaged audiences on Facebook, Instagram, Twitter, and TikTok. If you already work with sponsored shout-outs, giveaways, or review content, that experience is exactly what I need.  \n\nHow it works  \n• I create your unique tracking link and dashboard access so you can watch conversions in real time.  \n• You design and publish the content that fits your voice—posts, reels, stories, or live sessions are all welcome.  \n• Each successful monthly subscription triggers an automatic 40 % commission. No cap, no waiting for thresholds.  \n\nProve you can move the needle and I’m prepared to talk longer-term sponsorship deals or even a full-time U.S. role as we scale. Drop a quick note with links to your social profiles, average reach, and any past campaign highlights, and let’s start the conversation today.",
+  "query": "web scraping",
+  "found_at": "2026-09-03 21:25"
+ },
+ {
+  "id": 40689378,
+  "title": "Compact 300W LiFePO4 Solar Inverter",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.01057,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/firmware-development/Compact-LiFePO-Solar-Inverter",
+  "desc": "I’m ready to commission the complete electronic design for a 150-300 W pure-sine-wave solar inverter that will run from a 12.8 V / 100 Ah LiFePO4 pack and deliver 220 VAC. The unit must operate reliably indoors and outdoors, fit comfortably within a 10 × 20 cm footprint, and meet commercial-grade durability standards.\n\nCore electrical requirements  \n• True sine-wave topology with ≥90 % efficiency under typical load  \n• Clean 220 VAC output, THD ≤3 % at 150 W, full-power capability to 300 W  \n• Input 12 VDC nominal, LiFePO4 profile charging via high-frequency PWM  \n• Integrated SoC display or LEDs for real-time battery percentage and charge status\n\nProtection & safety  \nOver-temperature shutdown, overload limiting, and fast-acting short-circuit protection are mandatory. Design choices must reflect these protections (e.g., NTC placement, current-sense shunt sizing, MOSFET SOA calculations).\n\nMechanical expectations  \nAll magnetics, heatsinking, and component heights must stay inside the 10 × 20 cm PCB outline while allowing airflow and conformal coating for outdoor exposure.\n\nDeliverables  \n1. Full schematic with design notes explaining part selection, especially power devices, magnetics, and protection circuitry  \n2. Optimised multilayer PCB layout (Altium, KiCad, or Eagle) ready for Gerber/ODB++ release  \n3. Complete, cost-ed Bill of Materials with supplier MPNs and a short justification column for each critical part  \n4. Firmware (if a microcontroller handles PWM charging or",
+  "query": "data extraction",
+  "found_at": "2026-09-03 21:25"
+ },
+ {
+  "id": 40689473,
+  "title": "Join AX Media as Remote Cold Caller",
+  "budget_min": 250000.0,
+  "budget_max": 500000.0,
+  "currency": "INR",
+  "usd_rate": 0.01057,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/cold-calling/Join-Media-Remote-Cold-Caller",
+  "desc": "H# AX Media — Remote Cold Caller / Appointment Setter\n\nAX Media is looking for motivated people to join our remote sales team as Cold Callers / Appointment Setters.\n\nStudents can also apply. Previous experience is not mandatory.\n\n## About the Role\n\nYour main responsibility will be to contact clinics and businesses, introduce AX Media, explain our website service briefly, identify interested prospects, and book a demo or meeting for our sales team.\n\nYou will not be expected to handle the complete sales process. Your primary goal is to generate genuine interest and arrange a qualified appointment.\n\n## Work Requirements\n\n* Remote / Work from Home\n* Approximately 3–5 hours of work per day\n* 26 working days per month\n* Daily target: approximately 50–150 calls\n* Initial 5–7 days: you may need to find relevant business leads yourself and make calls from your own phone number.\n* After the initial training and evaluation period, AX Media will provide a dedicated Telegram communication channel and lead sheets for your work.\n* Calling scripts, training material, objection-handling resources, and work instructions will be provided.\n\n## Payment\n\nThis is a performance-based commission role.\n\nYou will receive **20% of the agreed commissionable amount for every successfully closed deal generated through your qualified appointment**, according to AX Media's deal and attribution terms.\n\nFor example, if your successful deals generate an average commission of ₹4,000 per deal for you, then 10 suc",
+  "query": "google sheets automation",
+  "found_at": "2026-09-03 21:25"
+ },
+ {
+  "id": 40689440,
+  "title": "Remote Cold Caller / Appointment Setter",
+  "budget_min": 75000.0,
+  "budget_max": 150000.0,
+  "currency": "INR",
+  "usd_rate": 0.01057,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/cold-calling/Remote-Cold-Caller-Appointment-Setter",
+  "desc": "# AX Media — Remote Cold Caller / Appointment Setter\n\nAX Media is looking for motivated people to join our remote sales team as Cold Callers / Appointment Setters.\n\nStudents can also apply. Previous experience is not mandatory.\n\n## About the Role\n\nYour main responsibility will be to contact clinics and businesses, introduce AX Media, explain our website service briefly, identify interested prospects, and book a demo or meeting for our sales team.\n\nYou will not be expected to handle the complete sales process. Your primary goal is to generate genuine interest and arrange a qualified appointment.\n\n## Work Requirements\n\n* Remote / Work from Home\n* Approximately 3–5 hours of work per day\n* 26 working days per month\n* Daily target: approximately 50–150 calls\n* Initial 5–7 days: you may need to find relevant business leads yourself and make calls from your own phone number.\n* After the initial training and evaluation period, AX Media will provide a dedicated Telegram communication channel and lead sheets for your work.\n* Calling scripts, training material, objection-handling resources, and work instructions will be provided.\n\n## Payment\n\nThis is a performance-based commission role.\n\nYou will receive **20% of the agreed commissionable amount for every successfully closed deal generated through your qualified appointment**, according to AX Media's deal and attribution terms.\n\nFor example, if your successful deals generate an average commission of ₹4,000 per deal for you, then 10 succ",
+  "query": "google sheets automation",
+  "found_at": "2026-09-03 21:25"
+ },
+ {
+  "id": 40689358,
+  "title": "Acrylic Display Column Assembly - Central New Jersey Locations",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/assembly/Acrylic-Display-Column-Assembly-Central",
+  "desc": "I have several large-diameter acrylic display columns that need to be professionally assembled and bonded so they look seamless from every viewing angle. The sheets have already been cut and rough-shaped; what I require now is a technician who is confident working with thick, clear cast acrylic, solvent cements, and vapor-polish or flame-polish finishing techniques to create museum-grade joins that stay crystal-clear over time.\n\nBecause each column is oversized, proper jigging, edge preparation, and stress-free curing are critical. You should already have the clamps, oven or heat-strip equipment for controlled warming of the seams, and the ventilation setup needed for safe adhesive application.\n\nAcceptance criteria  \n• Columns stand true and plumb, with no visible bubbles, crazing, or whitening along any bond line.  \n• All surfaces remain optically clear after final polish.  \n• Final strength supports the specified load test (details provided on award).  \n• Units are securely wrapped and ready for freight pick-up.\n\nIf you are the person who thrives on perfect acrylic bonds and you have recent photos or references of similar oversized work, let’s talk and schedule a quick call to run through the dimensions and shipping timeline.",
+  "query": "google sheets automation",
+  "found_at": "2026-09-03 21:25"
+ },
+ {
+  "id": 40689355,
+  "title": "1000 Daily Market Survey Calls",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/data-entry/Daily-Market-Survey-Calls",
+  "desc": "I need 1,000 outbound calls placed every single day to run a short market-research survey. The goal is strictly to conduct surveys, nothing else, and each call must follow a brief script that I will provide.  \n\nYou will receive a fresh list of phone numbers each morning along with the questionnaire. On every call you should ask the scripted questions, record the answers verbatim, and move on to the next number so the daily quota is met without fail.\n\nAny dialer that lets you hit the volume is fine—your own VoIP soft-phone, a predictive system, even a manual setup—as long as you can prove the calls were made. At the end of each day I’ll need two concrete deliverables:  \n\n• A CSV (or Google Sheet) with the respondent’s answers and time-stamp for each completed survey  \n• An export of the call log showing total dials, connection rate and call duration  \n\nAccuracy, speed and a clear, pleasant speaking voice are essential. If you already operate a call center or have access to a high-volume dialer, this should slot perfectly into your workflow. Once we’re up and running, the project can continue long-term.",
+  "query": "google sheets automation",
+  "found_at": "2026-09-03 21:25"
  }
 ]
