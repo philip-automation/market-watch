@@ -10710,5 +10710,31 @@
   "desc": "I need to submit permit PLTR20260216 for a residential addition that encroaches on several large shade trees. To satisfy the city’s Protected Tree ordinance, I want a sealed site plan (DWG + PDF) that does the following:\n\n• Locate every tree 15\" DBH or larger inside or right next to the limits of disturbance, labelling trunk point, diameter, and species.  \n• Show each tree’s Critical Root Zone and Structural Root Plate, with any encroachment from the proposed construction clearly hatched.  \n• Draw the tree-save fence exactly at the disturbance boundary and include the municipality’s standard detail.  \n• Identify trees slated for removal and, on the same sheet, lay out a replanting scheme that delivers a minimum of 4,000 sq ft of replacement canopy. Please list proposed species, caliper, spacing, and the canopy math used to reach the requirement.  \n\nScale should be 1\" = 20', include a north arrow, legend, my permit number, and room for your professional seal. I will supply the latest survey base and GIS aerial once we start; field verification or a quick site walk together is welcome if you need it. Final deliverables are one print-ready PDF and the editable CAD file.",
   "query": "pdf extraction",
   "found_at": "2026-09-03 23:29"
+ },
+ {
+  "id": 40689685,
+  "title": "Meta Ads for YODHA Covers",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010583,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/facebook-marketing/Meta-Ads-for-YODHA-Covers",
+  "desc": "I have just rolled out our new YODHA FRP Manhole Covers and now need a results-driven Meta (Facebook & Instagram) ad campaign that consistently generates qualified leads from local businesses. The entire effort must centre on our key differentiator—unmatched durability and strength—while keeping click-through rates high and cost per lead low.\n\nHere is what I expect:  \n• A full-funnel campaign blueprint that maps objectives, audiences, budget splits and optimisation events  \n• Compelling creative concepts (static, carousel or short-form video) that spotlight the covers’ strength credentials and invite local firms to enquire  \n• Precise audience building with geographic, interest and look-alike layers to reach decision-makers in nearby businesses  \n• Conversion-focused copywriting and sharp visuals aligned to Meta’s best-practice ratios  \n• Ongoing A/B testing and performance tuning to continuously lift CTR and lower CPL  \n• Transparent weekly reports covering impressions, CTR, leads, spend and actionable insights\n\nAcceptance criteria:  \n– Campaigns go live within five days of asset approval  \n– CTR meets or exceeds 1.5 × current industry benchmark for B2B construction products  \n– Minimum of 20 qualified leads in the first 30 days, validated through our CRM\n\nI will supply brand guidelines, product specs and any imagery you need. You bring the Meta Ads Manager expertise, data-backed optimisation and creative edge to make YODHA the go-to choice for robust manhole covers in our r",
+  "query": "data extraction",
+  "found_at": "2026-09-04 01:19"
+ },
+ {
+  "id": 40689617,
+  "title": "Ct to Viral Expression Conversion",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/data-processing/Viral-Expression-Conversion",
+  "desc": "I have an Excel spreadsheet that contains raw Cycle threshold (Ct) values for both the Citrus yellow vein clearing virus target sequence and my chosen housekeeping gene, Nad5. I need those Ct data converted into meaningful viral expression values so I can compare virus titres across my plant samples.\n\nWhat I’m after is a clean, well-documented workflow that takes the raw Ct numbers, normalises them against Nad5, and outputs relative expression (e.g., 2^-ΔΔCt or similar) for each sample. Please include an ANOVA so I can see whether titre differences among my treatment groups are statistically significant; if you believe another test would add value, feel free to flag it, but ANOVA results are required.\n\nDeliverables  \n• A processed spreadsheet (or CSV) with ΔCt, ΔΔCt and final relative expression columns  \n• A short methods write-up explaining formulas, software, and any assumptions  \n• ANOVA summary table and a simple plot visualising group differences  \n• Optional: a small script (R, Python or Excel macro) so I can rerun the analysis on future data\nGraphs or tables for scientific publication. \n\nAccuracy and transparency are crucial—I will double-check calculations, so please leave the formulas visible or fully commented. If anything in my raw file needs cleaning or clarification, let me know early so we keep the turnaround quick.",
+  "query": "data extraction",
+  "found_at": "2026-09-04 01:19"
  }
 ]
