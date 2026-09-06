@@ -14753,5 +14753,83 @@
   "desc": "Platform: TradingView\n\nProgramming Language: Pine Script v6\n\nType: Custom Indicator\n\nProject Name:\nScalping Reaction Zones + Valid Order Blocks\n\n\nMAIN GOAL\n\nI need a custom TradingView indicator for scalping.\n\nThe indicator must detect:\n\n1. Reaction / Explosion Zones\n2. Valid Order Blocks\n3. Combined Reaction Zone + Order Block zones\n\nThe indicator should NOT generate:\nBuy signals\nSell signals\nTP\nSL\nEntry signals\nTrading recommendations\n\nThe main purpose is to detect strong price zones where price moved aggressively from and where price may react again when it returns.\n\n\nTIMEFRAME LOGIC\n\nEach timeframe must work independently.\n\nM1 chart = use M1 candles only\nM5 chart = use M5 candles only\nM15 chart = use M15 candles only\nM30 chart = use M30 candles only\nH1 chart = use H1 candles only\nH4 chart = use H4 candles only\n\nIf I change the timeframe, the indicator must recalculate all zones using the current chart timeframe only.\n\nDo not mix zones from different timeframes.\n\nDefault mode:\nCurrent Chart Timeframe Only\n\n\nREACTION / EXPLOSION ZONES\n\nThe indicator must detect a small BASE candle or opposite candle before a strong price expansion.\n\nBullish example:\n\nSmall bearish candle or small base candle\nThen strong bullish displacement\nThe original candle becomes a DEMAND / REACTION ZONE\n\nBearish example:\n\nSmall bullish candle or small base candle\nThen strong bearish displacement\nThe original candle becomes a SUPPLY / REACTION ZONE\n\nDefault zone boundaries:\nFull candle High to Low\n\nOpt",
   "query": "python script",
   "found_at": "2026-09-06 20:46"
+ },
+ {
+  "id": 40695058,
+  "title": "Milton Foundation Members App",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010585,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/ui-design/Milton-Foundation-Members-App",
+  "desc": "Milton Foundation Members App\n\nProject Overview\n\nThe Milton Foundation Members App is a mobile application designed to connect foundation members with the organisation’s charity activities, events, announcements, food service initiatives, Vagai cleaning activities, and community services.\n\nThe app will provide members with a simple, professional platform to stay updated, participate in events, view service activities, and access their digital membership ID card.\n\nDevelopment Deadline: 10 Days\n\nCore Features\n\n1. Home Dashboard\n\nThe home page should provide an attractive, simple overview of the foundation’s activities.\n\n- Stories-style updates at the top\n- Image carousel / promotional banners\n- Latest announcements\n- Upcoming events\n- Main activities\n- Food Annadhanam day counter\n- Quick-access buttons\n\n2. Food Annadhanam Counter\n\nDisplay the foundation’s service milestone prominently.\n\nExample:\n\n925 Days of Annadhanam\nServing food • Spreading kindness\n\nThe number should be manageable from the Admin Panel so it can be updated whenever required.\n\n3. Our Main Events\n\nThe app should prominently showcase the foundation’s major activities:\n\n- Food Annadhanam\n- Vagai Cleaning\n\nEach event should contain:\n\n- Event image\n- Event title\n- Date\n- Time\n- Location\n- Description\n- Event status\n- Register / Participate button\n\n4. Stories-Style Home Updates\n\nAt the top of the home page, provide Instagram-style circular stories.\n\nExamples:\n\n- Our Story\n- Food Annadhanam\n- Vagai Cleaning\n- Events",
+  "query": "web scraping",
+  "found_at": "2026-09-06 22:27"
+ },
+ {
+  "id": 40695100,
+  "title": "HR Operational Planning Strategy Advisor",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010585,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/data-analysis/Operational-Planning-Strategy-Advisor",
+  "desc": "I need a clear, data-driven plan that links our human-resource capacity to the operational targets we have set for the next 12–18 months. The work centres on operational planning, with a sharp focus on resource management—more precisely, our people.\n\nBackground  \n• We are a mid-sized services firm about to scale into two new regions.  \n• Head-count growth has so far been ad-hoc; this is starting to strain delivery quality and margin.  \n\nCore objectives  \n• Map current roles, workloads and skill gaps against our growth forecast.  \n• Build an evidence-based workforce plan that balances full-time, part-time and freelance talent.  \n• Define process changes that let managers allocate staff quickly without compromising compliance.  \n• Establish HR KPIs—utilisation, cost per hire, churn, training ROI—and set realistic targets.  \n\nDeliverables (all in editable formats)  \n1. Workforce capacity model with scenario analysis (Excel or Google Sheets).  \n2. Updated org chart and role definitions aligned to that model.  \n3. 12-month hiring and training roadmap, including timelines, cost estimates and risk flags.  \n4. KPI dashboard template (Power BI, Tableau or Google Data Studio) plus a short user guide.  \n5. Brief implementation playbook summarising key process changes and checkpoints.\n\nAcceptance criteria  \n• Assumptions and data sources are documented and easy to follow.  \n• Forecast accuracy tested against at least two growth scenarios.  \n• Templates open and run without additional lic",
+  "query": "data extraction",
+  "found_at": "2026-09-06 22:27"
+ },
+ {
+  "id": 40695075,
+  "title": "Dynamics 365 WO/Booking Complete Automated PDF Email Report",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/power-automate/Dynamics-Booking-Complete-Automated-PDF",
+  "desc": "DYNAMICS 365 FIELD SERVICE DEVELOPER - AUTOMATED CUSTOMER PDF REPORTS\n\nPeace of Mind Electrical Services uses Microsoft Dynamics 365 Field Service. We need a production-ready solution that automatically generates, stores, and emails branded customer PDF reports at two separate events:\n\n1. When a Bookable Resource Booking is completed.\n2. When the associated Work Order is completed.\n\nWe have some automations already working; when WO is created to send SMS via Twillio and also when complete to send thank you email, but need to create a pdf of the WO with photos and details and send to customer.\n\nThe reports must use Work Order and Booking data, customer-visible notes, photos, customer signature, itemized charges, tax/discounts, and final price. The solution should use Dataverse/Power Automate, be packaged in a Power Platform solution, prevent duplicate emails, include retries and monitoring, and support secure document storage and customer email delivery.\n\nA Word report template and PDF visual reference are supplied. The developer must validate content controls, complete environment-specific mappings, and test PDF conversion.\n\nRequired experience:\n- Dynamics 365 Field Service and Bookable Resource Booking/Work Order lifecycle\n- Dataverse and solution-aware Power Automate flows\n- Notes/Annotation attachments and image handling\n- Word content controls and PDF generation\n- Power Platform ALM, security roles, connection references, and environment variables\n\nPlease submit:\n- Your p",
+  "query": "data extraction",
+  "found_at": "2026-09-06 22:27"
+ },
+ {
+  "id": 40695040,
+  "title": "Daily Excel Sales Data Entry",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010585,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/visual-basic/Daily-Excel-Sales-Data-Entry",
+  "desc": "I update my product-sales workbook every evening, but the volume has grown past what I can comfortably handle alone. I’m looking for someone who can take over the daily Excel entry of all product sales that come through each day.\n\nThe workflow is completely manual at the moment: I’ll send you the raw figures in a simple text or photo format, and you’ll record them in my existing Excel template. For every single sale you will capture the following:\n\n• Product name and quantity  \n• Date and time of sale  \n• Customer details  \n\nAccuracy is more important than speed, yet I still need the file returned the same day so I can reconcile inventory and produce a quick report. If you already have solid Excel habits—data validation, consistent formatting, basic formulas to flag anomalies—you’ll be a great fit.\n\nFinal deliverable each day: the updated spreadsheet saved in .xlsx format, ready for me to review without further edits.",
+  "query": "data extraction",
+  "found_at": "2026-09-06 22:27"
+ },
+ {
+  "id": 40695034,
+  "title": "Analyse de données scientifiques",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/data-analysis/Analyse-donn-scientifiques",
+  "desc": "Je réalise une recherche académique en sciences et j’ai besoin d’un·e expert·e pour la partie analyse de données. Les mesures brutes sont déjà collectées ; il me faut maintenant transformer ces chiffres en résultats exploitables pour mon mémoire.  \n\nTâches à accomplir  \n• Nettoyer et organiser le jeu de données (CSV).  \n• Appliquer les tests statistiques adéquats (par ex. ANOVA, régressions) et justifier chaque choix.  \n• Générer des visualisations lisibles (Python / Pandas / Matplotlib ou R / ggplot, Excel accepté si vous fournissez la macro).  \n• Rédiger un rapport synthétique (2-3 pages) récapitulant la méthodologie, les graphiques et les conclusions.  \n\nContraintes et préférences  \n– Scripts entièrement commentés pour garantir la reproductibilité.  \n– Respect strict de la confidentialité ; les fichiers restent privés.  \n– Livraison souhaitée sous deux semaines.  \n\nLivrables attendus  \n1. Script .py ou .R avec README.  \n2. Jeu de données nettoyé.  \n3. Rapport PDF prêt à être intégré à mon travail académique.  \n\nPrécisez dans votre proposition vos expériences similaires, les outils que vous maîtrisez et votre délai estimé.",
+  "query": "python automation",
+  "found_at": "2026-09-06 22:27"
+ },
+ {
+  "id": 40695016,
+  "title": "Promotional Reels with Comedic Skits",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 20,
+  "url": "https://www.freelancer.com/projects/after-effects/Promotional-Reels-with-Comedic-Skits",
+  "desc": "I need a set of short, punchy promotional reels that lean on comedy-and-skit style storytelling to hook teens and young adults. Think fast-paced, meme-ready dialogue, a clear brand message woven into the humor, and an unmistakable call-to-action by the final frame.  \n\nYou’ll receive my core talking points, brand assets, and any must-include offers. From there, I’m counting on you to craft the concept, shape it into a tight script, handle (or direct) the shoot, and finish with a crisp edit—captions, trending audio, and color-grade included. If you only handle post-production, let me know and I’ll supply raw footage; if you can run end-to-end production, all the better.  \n\nDeliverables  \n• 5 finished reels (15–30 sec each) in vertical 1080 × 1920 mp4  \n• Hard-coded captions and exported .srt files  \n• One thumbnail per reel, optimized for Instagram Reels and TikTok  \n\nAcceptance Criteria  \n• Humor lands within the first 3 seconds and stays brand-safe  \n• Message aligns with the provided talking points and CTA  \n• Final files pass Instagram and TikTok upload specs without compression warnings  \n\nExperience crafting promotional content that feels native to Gen Z & Millennial feeds is essential. If you’ve taken a brand viral with skit-driven reels before, include that link—I’d love to see it.",
+  "query": "python script",
+  "found_at": "2026-09-06 22:27"
  }
 ]
