@@ -16053,5 +16053,70 @@
   "desc": "I’m preparing a runway presentation for our upcoming collection launch and need a skilled professional to manage the entire casting process. Your role starts with announcing the call, screening submissions, and curating a lineup that complements the aesthetic and sizing range of the collection. From coordinating digital castings or in-person go-sees, through final call-backs and fittings, you’ll keep everything on schedule and on brand.  \n\nWhat I expect from you:  \n• A clear casting plan outlining timelines, channels you’ll tap (Instagram, local agencies, etc.), and how you’ll track applications  \n• A selectable shortlist with comp cards, measurements, and walk videos so I can make quick approvals  \n• Seamless communication with selected talent about rehearsal times, fittings, and show day logistics  \n• A brief post-show report recapping attendance, no-shows, and overall performance for future reference  \n\nIf you already have relationships with agencies or model databases, please highlight that experience. Familiarity with fashion-week-style pacing and backstage coordination tools such as Model Management, Casting Networks, or simple Google Workspace sheets is a plus.   \n\nI’m ready to move quickly—send over your approach and recent casting examples, and let’s secure our lineup.",
   "query": "google sheets automation",
   "found_at": "2026-09-07 22:45"
+ },
+ {
+  "id": 40692795,
+  "title": "B2B Cybersecurity Sales Partner Needed",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/b2b-marketing/Cybersecurity-Sales-Partner-Needed",
+  "desc": "B2B Cybersecurity Sales Partner Needed\n\nABOUT 404 FOUNDERS\n\n404 Founders is a cybersecurity company working with businesses that need stronger day-to-day protection, security monitoring and support when real threats appear.\n\nWe are currently expanding our Managed Detection and Response service and are looking for independent B2B sales partners who can bring new clients and manage the commercial process from first contact to a closed deal.\n\nThis is a sales role. We are not looking for someone who only provides lead lists, books meetings or runs automated outreach campaigns.\n\nTHE SERVICE\n\nOur Managed Detection and Response service is designed for companies that need continuous security monitoring and professional response to suspicious activity but do not operate their own 24/7 security operations team.\n\nThe service is relevant to SMEs and mid-sized companies that depend on their IT environment and need better visibility and response capability without building an internal SOC.\n\nTypical buyers and decision-makers may be business owners, CEOs, IT managers, CTOs, CISOs and other people responsible for technology, security or business risk.\n\nWHAT YOU WOULD DO\n\nYour role is to find companies that are a good fit for the service and develop those opportunities into paying clients.\n\nYou would identify suitable companies and decision-makers, start conversations, qualify prospects, conduct discovery and commercial discussions, follow up, handle objections and move the opportunity throug",
+  "query": "web scraping",
+  "found_at": "2026-09-08 00:44"
+ },
+ {
+  "id": 40697356,
+  "title": "EXPERT ONLY: Fix DrayTek/Yeastar/Cudy VPN & VoIP over 5G CGNAT (Read Rules)",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/vpn/EXPERT-ONLY-Fix-DrayTek-Yeastar",
+  "desc": "STRICT RULES - READ BEFORE BIDDING\n\n1. ZERO-TOLERANCE HARDWARE RULE:\nDO NOT BID if you do not have direct, hands-on experience with ALL of these specific devices:\n\nCudy P2 5G Router\n\nDrayTek Vigor 2915 Router\n\nYeastar S20 PBX\nWe are a live production business, NOT a testing ground or a network engineering academy. If you do not know these exact models inside out, do not waste our time. We will not teach you how our network works.\n\n2. THE CORE AUTOMATION GOAL (MANDATORY):\nWe demand a 100% seamless, automated experience for the end-user. Moving in and out of the office must require ZERO manual network adjustments.\n\nSmart VPN (Always-On): It must run 24/7. When a user walks into the KSA office and connects to the local Wi-Fi, the routing must automatically prioritize local traffic without conflicts. When outside on 5G, it must route to the remote sites smoothly. No manual ON/OFF switching.\n\nLinkus App: It must auto-switch instantly. It must use the Local PBX IP when inside the office, and automatically switch to the DDNS endpoint when outside, bypassing the VPN completely to avoid latency.\n\n3. STRICTLY ANYDESK OR ULTRAVIEWER ONLY:\nALL work MUST be done remotely via AnyDesk or UltraViewer. No direct access, VPN credentials, SSH keys, or passwords will be handed over.\n\n4. MANDATORY BACKUPS:\nYou must take full configuration backups of all devices to my local PC before making a single change.\n\n5. NO TIME-WASTING:\nDo NOT message me asking \"What is the problem?\" or \"What is your budge",
+  "query": "web scraping",
+  "found_at": "2026-09-08 00:44"
+ },
+ {
+  "id": 40697312,
+  "title": "EPLAN P8 Electrical Schematics Conversion",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/engineering-drawing/EPLAN-Electrical-Schematics-Conversion",
+  "desc": "I have a complete set of a machine electrical schematics that currently follow non-IEC conventions. I need the entire project rebuilt in EPLAN Electric P8 so it reads and behaves like a native European design. That means every page must adopt IEC symbols, device tag structure, and drawing layout the reference file I will supply.\n\nBeyond simple redrawing, I expect an intelligent P8 project: device macros correctly placed, full part master data filled out, cable and wire numbers auto-generated, and all PLC addresses mapped. Please include inverter parameter sheets and a tidy terminal block overview so the shop floor can build straight from the print.\n\nKey deliverables\n• PLC I/O mapping embedded in the project\n• Inverter parameter documentation tied to each drive object\n• Terminal block layouts generated from the device navigator\n• Part list of components\n\nTo help me gauge fit quickly, attach examples of past EPLAN or similar IEC conversion work—screenshots or PDF exports are fine.\n\nI will provide the PDFs electrical schematicsand even the DWG file, the style guide file, and any missing catalogue data once we start.",
+  "query": "data extraction",
+  "found_at": "2026-09-08 00:44"
+ },
+ {
+  "id": 40697386,
+  "title": "Engineer Plans for Wood Gazebo",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/building-designer/Engineer-Plans-for-Wood-Gazebo",
+  "desc": "I’m building a 20 × 24 ft wood gazebo on a concrete slab and need a licensed structural engineer to turn my concept into a code-compliant set of basic structural drawings suitable for permit submission. The roof will be conventionally framed and finished with asphalt shingles, and I already have the elevation certificate.\n\nYour task is to review those documents, size all posts, beams, rafters, connections and anchors, and create clear plan, elevation and section views in PDF (DWG preferred as well). A concise calculation summary or design notes showing the assumptions behind your member sizing should accompany the drawings.\n\nIf you can apply your stamp in my state, please mention it; otherwise the drawings must still be complete enough for a local professional to review and seal. Let me know your expected turnaround time and anything else you need from me to get started.",
+  "query": "pdf extraction",
+  "found_at": "2026-09-08 00:44"
+ },
+ {
+  "id": 40697365,
+  "title": "Biodiversity Enhancement Plan",
+  "budget_min": 200.0,
+  "budget_max": 300.0,
+  "currency": "GBP",
+  "usd_rate": 1.354354,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/environmental-consulting/Biodiversity-Enhancement-Plan",
+  "desc": "I need a concise biodiversity enhancement plan that will satisfy Runnymede Borough Council’s planning condition for a single-dwelling new build. The emphasis is on keeping things clear, practical and, above all, simple so the document can be submitted without triggering further queries.\n\nScope of the plan  \n• Planting native species – focus on native shrubs and a seasonal mix of wildflowers that provide year-round food and cover.  \n• Creating wildlife habitats – include discrete bird-nesting sites as well as small-scale bat roosts and a couple of stacked-log or beehive features. I am not looking to add ponds or elaborate water elements unless you feel a modest rain-garden swale would add measurable biodiversity value without complicating maintenance.\n\nWhat the finished work should contain  \n1. A brief written rationale (no more than two pages) that references current Biodiversity Net Gain guidance and Runnymede’s own SPD.  \n2. A simple annotated site layout (PDF is fine; AutoCAD or GIS source appreciated if you already work that way) showing the positions of plantings and habitat features.  \n3. A plant and materials schedule listing the chosen native shrubs and wildflower mixes, quantities and sourcing.  \n4. A light-touch maintenance table covering the first five years so the council can see long-term viability.  \n\nAcceptance criteria  \n• All proposed species are native to Surrey.  \n• The plan clearly demonstrates a net gain in biodiversity without exceeding normal domestic-g",
+  "query": "pdf extraction",
+  "found_at": "2026-09-08 00:44"
  }
 ]
