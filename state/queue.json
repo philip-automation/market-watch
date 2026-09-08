@@ -17483,5 +17483,57 @@
   "desc": "I’m developing an instructional video and need a polished 3-D animation sequence that clearly explains the key concepts for viewers. The final animation will be embedded into a longer video I’m producing, so what I really need from you is a standalone 3-D clip (or series of clips) that I can drop straight into my edit.\n\nBecause the end use is educational, visual clarity and logical flow matter more than flashy effects. I’m open to whichever 3-D approach—character work, product style renders, or even architectural-style fly-throughs—best communicates the lesson; feel free to suggest what you think fits once you see my storyboard and script.\n\nHere’s what I’ll provide:\n• A script with timing cues  \n• Storyboard frames showing the main beats  \n• Branding guidelines and reference images\n\nHere’s what I’m expecting back:\n• A fully rendered 3-D animation in 1080p (or higher if you prefer)  \n• The editable project files so I can make minor tweaks later  \n• One round of revisions after I review the first draft  \n\nIf you’re comfortable working in Blender, Maya, Cinema 4D, or a comparable 3-D package and you enjoy turning complex ideas into visuals that teach, I’d love to see examples of your past instructional work and get started right away.",
   "query": "python script",
   "found_at": "2026-09-08 21:06"
+ },
+ {
+  "id": 40699526,
+  "title": "Cartoonish AI Image Generator Development",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010546,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/ai-image-generation/Cartoonish-Image-Generator-Development",
+  "desc": "I want to build an AI that can take any text prompt I feed it and return a lively, cartoon-style image. The core of the work is training or fine-tuning a model so it consistently produces bright, clean, character-driven artwork rather than photorealistic renders. I am open to the underlying architecture—whether that is a custom GAN, a diffusion approach, or a tailored Stable Diffusion pipeline—but the final results must read unmistakably as “cartoon” at first glance.\n\nTo help me choose the right partner, send a detailed project proposal that walks me through your planned workflow: data collection or augmentation strategy for cartoon images, model selection, training schedule, expected hardware needs, and how you will package the finished system for everyday use (command-line script, simple web UI, or another method you prefer). Be explicit about any open-source checkpoints you intend to leverage and how you will handle licensing.\n\nThe deliverable I expect at the end of the engagement is a usable generator: the trained weights, the inference script or API, and concise documentation so I can reproduce or extend your work later. I will judge success by visual quality (clean lines, vivid color palette, and stylistic consistency across multiple prompts), prompt–to–image accuracy, and reasonable inference speed on a single consumer GPU.\n\nIf you have questions about scope or preferred frameworks, include them in your proposal so we can clarify early. Looking forward to seeing how yo",
+  "query": "web scraping",
+  "found_at": "2026-09-08 23:26"
+ },
+ {
+  "id": 40699621,
+  "title": "Recover Android Photos Post-Reset",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/data-recovery/Recover-Android-Photos-Post-Reset",
+  "desc": "I accidentally performed a factory reset on my Android phone and lost all of my photos and videos. Unfortunately, I never set up a Google or SD-card backup, so everything sat only in the phone’s internal storage.  \n\nI need someone experienced with Android forensic-level recovery to retrieve whatever can still be salvaged from the internal memory. Please outline the method or software you plan to use (e.g., ADB, custom recovery, Magnet, Dr.Fone, Tenorshare, etc.) and any device prerequisites such as root or bootloader access so I can prepare the phone correctly.  \n\nDeliverable: a folder containing the recovered image and video files, organised in a readable structure, plus a brief report describing the steps taken so I can understand the process and verify completeness.",
+  "query": "google sheets automation",
+  "found_at": "2026-09-08 23:26"
+ },
+ {
+  "id": 40699597,
+  "title": "Georgia Quadplex Structural & Sprinkler Plans",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 19,
+  "url": "https://www.freelancer.com/projects/structural-engineering/Georgia-Quadplex-Structural-Sprinkler",
+  "desc": "I have a 2,100 sq ft quadraplex ready for permitting and need a licensed professional to take it across the finish line in Georgia. The work is two-fold:\n\n• Complete structural drawings that cover foundation details, full framing layout, and roof structure, all engineered to current Georgia building code.  \n• Design a code-compliant automatic fire-sprinkler system and prepare the hydraulic calculations, riser diagram, and head layout required by the local AHJ.\n\nAll sheets must be sealed with a Georgia Professional Engineer stamp and delivered in both PDF and editable CAD (DWG or Revit) formats suitable for submission. I’ll provide the conceptual floorplans and any site information you need; you return coordinated plans ready for permit review and construction. Let me know your expected timeline and any clarifications you need so we can get started right away.",
+  "query": "google sheets automation",
+  "found_at": "2026-09-08 23:26"
+ },
+ {
+  "id": 40699579,
+  "title": "Boost Google Reviews & Optimize Local SEO for Dental Services",
+  "budget_min": 125.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 17,
+  "url": "https://www.freelancer.com/projects/internet-marketing/Boost-Google-Reviews-Optimize-Local",
+  "desc": "We're looking for an expert to: 1. Help improve our online reputation by increasing our Google reviews to a 5.0-star rating naturally. 2. Optimize our local SEO strategy so that our dental office appears first in Google searches within the 34240, 34202, and 34211 zip codes.\n\nThe SEO focus will highlight: - Dental cleaning services - Same-day appointments - Specialized services including Invisalign, implants, crowns, and pediatric cleanings.\n\nDeliverables: - A detailed plan and execution for boosting Google review ratings responsibly. - Research and implement location-based keywords tailored to the services we provide. - Create or improve local listings to dominate searches in the outlined zip codes.",
+  "query": "google sheets automation",
+  "found_at": "2026-09-08 23:26"
  }
 ]
