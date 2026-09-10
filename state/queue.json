@@ -20005,5 +20005,44 @@
   "desc": "My customers frequently need real-time assistance that also moves them toward a purchase, so this project combines classic customer support with a clear sales emphasis. The core task is to place cold calls to brand-new prospects, answer their questions in a friendly, knowledgeable manner, and guide them toward the right product or service.\n\nScope of work  \n• Dial cold prospects from the list I provide, following the approved script while sounding natural and engaging.  \n• Offer “Sales” style customer support—every conversation should both resolve the caller’s inquiry and create momentum toward closing a deal.  \n• Record each outcome (interested, not interested, callback requested, converted) in my CRM the same day.  \n• Flag any technical or billing issues you uncover so I can route them internally.\n\nTools & workflow  \nThe contact list, script, soft-phone login, and CRM credentials will be supplied. Familiarity with VoIP dialers, basic spreadsheet tracking, and polite, accent-neutral English are all important for smooth execution.\n\nAcceptance criteria  \n1. Minimum 80 outbound calls per day.  \n2. Daily spreadsheet/CRM update with call notes and status codes.  \n3. Weekly summary highlighting objections heard, conversions achieved, and suggestions for script improvement.\n\nIf you can consistently deliver professional, sales-ready customer support over the phone, let’s get started right away.",
   "query": "python script",
   "found_at": "2026-09-10 17:39"
+ },
+ {
+  "id": 40703710,
+  "title": "NYC Wine Bar DOB Drawings (Must be licensed NYC Architect to submit with DOB)",
+  "budget_min": 1500.0,
+  "budget_max": 3000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/project-management/NYC-Wine-Bar-DOB-Drawings",
+  "desc": "I’m opening a small wine bar in New York City and I need a complete DOB filing set that covers architectural, electrical, and plumbing disciplines from scratch. I have a rough concept and accurate field measurements, but I’m relying on your professional input to translate that into a code-compliant plan that will pass DOB review the first time.\r\n\r\nYou will be starting with a blank slate—no legacy plans—so every sheet must be produced new, coordinated, and internally consistent. Because the space is a bar, the package must also anticipate health code, ADA accessibility, and any FDNY requirements that could affect layout, egress, or mechanical clearances.  \r\n\r\nDeliverables (PDF + DWG):  \r\n• Architectural: floor plan, reflected ceiling, demo/new work overlays, elevations/sections, door & finish schedules, egress calculations.  \r\n• Electrical: lighting and power plans, panel schedules, load calcs, single-line riser.  \r\n• Plumbing: plan with waste/vent, domestic supply, gas (if needed), and riser diagrams with DOB fixture counts.  \r\n\r\nAcceptance criteria: every sheet formatted to NYC DOB standards, coordinated across trades, stamped title blocks ready for filing, and all comments (if any) closed out within one revision cycle.\r\n\r\nI can supply existing site photos, equipment cut sheets, and branding guidelines immediately. A brief site walk-through can be arranged if you’re local. Let me know your projected timeline to schematic, 75 % issue, and final filing set, plus any additional",
+  "query": "google sheets automation",
+  "found_at": "2026-09-10 20:05"
+ },
+ {
+  "id": 40703686,
+  "title": "Educational Technical Prompt Creation",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010455,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/content-development/Educational-Technical-Prompt-Creation",
+  "desc": "I need a clear, well-structured technical prompt that will be used to deliver educational content. The final text should read in a neutral, objective voice—free of marketing language or subjective commentary—so that anyone can follow it as an authoritative reference.\n\nScope  \n• Break the prompt into logical sections or numbered steps for easy reuse.  \n• Define any required inputs, expected outputs, constraints, and evaluation criteria inside the prompt itself.  \n• Keep wording precise, concise, and jargon-light so it remains accessible to a broad learner audience.  \n• Include a short annotation at the end explaining how each section supports the educational goal.\n\nWhat I will provide  \n• A brief outline of the learning objectives and any reference material once we begin.\n\nDeliverable  \n• One polished, ready-to-paste technical prompt in editable text format (Google Doc or Word).\n\nIf you have experience drafting prompts for tutorials, documentation, or training modules and can keep the tone strictly neutral and objective, I’d love to work with you.",
+  "query": "google sheets automation",
+  "found_at": "2026-09-10 20:05"
+ },
+ {
+  "id": 40703788,
+  "title": "Android Performance Profiling & Optimization",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 19,
+  "url": "https://www.freelancer.com/projects/android-app-development/Android-Performance-Profiling",
+  "desc": "My native Android app (built with Java/Kotlin) is slow to launch, stutters badly on the main screen, and drains the battery faster than expected. I will give you full source access plus the physical device where the issue is most obvious.\n\nWhat I need from you:\n• Profile the startup sequence and main-screen rendering with tools such as Android Studio Profiler, Systrace, Battery Historian, or any others you prefer.  \n• Identify the concrete bottlenecks and quantify them—please capture baseline metrics (CPU, memory, frame time, battery usage) before you touch the code.  \n• Implement the fixes and retest, showing side-by-side numbers that prove the improvement.  \n• Document every code change and explain why it works, along with a short “avoid-this-pitfall” checklist so the same regression does not happen again.\n\nA clean Git commit history, a brief report (PDF or Markdown), and the updated project that compiles without warnings in Android Studio will complete the job.",
+  "query": "pdf extraction",
+  "found_at": "2026-09-10 20:05"
  }
 ]
