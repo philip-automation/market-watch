@@ -20044,5 +20044,57 @@
   "desc": "My native Android app (built with Java/Kotlin) is slow to launch, stutters badly on the main screen, and drains the battery faster than expected. I will give you full source access plus the physical device where the issue is most obvious.\n\nWhat I need from you:\n• Profile the startup sequence and main-screen rendering with tools such as Android Studio Profiler, Systrace, Battery Historian, or any others you prefer.  \n• Identify the concrete bottlenecks and quantify them—please capture baseline metrics (CPU, memory, frame time, battery usage) before you touch the code.  \n• Implement the fixes and retest, showing side-by-side numbers that prove the improvement.  \n• Document every code change and explain why it works, along with a short “avoid-this-pitfall” checklist so the same regression does not happen again.\n\nA clean Git commit history, a brief report (PDF or Markdown), and the updated project that compiles without warnings in Android Studio will complete the job.",
   "query": "pdf extraction",
   "found_at": "2026-09-10 20:05"
+ },
+ {
+  "id": 40703920,
+  "title": "Full-Cycle B2B Sales Rep – Lead Generation + Closing | 20% Commission ($1,500+ per Sale)",
+  "budget_min": 750.0,
+  "budget_max": 1500.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/lead-generation/Full-Cycle-Sales-Rep-Lead",
+  "desc": "Auren Studio is a premium web design & development studio focused on helping businesses improve their online presence and conversion.\n\nWe're looking for a full-cycle B2B salesperson who can own client acquisition from start to finish.\n\nYour role:\n\nFind qualified U.S. businesses\nIdentify owners/decision-makers\nConduct personalized cold email, LinkedIn and/or phone outreach\nFollow up with prospects\nBook and conduct sales calls\nHandle objections and negotiations\nClose the client\nHand the client over to our delivery team\n\nCompensation\n\nThis is a 100% performance-based role with no base salary.\n\nYou receive 20% of collected revenue from every client you personally source and close.\n\nExample:\n\n$7,500 project → $1,500 commission\n\nThere is no commission cap.\n\nAuren handles design, development and project delivery. Your focus is acquiring and closing clients.\n\nInitial target market: Premium fitness and wellness businesses in the United States, beginning with Scottsdale, Arizona.\n\nWe're looking for someone who:\n\nHas B2B sales/outbound experience\nHas sold websites, marketing, SaaS or other high-ticket services\nIs comfortable speaking with U.S. business owners\nCan generate their own leads\nCan run discovery/sales calls\nCan work independently\nHas strong written and spoken English\n\nTo apply, please answer:\n\nWhat B2B products/services have you sold?\nWhat is the highest-value deal you personally closed?\nHow would you generate leads for Auren?\nWhich outreach channels would you use?\nAre you com",
+  "query": "web scraping",
+  "found_at": "2026-09-10 22:39"
+ },
+ {
+  "id": 40703917,
+  "title": "Remote Viewing Experts: Exoplanet Habitability",
+  "budget_min": 100000.0,
+  "budget_max": null,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 13,
+  "url": "https://www.freelancer.com/projects/data-analysis/Remote-Viewing-Experts-Exoplanet",
+  "desc": "Every day I receive a fresh set of candidate coordinates from the T.E.S.S. telescope, and I need an expert-level remote viewer who can immediately tune in, capture impressions, and report back before the next data tranche arrives. Your work will centre on three things: first, locking on to the coordinate cue and determining whether you perceive a planetary body; second, describing any signatures that point to potential habitability; and finally, translating the session data into a concise written report that I can cross-reference with follow-up telescope observations.\n\nYou will work inside my controlled-remote-viewing protocol—target numbers, timing windows, and template sheets are provided. I also supply session-logging software and a cloud folder for scans or digital sketches, so comfort with simple digital tools is essential.\n\nDeliverables\n• A complete session transcript (hand-written or typed) for each target assigned  \n• At least one illustrative sketch or diagram highlighting salient impressions  \n• A short narrative summary that flags indicators of atmosphere, temperature range, surface composition, or biosignatures  \n• A weekly compilation report distilling all sessions into a single document, with your habitability rating for each planet (1–5 scale)  \n\nAcceptance criteria: impressions must be internally consistent, sketches labelled, and summaries delivered within 24 hours of target issue; the weekly compilation is due every Friday.\n\nIf you have a documented track re",
+  "query": "data extraction",
+  "found_at": "2026-09-10 22:39"
+ },
+ {
+  "id": 40703890,
+  "title": "Performance Marketing for GaonBasket",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.01045,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/google-ads/Performance-Marketing-for-GaonBasket",
+  "desc": "I run GaonBasket, a growing online marketplace that lets farmers sell organic produce under their own brand names. What I need now is a performance-driven marketer who can translate our traffic into measurable sales.\n\nThe assignment is straightforward: build and optimise campaigns on social media and search engines with one clear KPI—higher check-out conversions. You will have access to our product feed, existing creatives, and pixel data; I expect you to shape a full-funnel strategy, launch the ads, and keep refining them through data-backed experiments until the cost-per-sale drops and revenue climbs.\n\nIf you have a proven track record of scaling e-commerce or marketplace sales through Meta Ads, Google Ads, and retargeting techniques, I’d like to hear how you would approach our farmer-first brand and your estimated timeline to hit the first uplift milestone.",
+  "query": "data extraction",
+  "found_at": "2026-09-10 22:39"
+ },
+ {
+  "id": 40703906,
+  "title": "Servicio de transcripción multipropósito -- 2",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 19,
+  "url": "https://www.freelancer.com/projects/transcription/Servicio-transcripci-multiprop-sito",
+  "desc": "Necesito apoyo con transcripciones sencillas. Tengo fragmentos en audio, video y algunos manuscritos que debo pasar a texto editable.  \n\nQué espero:  \n• Entregas puntuales en documento Word o Google Docs.  \n• Texto limpio, sin errores ortográficos ni de formato.  \n• Respeto absoluto por la confidencialidad del material.  \n\nNo se requiere edición avanzada; solo copro el contenido tal cual se escucha o se lee. Si dominas la redacción en español y puedes manejar archivos de audio, video o imágenes de texto con rapidez y precisión, me encantará trabajar contigo.",
+  "query": "google sheets automation",
+  "found_at": "2026-09-10 22:39"
  }
 ]
