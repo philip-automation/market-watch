@@ -22618,5 +22618,70 @@
   "desc": "I’m looking for an experienced educational book interior designer/typesetter for a Class 12 Physics exam-preparation workbook.\n\nThe manuscript is already written. Equations, diagrams, questions, solutions and QR codes are already prepared. I do NOT need content writing. I need professional interior design and typesetting so the book looks clean, premium, modern and print-ready.\n\nThe book includes:\n- Chapter opening pages\n- Topic-wise question sections\n- MCQs and numerical questions\n- CQ / BQ / CBQ / PYQ tags\n- Hints\n- Short solutions\n- Assertion–Reason and Case-Based questions\n- Chapter Tests\n- Physics diagrams and graphs\n- QR codes linked to video solutions\n\nDesign requirements:\n- Modern, clean and academic\n- Mostly black-and-white interior\n- Suitable for Class 12 / competitive-exam students\n- Strong typography and clear visual hierarchy\n- Consistent question, hint, solution and QR layouts\n- Professional headers, footers and automatic page numbering\n- Proper margins, gutter and print layout\n- Good use of white space\n- No childish graphics or excessive decoration\n- Must remain economical for black-and-white printing\n\nI would first like the designer to create a few sample/master pages, such as:\n1. Chapter opener\n2. Topic heading\n3. Question page\n4. QR solution layout\n5. Hint box\n6. Solution page\n7. Chapter Test page\n\nOnce the design style is approved, the same system can be applied throughout the book.\n\nFinal deliverables should include:\n- Print-ready PDF\n- Editable source fil",
   "query": "pdf extraction",
   "found_at": "2026-09-12 23:05"
+ },
+ {
+  "id": 40707832,
+  "title": "Agente de Chat para Soporte",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 13,
+  "url": "https://www.freelancer.com/projects/customer-service/Agente-Chat-para-Soporte",
+  "desc": "Busco a un agente de chat remoto que atienda consultas de atención al cliente los lunes y miércoles entre las 17:00 y las 20:00 (hora local). Durante ese periodo deberás:\n\n• Responder de forma clara y cordial a las preguntas de los usuarios.  \n• Aplicar técnicas de resolución de problemas cuando surjan incidencias o dudas complejas.  \n• Registrar breves notas de cada interacción en nuestro sistema para que el historial quede actualizado.  \n\nTrabajo con una sola ventana de chat web (sin llamadas ni redes sociales) y proporcionaré guías de respuestas frecuentes, acceso a la base de conocimientos y formación inicial sobre el producto. \n\nValoraré experiencia previa en soporte escrito y tu habilidad para mantener un tono profesional aun cuando el cliente esté frustrado. Puntualidad y buena conexión a internet son imprescindibles.\n\nSi encajas, cuéntame brevemente tu experiencia y la herramienta de chat más robusta que hayas manejado recientemente.",
+  "query": "web scraping",
+  "found_at": "2026-09-13 01:08"
+ },
+ {
+  "id": 40707853,
+  "title": "Interactive Excel Coffee Sales Dashboard",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.01046,
+  "bids": 4,
+  "url": "https://www.freelancer.com/projects/data-visualization/Interactive-Excel-Coffee-Sales-Dashboard",
+  "desc": "I need a dynamic sales dashboard built in Excel that helps me monitor my coffee business in real time. The finished file must pull data from both a set of Excel spreadsheets I provide and a small SQL-based database we currently use for inventory. Once connected, the dashboard should let me:\n\n• Filter results by any custom date range  \n• Hover over charts or data points to reveal additional details (totals, percentages, underlying records)  \n• Click column headers to sort tables on the fly  \n\nBeyond wiring up those interactive elements, I’d like clean visuals—charts, trend lines, and summary cards—that instantly show how my different coffee products are performing without forcing me to dig through raw sheets.\n\nDeliverables\n• An .xlsx file with all queries, Power Query or VBA code, pivot tables, and interactive charts ready to refresh at a single click  \n• Clear setup notes so I can update data connections or tweak visuals later  \n• A short walkthrough (screenshare or recorded) showing how the date filter, hover tooltips, and sortable tables work\n\nI will supply sample spreadsheets, the database connection string, and any credentials you need right after we start.",
+  "query": "data extraction",
+  "found_at": "2026-09-13 01:08"
+ },
+ {
+  "id": 40707848,
+  "title": "Manual ReCAPTCHA Solving Support",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.01046,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/data-entry/Manual-ReCAPTCHA-Solving-Support",
+  "desc": "I have a steady flow of Google ReCAPTCHAs that must be solved quickly and accurately. The task is straightforward: whenever a challenge appears on my side, I will route it to you; you return the correct response so the workflow can continue without interruption.  \n\nOnly ReCAPTCHA challenges are involved, so familiarity with their look-and-feel and the quickest way to extract the solution is essential. If you already use helper tools, browser extensions, or a custom typing dashboard, feel free to mention them—any approach is fine as long as the end result is a reliable, correct token delivered in seconds.\n\nHere is what will make the collaboration successful:  \n• Consistent accuracy—mistyped solutions slow everything down.  \n• Fast turnaround—ideally under 15 seconds per challenge.  \n• Clear availability—let me know your daily hours and how much volume you can handle.  \n• Smooth hand-off—I can integrate through API, shared screen, or even a simple chat, whichever you prefer.\n\nWhen you reply, tell me:  \n1. Your average solve time for ReCAPTCHA.  \n2. The maximum number of challenges you can cover per hour.  \n3. Any existing setup or tools you plan to use.\n\nI’m ready to start as soon as I find a dependable typer, and this can turn into long-term, high-volume work for the right person.",
+  "query": "google sheets automation",
+  "found_at": "2026-09-13 01:08"
+ },
+ {
+  "id": 40707814,
+  "title": "On-Demand Customer Service Recruiter",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/customer-service/Demand-Customer-Service-Recruiter",
+  "desc": "I need a dedicated recruiter who can jump straight onto the phone, cold-call incoming leads, and lock in customer-service staff who are able to start the very same day. You will work full-time, Monday through Saturday, 9 AM-7 PM Eastern, and begin with a paid three-week training and evaluation period so we can fine-tune your approach before you fly solo.\n\nFluent, confident spoken English is essential because most of the job happens on live calls. A background sourcing talent for cleaning or similar high-turnover service industries will make it much easier for you to recognise the right attitude and reliability in applicants. Please focus your proposal on the recruiting experience that proves you can fill urgent customer-service vacancies under tight deadlines—numbers, time-to-hire metrics, call-volume stats, or anything concrete that shows you have done this before are welcome.\n\nOnce you are up to speed you will:\n\n• Dial the leads I supply, screen them on the spot, and schedule onboarding without delay  \n• Keep a healthy pipeline so we can cover last-minute call-outs and seasonal spikes  \n• Maintain simple daily reports in Google Sheets so we both see progress at a glance  \n\nBy the end of the training period I expect you to manage the full cycle independently: sourcing, screening, reference checking, and confirming start dates the same day the need arises. If you’re confident you can deliver that pace, tell me about your most relevant recruiting wins and let’s get started.",
+  "query": "google sheets automation",
+  "found_at": "2026-09-13 01:08"
+ },
+ {
+  "id": 40707593,
+  "title": "Retail Store Rebranding Drawings",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/architectural-engineering/Retail-Store-Rebranding-Drawings",
+  "desc": "I need a professional permit-ready commercial drawing set for a retail store renovation in Allen, Texas, prepared according to City of Allen Commercial Plan Review requirements.\n\nScope includes:\n• Scaled existing/proposed floor plans and reflected ceiling plan\n• Architectural, plumbing, HVAC/mechanical, and electrical plans\n• Interior/exterior elevations, dimensions, details, schedules, and code notes\n• Plumbing water/DWV isometrics and required MEP details\n• Material/fixture schedule and basic 3D perspectives\n• PDF + DWG/Revit source files\n• Texas PE/Architect signed and sealed drawings where required\n\nAll drawings must be professionally coordinated, measurable in Bluebeam, and suitable for City of Allen permit submission.\n\nPlease confirm your Texas commercial permit experience, turnaround time, total fee, and whether revisions required by the City are included.",
+  "query": "pdf extraction",
+  "found_at": "2026-09-13 01:08"
  }
 ]
