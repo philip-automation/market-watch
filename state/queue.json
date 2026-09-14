@@ -24009,5 +24009,44 @@
   "desc": "Saya membutuhkan satu desain poster pendidikan bertema “Kesehatan dan Kebersihan” yang ditujukan khusus untuk anak-anak. Poster ini akan dipasang di ruang kelas dan area bermain, jadi tampilannya harus cerah, penuh ilustrasi ramah anak, serta menggunakan kalimat sederhana dan mudah dibaca.  \n\nLingkup tugas:  \n• Merancang layout A3 vertikal dengan warna ceria dan ikon yang menarik perhatian.  \n• Menyertakan 4–6 pesan utama seputar cuci tangan, menutup mulut saat batuk, dan menjaga kebersihan diri.  \n• Menonjolkan tipografi besar dan jelas agar anak usia SD dapat membacanya.  \n• Menyerahkan file final dalam PDF siap cetak (300 dpi) serta file sumber terbuka (AI atau PSD) untuk revisi.  \n\nSaya terbuka pada satu ronde revisi ringan untuk memastikan ilustrasi dan teks terasa menarik bagi anak-anak. Jika Anda sudah pernah membuat materi edukasi sejenis, cantumkan portofolio relevan agar saya dapat segera menilai gaya desain Anda.",
   "query": "ai chatbot",
   "found_at": "2026-09-13 23:26"
+ },
+ {
+  "id": 40709563,
+  "title": "Medical Case Material Needed - For Philippine Bidders Only",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/medical-research/Medical-Case-Material-Needed-Philippine",
+  "desc": "We are seeking a qualified researcher to locate lawfully obtained, or properly authorized and fully de-identified medical case materials for research purposes.\n\nAreas of interest:\nStage 4 lung cancer\nThyroid cancer at any stage\n\nNeeded cases involving female patients\n\nImportant privacy requirement: No personally identifiable information, protected health information, patient names, addresses, contact information, medical record numbers, dates of birth, or other information that could reasonably identify a patient may be provided.\n\nThe freelancer must not obtain, access, purchase, or disclose confidential patient records or medical records without the appropriate legal authorization and consent.\n\nAcceptable materials: Documents that have already been properly de-identified by an authorized source.\n\nThis project is strictly for research purposes and requires compliance with all applicable privacy, confidentiality, copyright, and data-protection requirements.",
+  "query": "data extraction",
+  "found_at": "2026-09-14 01:33"
+ },
+ {
+  "id": 40709514,
+  "title": "MIDI Fader Console with USB Integration",
+  "budget_min": 750.0,
+  "budget_max": 1500.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/arduino/MIDI-Fader-Console-with-USB",
+  "desc": "I'm looking for a skilled developer to build a lighting MIDI fader console with USB integration. The console will primarily be used on Windows.\n\nKey Requirements:\n- User Interface: Physical knobs and faders\n- USB Integration: Must support Windows\n- Features: \n  - Programmable buttons\n  - Mappable controls\n\nIdeal Skills and Experience:\n- Experience with MIDI hardware and software\n- Proficiency in USB integration for Windows\n- Knowledge of physical interface design with knobs and faders\n- Ability to implement programmable and mappable controls\n\n\n**EXPERIENCE WITH ARTNET A PLUS FOR FUTURE PROJECTS**\n\nhttps://art-net.org.uk/\n\nPlease provide samples of previous work related to MIDI or hardware integration.\n\nWe are an American Manufacturing Company looking to replace our lead designer. Must have Cad and Programming experience, understand UL certifications, and be able to design “build ready” products. \n\nThis is the first project of several that we are interested in building.",
+  "query": "gpt integration",
+  "found_at": "2026-09-14 01:33"
+ },
+ {
+  "id": 40709550,
+  "title": "Documentários Animais Educativos YouTube",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/video-editing/Document-rios-Animais-Educativos-YouTube",
+  "desc": "Quero publicar no YouTube uma série de vídeos longos sobre a vida selvagem com foco principal em EDUCAR o público. Já possuo algumas ideias iniciais, mas preciso que você transforme essas ideias em um roteiro completo, estruturado e envolvente.\n\nEtapas esperadas:\n• Pesquisa do tema animal escolhido, reunindo fatos confiáveis e curiosidades científicas.  \n• Elaboração do roteiro completo (início, desenvolvimento, conclusão) compatível com narrativa de documentário.  \n• Seleção ou indicação de imagens e vídeos de domínio público ou licenciados que sustentem a história.  \n• Edição em formato widescreen 1080p, ritmo fluido, gráficos ou legendas quando necessário.  \n• Narração integrada: enviarei o áudio gerado com minha própria voz no ElevenLabs; preciso que você sincronyze perfeitamente com o material visual.  \n• Entrega do arquivo final pronto para upload e do roteiro em formato .doc ou .pdf.\n\nTom desejado: uso da minha voz ElevenLabs, mantendo uma pegada clara, acessível e respeitosa com o conteúdo científico.\n\nFerramentas como Premiere, Final Cut, DaVinci ou equivalentes são bem-vindas—o importante é a qualidade final. Ao se candidatar, mostre um exemplo de roteiro ou trecho de documentário que já tenha desenvolvido.",
+  "query": "pdf extraction",
+  "found_at": "2026-09-14 01:33"
  }
 ]
