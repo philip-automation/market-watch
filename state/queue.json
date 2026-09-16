@@ -1883,5 +1883,122 @@
   "desc": "I run an entertainment-focused YouTube channel and need a reliable creative partner who can take each idea from concept to publish-ready. The channel’s style is punchy, energetic and never drags, so quick cuts, dynamic transitions, snappy captions and eye-catching graphics are a must.\n\nHere’s how I see our workflow: I’ll share the topic, any raw footage or reference clips, and the overall angle for the episode. You’ll craft a concise, engaging script that keeps viewers hooked right through the outro, then edit the footage into a fast-paced final cut (roughly 8–12 minutes) that matches popular influencer energy. Once the video is locked, you’ll design a thumbnail that stops the scroll and clearly sells the hook without clickbait.\n\nPreferred tools are Premiere Pro or Final Cut for editing and Photoshop or Canva for thumbnails, but I’m open as long as the final assets meet YouTube’s resolution and compression guidelines. Strong sense of pacing, meme-ready text overlays, sound-effect timing and a good eye for CTR-boosting design will set you apart.\n\nDeliverables for each video:  \n• Script (Google Doc)  \n• Edited 1080p (or 4K if source allows) MP4 with dynamic pacing, captions and SFX  \n• High-CTR thumbnail (1280×720, <2 MB)  \n\nIf your portfolio shows entertainment videos with energetic cuts and standout thumbnails, share a link and tell me how soon you can turn around a typical episode. Looking forward to creating binge-worthy content together!",
   "query": "python script",
   "found_at": "2026-09-16 17:07"
+ },
+ {
+  "id": 40715898,
+  "title": "Engaging Explainer Video Creation",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.01041,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/explainer-videos/Engaging-Explainer-Video-Creation",
+  "desc": "I need a skilled video creator to produce a series of concise, visually engaging explainer videos that clearly demonstrate my product’s value and functionality. Each video should mix clean motion graphics, clear on-screen text, and professional voice-over so viewers instantly understand how everything works without reading lengthy documentation.\n\nHere’s what I have so far:\n• A rough outline of the key points for each video  \n• Brand guidelines (logo, colors, typography)  \n• Reference clips that capture the pacing and tone I’m after  \n\nWhat I need from you:\n1. Script polish or full scriptwriting if you prefer starting from scratch  \n2. Storyboard that matches the brand’s visual language  \n3. Full production—animation or edited live-action sequences, subtle transitions, sound design, and royalty-free background music  \n4. Two rounds of revisions to fine-tune timing, graphics, and voice inflections  \n5. Final delivery in 1080p (or 4K if available) plus an exported caption file for accessibility  \n\nPreferred tools are After Effects, Premiere Pro, or comparable industry-standard software, but if you work in DaVinci Resolve or Final Cut and can hit the same quality, that’s perfectly fine. Finished files should be optimized for both web embedding and social platforms.\n\nOnce we agree on the creative direction, a realistic production schedule and milestone breakdown will keep us on track. Let me know your estimated timeframe, examples of past explainer work, and any questions you need",
+  "query": "web scraping",
+  "found_at": "2026-09-16 20:14"
+ },
+ {
+  "id": 40715892,
+  "title": "Mutual Fund Data Scraping Automation",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.01041,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/data-scraping/Mutual-Fund-Data-Scraping-Automation",
+  "desc": "We can discuss over call. Basically pulling data from certain online websites in excel which could be done at a click on real time basis",
+  "query": "web scraping",
+  "found_at": "2026-09-16 20:14"
+ },
+ {
+  "id": 40715792,
+  "title": "App Intro Slides & Video : Need a short video or Slide for introduction",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.01041,
+  "bids": 20,
+  "url": "https://www.freelancer.com/projects/video-editing/App-Intro-Slides-Video-Need",
+  "desc": "Need Intruduction slide or short Video for my app \"Team Planner\" \nhttps://joblee.in/team/\nhttps://play.google.com/store/apps/details?id=com.planner.todo&hl=en_IN\n\nApp Summary: JobLee Team Planner\nWhat it is: A team/workforce management web app (with a companion mobile app)\n\nTeam Task & To-Do Tracking — assign tasks, track progress, \nMulti-team support — users can belong to multiple teams, switch between them",
+  "query": "web scraping",
+  "found_at": "2026-09-16 20:14"
+ },
+ {
+  "id": 40715694,
+  "title": "Android Coin-Reward Puzzle Game",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.01041,
+  "bids": 17,
+  "url": "https://www.freelancer.com/projects/google-firebase/Android-Coin-Reward-Puzzle-Game",
+  "desc": "I am building “Super Earning App”, a Candy-Crush-style match-3 game that pays players virtual coins they can instantly cash out. The whole experience must feel light-hearted, cartoony and colorful while still being technically solid on Android.\n\nCore gameplay  \n• Unlimited procedurally generated levels that echo classic Candy Crush mechanics.  \n• Two level modes at launch: Timed and Collect-Items. (Move-limited stages can follow later.)  \n• In-game boosters: every 10 coins earned lets a player trigger 5 bombs.\n\nMonetisation & rewards  \n• Rewarded ads only: 15-second, full-screen, non-skippable.  \n  – Standard payout 15 coins per view.  \n  – “Super Reward” window every Monday 11 AM – 9 PM: 25 coins per view.  \n• Ad logic guardrails: maximum 3 ads back-to-back → mandatory 10-second cooldown.  \n• Session pacing: 5 min continuous play forces a 2 min “break” phase; no ads during breaks.  \n• Referral bonus: 500 coins credited instantly on successful sign-up.\n\nWallet & cashout  \n• In-app wallet shows live coin balance.  \n• Auto UPI withdrawal processed within minutes.  \n• Current cash tables (editable from the admin panel):  \n  – 60 000 coins = ₹200  \n  – 900 000 coins = ₹5 000  \n  – 90 000 000 coins = ₹20 00 000\n\nInfrastructure  \n• Ad mediation through AppLovin MAX or Unity LevelPlay so I can plug multiple networks without new builds.  \n• Secure admin panel (web) to edit coin rates, reward values, and monitor withdrawal logs.\n\nWhat I need from you  \n1. Complete Android project with",
+  "query": "web scraping",
+  "found_at": "2026-09-16 20:14"
+ },
+ {
+  "id": 40715673,
+  "title": "High-Converting Facebook Ad Creatives",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.01041,
+  "bids": 20,
+  "url": "https://www.freelancer.com/projects/facebook-ads/High-Converting-Facebook-Creatives",
+  "desc": "The goal is straightforward: drive measurable sales of our physical products through a tightly-structured Facebook campaign. I already know the broad outlines of my target market—specific age groups, locations, and interest clusters—yet I want the final audience refined by data, not guesswork. \n\nWhat matters most is a creative-led approach that pairs scroll-stopping visuals with persuasive copy, then backs it up with disciplined campaign setup inside Ads Manager. Static images, short-form video, carousel layouts—whichever format serves the sales objective best should be proposed, produced, and iterated rapidly. \n\nDeliverables expected:\n• Three complete ad concepts (visuals + primary text, headline, description) \n• Audience blueprint with age, location, and interest targeting rationale \n• Campaign structure ready for import (CBO, ad set, and ad level settings) \n• Brief optimisation plan outlining testing cadence and KPI benchmarks\n\nAds must launch ready, comply with Meta policies, and be formatted for placement variations (Feed, Stories, Reels). Once the assets are live, I’ll review performance against the agreed KPIs; any creative falling short will need a quick revision cycle. All artwork files and copy should be delivered in editable formats so future tweaks are seamless.\n\nIf your approach combines data-driven targeting with fresh, sales-oriented creative thinking, this project will move fast.",
+  "query": "data extraction",
+  "found_at": "2026-09-16 20:14"
+ },
+ {
+  "id": 40715678,
+  "title": "Sales Partner for DineSphere Software",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.01041,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/lead-generation/Sales-Partner-for-DineSphere-Software",
+  "desc": "Commission-Based Sales Partner for Restaurant POS & Management Software @dinesphere.in\n\nWe are looking for freelancers/sales professionals who can help us acquire new customers for DineSphere, an all-in-one restaurant management and POS platform built for cafes, restaurants, cloud kitchens, food courts, and other food businesses.\n\nWhat you’ll do:\n\nFind and approach potential restaurant/cafe owners.\nIntroduce them to DineSphere and its benefits.\nGenerate qualified leads and convert them into paying customers.\nCommunicate with prospects through WhatsApp, phone, email, social media, or in-person networking.\nHelp prospects understand the product and arrange a demo when required.\nFollow up with interested businesses until the subscription is successfully purchased.\n\nAbout DineSphere:\nDineSphere helps restaurants manage their business from one platform, including:\n\nPOS & billing\nQR-based digital menu and ordering\nOnline ordering/store\nTable management\nKitchen Display System\nInventory management\nSales & business analytics\nUPI/payment integration\nOffline POS capabilities\n\nCommission:\nYou will receive 15% commission for every successful DineSphere subscription sale that you directly refer.\n\nThis is a performance-based opportunity with no fixed limit on earnings. The more customers you successfully acquire, the more commission you earn.\n\nWe will provide the necessary product information, sales material, demos, and onboarding support to help you sell the product.\n\nWho we're looking for:",
+  "query": "gpt integration",
+  "found_at": "2026-09-16 20:14"
+ },
+ {
+  "id": 40715818,
+  "title": "Lise Kariyer Planlama Danışmanı",
+  "budget_min": 50.0,
+  "budget_max": 1000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/academic-advising/Lise-Kariyer-Planlama-Dan-man",
+  "desc": "Lise çağındaki öğrencilerim için kariyer planlama odaklı eğitim danışmanlığına ihtiyacım var. Birlikte çalışacağımız uzmanın, öğrencinin ilgi ve yeteneklerini keşfetmesine yardımcı olacak etkinlikler tasarlamasını, ardından da üniversite bölümleri, meslek seçenekleri ve uzun vadeli hedefler konusunda yönlendirici bir yol haritası sunmasını bekliyorum.\n\nSüreç şöyle ilerlemesini istiyorum:\n• Başlangıçta çevrim-içi görüşme ve kısa bir SWOT analizi ile mevcut durumu netleştirme  \n• Haftalık canlı seanslar (Zoom veya Google Meet) üzerinden hedef takibi  \n• Ders seçimi, portfolyo oluşturma, staj / gönüllülük fırsatları gibi konularda somut öneriler  \n• Dört haftanın sonunda kişiselleştirilmiş kariyer planı ve uygulanabilir adımların özetlendiği rapor\n\nTeslim kriteri, son raporun PDF formatında paylaşılması ve görüşme kayıtlarının öğrenciyle erişilebilir durumda tutulmasıdır. Süreç boyunca Türkçe iletişim tercih ediyorum; gerektiğinde ek kaynak veya test de paylaşabilirsiniz. Öğrencilerime ilham verecek, samimi ama sistemli bir rehberlik sunabileceğinize inanıyorsanız, sizinle çalışmayı sabırsızlıkla bekliyorum.",
+  "query": "google sheets automation",
+  "found_at": "2026-09-16 20:14"
+ },
+ {
+  "id": 40715665,
+  "title": "Accounts & GST Executive Needed",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.01041,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/bank-reconciliation/Accounts-GST-Executive-Needed",
+  "desc": "I need a dependable professional who can take over our full accounting cycle right away. All our entries are still being tracked in Excel, so the first step will be to keep that file impeccably up-to-date while suggesting smarter workflows—whether that means staying in Excel or later moving to Tally, QuickBooks or Zoho Books.\n\nYour day will revolve around managing daily sales, purchase, expense, receipt and payment entries. Timely posting and accurate narration matter to me because monthly P&L statements, basic MIS and other management snapshots flow directly from your work.  \n\nVendor and customer account management is the area where I need the most help. Ageing analysis, follow-ups, reconciliations and clear documentation should run smoothly without my constant intervention.\n\nI will also rely on you for:  \n• GST, TDS and any other statutory filings, prepared and filed before deadlines  \n• Bank reconciliations that match our statement balances down to the last rupee  \n• Properly maintained digital and physical records that stand up to audit scrutiny  \n• Coordination with our CA whenever tax, audit or compliance queries arise  \n\nDeliverables are simple: clean books, on-time filings, and short monthly reports I can understand at a glance. If that sounds like your routine already, let’s talk.",
+  "query": "excel automation",
+  "found_at": "2026-09-16 20:14"
+ },
+ {
+  "id": 40715660,
+  "title": "Image Text Typing Task",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.01041,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/image-processing/Image-Text-Typing-Task",
+  "desc": "I have a collection of English-language images—mostly clear JPGs and PNGs—that I need retyped with high accuracy. Every word, number, line break, and piece of basic formatting must be reproduced faithfully in an editable file. Word is my usual preference, but if a table clearly belongs in Excel we can use that; the key requirement is that the final document mirrors the source and is ready for immediate use.\n\nThe work is strictly manual because I want to avoid the errors that often slip through automated OCR. I’ll supply the images in organised batches and would like the first batch returned within 48 hours so I can check consistency and accuracy. I’ll spot-check for at least 98 % correctness before approving each milestone.\n\nWhen you respond, let me know how many pages you comfortably complete per day, any similar image-to-text projects you have handled, and the rate you charge (per page or per 1,000 words—whichever you prefer). Feel free to attach a brief sample if you think it shows your speed and precision.\n\nIf you’re confident in your typing accuracy and can communicate progress clearly, I look forward to working together on this straightforward but detail-oriented project.",
+  "query": "excel automation",
+  "found_at": "2026-09-16 20:14"
  }
 ]
