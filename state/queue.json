@@ -1727,5 +1727,44 @@
   "desc": "I have a series of MP3 recordings in Romanian—each one a continuous lecture or presentation—and I need every spoken word rendered faithfully into Romanian text. The total runtime is well over an hour, so stamina and consistency matter as much as accuracy.\n\nI’ll share the audio files as soon as the project begins. I’m expecting clean, proof-read copy with correct punctuation, speaker distinctions where relevant, and paragraph breaks that follow the flow of the talk. If you normally work with tools such as Express Scribe, oTranscribe, or a foot-pedal setup, all the better; the priority is error-free output returned on time in a Word or Google Docs format.\n\nDeliverables:\n• Complete Romanian transcript of the full MP3 lecture set  \n• A short note outlining any sections that were unclear or affected by audio quality\n\nI’ll review the file for omissions or major typos; once it passes that check, the job is done. Let me know your turnaround time and any questions you have about the source material, and we can get started right away.",
   "query": "google sheets automation",
   "found_at": "2026-09-19 20:32"
+ },
+ {
+  "id": 40721837,
+  "title": "Bilingual Online Form Data Entry",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010418,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/indonesian-translator/Bilingual-Online-Form-Data-Entry",
+  "desc": "I have a batch of scanned customer-information sheets that must be keyed into an online form. The content appears in both Indonesian and English, so you will need to understand and type accurately in each language. \n\nYour task is straightforward: open the web portal I provide, copy every field from the scanned document into its matching field on the form, double-check for spelling or number transposition errors, and submit. Consistency in diacritics, name order, and contact formats is essential because the records feed directly into our CRM.\n\nBecause the originals are scans, occasional smudges or handwritten notes may appear. When something is unreadable, flag the form before submission so I can clarify. Otherwise, every field should be 100 % complete.\n\nDeliverables\n• All assigned forms submitted with zero empty mandatory fields  \n• A simple log (spreadsheet or text) noting any entries you flagged for clarification and the reason  \n\nAcceptance criteria\n• 98 %+ character-level accuracy on random audits  \n• Forms completed within the agreed daily quota  \n• Bilingual formatting respected (no mixing languages within a single field unless the source does)\n\nIf you’re comfortable toggling between Indonesian and English while keeping a steady data-entry rhythm, I look forward to handing you the first batch right away.",
+  "query": "web scraping",
+  "found_at": "2026-09-19 22:28"
+ },
+ {
+  "id": 40721844,
+  "title": "Retrieve Lost TikTok Android Videos",
+  "budget_min": 10.0,
+  "budget_max": 450.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/android/Retrieve-Lost-TikTok-Android-Videos",
+  "desc": "My old TikTok account was permanently banned sometime between 2023-2024, and all of the videos I created on my Android phone disappeared with it. The only evidence I still have is:\n\n• a JSON archive that TikTok let me download before the ban (it contains my post history, file names, dates, etc.)  \n• thumbnail images that appear inside a “restore old files” app on the phone, although the actual .mp4 files refuse to open or export.\n\nWhat I need is straightforward: I want every original video recovered in a format I can download and keep locally. If account reinstatement turns out to be impossible, that is fine—getting the videos themselves is the priority.\n\nUseful details  \n• Device of origin: Android phone (still in my possession).  \n• Backup status: I’m not certain whether Google Photos, internal cache folders, or TikTok’s temporary storage may still hold fragments.  \n• I have not rooted the phone or run any deep-scan utilities yet, so the storage is still in its original state.\n\nScope of work  \nI’m looking for someone experienced with Android data recovery, TikTok cache forensics, or similar who can:\n\n1. Analyse the JSON export for file paths or identifiers.  \n2. Perform a non-destructive scan of the handset (ADB, forensic imaging, or reputable recovery software) to locate the missing .mp4 files.  \n3. Reconstruct or extract each video in the highest quality that still exists.  \n4. Provide the recovered videos plus a brief outline of the steps/tools used, so I can repeat the ",
+  "query": "data extraction",
+  "found_at": "2026-09-19 22:28"
+ },
+ {
+  "id": 40721825,
+  "title": "Consistent Video Editor for Weekly Podcast",
+  "budget_min": 50.0,
+  "budget_max": 85.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/video-broadcasting/Consistent-Video-Editor-for-Weekly",
+  "desc": "We are producing a podcast series, which will generate 5 to 7 multicam (4) clips per week each approximately 6-7 minutes in duration. We want to use a standard intro and outro trailer. We use a black magic console to manage cam. We are uploading files using DaVinci Resolve  studio and we have cloud storage where we upload/sync files to Davinci resolve projects in BM Cloud. We want to find an experienced, reliable partner that can produce finished videos with a five day turnaround. We upload Monday night and would like to receive finished product by end of day Saturday in addition to these items there will also be special videos and also music videos where we will incorporate stock footage from StoryBlock and other sources into the MultiCam videos of the band. Those are separate projects typically the video is 3 1/2 to 4 minutes in duration. Same situation where editor  would need to be able to collaborate in the cloud as a member of our shared project workspace. Further  details can be worked out, but this is a recurring week to week engagement. We can work through two or three projects to work out the details, but we would be looking for a fixed fee arrangement based on the volume of business after establishing workflow parameters and integration into our production schedule. Our goal is reliable production for our broadcasting schedule. Thank you for your consideration and look forward to hearing from you.",
+  "query": "gpt integration",
+  "found_at": "2026-09-19 22:28"
  }
 ]
