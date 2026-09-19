@@ -1688,5 +1688,44 @@
   "desc": "I need a technically-minded designer to update my current infrastructure PDF into clear, VISIO professional diagrams.  \n\nDeliverables  \n• Server environment diagram showing hardware, VMs, storage, fail-over links and any cloud endpoints  \n• Logical network diagram with every subnet and IP block clearly labelled, plus legend and version history  \n\nAcceptance criteria  \n• Layered, editable source file VISIO delivered alongside export (PDF/PNG)  \n• At least one round of revisions included to validate accuracy\n\nThere need to be 2 extra servers added (one on each side). If you have questions about the existing documentation or need further technical detail, just let me know—I’m happy to walk you through the environment so the final diagrams are spot-on.",
   "query": "pdf extraction",
   "found_at": "2026-09-19 17:56"
+ },
+ {
+  "id": 40721723,
+  "title": "Ürün Fotoğraf-Video Çekimi",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/photography/Foto-raf-Video-ekimi",
+  "desc": "Ürünlerimin tanıtımını güçlendirmek için profesyonel fotoğraf, kısa tanıtım videosu ve sosyal medya odaklı reklam görselleri hazırlatmak istiyorum.  \n\nNeler bekliyorum  \n• Stüdyo veya gerektiğinde lifestyle ortamda yüksek çözünürlüklü ürün fotoğrafları  \n• Kısa, dinamik bir ürün videosu (maks. 30-45 sn) – kurgu, temel renk düzenleme ve müzik dâhil  \n• Fotoğraf ve videodan türetilmiş reklam görseli/afiş tasarımı (Instagram, Facebook ve web için uygun oranlarda)  \n• Ürün açıklama metninin görsel yerleşimini destekleyecek başlık, ikon veya kısa kopya önerileri  \n\nSüreç  \nÇekim öncesi örnek referansları ve ürün detaylarını paylaşacağım. Ön hazırlık onaylandıktan sonra çekim, düzenleme ve tasarım adımlarını sırasıyla tamamlamanızı rica ederim. Son teslimat; düzenlenmiş fotoğraflar (TIFF + web-optimize JPEG), video (MP4 1080p) ve tasarım dosyaları (PSD/AI + exportlar) şeklinde olmalı.  \n\nKullandığınız ekipman, ışık düzeni ve yazılım (Adobe Photoshop, Premiere Pro vb.) konusundaki deneyiminizi kısaca belirtirseniz seçim yapmam kolaylaşır.",
+  "query": "web scraping",
+  "found_at": "2026-09-19 20:32"
+ },
+ {
+  "id": 40721640,
+  "title": "Zoho One & Deluge Developer: Automated Business Operating System",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010418,
+  "bids": 20,
+  "url": "https://www.freelancer.com/projects/zoho/Zoho-One-Deluge-Developer-Automated",
+  "desc": "Project Description:\n\nWe are hiring an experienced, individual Zoho One specialist (independent freelancers only, no agency sales reps) to implement our complete Business Operating System based on a frozen, 20-page Software Requirements Specification (SRS v1.3) with 131 predefined UAT test cases. All workflows, business logic, field definitions, and data models are fully mapped—your deliverable is pure technical configuration, scripting, integration, and verification.\n\nKey Deliverables\nCRM Data Model & Blueprints: Build standard/custom modules (Strategy Subscriptions, Onboarding, Draw Cycles, Commissions) and configure a strict Deal Blueprint enforcing mandatory validation from lead capture through verified activation.\n\nIdempotent Webhooks (Zoho Flow): Set up webhook listeners for payment gateway transactions and TradingView technical heartbeats, ensuring deduplication logic prevents duplicate records or repeat commission payouts.\n\nCustom Deluge Functions: Implement modular Deluge scripts for financial splits (Gross, 18% GST, Gateway Fee), a 30-day referral validation hold, prospective Channel Partner tiers (17%, 19%, 20%), and a monthly base/bonus weighted lucky draw aggregation engine.\n\nZoho Sign & Desk Setup: Build automated legal agreement dispatch upon deal payment via Zoho Sign, and configure Zoho Desk ticket routing with SLA escalation triggers.\n\nUAT Sign-off: Systematically execute and pass all 131 documented UAT test scenarios in a sandbox environment before final pr",
+  "query": "data extraction",
+  "found_at": "2026-09-19 20:32"
+ },
+ {
+  "id": 40721736,
+  "title": "Romanian Audio Lecture Transcription",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "EUR",
+  "usd_rate": 1.1479,
+  "bids": 17,
+  "url": "https://www.freelancer.com/projects/proofreading/Romanian-Audio-Lecture-Transcription",
+  "desc": "I have a series of MP3 recordings in Romanian—each one a continuous lecture or presentation—and I need every spoken word rendered faithfully into Romanian text. The total runtime is well over an hour, so stamina and consistency matter as much as accuracy.\n\nI’ll share the audio files as soon as the project begins. I’m expecting clean, proof-read copy with correct punctuation, speaker distinctions where relevant, and paragraph breaks that follow the flow of the talk. If you normally work with tools such as Express Scribe, oTranscribe, or a foot-pedal setup, all the better; the priority is error-free output returned on time in a Word or Google Docs format.\n\nDeliverables:\n• Complete Romanian transcript of the full MP3 lecture set  \n• A short note outlining any sections that were unclear or affected by audio quality\n\nI’ll review the file for omissions or major typos; once it passes that check, the job is done. Let me know your turnaround time and any questions you have about the source material, and we can get started right away.",
+  "query": "google sheets automation",
+  "found_at": "2026-09-19 20:32"
  }
 ]
