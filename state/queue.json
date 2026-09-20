@@ -1766,5 +1766,31 @@
   "desc": "We are producing a podcast series, which will generate 5 to 7 multicam (4) clips per week each approximately 6-7 minutes in duration. We want to use a standard intro and outro trailer. We use a black magic console to manage cam. We are uploading files using DaVinci Resolve  studio and we have cloud storage where we upload/sync files to Davinci resolve projects in BM Cloud. We want to find an experienced, reliable partner that can produce finished videos with a five day turnaround. We upload Monday night and would like to receive finished product by end of day Saturday in addition to these items there will also be special videos and also music videos where we will incorporate stock footage from StoryBlock and other sources into the MultiCam videos of the band. Those are separate projects typically the video is 3 1/2 to 4 minutes in duration. Same situation where editor  would need to be able to collaborate in the cloud as a member of our shared project workspace. Further  details can be worked out, but this is a recurring week to week engagement. We can work through two or three projects to work out the details, but we would be looking for a fixed fee arrangement based on the volume of business after establishing workflow parameters and integration into our production schedule. Our goal is reliable production for our broadcasting schedule. Thank you for your consideration and look forward to hearing from you.",
   "query": "gpt integration",
   "found_at": "2026-09-19 22:28"
+ },
+ {
+  "id": 40721887,
+  "title": "Experienced CPA for Complex Individual Tax Return",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/tax-preparation/Experienced-CPA-for-Complex-Individual",
+  "desc": "Job Title\nUS Licensed CPA Needed – Complex Individual Tax Return Preparation (1040, Schedule E, STRs, Multi-Property)\nJob Description\nOverview\nWe are seeking a currently licensed US Certified Public Accountant (CPA) with extensive expertise in complex individual tax returns, real estate taxation, and active/passive loss rules to prepare and file our Federal individual income tax return (Form 1040).\nWe require a licensed professional who will review all supporting documentation, optimize our deductions and loss allocations, provide advice on tax positions, and officially sign the return as the Paid Preparer using an active PTIN.\nScope of Work & Return Complexity\nThe tax return involves the following components and tax schedules:\nForm 1040 (Married Filing Jointly)\nReal Estate & Rental Income (Schedule E):\nLong-term rental properties\nShort-term rental (STR / Airbnb) operations, including relevant expense categorization, depreciation, and short-term rental loss rules\nCarry-forward losses\nW-2 & 1099 Income Streams: Multiple earned income sources, 1099-MISC/NEC consulting/business income, and pension/IRA distributions\nItemized Deductions (Schedule A) & Charitable Contributions: State and local taxes, mortgage interest across multiple properties, and charitable tithes/donations\nTax Planning & Review: Reviewing prior-year returns, advising on depreciation strategies, and ensuring full compliance with current IRS regulations\nResponsibilities\nReview provided tax organizers, prior-year ",
+  "query": "data extraction",
+  "found_at": "2026-09-20 00:20"
+ },
+ {
+  "id": 40720763,
+  "title": "PDF Table Re-typing in Google",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/google-docs/PDF-Table-typing-Google",
+  "desc": "I need a PDF that is made up almost entirely of tables and spreadsheets re-typed into Google Docs. Every row and column has to land in the same position it appears in the source file so the structure is preserved and I can work with the data immediately afterward.\n\nYou’ll type straight into a shared Google Doc so I can monitor accuracy and provide clarifications on any unclear entries as you go. Once complete, the document should be clean, free of typos, and laid out so the tables read naturally online or when exported back to PDF.\n\nThe job is finished when I have a single Google Docs file containing all tables from the original PDF, formatted as faithfully as possible and ready for my team to use.",
+  "query": "data extraction",
+  "found_at": "2026-09-20 00:20"
  }
 ]
