@@ -5172,5 +5172,70 @@
   "desc": "BUSCAMOS: Arquitecto/a o Ingeniero/a Técnico/a colegiado/a en España (preferiblemente Comunidad de Madrid) para la revisión de planos, optimización de distribución y firma de proyecto simplificado para Declaración Responsable (DR) de un BAR / CAFETERÍA.\n\nDATOS DEL LOCAL Y ESTADO ACTUAL:\n- Ubicación: Paseo de la Infanta Isabel, 5 (Madrid - Zona Atocha).\n- Uso: Bar / Cafetería (sin cocina industrial compleja).\n- Superficie: Planta calle + Sótano de almacén.\n- Estado de la documentación: DISPONEMOS YA DE PLANOS CAD VECTORIALES TOTALMENTE ACUMULADOS Y DELINEADOS EN PDF (Planta Calle y Planta Sótano con todas sus cotas en cm).\n\nTAREAS A REALIZAR POR EL FREELANCE:\n1. Propuestas de Distribución (Interiorismo & Layout):\n   - Generar 2 o 3 alternativas de distribución comercial optimizadas exclusivamente para uso de BAR / CAFETERÍA (aprovechando la planta calle y el acceso al sótano).\n   - Ubicación de la barra de cafetería, zona de mesas/degustación, aseo adaptado PMR (1.80m x 1.50m) y zona de preparación conectada a la Salida de Humos existente (100x30 cm).\n2. Memoria Técnica y Planos Definitivos:\n   - Incorporar el layout elegido sobre los planos CAD vectoriales que aportamos.\n   - Redacción de la Memoria Técnica justificativa de cumplimiento normativo en Madrid (CTE DB-SI Incendios, DB-SUA Accesibilidad PMR y Sanidad).\n3. Firma y Visado/Certificación:\n   - Firma del proyecto técnico por técnico colegiado habilitado para su presentación telemática en el Ayuntamiento de Madrid / ECL",
   "query": "pdf extraction",
   "found_at": "2026-09-24 21:51"
+ },
+ {
+  "id": 40732057,
+  "title": "Fingerprint Attendance with Live Reporting",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010422,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/web-development/Fingerprint-Attendance-with-Live",
+  "desc": "I’m ready to deploy a biometric fingerprint attendance system that logs every clock-in and clock-out instantly and lets me view the numbers in real time from a web dashboard. The core deliverable is a working solution—hardware setup plus software—that reliably captures fingerprints, stores the data in a secure database, and pushes live reports (daily, weekly, monthly) I can export to CSV or view in-app.\n\nHere’s what matters most to me:\n• Fast, accurate fingerprint recognition for at least 100 employees.\n• Real-time reporting that refreshes automatically without manual sync.\n• Cloud-hosted or locally hosted database—whichever you recommend for speed and data safety.\n• Simple admin panel where I can add or disable users, set work schedules, and download attendance summaries.\n\nIf your system already offers optional extras like payroll integration or additional biometric modes, feel free to mention them—future expansion is on my radar—but for this milestone I only need fingerprint capture and live reporting fully functional.\n\nPlease outline the hardware you propose (sensor model, controller, connectivity) and the software stack or SDK you’d build on (e.g., Python/Django, .NET, Node, etc.). A brief timeline, demo of a similar project, and any post-deployment support you provide will help me choose quickly.",
+  "query": "web scraping",
+  "found_at": "2026-09-25 00:29"
+ },
+ {
+  "id": 40732067,
+  "title": "Financial Calculator App Development",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010422,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/android-app-development/Financial-Calculator-App-Development",
+  "desc": "I'm looking for an experienced mobile app developer to create a financial calculator app for Android. The app should include:\n\n- Loan Calculations: Provide various loan calculation tools.\n- Investment Calculations: Include tools for different investment scenarios.\n- Currency Conversions: Real-time currency conversion feature.\n\nIdeal skills and experience:\n- Proficiency in Android app development.\n- Experience with financial calculators and related functionalities.\n- Strong UI/UX design skills to ensure user-friendly interface.\n- Ability to integrate real-time data for currency conversions.\n\nPlease share your relevant experience and portfolio.",
+  "query": "data extraction",
+  "found_at": "2026-09-25 00:29"
+ },
+ {
+  "id": 40732026,
+  "title": "Verify Genuine Clients Online",
+  "budget_min": 150000.0,
+  "budget_max": 250000.0,
+  "currency": "INR",
+  "usd_rate": 0.010422,
+  "bids": 10,
+  "url": "https://www.freelancer.com/projects/ai-development/Verify-Genuine-Clients-Online",
+  "desc": "I want a straightforward framework I can follow each time a new enquiry lands in my inbox so I can quickly confirm whether the prospect is legitimate. My preferred yardstick is the client’s online presence, so the method should revolve around publicly available digital footprints—company website signals, domain age and WHOIS data, LinkedIn consistency, press mentions, social channels, review sites, and any other verifiable touchpoints you consider useful.\n\nHere’s what I need from you:  \n• A concise written guide that walks me step-by-step through the checks, explains why each matters, and shows how to interpret the findings.  \n• A one-page quick-reference checklist I can keep on my desk.  \n• Real-world examples (scrubbed of sensitive data) demonstrating the process with both genuine and suspicious clients.  \n\nAcceptance criteria  \n• Every verification step must be actionable with free or low-cost online tools.  \n• The checklist must fit on a single A4/Letter page without tiny fonts.  \n• Explanations are clear enough for someone with no OSINT background to apply immediately.\n\nIf you have experience in due-diligence, OSINT, or fraud prevention, let me know how you can adapt proven techniques to this use case and roughly how long it will take you to deliver the guide and checklist.",
+  "query": "data extraction",
+  "found_at": "2026-09-25 00:29"
+ },
+ {
+  "id": 40731940,
+  "title": "Commission-Based Client Acquisition Partner for Sophrodelic",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/sales/Commission-Based-Client-Acquisition-40731940",
+  "desc": "**Commission-Based Client Acquisition Partner for Sophrodelic**\n\nSophrodelic is looking for an independent and experienced client acquisition partner to bring us qualified international clients.\n\nWe offer several services, including:\n\n* Private retreats in Jamaica lasting from 3 to 10 days\n* Retreats for individuals, couples and small groups\n* Online preparation and integration support\n* Holistic therapy\n* Professional training and supervision\n\n**What we need**\n\nYou will be responsible for finding your own qualified prospects. We are not looking for someone who only closes leads supplied by us.\n\nYour work may include:\n\n* Finding individual clients directly\n* Developing referral partnerships with therapists, coaches, wellness professionals and relevant organisations\n* Reaching potential clients in the USA, Canada, UK\n* Booking qualified prospects for a consultation with Bénédicte\n* Keeping a simple and transparent record of leads and conversations\n\nYou may use ethical outreach, email, social media, professional networking and referral partnerships. No spam or misleading marketing.\n\n**Compensation**\n\nThis is a 100% commission-based position.\n\nYou will receive **10% commission for every new client you directly source who makes a confirmed, fully paid booking** for an eligible Sophrodelic service.",
+  "query": "gpt integration",
+  "found_at": "2026-09-25 00:29"
+ },
+ {
+  "id": 40732025,
+  "title": "Traduction Technique Anglais-Français",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/technical-writing/Traduction-Technique-Anglais-Fran-ais-40732025",
+  "desc": "J’ai plusieurs documents techniques rédigés en anglais que je souhaite faire traduire en français. Il s’agit de manuels, spécifications et notices destinés à un public professionnel.  \n\nCe que j’attends :  \n• Une traduction précise et fluide, fidèle au contenu original et à sa terminologie.  \n• Conservation de la mise en page (tableaux, schémas, légendes) et livraison dans le même format (Word, PDF ou InDesign selon le cas).  \n• Relecture finale pour éliminer fautes d’orthographe ou incohérences.  \n\nCompétences recherchées :  \n• Excellente maîtrise du français écrit et compréhension approfondie de l’anglais technique.  \n• Expérience avérée en traduction de documents techniques.  \n• Maîtrise d’un outil TAO (Trados, MemoQ ou équivalent) pour garantir la cohérence terminologique.  \n\nMerci d’inclure dans votre proposition :  \n• Des exemples de traductions techniques similaires.  \n• Votre capacité de production (mots/jour).  \n• Votre tarif au mot ou forfaitaire et vos délais estimés.  \n\nJe fournirai un court extrait test pour confirmer l’adéquation du style avant de confier l’ensemble du projet.",
+  "query": "pdf extraction",
+  "found_at": "2026-09-25 00:29"
  }
 ]
