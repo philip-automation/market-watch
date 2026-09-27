@@ -8279,5 +8279,70 @@
   "desc": "Tenho entre 10 e 50 relatórios que precisam ser digitados no Word com máxima atenção a ortografia, pontuação e formatação. Os arquivos originais serão fornecidos em PDF ou imagem; preciso que você:\n\n• Crie um modelo padrão de cabeçalho, fonte, margens e numeração (o layout ainda não está definido).  \n• Digite fielmente cada relatório nesse modelo, gerando um arquivo .docx individual por documento.  \n• Revise todo o texto para garantir zero erros.  \n\nEntrego o material de origem assim que começarmos e espero receber:\n\n1. Arquivo-modelo aprovado em Word.  \n2. De 10 a 50 documentos já digitados e padronizados.  \n3. (Opcional) Um único arquivo consolidado contendo todos os relatórios.\n\nProcuro alguém organizado, com boa digitação e olho clínico para detalhes. Se você se encaixa nesse perfil, vamos conversar!",
   "query": "pdf extraction",
   "found_at": "2026-09-27 15:21"
+ },
+ {
+  "id": 40736572,
+  "title": "Manual Entry of Financial PDFs",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010437,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/data-management/Manual-Entry-Financial-PDFs",
+  "desc": "I have a collection of financial statements provided strictly as PDF files and I need every figure transferred into an Excel workbook with zero transcription errors. The task is 100 % manual data entry—no automated scraping tools—so a sharp eye for detail and fast, accurate typing are essential.  \n\nHere is what I expect:  \n• A well-structured Excel file that mirrors the layout of the original PDFs (date, account name, debit, credit, balance, and any notes).  \n• Consistent formatting: thousands separators, two-decimal precision, and currency symbols exactly as shown in the source.  \n• Completion within the agreed timeline; I will supply the PDFs in batches and would like each batch returned before the next is issued.  \n• Basic spot-checks performed by you so the file I receive is ready for immediate use—no additional cleaning on my side.  \n\nIf you are comfortable following these guidelines and can commit to on-time delivery, I’m ready to share the first set of documents and get started right away.",
+  "query": "web scraping",
+  "found_at": "2026-09-27 19:14"
+ },
+ {
+  "id": 40736783,
+  "title": "Predictive maintenance of Air Compressor Fault using ML",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010437,
+  "bids": 17,
+  "url": "https://www.freelancer.com/projects/machine-learning/Predictive-maintenance-Air-Compressor",
+  "desc": "I am instrumenting an air-compressor test rig with thermal, pressure, and acoustic sensors that push measurements as real-time data streams. I now need a complete, reproducible pipeline that turns those streams into actionable fault predictions.\n\nHere is what I expect you to handle end-to-end:\n\n• Data acquisition – capture, time-stamp, and store each thermal, pressure, and acoustic channel continuously so the same code can be pointed at the live rig or at recorded sessions for offline work.  \n• Feature engineering & model training – build a multi-class classifier that separates normal running from four distinct fault categories (bearing, water-pump, radiator, exhaust-valve). You are free to choose the algorithm and Python stack (scikit-learn, PyTorch, TensorFlow, XGBoost, etc.) provided the training script is fully repeatable.  \n• Performance reporting – deliver class-wise and overall accuracy, precision, recall, F1-score, plus a 5 × 5 confusion matrix generated from held-out data.  \n• Predictive-maintenance validation – produce a concise technical note (diagram, photo, or CAD screenshot) showing exactly where each sensor would be mounted on the physical rig to detect the corresponding faults.\n\nAcceptance criteria  \n1. A Git-based repository containing all source code, requirements.txt (or environment.yml), and a README with step-by-step instructions.  \n2. A trained model file and a notebook or script that recreates every metric above on demand.  \n3. The sensor-placement note",
+  "query": "data extraction",
+  "found_at": "2026-09-27 19:14"
+ },
+ {
+  "id": 40736795,
+  "title": "Realistic AI Entertainment Video",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010437,
+  "bids": 17,
+  "url": "https://www.freelancer.com/projects/ai-video/Realistic-Entertainment-Video",
+  "desc": "I'm seeking an AI video creator to produce a realistic entertainment video. \n\nIdeal skills and experience:\n- Proficiency in AI video generation tools\n- Experience in creating engaging entertainment content\n- Strong creative vision and storytelling ability\n\nPlease share samples of previous work.",
+  "query": "ai chatbot",
+  "found_at": "2026-09-27 19:14"
+ },
+ {
+  "id": 40736594,
+  "title": "Membuat ulasan pada produk ",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/content-writing/Membuat-ulasan-pada-produk",
+  "desc": "Saya membutuhkan satu artikel ulasan produk yang informatif dan menarik, lengkap dengan beberapa caption Facebook untuk mendukung promosi konten tersebut.\n\nRuang lingkup:\n• Artikel ulasan produk ±800–1.000 kata dalam Bahasa Indonesia.  \n• Soroti fitur utama, kelebihan, kekurangan, dan kesimpulan bernuansa ajakan bertindak.  \n• 3–5 caption singkat khusus Facebook yang menggugah minat baca dan mengarahkan audiens ke artikel.  \n\nEkspektasi:\n• Tulisan orisinal, mudah dipahami, dan mematuhi kaidah EYD.  \n• Gaya bahasa santai namun profesional, relevan dengan audiens Facebook di Indonesia.  \n• Sertakan saran judul artikel dan, bila memungkinkan, rekomendasi gambar bebas-royalti.  \n\nSerahkan dokumen dalam format Google Docs atau Word, lengkap dengan heading dan sub-heading terstruktur. Saya siap memberi informasi tambahan tentang produk setelah proyek dimulai.",
+  "query": "google sheets automation",
+  "found_at": "2026-09-27 19:14"
+ },
+ {
+  "id": 40736644,
+  "title": "Professional Brand Awareness Ad Edit",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010437,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/motion-graphics/Professional-Brand-Awareness-Edit",
+  "desc": "I have raw footage that needs to be transformed into a polished commercial aimed squarely at boosting brand awareness. The finished piece should feel sleek, clear, and unmistakably professional—think broadcast-ready quality with clean transitions, on-brand lower thirds, tasteful motion graphics, and balanced audio that cuts through any platform noise.\n\nYou will receive:\n• All original clips (4K, mixed frame rates)\n• Brand guidelines, including logo files, color palette, and typography\n• A rough script and timestamped notes highlighting key moments\n\nWhat I need from you:\n• A tight edit that tells the story in 15-45 seconds without losing clarity\n• Consistent color grading that matches our brand’s look\n• Subtle yet engaging motion graphics and text callouts\n• Royalty-free background music and precise sound design\n• Final master in 16:9 and 1:1, MP4 (H.264) plus project files\n\nAcceptance criteria:\n1. Video meets brand guideline specifications for color, font, and logo usage.  \n2. Audio peaks held below ‑3 dB with dialogue clearly audible at normal playback.  \n3. First draft delivered within agreed timeline; two revision rounds included.  \n4. Final files render glitch-free and pass a spot-check on YouTube and Instagram.\n\nPremiere Pro, After Effects, or DaVinci Resolve are all fine as long as the delivery is smooth and editable later. If you see storytelling opportunities I’ve missed, feel free to suggest them—creative insight is welcome so long as the tone stays strictly professi",
+  "query": "python script",
+  "found_at": "2026-09-27 19:14"
  }
 ]
