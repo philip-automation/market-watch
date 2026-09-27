@@ -8344,5 +8344,83 @@
   "desc": "I have raw footage that needs to be transformed into a polished commercial aimed squarely at boosting brand awareness. The finished piece should feel sleek, clear, and unmistakably professional—think broadcast-ready quality with clean transitions, on-brand lower thirds, tasteful motion graphics, and balanced audio that cuts through any platform noise.\n\nYou will receive:\n• All original clips (4K, mixed frame rates)\n• Brand guidelines, including logo files, color palette, and typography\n• A rough script and timestamped notes highlighting key moments\n\nWhat I need from you:\n• A tight edit that tells the story in 15-45 seconds without losing clarity\n• Consistent color grading that matches our brand’s look\n• Subtle yet engaging motion graphics and text callouts\n• Royalty-free background music and precise sound design\n• Final master in 16:9 and 1:1, MP4 (H.264) plus project files\n\nAcceptance criteria:\n1. Video meets brand guideline specifications for color, font, and logo usage.  \n2. Audio peaks held below ‑3 dB with dialogue clearly audible at normal playback.  \n3. First draft delivered within agreed timeline; two revision rounds included.  \n4. Final files render glitch-free and pass a spot-check on YouTube and Instagram.\n\nPremiere Pro, After Effects, or DaVinci Resolve are all fine as long as the delivery is smooth and editable later. If you see storytelling opportunities I’ve missed, feel free to suggest them—creative insight is welcome so long as the tone stays strictly professi",
   "query": "python script",
   "found_at": "2026-09-27 19:14"
+ },
+ {
+  "id": 40736994,
+  "title": "Tea Brand Website — Speed, Modern Design & Full Admin Control",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010437,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/web-development/Optimize-Redesign-Created-Website",
+  "desc": "I run a tea brand. My website was AI-generated. It works but loads slowly and looks dated. Full codebase and data files ready — shared via Git after kickoff.\n\nGoals:\n\n1. Speed: Sub-2-second first paint on 4G. Lighthouse score 90+ on desktop and mobile.\n2. Design: Modern layout refresh. Keep existing colors and fonts.\n3. Admin Panel: I must be able to edit EVERYTHING myself — fonts, line spacing, text, images, image placement, add new pages, menus, SEO fields. No designer needed for small changes.\n4. SEO: Strong on-page SEO. Target keywords: Tea, Kangra Tea, Himalayan Tea, Green Tea. Schema markup, sitemap, meta tags.\n5. Social Integration: Link website to Instagram, Facebook, YouTube, WhatsApp, Pinterest, X. Add share buttons and auto-post capability.\n\nScope:\n\n· Audit HTML, CSS, JS for slow assets\n· Minify, lazy-load, compress images, use CDN\n· Rebuild templates for modern layout (keep all content)\n· Build full admin panel\n· Test on Chrome, Safari, Firefox, Edge + mobile/tablet\n\nAcceptance Criteria:\n\n· Pages load under 2s on 4G (GTmetrix/WebPageTest)\n· Lighthouse ≥ 90 desktop + mobile\n· No new errors\n· Admin panel works without code\n· All social links functional\n\nDeliverables: Updated code, admin panel, documentation, 30-day bug support.\n\nTo Apply: Share 2–3 live sites you've optimized. Include before/after Lighthouse scores.",
+  "query": "data extraction",
+  "found_at": "2026-09-27 22:20"
+ },
+ {
+  "id": 40736988,
+  "title": "Shopify Store Setup With Wishlist",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010437,
+  "bids": 19,
+  "url": "https://www.freelancer.com/projects/shopify-development/Shopify-Store-Setup-With-Wishlist",
+  "desc": "My startup Clothing brand needs a polished Shopify storefront for selling physical products. The build must feel native to Shopify—fast, mobile-ready, and easy for my small team to update—while still giving customers the modern touches they expect.\n\nScope of work  \n• Theme customisation to match brand colours, typography, and imagery  \n• Wishlist feature implemented with a proven, low-overhead app or custom code  \n• Google Sheets 2-way / 1-way sync for products, inventory, and orders (included in the fixed ₹10,000 budget)  \n• Custom Order ID format applied to every transaction (also within the same budget)  \n• Payment, shipping, tax, and analytics settings fully configured for launch  \n• QA on all major browsers and devices, then deployment to the live domain\n\nTimeline  \nLet me know how long each milestone will take—from theme selection to final hand-off—so I can line it up with our marketing calendar.\n\nTech stack & recurring costs  \nStart your proposal with the stack you recommend (even though I lean toward Shopify, I’m open to hearing why you might mix in tools such as Next.js for a headless front end). Call out any paid theme, app, or hosting add-ons that renew monthly or yearly.\n\nShow, don’t tell  \nInclude links to two or three live Shopify stores you’ve built that demonstrate clean design, smooth checkout, and ideally a wishlist or similar customer-centric feature.\n\nDeliverables are accepted once every item above is functional in the live environment, the Order ID and Sh",
+  "query": "data extraction",
+  "found_at": "2026-09-27 22:20"
+ },
+ {
+  "id": 40737003,
+  "title": "Cinematic AI-Generated Video Production",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/after-effects/Cinematic-Generated-Video-Production",
+  "desc": "We are a real estate education school looking for a skilled AI video creator to produce illustrative short films that bring educational concepts, scenarios, and real-world situations to life for our learners.\n\nWe will provide the completed scripts and subject matter. Your role will be to transform those scripts into engaging, cinematic AI-generated videos that help learners visualize the situations being discussed and make the educational content more memorable.\n\nProjects will typically be approximately 5–8+ minutes in length and may use tools such as Veo, Kling, Runway, Sora, Seedance, or similar AI video platforms.\n\nWe are looking for someone who can:\n\n- Create cohesive, professional visuals across many scenes, with consistent characters, environments, tone, and visual style.\n- Turn an educational script into a compelling short-film-style experience with thoughtful scene composition, pacing, transitions, sound design, and editing.\n- Maintain continuity throughout longer videos rather than producing a slideshow or a collection of unrelated AI clips.\n- Work from scripts we provide and make sound creative decisions about how each scene should be visually represented.\n- Deliver polished, learner-ready videos suitable for use inside an online professional education course.\n\nThis may become an ongoing relationship, as we expect to produce multiple videos for our courses.\n\nPlease include examples of your longest comparable AI-generated videos, particularly narrative, cinematic, ed",
+  "query": "ai chatbot",
+  "found_at": "2026-09-27 22:20"
+ },
+ {
+  "id": 40737012,
+  "title": "Free Verse Romantic Love Poem",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/creative-writing/Free-Verse-Romantic-Love-Poem-40737012",
+  "desc": "I need a heartfelt free-verse poem that explores the theme of love in a distinctly romantic tone. Please weave vivid emotion and intimate imagery into the lines without relying on end-rhymes; the flow should feel natural and conversational while still carrying poetic depth. \n\nLength can sit anywhere between one and two pages, provided every word earns its place. I’ll use this piece as a standalone reading, so it should feel complete on its own—no companion texts or external references required. Deliver the finished poem in an editable text file (DOCX or Google Doc is fine) so I can make minor tweaks if needed.\n\nIf you have questions about voice, perspective, or specific imagery, let me know early so the final draft resonates perfectly.",
+  "query": "google sheets automation",
+  "found_at": "2026-09-27 22:20"
+ },
+ {
+  "id": 40736904,
+  "title": "Unity Mobile Action Game Build",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010437,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/unity/Unity-Mobile-Action-Game-Build",
+  "desc": "I’m building a fast-paced action-adventure mobile game in Unity and need an experienced developer to transform my concept into a polished release for both iOS and Android. The core idea, art direction, and basic GDD are ready; what’s missing is the technical muscle to bring it all together.\n\nHere’s what I’m after: tight third-person controls, dynamic combat, and a small but replayable campaign that can run smoothly on mid-range devices. You’ll handle everything from setting up the project and integrating assets to implementing gameplay systems, UI, and cross-platform optimization. I’ll provide artwork, sound, and narrative assets as they’re finalized, so strong communication and iterative builds are essential.\n\nDeliverables I need to see:  \n• A playable vertical slice showcasing movement, combat, and one short level  \n• Modular, well-commented C# scripts ready for future expansion  \n• Integrated touch controls that feel native on both platforms  \n• Final builds uploaded to TestFlight and Google Play Internal Testing\n\nOnce that slice meets our quality bar—stable 60 fps on reference devices—we’ll roll into additional levels and content drops. If Unity is your playground and action games are your specialty, let’s talk milestones and get this adventure into players’ hands.",
+  "query": "google sheets automation",
+  "found_at": "2026-09-27 22:20"
+ },
+ {
+  "id": 40736851,
+  "title": "Cantidades de obra y APU para vivienda en Colombia",
+  "budget_min": 30.0,
+  "budget_max": 80.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/construction/Cantidades-obra-APU-para-vivienda",
+  "desc": "Hola.\n\nEstoy buscando un profesional en Colombia con experiencia comprobable en cantidades de obra, presupuestos y APU para una vivienda.\n\nLa vivienda será construida mediante sistema Steel Framing. Es necesario que conozca el sistema y sus implicaciones constructivas, pero no necesito que desarrolle ni cuantifique la estructura Steel Framing, ya que esa parte será suministrada por un proveedor especializado.\n\nNecesito inicialmente realizar una prueba técnica remunerada antes de contratar el presupuesto completo.\n\nLa prueba consiste en desarrollar dos actividades tomadas de un proyecto real:\n\n1. Una actividad de instalación sanitaria.\n2. Una ducha enchapada sobre base de fibrocemento.\n3. Suministro e instalación de canoa metálica, incluyendo su conexión al bajante\n\nPara cada una de las tres actividades se requiere desarrollar dos versiones del APU: intermedio y máximo detalle, entregadas en un archivo Excel completamente editable y modificable.\nNo voy a proporcionar previamente la estructura del APU. Quiero evaluar su criterio técnico para definir qué debe incluir cada actividad.\n\nEl resultado debe entregarse en un archivo Excel (.xlsx) completamente editable, con fórmulas modificables.\n\nTambién necesito que se indiquen claramente los alcances, inclusiones y exclusiones de cada actividad para evitar duplicaciones posteriores.\n\nLos precios deben corresponder al mercado colombiano y debe indicarse su fuente o referencia.\n\nLa prueba se realizará sobre los planos que proporcionar",
+  "query": "excel automation",
+  "found_at": "2026-09-27 22:20"
  }
 ]
