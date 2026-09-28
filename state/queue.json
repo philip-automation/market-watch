@@ -8422,5 +8422,44 @@
   "desc": "Hola.\n\nEstoy buscando un profesional en Colombia con experiencia comprobable en cantidades de obra, presupuestos y APU para una vivienda.\n\nLa vivienda será construida mediante sistema Steel Framing. Es necesario que conozca el sistema y sus implicaciones constructivas, pero no necesito que desarrolle ni cuantifique la estructura Steel Framing, ya que esa parte será suministrada por un proveedor especializado.\n\nNecesito inicialmente realizar una prueba técnica remunerada antes de contratar el presupuesto completo.\n\nLa prueba consiste en desarrollar dos actividades tomadas de un proyecto real:\n\n1. Una actividad de instalación sanitaria.\n2. Una ducha enchapada sobre base de fibrocemento.\n3. Suministro e instalación de canoa metálica, incluyendo su conexión al bajante\n\nPara cada una de las tres actividades se requiere desarrollar dos versiones del APU: intermedio y máximo detalle, entregadas en un archivo Excel completamente editable y modificable.\nNo voy a proporcionar previamente la estructura del APU. Quiero evaluar su criterio técnico para definir qué debe incluir cada actividad.\n\nEl resultado debe entregarse en un archivo Excel (.xlsx) completamente editable, con fórmulas modificables.\n\nTambién necesito que se indiquen claramente los alcances, inclusiones y exclusiones de cada actividad para evitar duplicaciones posteriores.\n\nLos precios deben corresponder al mercado colombiano y debe indicarse su fuente o referencia.\n\nLa prueba se realizará sobre los planos que proporcionar",
   "query": "excel automation",
   "found_at": "2026-09-27 22:20"
+ },
+ {
+  "id": 40737143,
+  "title": "Moonlight Peaks Character Facelift",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/3d-art/Moonlight-Peaks-Character-Facelift",
+  "desc": "I’m refreshing several humanoid NPCs in my Moonlight Peaks build and need a 3D artist who can tweak the existing models rather than starting from scratch. The work centres on two areas:\n\n• Facial features & expressions – subtle sculpting or blend-shape adjustments so each face better matches the personality notes I’ll share.  \n• Skin colour – they are black, too many blacks. Need some bleach in this town.\n\nYou tell me what you need to get it downloadable.\nIDK what this premade AI description is talking about it all makes no sense to me. Just make some models white skinned.\n\nAlso if youre good at eliminating \"You Collected This Thing!!!\" animation that would be cool to get rid of too because anytime i collect something my character makes this gay ass pose.",
+  "query": "ai chatbot",
+  "found_at": "2026-09-28 01:07"
+ },
+ {
+  "id": 40737164,
+  "title": "Croqui Limpo de Propriedade Fictícia",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/2d-drafting/Croqui-Limpo-Propriedade-Fict-cia",
+  "desc": "Já possuo um esboço de uma propriedade fictícia que utilizarei como referência para escrever uma história. Preciso que alguém transforme esse desenho inicial em um croqui limpo e organizado, mantendo um nível de detalhamento moderado — claro o suficiente para que qualquer leitor compreenda a disposição dos espaços.\n\nO que preciso ver no resultado:\n• Nomeação de cada área conforme indicado no rascunho.  \n• Indicação de uma escala aproximada para fornecer noção de proporção.  \n\nPreferência de estilo: gosto do traço à mão, mas aceito desenho digital ou vetorial se atingir o mesmo objetivo de clareza. Sinta-se livre para usar a técnica com a qual entregue o melhor resultado.\n\nFormato de entrega: arquivo em alta resolução (PDF ou PNG) pronto para ser impresso ou inserido em documentos digitais.\n\nEnvio o rascunho assim que fecharmos; aguardo sua proposta e prazo estimado.",
+  "query": "pdf extraction",
+  "found_at": "2026-09-28 01:07"
+ },
+ {
+  "id": 40737159,
+  "title": "Penulisan Buku Bukan Fiksyen -- 2",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/writing/Penulisan-Buku-Bukan-Fiksyen",
+  "desc": "Saya memerlukan bantuan menulis atau menterjemah sebuah buku/e-buku bukan fiksyen. Topik dan panjang manuskrip akan saya kongsi selepas perbincangan ringkas; buat masa ini saya terbuka sama ada karya ditulis terus daripada kajian baru atau dialih bahasa daripada sumber sedia ada.\n\nSkop kerja yang saya bayangkan:\n• Bincang dan bina rangka bab utama berdasarkan objektif buku.  \n• Lakukan penyelidikan asas untuk menyokong fakta serta contoh.  \n• Sediakan draf pertama, diikuti semakan kandungan dan gaya bahasa.  \n• Hantar manuskrip akhir yang sudah diproofread, siap dalam format Word dan PDF (EPUB bonus dialu-alukan).\n\nKeutamaan saya ialah tulisan yang jelas, tersusun, dan mudah difahami pembaca umum. Jika anda mempunyai pengalaman menulis atau menterjemah buku bukan fiksyen—terutamanya dalam Bahasa Melayu atau Bahasa Inggeris—sila kongsi contoh kerja terdahulu dan jelaskan proses kerja anda.\n\nTarikh akhir dan jadual semakan boleh kita tetapkan bersama agar projek berjalan lancar.",
+  "query": "pdf extraction",
+  "found_at": "2026-09-28 01:07"
  }
 ]
