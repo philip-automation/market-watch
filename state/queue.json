@@ -12153,5 +12153,57 @@
   "desc": "I have six separate parcels in Muskingum County, Ohio and I need their full chain-of-title reconstructed. I’m looking for more than a quick ownership check: every recorded deed, transfer, lien release, easement or other conveyance that touches these properties should be identified, starting with the earliest document on file and running right up to today.  \n\nYour research will have to rely on the Muskingum County Recorder’s archives (online portals, in-office indexes or microfilm—whatever is required to reach the oldest book). Once located, I need clear digital copies of each instrument along with a concise, chronologically ordered summary of who conveyed to whom, the dates, instrument numbers and book/page references. If a gap appears in the timeline, note it so I can follow up.  \n\nDeliverables  \n• PDF (or high-resolution image) of every deed and related instrument you locate  \n• A single spreadsheet or Word table that lists: recording date, grantor, grantee, instrument type, volume/page or document number, and a short notation of any restrictions or easements mentioned  \n• Brief methodology note so I understand the sources you pulled and any records you could not access remotely  \n\nAccuracy matters more than speed, but let me know your estimated turnaround and whether any courthouse visits or certified copies might add time. If you’ve handled Ohio title work before, please mention it so I can kick things off right away.",
   "query": "pdf extraction",
   "found_at": "2026-10-01 22:52"
+ },
+ {
+  "id": 40745373,
+  "title": "Bantuan Instalasi Windows & AI",
+  "budget_min": 5.0,
+  "budget_max": 500.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 12,
+  "url": "https://www.freelancer.com/projects/ai-development/Bantuan-Instalasi-Windows",
+  "desc": "Saya ingin pendampingan jarak jauh agar saya dapat menggunakan Microsoft Windows sekaligus memulai kerja dengan alat-alat AI.  \n\nRuang lingkup yang saya butuhkan:  \n• Instalasi sistem operasi Microsoft Windows pada perangkat baru saya.  \n• Pengaturan awal Windows—seperti akun, update, dan opsi keamanan dasar—agar sistem siap pakai.  \n• Bimbingan instalasi serta konfigurasi awal platform AI pilihan saya (misalnya Python + pip, libraries machine learning, atau aplikasi AI desktop) sampai bisa dijalankan tanpa error.  \n\nHarapan saya, Anda:  \n– Menjelaskan setiap langkah secara jelas dalam bahasa Indonesia.  \n– Memberikan panduan melalui video call atau remote-desktop agar proses berjalan cepat.  \n– Menyediakan daftar singkat dependensi atau file yang perlu saya unduh terlebih dahulu.  \n\nSaya menguasai dasar komputer, tetapi belum berpengalaman memasang OS maupun tool AI. Setelah sesi selesai, perangkat harus bisa boot ke Windows dengan lancar dan saya mampu membuka environment AI untuk eksperimen awal.",
+  "query": "ai chatbot",
+  "found_at": "2026-10-02 02:08"
+ },
+ {
+  "id": 40745212,
+  "title": "Part-Time Candidate Outreach Recruiter",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/talent-acquisition/Part-Time-Candidate-Outreach-Recruiter",
+  "desc": "I lead a fast-growing software team focused on AI training and need help sourcing new collaborators. Your core mission will be to find promising people, confirm their interest, and slot them into a meeting with us—roughly 5-10 hours of effort each week.\n\nHow you get there is flexible. Tap job boards, social media, professional networks, or any other avenue you trust; I’m open to whatever works. You can reach out by email, phone, social messages—again, the method is yours to choose. The only non-negotiable requirement in every candidate you bring me is reliability; solid, consistent follow-through matters more than anything else.\n\nHere’s the flow I expect:\n• Identify profiles that fit our basic brief (no technical background needed).\n• Introduce our opportunity, gauge interest, confirm weekly availability.\n• Schedule a Zoom or Google Meet between them and our team.\n\nI pay a fixed fee for every confirmed meeting that meets those three checkpoints, and we’ll lock in the per-meeting rate together before kickoff.\n\nWhen you respond, tell me about similar recruiting or outreach work you’ve handled, where you would look first for talent, and the per-meeting price you propose. Let’s see if our approaches line up and start filling the calendar.",
+  "query": "ai chatbot",
+  "found_at": "2026-10-02 02:08"
+ },
+ {
+  "id": 40745374,
+  "title": "Algorithmic Trading Website Development",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010384,
+  "bids": 16,
+  "url": "https://www.freelancer.com/projects/algorithm/Algorithmic-Trading-Website-Development",
+  "desc": "I am looking for a freelancer to help set up an algorithmic trading website.\nThe website should have a clean, professional and user-friendly design. I need help with website setup, trading strategy integration, API/broker integration, user dashboard, and basic testing.\nRequirements:\nAlgorithmic trading website setup\nClean and responsive design\nTrading strategy integration\nBroker/API integration\nUser login and dashboard\nBasic security and testing\nEasy-to-manage backend",
+  "query": "gpt integration",
+  "found_at": "2026-10-02 02:08"
+ },
+ {
+  "id": 40745380,
+  "title": "House Floor Plan and Elevation Drawing",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/3d-cad/House-Floor-Plan-Elevation-Drawing",
+  "desc": "I need a detailed architectural drawing of my house. The drawing should be in PDF format.\n\nRequirements:\n- Draw existing house floor plan and architectural elevation\n- Detailed layout with measurements\n- No existing plans or sketches provided\n\nIdeal Skills and Experience:\n- Proficiency in architectural drawing\n- Experience with CAD software\n- Attention to detail and accuracy",
+  "query": "pdf extraction",
+  "found_at": "2026-10-02 02:08"
  }
 ]
