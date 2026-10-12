@@ -22202,5 +22202,57 @@
   "desc": "I'm looking for an experienced fiction writer to create a historical fiction novel inspired by Norman Lewis’ Voices of the Old Sea. The memoir will serve as reference material to structure the fictional plot and characters, drawing from its themes and setting, with name changes and a shift from nonfiction to a character and plot-driven fiction structure. This will not be a direct adaptation, as I do not hold the rights to the original work. The final deliverable should be in PDF format, with a minimum of 80,000 words suitable for a debut novel submission. Preference will be given to writers with proven experience in literary historical fiction.",
   "query": "pdf extraction",
   "found_at": "2026-10-11 23:06"
+ },
+ {
+  "id": 40762911,
+  "title": "Pine script indicator trading view",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/algorithm/Pine-script-indicator-trading-view-40762911",
+  "desc": "i need a tradingview pine script to make an indicator for the following:\n\n1. Timeframe\n\nLevels are calculated only from H1 (1-hour) candles.\nUse RTH H1 data even if the chart is on a different timeframe (request the 1H series).\n\n2. Session\n\nRTH only: 9:30 AM – 4:00 PM New York time.\nIgnore extended hours / overnight completely.\nStart aggregation at the regular market open.\n\n3. How a Level is created (“confirmed”)\n\nLook at consecutive completed H1 RTH candles.\nA candle is bullish if close > open, bearish if close < open.\nA doji (close == open) breaks the sequence.\nWhen the direction flips (previous bearish → current bullish, or previous bullish → current bearish):\nDraw a horizontal level at the open of the current (color-changing) candle.\n\nOnly the open of the body matters. Ignore wicks entirely (“HIT THE BODY”).\n\n4. How a Level is invalidated / deleted\n\nA level is invalidated only when an H1 RTH candle’s body closes through it:\nCandle opens on one side of the level and closes on the other side.\n\nWicks that pierce the level do not count.\nOnce invalidated, delete the level (it is no longer an institutional pivot).\nPreferred timing: process new levels and invalidations at the end of the RTH session (or after the day completes) so levels don’t flicker on and off during the live day.\n\nWhat to emphasize to the coder\n\nPure price-action color change on H1 RTH only.\nLevel = open of the candle that flips color.\nInvalidation = body close through the level (open one side, close the other",
+  "query": "data extraction",
+  "found_at": "2026-10-12 02:29"
+ },
+ {
+  "id": 40762795,
+  "title": "Strategi Cepat Raup Penghasilan -- 2",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/business-consultant/Strategi-Cepat-Raup-Penghasilan",
+  "desc": "Saya membutuhkan panduan praktis dan langsung dapat diterapkan untuk mulai menghasilkan uang secepat mungkin. Dokumen akhir harus memuat:  \n\n• Daftar ide monetisasi ­– mulai dari peluang sederhana hingga metode yang lebih terstruktur.  \n• Langkah-langkah terperinci untuk tiap ide (riset pasar singkat, alat yang dipakai, perkiraan biaya awal, dan proyeksi pendapatan).  \n• Tips optimasi agar pendapatan bisa bertumbuh secara berkelanjutan.  \n• Ringkasan risiko serta cara meminimalkannya.  \n\nFormat boleh berupa Google Doc atau PDF dengan tautan ke sumber daya relevan. Saya menargetkan penyelesaian sangat cepat, jadi prioritaskan solusi yang sudah terbukti dan tidak memerlukan persiapan panjang. Pastikan bahasa jelas, langsung, dan mudah dipraktikkan meskipun oleh pemula.",
+  "query": "google sheets automation",
+  "found_at": "2026-10-12 02:29"
+ },
+ {
+  "id": 40762741,
+  "title": "Bilingual Recruiter for Cleaning Service - Help Us Find Cleaners and Screen Them",
+  "budget_min": 80.0,
+  "budget_max": 150.0,
+  "currency": "CAD",
+  "usd_rate": 0.701501,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/human-resources/Bilingual-Recruiter-for-Cleaning-Service",
+  "desc": "**Freelance Recruiter (English and Spanish) – British Columbia, Canada**\n\nPixel Cleaners is looking for a bilingual freelancer fluent in English and Spanish to help us recruit cleaners across British Columbia, Canada.\n\nThis is initially a one-month project. If we are happy with the results, there may be opportunities to work on additional recruitment projects in the future, as we frequently need to hire new cleaners.\n\n**Responsibilities:**\n\n* Search for and identify potential cleaning staff.\n* Interview candidates and assess their suitability.\n* Verify that candidates have all the required documents.\n* Record candidate information and notes in a designated Excel spreadsheet.\n* Recommend suitable candidates to our Operations Manager for potential job assignments.\n\n**Project Details:**\n\n* Duration: 1 month\n* Expected workload: 3–5 hours per week\n* Type: Freelance, one-time project, with potential for future opportunities.\n\n**How to Apply:**\n\nPlease submit your resume/CV for consideration.\n\nTo ensure you read the description please start your bid with \"I speak Spanish\"\n\nYou can learn more about Pixel Cleaners here: https://www.instagram.com/pixelcleaners/",
+  "query": "excel automation",
+  "found_at": "2026-10-12 02:29"
+ },
+ {
+  "id": 40762784,
+  "title": "Cinematic Rock Concert Video Production",
+  "budget_min": 1500.0,
+  "budget_max": 3000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 13,
+  "url": "https://www.freelancer.com/projects/adobe-premiere-pro/Cinematic-Rock-Concert-Video-Production",
+  "desc": "I have a complete script and a fully mastered soundtrack for a two-hour rock concert film. What I need now is a video professional who can translate that material into an immersive, cinema-quality experience. High-quality visuals, frame-perfect lip sync, and a seamless blend of narrative and music are absolutely essential.  \n\nAny of the major professional suites—Adobe Premiere Pro, Final Cut Pro, DaVinci Resolve, or another top-tier tool you trust—are welcome, provided they support advanced colour grading, VFX, and the newest lip-sync workflows. I’m less concerned with the brand name than with the final, polished realism you can deliver.\n\nTo choose the right collaborator, I will first request a short proof-of-concept: one full song from the concert paired with a portion of the accompanying narrative. I’ll supply the audio, script excerpt, and detailed character notes; you show me how you handle lighting, camera movement, colour, sound alignment, and believable mouth movements.\n\nDeliverables:\n• 2–3 minute sample scene (one song + narrative)\n• If approved, full 120-minute concert film in 4K, ready for theatrical or streaming release, plus all project files and audio stems\n• Social media-ready advertisements using provided graphics for platforms like Facebook and X\n• A music-only album prepared for DistroKid featuring 17 mastered songs totaling approximately 81 minutes\n\nImpress me with the sample, and we’ll move straight into the full production.",
+  "query": "python script",
+  "found_at": "2026-10-12 02:29"
  }
 ]
