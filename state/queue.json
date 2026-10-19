@@ -29417,5 +29417,44 @@
   "desc": "K–5 Academic Quality & Curriculum Consultant — U.S. and India\n\nRemote | Freelance / Part-time | Initial paid pilot with potential for ongoing work\n\nAbout QuestionBoards\n\nQuestionBoards.com is a live learning platform for kindergarten through Grade 5, covering Math, English, Science, and Social Studies.\n\nOur platform combines structured daily practice, tutoring, school assignments, and custom Question Boards that parents, tutors, and teachers can create.\n\nWe are seeking experienced educators to help establish the academic quality of our content. Our question bank contains approximately 120,000 questions, initially generated using ChatGPT. We need independent expert review of their accuracy, grade suitability, rigor, and curriculum coverage.\n\nThe assignment\n\nWe welcome applications from specialists in the U.S. curriculum, Indian curriculum, or individual elementary subjects. You do not need expertise in every country or subject.\n\nResponsibilities include:\n\nAudit topics and subtopics across K–5 for missing concepts, duplication, grade placement, and prerequisite order.\n\nMap content to the applicable curriculum standards, specifying the relevant U.S. state or Indian school board.\n\nIndependently solve questions and verify answer keys, options, explanations, hints, passages, and images.\n\nIdentify ambiguous questions, multiple correct answers, weak distractors, and misleading wording.\n\nEvaluate difficulty and reasoning demand, distinguishing standard practice from advanced or compet",
   "query": "ai chatbot",
   "found_at": "2026-10-18 23:45"
+ },
+ {
+  "id": 40775035,
+  "title": "Excel & Power BI Warehouse Tracker",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010532,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/power-bi/Excel-Power-Warehouse-Tracker",
+  "desc": "Our warehouse needs a clean, reliable system that shows—at a glance—where every item has come from, how it has moved, and when it was used. I want complete traceability and a sense of orderliness, without having to sift through paperwork or scattered spreadsheets.  \n\nHere’s the workflow I have in mind:\n\n• Excel will serve as the master data entry point. Each product entry or exit must be logged with item code, description, batch/lot, quantity, operator name, and time stamp.  \n• Power Query or VBA (whichever you find more efficient) should handle the heavy lifting: append new transactions, prevent duplicate IDs, and instantly update current stock levels.  \n• Power BI will pull directly from that Excel file—no manual exports—to produce interactive dashboards. I need visual cues for low stock, trend lines for product usage over time, and a searchable order history that lets me drill from summary down to individual transaction records.  \n\nDeliverables\n1. A fully-formatted Excel workbook with automated data-capture forms and locked formulas that calculate real-time stock on hand.  \n2. A connected Power BI report (.pbix) with at least these pages: Current Inventory, Product Usage, Order History, and Exceptions (e.g., negative stock or expired lots).  \n3. A short hand-off guide or screen-share recording so my team can refresh data, add new SKUs, and publish the Power BI reports without outside help.\n\nAcceptance criteria\n• Every product addition or usage event is uniquely time-stampe",
+  "query": "data extraction",
+  "found_at": "2026-10-19 01:51"
+ },
+ {
+  "id": 40775045,
+  "title": "Hard-Rock Band for AI Recording",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "CAD",
+  "usd_rate": 0.708097,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/ai-audio-to-audio/Hard-Rock-Band-for-Recording",
+  "desc": "I am looking to hire a full, physical heavy metal band (4-5 members: vocals, guitars, bass, drums) to record a custom track in a studio, garage, or rehearsal space setting.\n• The Vibe/Style: Metallica/Motley Crue... \n• What I Need:\n\t1. A raw, energetic multi-track audio mix of the song.\n\t2. A continuous, live performance video of the band tracking the song in the room (can be shot on a couple of smartphones or a basic DSLR on tripods—nothing fancy or heavily edited needed!).\n• The Vibe: Authentic, gritty, and high-energy. Think \"live rehearsal run\" or an intimate studio diary tape.\n• Budget: $200 CAD (~$145 USD)\n\n• Rights & Bonus: You are completely free to upload the final performance video to your own band’s YouTube, TikTok, or social channels to use as content and show off your skills.\n\nIf your band has access to a space, can lock down that 80s metal sound, and wants to cut a quick live track, please drop a link to your music, a video of you guys jamming, or send me a DM!\nLooking forward to hearing what you've got Thanks",
+  "query": "ai chatbot",
+  "found_at": "2026-10-19 01:51"
+ },
+ {
+  "id": 40774998,
+  "title": "E-Commerce Marketplace Specialist Needed",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010532,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/keyword-research/Commerce-Marketplace-Specialist-Needed",
+  "desc": "We are an established manufacturing/retail business looking for an experienced freelance E-Commerce Marketplace Specialist to handle end-to-end product cataloging, listing optimization, and daily operational management across Amazon Seller Central and Flipkart Seller Hub.\n\nThe goal is to ensure 100% policy compliance, high search visibility, accurate catalog mapping, and smooth day-to-day account health.\n\nKey Responsibilities:\n1. Cataloging & Bulk Listing Creation: Create single and bulk flat-file listings (Excel/flat files) on Amazon and Flipkart.Ensure correct category taxonomy, variation themes (size, color, pack size), and attribute mapping.Manage UPC/EAN/GTIN codes or apply for Brand Name / GTIN exemptions where needed.\n\n2. Listing Optimization & Marketplace SEO: Conduct high-intent keyword research (Helium 10, Jungle Scout, or marketplace search trends).Craft compelling, high-converting product titles, keyword-rich feature bullets, search terms (backend keywords), and descriptions.   Coordinate or format product images according to platform specifications (clean white backgrounds, dimension infographics, lifestyle callouts).Set up Amazon A+ Content (EBC) and Brand Store pages (if Brand Registry is active).\n\n3. Daily Operations & Account Health Management:Monitor inventory levels, update stock counts, adjust selling prices/MRP, and configure promotional discounts/coupons.Proactively monitor account health metrics (ODR, cancellation rates, late shipments, policy warnings)",
+  "query": "excel automation",
+  "found_at": "2026-10-19 01:51"
  }
 ]
