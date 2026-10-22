@@ -31783,5 +31783,44 @@
   "desc": "- 2-3 Minute Video Featuring the Business of Open Doors Management: “Land for the Energy Transition”.\n\n- Content, narrative, script and graphics  in place from two person team.\n\n- Require only a production videographer to follow the script",
   "query": "python script",
   "found_at": "2026-10-21 22:48"
+ },
+ {
+  "id": 40780308,
+  "title": "mystery shopping test with emails & european whatsapp numbers",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/mystery-shopping/mystery-shopping-test-with-emails",
+  "desc": "Confidential Freelance Project – Safari Sales Mystery Shopper\n\nProject Type: Remote, confidential, short-term assignment\nIndustry: Tourism / African Safaris\nSkills Required: Research, AI-assisted communication, WhatsApp, email correspondence, attention to detail, and professional reporting.\n\nProject Overview\n\nWe are looking for a highly capable, discreet freelancer to conduct a structured mystery-shopping and sales-integrity assessment within the African safari tourism industry.\n\nThe objective is to evaluate how selected sales contacts respond to realistic safari inquiries, including whether they follow appropriate business procedures or attempt to divert potential business into unauthorized personal arrangements.\n\nThis is not a mass-messaging, marketing, or lead-generation project. We require carefully planned, realistic, individualized conversations.\n\nResponsibilities\n\n1. Research and Customer Scenarios\n\n* Research Tanzania safari destinations, itineraries, accommodations, typical pricing, and travel arrangements.\n* Develop realistic prospective customer scenarios, including couples, families, small groups, and luxury travelers.\n* Prepare inquiries with believable travel dates, budgets, preferences, and questions.\n* Ensure each scenario sounds natural and different rather than following a repetitive template.\n\n2. AI-Assisted Communication\n\n* Use ChatGPT or other AI tools to help prepare professional, realistic inquiries.\n* Continue conversations naturally based on actual re",
+  "query": "ai chatbot",
+  "found_at": "2026-10-22 01:04"
+ },
+ {
+  "id": 40780344,
+  "title": "Kotlin Multiplatform Auction Bidding App -- 2",
+  "budget_min": 230000.0,
+  "budget_max": 2300000.0,
+  "currency": "INR",
+  "usd_rate": 0.010589,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/kotlin/Kotlin-Multiplatform-Auction-Bidding-App",
+  "desc": "I am creating a native, cross-platform mobile app built with Kotlin Multiplatform that streamlines the settlement and purchase of bank-auctioned properties. The core of the product is a smooth, real-time bidding experience available on both iOS and Android from a single shared codebase.\n\nKey scope  \n• Kotlin Multiplatform will power the shared business logic so the UI can feel truly native—Jetpack Compose on Android and SwiftUI on iOS.  \n• Users must be able to join an auction room, place incremental or direct bids, and see their bid status update instantly via secure websockets or a similar push channel.  \n• The admin side (also mobile) should publish new properties to an active auction, open or close bidding, and mark a winner; server APIs already exist and are REST-based.  \n• Clean, modern UI that stays consistent across platforms while respecting each OS’s interaction patterns.\n\nDeliverables  \n1. Full KMP codebase with Android and iOS targets compiling in the latest stable IDEs (Android Studio / Xcode).  \n2. Screens for login, auction listing, live bidding, and winner confirmation.  \n3. Integration with our existing REST endpoints for authentication and bid submission.  \n4. Build & run instructions plus a short video walkthrough proving both apps operate identically.\n\nAcceptance criteria  \n• A test auction shows bids propagating across two devices in <1 s round-trip.  \n• All builds pass without warnings and follow standard KMP project structure.  \n• Source code handed ove",
+  "query": "gpt integration",
+  "found_at": "2026-10-22 01:04"
+ },
+ {
+  "id": 40780325,
+  "title": "3-Month Business Statements Needed",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 13,
+  "url": "https://www.freelancer.com/projects/accounting/Month-Business-Statements-Needed",
+  "desc": "I’m looking for a skilled professional who can prepare three consecutive months of clear, well-organized business bank statements for me. The final files must be delivered in PDF format and each statement should include two essential elements: every transaction for the period and complete account-holder information. Accuracy, realistic layout, and consistent formatting are critical—I’m happy to pay a premium rate for work that looks authentic and is ready to use without any edits on my end.\n\nPlease let me know your turnaround time and a brief outline of how you’ll approach the task so I can move forward quickly with the right freelancer.",
+  "query": "pdf extraction",
+  "found_at": "2026-10-22 01:04"
  }
 ]
