@@ -32836,5 +32836,57 @@
   "desc": "I’m ready to hand over a batch of handwritten-photo physics notes and need them turned into polished, student-friendly study articles. The task is strictly transcription and cleanup—no extra explanations, worked examples, or new material.  \n\nHere’s what I’m after:  \n• Faithful transcription of every definition, formula, and diagram, correcting spelling or symbol errors without changing meaning.  \n• Consistent formatting: clear headings, numbered equations (Word Equation Editor or LaTeX), bullet points where they already exist, and neatly redrawn figures if a sketch is unreadable.  \n• Final delivery of each set as both an editable Word document and a matching PDF so students can read or print easily.  \n\nThe photos will arrive organised by chapter; please return one finished article per chapter, named accordingly. I’ll review for accuracy of content, math notation, and overall clarity before sign-off.",
   "query": "pdf extraction",
   "found_at": "2026-10-22 20:45"
+ },
+ {
+  "id": 40781867,
+  "title": "Image-to-Text Typing Needed",
+  "budget_min": 1000.0,
+  "budget_max": 15000.0,
+  "currency": "INR",
+  "usd_rate": 0.010558,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/data-entry/Image-Text-Typing-Needed",
+  "desc": "I have a collection of images and photos containing printed text that I need transcribed accurately. Your task is to type everything you see into a Google Docs document, delivering the content in a simple, clean format—no need to replicate the original layout beyond basic paragraphs.\n\nWhat I care about most is precision. Please proofread your work so spelling, punctuation, and line breaks match the source images. Consistency matters, so use the same capitalization and paragraph breaks that appear in the pictures unless they obviously interrupt a sentence.\n\nDeliverables:\n• One Google Docs link containing all transcribed text, clearly titled.  \n• Text presented in straightforward paragraphs without tables, fancy spacing, or decorative formatting.  \n• Completion within the deadline we agree upon; let me know your realistic timeframe up front.\n\nIf you have experience with manual data entry, basic OCR clean-up, or similar projects, mention it. I’m happy to provide a sample image before we begin so you can gauge complexity.",
+  "query": "data extraction",
+  "found_at": "2026-10-22 23:40"
+ },
+ {
+  "id": 40782015,
+  "title": "Vertical Family Micro-Drama Series",
+  "budget_min": 5000.0,
+  "budget_max": 10000.0,
+  "currency": "GBP",
+  "usd_rate": 1.340333,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/ai-video/Vertical-Family-Micro-Drama-Series",
+  "desc": "Freelance AI Video Producer / Editor – Vertical Drama Series\n\nLocation: India\nEngagement: Freelance / project-based\nProject type: AI-generated episodic drama\nProduction format: Vertical video (9:16)\nDuration: 30 to 40 mins (1 -2 min episodes)",
+  "query": "ai chatbot",
+  "found_at": "2026-10-22 23:40"
+ },
+ {
+  "id": 40782049,
+  "title": "SuiteDash Client Portal Setup",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/workflow-automation/SuiteDash-Client-Portal-Setup",
+  "desc": "That sounds like a great next step! Adding a client portal is a separate phase from the backend certification processing automation we recently set up, but it will complement it nicely.\n\nWe can seamlessly connect a light, inexpensive client portal directly to our current automated workflow so that whenever a certification or work order is processed, its status updates automatically in real time for your clients to view.\n\nHere are a few budget-friendly options that I would like to recommend:\n\nSoftr + Airtable/Google Sheets (Recommended): A custom, professional portal where your client's team members can securely log in, view live certification statuses, and send messages directly on the platform. (Cost: Starts at $0-$19/month)\n\nNative M365 / SharePoint Guest Portal: A secure portal built right within your current Microsoft 365 environment, avoiding third-party software subscriptions while letting external client employees track status and files. (Cost: Low to $0 extra software cost)\n\nAhsuite / SuiteDash: Ready-to-use, pre-built client portals featuring status boards, file sharing, and threaded messaging. (Cost: ~$6.50 to $19/month for unlimited clients)\n\nLet me know if you'd like us to put together a quick outline and scope to get one of these set up for you!\n6:52 AM\n\nI'll take a look at them and will get back to you.\n7:39 AM\n\nUser Avatar\nThat sounds good to me; please take your time Yasmine and if you have any ideas for that then please feel free to discuss them with me\n7:40 ",
+  "query": "gpt integration",
+  "found_at": "2026-10-22 23:40"
+ },
+ {
+  "id": 40782036,
+  "title": "Retype Reports into Clean PDFs",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/microsoft-word/Retype-Reports-into-Clean-PDFs",
+  "desc": "I have a batch of printed letters and multi-page reports that need to be re-typed from scratch and saved as polished, easy-to-read PDFs. Faithfully capture every word, heading, and paragraph break, but feel free to use consistent fonts, margins, and spacing so the final files look professionally formatted rather than scanned.\n\nFor each original document I will send you a clear scan. Your job is to:\n\n• Type the text accurately in Word, Google Docs, or similar.  \n• Apply straightforward formatting (standard font, logical headings, numbered or bulleted lists where the source shows them).  \n• Export the finished file to PDF and check that it opens cleanly on any device.\n\nNo need to reproduce the exact page layout or design flourishes; legibility and correctness are the priorities.\n\nWhen you respond, include a brief but detailed proposal outlining:  \n• Your approach to maintaining accuracy and catching typos.  \n• Turnaround time per 10 pages.  \n• Any tools or quality-control steps you rely on (spell-check, Grammarly, side-by-side review, etc.).\n\nI will supply a small test page before awarding the full set, and I’m happy to release milestones in sensible batches once each group of PDFs passes a quick verification read-through.",
+  "query": "google sheets automation",
+  "found_at": "2026-10-22 23:40"
  }
 ]
