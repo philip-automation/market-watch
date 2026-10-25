@@ -34877,5 +34877,31 @@
   "desc": "I'm seeking an experienced movie producer to help turn my nearly finished film script idea into a full-fledged project. \n\nKey Responsibilities:\n- Develop the story into a comprehensive film plan\n- Collaborate on narrative structure, character development, and budget estimation\n\nIdeal Skills & Experience:\n- Background in producing feature-length films\n- Strong storytelling and development expertise\n- Established connections in the film industry\n\nYour guidance will be crucial in transforming my outline into a market-ready film plan.",
   "query": "python script",
   "found_at": "2026-10-24 23:48"
+ },
+ {
+  "id": 40785321,
+  "title": "Monorail Feasibility Study Consultant",
+  "budget_min": 20000.0,
+  "budget_max": 50000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/financial-modeling/Monorail-Feasibility-Study-Consultant",
+  "desc": "I am moving forward with a proposed monorail in Malaysia that will link key tourist and business districts. A single alignment and its stations have already been shortlisted, so the assignment now is to prove—on paper and in numbers—that this route is worth building.\n\nYour mandate is to produce a bankable feasibility study that I can submit to government agencies, potential lenders and private investors. The focus is not on detailed engineering drawings; instead it is on demonstrating commercial, economic and operational viability from an independent perspective that blends both engineering practicality and financial realism.\n\nScope of the study  \n• Demand & route validation – test the ridership potential on the preferred alignment, confirm station catchments and evaluate any minor route refinements that could boost demand.  \n• Costs, funding and financial returns – develop capital and O&M cost estimates, model funding structures (public funding, PPP, concessions, etc.) and present NPV/IRR, payback and sensitivity analyses.  \n• Economic advantage & wider benefits – quantify job creation, tourism uplift, time savings, land‐value gains and overall cost-benefit ratio in line with Malaysian appraisal guidelines.\n\nDeliverables  \n1. Full feasibility report (PDF) with an executive summary and clear go/no-go recommendation.  \n2. Editable demand model and financial model (Excel or similar).  \n3. Slide deck highlighting key findings for stakeholder presentations.\n\nAcceptance criteria  ",
+  "query": "data extraction",
+  "found_at": "2026-10-25 02:02"
+ },
+ {
+  "id": 40785319,
+  "title": "Roll Forming Simulation & Roller Optimization -- 2",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010532,
+  "bids": 1,
+  "url": "https://www.freelancer.com/projects/abaqus/Roll-Forming-Simulation-Roller",
+  "desc": "I need a detailed roll-forming simulation focused on optimizing the roller design and the entire set of forming passes for a steel or stainless-steel strip. You will receive the exact thickness, and material grade from me at the start of the project so the material model in your FEA setup is accurate.\n\nScope  \n– Build and run the full forming simulation (e.g., using COPRA FEA RF, Abaqus, LS-DYNA, or a comparable package).  \n– Iterate the flower pattern and roller geometries until the final profile exits within tolerance and free of cracking, wrinkling, and excessive springback.  \n– Recommend any changes in pass sequence, roller radius, or alignment that lower forming loads or improve dimensional stability.\n\nDeliverables  \n• Simulation files and editable CAD of the optimized roller set  \n• A concise report summarising stresses, thickness distribution, springback prediction, and the rationale behind each design change  \n• PDF/DXF of the updated flower diagram ready for tooling manufacture\n\nPlease confirm the software you intend to use and an estimated turnaround time when you reply.",
+  "query": "pdf extraction",
+  "found_at": "2026-10-25 02:02"
  }
 ]
