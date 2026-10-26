@@ -35943,5 +35943,57 @@
   "desc": "I want to strengthen our online reputation by personally reaching out to customers who have just enjoyed a great experience with us. You will call each person on the list I supply, thank them for their recent visit, and then invite them to leave an honest public review—ideally a five-star one—on the specific platform I note for that customer.  \n\nFrom time to time I will also flag a negative review. When that happens, you will phone the reviewer, listen to their concern, and, when appropriate, ask whether they would consider updating or removing the post after we resolve the issue.  \n\nAll outreach must be done by phone; no texts or emails. A friendly, confident voice and clear English are essential. I will provide a short call script, but I’m happy for you to adjust your wording as long as the spirit stays the same: warm, respectful, and focused on securing the review.  \n\nDeliverables I need from you:  \n• A simple daily log showing whom you called, whether you reached them, the outcome (review posted, follow-up needed, review removed, etc.), and a direct link to any new review.  \n\nIf you’re comfortable on the phone, persuasive without sounding pushy, and can start right away, let’s talk.",
   "query": "python script",
   "found_at": "2026-10-25 22:01"
+ },
+ {
+  "id": 40786503,
+  "title": "Photorealistic Virtual Lingerie Model",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 17,
+  "url": "https://www.freelancer.com/projects/ai-art-creation/Photorealistic-Virtual-Lingerie-Model",
+  "desc": "Photorealistic AI Fashion Model Creation for Lingerie Brand (Consistent Character + Photo Set)\nWe are an online lingerie store looking for an experienced AI artist to create a fictional, photorealistic female model for our advertising and catalog.\n\nWhat we need:\n\nA fully original virtual model (female, 24-28 years old, natural and polished look, modern e-commerce style). We will share references for mood and styling.\nStrong character consistency: the same face, body proportions and skin tone across all images (LoRA training or an equivalent method).\nA photo set for catalog and ads: studio and interior scenes, various poses and angles.\nAccurate rendering of our products (cut, color, lace, fabric texture) on the model, based on our product photos.\n\nQuality requirements:\n\nRealistic result without typical AI artifacts (hands, skin, fabric, proportions).\nMinimum 2000 px resolution, suitable for web, social media and print.\nTasteful, commercial catalog style that complies with ad platform policies (Meta, Google, TikTok). No explicit content.\nThe character must be entirely fictional and must not resemble any real person or celebrity.",
+  "query": "web scraping",
+  "found_at": "2026-10-26 00:14"
+ },
+ {
+  "id": 40786615,
+  "title": "Amazon Organic Sales Specialist",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 8,
+  "url": "https://www.freelancer.com/projects/amazon/Amazon-Organic-Sales-Specialist",
+  "desc": "I need a seasoned Amazon account-management pro—10 + years in the trenches—to take charge of one of our Brand-Registered stores. Your first mission is simple and laser-focused: lift our organic rankings and daily sales for the ASINs already live.\n\nYou’ll have full secondary-user access in Seller Central (I never share the master password). From there, I expect you to diagnose and overhaul our search-keyword architecture, tighten PPC targeting, and push each SKU toward page-one visibility. Helium 10, Data Dive, Jungle Scout, or any other advanced tool is fair game as long as the changes are data-driven and white-hat.\n\nOnce momentum builds, you’ll roll out crisp A+ Content that matches our brand voice, then identify new, high-margin products we can launch under the same umbrella. That long-term pipeline is important, but only after the current catalogue is humming.\n\nDeliverables in the first month:\n• Keyword and advertising audit with action plan  \n• Rebuilt back-end search terms and exact-match PPC campaigns  \n• Weekly KPI updates (sessions, CTR, CVR, TACoS)  \n• Draft A+ modules for at least one priority ASIN  \n\nShow me—briefly—where you’ve moved the needle for other brands, the tools you rely on, and how you would structure the first 30 days. No need for a lengthy proposal; proven experience speaks loudest.",
+  "query": "data extraction",
+  "found_at": "2026-10-26 00:14"
+ },
+ {
+  "id": 40786577,
+  "title": "Mobile Game Visual Modding",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010533,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/unity/Mobile-Game-Visual-Modding",
+  "desc": "I have a completed mobile game and want to breathe new life into it through visual upgrades. The core gameplay stays the same; what I need is a developer who can dive into the existing project files, locate the pre-made functions that handle visual assets, and modify them so we can introduce sharper character models, fresh skins, and smoother animations.\n\nThe project involves:\n• Reworking or extending the current code that drives character rendering, particle effects, and animation controllers.  \n• Importing updated 2D/3D assets (I’ll supply source files) and wiring them into the build without breaking live gameplay.  \n• Optimising any new textures or animation sheets for solid frame rates on both Android and iOS.\n\nEverything is already organised in Git, and the game is built with Unity, so you’ll need proven Unity experience plus comfort with C# scripting, Animator Controller tweaks, and asset-bundle management. If you’ve modded commercial APKs before or handled reverse-engineering tasks such as editing DLLs or Smali, that’s a strong bonus.\n\nAcceptance criteria\n• Latest test build installs and runs on mid-tier devices with equal or better performance than the current live version.  \n• All new character skins appear in-game, selection menus update correctly, and animations trigger exactly as in the spec sheet.  \n• No crashes, null-ref errors, or shader glitches reported over a 20-minute continuous playtest.\n\nShare a short note about similar visual modding work you’ve shipped,",
+  "query": "google sheets automation",
+  "found_at": "2026-10-26 00:14"
+ },
+ {
+  "id": 40783043,
+  "title": "Traduction Créative en Français",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/creative-writing/Traduction-ative-Fran-ais",
+  "desc": "J’ai un document texte de nature personnelle et créative que je souhaite voir entièrement traduit en français.  \nJe fournis le fichier source prêt à l’emploi ; votre mission consiste à restituer le sens, le ton et le style d’origine tout en assurant une lecture fluide pour un public francophone.\n\nCe que j’attends :  \n• Une traduction fidèle, sans ajout ni omission.  \n• Une adaptation stylistique respectueuse de l’esprit créatif du texte.  \n• Un format livré identique à la mise en page fournie (Word ou PDF).  \n• Une relecture finale exempte de fautes d’orthographe ou de grammaire.\n\nLe délai reste flexible ; indiquez simplement votre disponibilité et votre temps estimé pour achever le travail. Merci de préciser également votre expérience en traduction littéraire ou créative et, si possible, d’inclure un court extrait de travaux similaires.",
+  "query": "pdf extraction",
+  "found_at": "2026-10-26 00:14"
  }
 ]
