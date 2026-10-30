@@ -39986,5 +39986,57 @@
   "desc": "I'm looking for a freelancer to attend a conference in Rome, Italy, on my behalf. The primary goal of this assignment is to showcase our product. This is a lead generation strategy to bring for future clients. Your responsibilities will include showing the banner to the mass of people present at the event. Who is interested in our product? Just ask to scan the Telegram/WhatsApp/Teams QR given on the banner. Our backend team will be available on those handles, and they will take them forward. The main aim is establishing connections that could lead to future business opportunities.\n\nWe are looking for a local freelancer in Rome, Italy. who can attend a conference on behalf of our company. You have to take snaps during the event.\n\nThe conference will be for 2 days; just enjoy the time and have fun. The conference is on 3rd & 4th November 2026. At the end we want the snap you have taken, and a report on the event should be sent by email. The format of the report will be given by us.\n\nA person should be frank enough and have good communication.\n\n\nKey tasks include:\n- Actively networking with potential clients\n- Distributing prepared networking materials (business cards and brochures)\n\nIdeal skills for this job include:\n- Strong communication and interpersonal skills\n- Experience in business networking\n- Ability to represent a company professionally\n\n\nIf you have potential and you are interested, please send me a message so that we can discuss...\nWe can also associate for post-eve",
   "query": "telegram bot",
   "found_at": "2026-10-29 22:02"
+ },
+ {
+  "id": 40793771,
+  "title": "Fast-Paced Social Media Video Editor",
+  "budget_min": 37500.0,
+  "budget_max": 75000.0,
+  "currency": "INR",
+  "usd_rate": 0.010507,
+  "bids": 14,
+  "url": "https://www.freelancer.com/projects/adobe-premiere-pro/Fast-Paced-Social-Media-Video-40793771",
+  "desc": "Job Title: Part-Time Video Editor – Social Media Reels & YouTube Shorts (Gaming & Telugu Comedy)\nLocation: Remote\n\nJob Type: Part-Time / Hourly / Project-Based (Minimal Hours / 5–10 hours per week)\n\nCompensation: [5000 to 10000 per Month ]\n\nAbout the Role\nWe are seeking a creative, fast-working Part-Time Video Editor to craft quick, high-impact social media edits. This is a low-commitment, highly flexible role—ideal for freelancers or students looking for steady, low-volume side work.\n\nYour main task will be taking short gameplay clips or commentary and adding Telugu comedy audio templates, Indian internet memes, and quick gaming VFX to create viral-ready Reels and YouTube Shorts.\n\nKey Responsibilities\nShort-Form Edits: Edit 2 to 4 vertical videos (Instagram Reels / YouTube Shorts) per week.\n\nMeme & Sound Integration: Layer Telugu comedy clips, famous movie audio bites, popular Indian meme templates, and viral sound effects onto raw gaming footage.\n\nGaming VFX: Add simple, impactful visual effects (hit markers, zoom-ins, green-screen cutouts, tracking text, and animated captions).\n\nMinimal Turnaround: Deliver quick, polished cuts without requiring long hours or complex, full-length documentary-style production.\n\nRequirements\nExperience editing short-form vertical content (Reels, Shorts, or TikTok).\n\nStrong familiarity with Telugu comedy memes, movie dialogues, and Indian social media trends.\n\nProficient in editing software such as Premiere Pro, After Effects, DaVinci Resolve,",
+  "query": "gpt integration",
+  "found_at": "2026-10-30 01:54"
+ },
+ {
+  "id": 40793863,
+  "title": "Smart Relay PCB design, testing & debugging and verification",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010507,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/embedded-systems/Smart-Relay-PCB-design-testing",
+  "desc": "I need a brand-new hardware design built around an ESP8266 (NodeMCU class) / ESP32 that can drive five independent 240 VAC relay channels. The board must let me control everything over Wi-Fi through ESPHome/Home Assistant while still working perfectly with the existing wall switches. In day-to-day use those channels will power a mix of light circuits, ceiling fans and a few socket loads, so each relay has to handle up to 16 A safely and repeatedly.\n\nKey functional blocks I am looking for  \n• Five SPDT relays with true 2-way switch sensing so the physical rocker always wins and its state is reported back to Home Assistant.  \n• presence sensor on board for room occupancy.\n• fan regulator control indian home\n• Four 5 V USB-A charge ports, one of which must stay alive from a cell during a mains outage.  \n• The same batt should drive an automatic LED emergency light strip when power fails.  \n• Robust, isolated AC/DC conversion, surge protection, track clearance and proper creepage for 240 VAC.  \n• energy metering tbd, so leave that silicon out.\n\nDeliverables I expect  \n1. Complete schematic in KiCad 7 (or newer) with clearly labelled test points and safety notes.  \n2. Multi-layer PCB layout, Gerbers and manufacturing files ready for JLC/PCBWay.  \n3. Consolidated BOM with manufacturer part numbers and availability notes.  \n4. Documentation for the schematic for future programming\n5. A concise prototype build and test plan, including suggested jig or fixture ideas for high-voltage p",
+  "query": "google sheets automation",
+  "found_at": "2026-10-30 01:54"
+ },
+ {
+  "id": 40793905,
+  "title": "IPDRG Coding for Patient Charts",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010507,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/medical-coding/IPDRG-Coding-for-Patient-Charts",
+  "desc": "I will be sharing a batch of electronic patient charts that require accurate IPDRG assignment. For each record, use only the discharge summary and the final diagnosis list to determine the correct grouping. The rule set comes from a country other than the Philippines, and I will supply the full guidelines along with sample completed records so you can see exactly how the groupings should look.\n\nWhat you will receive  \n• A folder of charts in PDF format, each clearly labelled with a unique case ID  \n• The official DRG rule book for the specified country in searchable PDF form  \n• A template spreadsheet with the following columns: Case ID, IPDRG code, Brief rationale  \n\nWhat I expect back  \n• The completed spreadsheet with every case ID matched to one definitive IPDRG code, filled in exactly as the template shows  \n• Any coding questions flagged in a separate “Queries” tab so we can resolve them quickly  \n• Consistent application of the supplied rule set—no local or hybrid rules\n\nAcceptance criteria  \n1. Every chart accounted for in the spreadsheet  \n2. Codes validated against the provided rule book without exception  \n3. No use of information outside the discharge summary and final diagnosis section\n\nOnce the first small batch is validated, the remainder of the charts will follow in rolling milestones.",
+  "query": "pdf extraction",
+  "found_at": "2026-10-30 01:54"
+ },
+ {
+  "id": 40793803,
+  "title": "Token Whitepaper Simplification Needed",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/blockchain/Token-Whitepaper-Simplification-Needed",
+  "desc": "I will share the full smart-contract code and technical paper for my “11030034000 Koin” project. I need you to read the material thoroughly, catch every important detail, and translate it into a clear, jargon-free explanation that a non-developer can understand.  \n\nThe end result should outline the purpose of the coin, how the contract works, its tokenomics, and any mechanisms that might matter to everyday holders—all in plain language while staying faithful to the original document.  \n\nDeliverable  \n• A concise, well-structured summary (PDF or DOCX) that covers the core features, functions, and any noteworthy risks or limitations mentioned in the original text.  \n\nNo code changes are required; this job is strictly about comprehension and communication.",
+  "query": "pdf extraction",
+  "found_at": "2026-10-30 01:54"
  }
 ]
