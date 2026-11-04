@@ -43743,5 +43743,83 @@
   "desc": "I have the original drawings for my house and now need a fresh set that reflects a complete redesign of the room layout and internal walls. The structure’s footprint stays the same, but I want the flow between spaces re-imagined, creating a more logical, airy arrangement throughout.  \n\nYou will start from my current plans (PDF and DWG files) and produce updated floor plans, any required elevations, and wall removal/addition notes. Accuracy is key: dimensions must align with the existing structural grid so my builder can use them without extra redlining.  \n\nPlease work in AutoCAD, Revit, or another mainstream drafting tool you are comfortable exporting to DWG and PDF. I’ll provide feedback in two revision rounds; after final approval I need both editable source files and print-ready PDFs.",
   "query": "pdf extraction",
   "found_at": "2026-11-03 23:13"
+ },
+ {
+  "id": 40801729,
+  "title": "good quality",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010568,
+  "bids": 17,
+  "url": "https://www.freelancer.com/projects/cloud-computing/good-quality",
+  "desc": "I want to turn the idea of “100 million projects” into a reality by building a cloud-ready platform that can comfortably host and track an enormous number of concurrent projects without performance drops. Right now, all I have is the vision; I need your expertise to shape it into an actionable design and an initial working prototype.\n\nWhat I need from you  \n• A concise, well-reasoned architecture document that explains how the system will grow smoothly from day one to tens of millions of projects—covering data sharding, microservices, caching, load balancing, monitoring, and disaster recovery.  \n• A clear recommendation of the technologies and services (for example AWS, GCP, Azure, Kubernetes, PostgreSQL, MongoDB, Redis, Kafka—choose what fits and justify it).  \n• A phased implementation roadmap with realistic timelines, key milestones, and cost estimates.  \n• A small proof-of-concept deployed to the cloud that lets me create, update, search, and report on thousands of projects per second, complete with automated tests, basic dashboards, and documentation in a private Git repository.\n\nAcceptance criteria  \n• The architecture document shows a path to scaling beyond 100 million projects and highlights potential bottlenecks.  \n• The proof-of-concept sustains at least 10 000 requests per second with an average response time under 200 ms in a public cloud environment.  \n• All code is clean, well-commented, and accompanied by simple setup instructions so I can spin it up myself.\n\nI",
+  "query": "data extraction",
+  "found_at": "2026-11-04 03:01"
+ },
+ {
+  "id": 40801718,
+  "title": "Hypersonic Submarine Hydrodynamic Simulation",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010568,
+  "bids": 3,
+  "url": "https://www.freelancer.com/projects/computational-fluid-dynamics/Hypersonic-Submarine-Hydrodynamic",
+  "desc": "I need a full-fidelity computer simulation that predicts how a research-submarine-shaped vehicle would behave if we tried to push it to roughly 2,000 km/h underwater. The core goal is to quantify speed, drag, pressure distribution, and any cavitation or shock phenomena so we can see whether the concept is even remotely viable and what design tweaks might lower resistance.\n\nScope  \n• Build or refine a clean 3-D geometry that follows a modern research-submarine body plan (smooth fairings, sail placement optional).  \n• Set up the flow domain and run high-speed CFD—ANSYS Fluent, STAR-CCM+, OpenFOAM, or an equivalent solver are all acceptable as long as turbulence, compressibility, and cavitation models are handled correctly.  \n• Generate plots and tabulated data for drag forces, pressure coefficients, boundary-layer behavior, and flow separation points across a speed ramp up to 2,000 km/h.  \n• Briefly explore stealth implications by highlighting how the predicted flow field might translate to acoustic or radar signatures; I don’t need a full stealth model, just qualitative insight tied to the hydrodynamics.  \n• Deliver the editable simulation files, a concise technical report (methodology, mesh independence proof, key results, recommendations), and a short slide deck I can share with non-technical stakeholders.\n\nAcceptance criteria  \n1. Mesh-independence study shows <3 % variation in total drag.  \n2. Results cover at least three turbulence models for comparison.  \n3. Report clear",
+  "query": "data extraction",
+  "found_at": "2026-11-04 03:01"
+ },
+ {
+  "id": 40801627,
+  "title": "Optimasi Gmail Bisnis Monetisasi Blog",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 6,
+  "url": "https://www.freelancer.com/projects/email-marketing/Optimasi-Gmail-Bisnis-Monetisasi-Blog",
+  "desc": "Saya ingin memanfaatkan Gmail Bisnis untuk membantu blog/website yang sudah online tetapi belum menghasilkan pendapatan. Fokusnya adalah membuat akun Gmail Bisnis khusus domain agar dapat dipakai sebagai sarana monetisasi konten dan affiliate.\n\nApa yang saya butuhkan:\n• Pembuatan dan konfigurasi akun Gmail Bisnis (Google Workspace) memakai domain website saya.  \n• Penyesuaian setting DNS, SPF, DKIM, dan DMARC agar email promosi dan affiliate tidak masuk spam.  \n• Integrasi email dengan form kontak atau newsletter di blog, sehingga setiap prospek langsung masuk ke inbox terlabel rapi.  \n• Pembuatan label, filter, serta template dasar untuk kampanye affiliate dan follow-up pelanggan.  \n• Panduan singkat tentang cara mengelola, mengukur performa, dan menjaga reputasi pengiriman email.\n\nWebsite sudah ada—saya hanya perlu bantuan teknis dan arahan praktis agar email branded ini bisa mendukung strategi monetisasi konten atau affiliate di blog. Jika Anda pernah men-setup Google Workspace untuk blogger atau affiliate marketer, saya ingin bekerja sama dan segera memulai.",
+  "query": "google sheets automation",
+  "found_at": "2026-11-04 03:02"
+ },
+ {
+  "id": 40801619,
+  "title": "3-Day Da Nang Itinerary -- 2",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/content-writing/Day-Nang-Itinerary",
+  "desc": "I’ll be spending three days and two nights in Da Nang and want a clear, engaging itinerary written in English that lets me taste the city’s best food, absorb its local culture, and see the main sights without feeling rushed. Your plan must weave in a visit to the Marble Mountains, nearby pagodas, and the most photogenic viewpoints, while still leaving room for street-food stops, bustling markets, and evening riverside strolls.\n\nWhat I need from you  \n• A day-by-day schedule with time blocks that show when to eat, explore, rest, and transfer between spots.  \n• Restaurant and café recommendations (with local specialties noted), opening hours, approximate prices, and any must-try dishes.  \n• Transport guidance: how long each leg takes, the most convenient mode (Grab, taxi, rented scooter, or public bus), and realistic fare estimates.  \n• Practical details such as entrance fees, dress codes for temples, and insider tips that help me avoid crowds or catch the best sunset views.  \n• A short cultural briefing for each key stop so I understand the history or story behind what I’m seeing.\n\nFormat & delivery  \nSend the final itinerary as a neatly formatted Google Doc or PDF, with clickable map links and a quick-glance summary table on the first page. Feel free to include high-resolution images or links to videos if they add value.\n\nWhen you apply, attach a concise but detailed proposal that shows how you would structure the three days and any personal experience you have with Da Nang o",
+  "query": "google sheets automation",
+  "found_at": "2026-11-04 03:02"
+ },
+ {
+  "id": 40801583,
+  "title": "Global Entry-Level Translation",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 11,
+  "url": "https://www.freelancer.com/projects/language-tutoring/Global-Entry-Level-Translation",
+  "desc": "I manage a long-term, fully remote translation workflow and need fresh talent from every corner of the world. Most assignments involve moving text from English into your native language, keeping the original sense and tone intact. Typical jobs are short—marketing blurbs, help pages, product notes—and must come back clean, well-formatted, and error-free.\n\nTurnaround for each piece is within a month, so reliability and respect for deadlines matter as much as linguistic skill. If you are attentive to grammar, enjoy fine-tuning meaning, and want to build a solid freelance track record, you will fit right in.\n\nTo be considered, send me:  \n• the language(s) you translate into  \n• your country of residence and weekly availability  \n• a brief sample or link that shows past work (student or volunteer pieces are welcome)\n\nWork arrives in Word, PDF, or Google Docs, and payment is issued per document. I review applications continuously and will reach out as soon as I have a suitable text in your language pair.\n\nLet’s grow together on this global project!",
+  "query": "google sheets automation",
+  "found_at": "2026-11-04 03:02"
+ },
+ {
+  "id": 40801700,
+  "title": "Simulação de Perdas em Tubulações",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/simulation/Simula-Perdas-Tubula",
+  "desc": "Preciso modelar um sistema de tubulações que transporta água/solução aquosa no Aveva Process Simulation para quantificar as perdas de carga do arranjo já instalado.  \n\nO que já tenho em mãos:  \n• Diâmetros, comprimentos e materiais de cada linha  \n• Vazões, pressões e temperaturas de operação atuais  \n• Diagramas contendo válvulas, bombas e demais conexões  \n\nEscopo que espero:  \n1. Construir o esquema hidráulico no Aveva Process Simulation com os dados fornecidos.  \n2. Rodar o balanço hidráulico e gerar o perfil de pressão ao longo da rede.  \n3. Identificar pontos de maior perda, gargalos ou cavitação potencial.  \n4. Entregar o arquivo de simulação salvo (formato .aps), um relatório claro em PDF com gráficos, tabelas de resultados e comentários de otimização.  \n\nCritérios de aceitação: modelo fechado sem erros de convergência, balanço de massa/energia equilibrado e resultados coerentes com as condições de contorno fornecidas.  \n\nSe você domina Aveva Process Simulation e análise hidráulica, aguardo sua proposta e prazo estimado.",
+  "query": "pdf extraction",
+  "found_at": "2026-11-04 03:02"
  }
 ]
