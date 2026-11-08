@@ -46928,5 +46928,18 @@
   "desc": "I have a set of scanned PDFs that must be transformed into a clean, fully-editable Word document. The text needs to be retyped (not dumped from raw OCR) and then formatted so it looks sharper than the original while still keeping the spirit of the layout.  \n\n• Keep every table, heading, and general page arrangement where practical so someone can cross-reference the new file with the scan without getting lost.  \n• Apply consistent heading styles, fonts, spacing, and margins so the document feels modern and professional.  \n• Proofread as you work to eliminate any spelling or punctuation slips that crept into the scan.  \n\nAcceptance criteria  \n– All content present and accurate.  \n– Tables line up correctly and are editable.  \n– Headings use Word styles (Heading 1, Heading 2…) for easy navigation.  \n– No stray line breaks, font mismatches, or orphan characters.  \n\nDeliverable: a single .docx file ready for immediate editing and future updates.",
   "query": "pdf extraction",
   "found_at": "2026-11-07 22:21"
+ },
+ {
+  "id": 40807980,
+  "title": "CDISC SOP Gap & Risk Review",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "AUD",
+  "usd_rate": 0.6871,
+  "bids": 7,
+  "url": "https://www.freelancer.com/projects/business-analysis/CDISC-SOP-Gap-Risk-Review",
+  "desc": "I have five existing CDISC-related SOPs—the SDTM, ADaM, and TLFs procedures together with their overarching Workflow and Governance documents—and I need a systematic quality-control pass on all of them. The priority isn't stylistic polishing; I want a sharp eye that surfaces missing process steps, hidden risk points, or areas where ownership and hand-offs are vague.\n\nYou’ll work directly in the Word originals (track changes on) or supply clearly cross-referenced comments if you prefer a separate review sheet. For each SOP, call out:\n\n• Steps that are implied but never written  \n• Risky transitions or dependencies that lack controls  \n• Roles or responsibilities that are ambiguous or absent  \n• Any conflicts between the individual SOPs and the Governance document\n\nPlease finish with a concise gap-analysis summary and, where it helps, a simple RACI chart so I can see responsibility splits at a glance.\n\nNo rewriting is needed beyond the notes; I’ll handle edits once the gaps are visible.\n\nThe reviewer must have a high-level qualification in Biostatistics or Statistical Programming, CDSIC qualification certificates, and at least 3 years' experience working with CDISC standards and their implementation. I need to see all evidence of the qualifications and proven experience. I don’t accept any AI-generated work. The work must be genuine and professional, based on your knowledge and experience. \n\nI will not pay for work if these conditions are breached.",
+  "query": "ai chatbot",
+  "found_at": "2026-11-08 01:46"
  }
 ]
