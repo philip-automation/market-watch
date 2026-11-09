@@ -47695,5 +47695,83 @@
   "desc": "I am looking for email database of active traders. The list must focus on both cryptocurrency and forex traders located in the United States or Canada only, and each record should contain a single, accurate email address.\n\nYour task is to research, scrape, or otherwise legally acquire these emails from reputable places where active traders congregate: trading forums, Discord or Telegram channels, social media groups, newsletter sign-ups, brokerage communities, and similar spots.\n\nDeliverables  \n• CSV or Excel file containing: email address, trader type (crypto / forex / both), and brief source note  \n\nIf you already have a clean, recent list that meets these filters, let me know.",
   "query": "excel automation",
   "found_at": "2026-11-08 23:38"
+ },
+ {
+  "id": 40809117,
+  "title": "Bilingual English-Khasi Website Content",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010647,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/website-development/Bilingual-English-Khasi-Website-Content",
+  "desc": "I’m preparing a new website and I want every single page, menu label, and micro-copy to read smoothly in both English and Khasi. My draft text is ready in English; what I need now is a skilled professional who can ① polish that English where necessary, ② produce an equally polished Khasi version, and ③ structure both languages so they drop straight into the site.\n\nThe entire site must be bilingual—no exceptions—so accuracy, consistency of terminology, and a natural tone in Khasi are critical. SEO-friendly phrasing in both languages will be a bonus.\n\nVisitors will have to switch languages in an intuitive way. I’m open to your recommendations here: you can suggest anything beyond the typical header toggle, pre-entry selector, or auto-detect, as long as the user experience stays clear and lightweight.\n\nDeliverables I expect:\n• Clean, finalised copy for every page in English and Khasi, organised by page/section for easy upload.  \n• A concise implementation note outlining your proposed language-switching method plus any technical considerations (URL structure, hreflang tags, etc.).  \n• A short glossary of key terms to keep future updates consistent.\n\nIf you have experience translating for the Khasi audience, understand cultural nuances, and can write web-ready copy that reads naturally in both languages, I’d love to review your approach and timeline.",
+  "query": "web scraping",
+  "found_at": "2026-11-09 03:02"
+ },
+ {
+  "id": 40809237,
+  "title": "Trace Anonymous Gmail Sender",
+  "budget_min": 750.0,
+  "budget_max": 1500.0,
+  "currency": "CAD",
+  "usd_rate": 0.708767,
+  "bids": 20,
+  "url": "https://www.freelancer.com/projects/data-protection/Trace-Anonymous-Gmail-Sender",
+  "desc": "This project centres on pinpointing the individual behind a Gmail account that keeps posting misleading messages to a mailing list of organisation members. I can supply every original message with full headers as well as our list-admin logs, so you will have raw material for a proper header and path analysis, log correlation, and any other forensic techniques you prefer.\n\nScope of work  \n• Use your tech knowledge to come up with a plan to investigate as needed to find the culprit\n\nNo threats or harassment are involved, just persistent nuisance posts, so the goal is confirmation of identity, not emergency takedown. Tools such as Wireshark, exim/postfix log analysis, DNS, SPF/DKIM checks, and IP geolocation are welcome—use whatever combination you deem effective, provided the chain of custody for the data remains intact.\n\nChatGPT has already done the below checks: \n\nFull email header examination\nSPF authentication verification\nDKIM authentication verification\nDMARC authentication verification\nSending server IP analysis\nSender's originating IP investigation\nMessage-ID analysis\nGmail proprietary header analysis\nEmail-client identification\nOperating system identification\nHTML and MIME formatting analysis\nEmbedded tracking and external resource examination\nAttachment metadata examination\nSending versus delivery timestamp analysis\nDuplicate message identification",
+  "query": "data extraction",
+  "found_at": "2026-11-09 03:02"
+ },
+ {
+  "id": 40809194,
+  "title": "Ancient Fire Eyed Stone Research",
+  "budget_min": 750.0,
+  "budget_max": 1500.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 13,
+  "url": "https://www.freelancer.com/projects/data-analysis/Ancient-Fire-Eyed-Stone-Research",
+  "desc": "I am safeguarding a remarkable object: a smooth black stone whose twin cavities glow like embers when light strikes them. It has been revered in my community for generations, yet its true age, geological composition, and the science behind its fiery appearance remain a mystery.  \n\nHere is what I can already share with you. Elders have preserved detailed oral accounts of the stone’s powers and the ceremonies built around it, and I can guide you to the exact hillside where it was unearthed decades ago. Beyond those stories and the location itself, little is formally recorded.  \n\nYour primary task is to investigate and document the stone’s possible age and natural makeup. I am imagining a concise but authoritative report that blends field observations, laboratory analysis proposals, and comparisons with similar minerals or artifacts worldwide. Please ground all conclusions in verifiable data while noting where community lore and science intersect or diverge.  \n\nDeliverables  \n• A research plan outlining sampling or non-invasive testing you recommend  \n• A written report (minimum 2,000 words) summarizing findings on geology, mineralogy, and any plausible explanations for the stone’s “burning eye” effect  \n• High-resolution photographs and annotated diagrams that illustrate key features  \n• A short set of next-step recommendations for conservation or further study  \n\nIf specialized equipment or lab partnerships are required, mention realistic options and timelines so I can arrange",
+  "query": "data extraction",
+  "found_at": "2026-11-09 03:02"
+ },
+ {
+  "id": 40809252,
+  "title": "L1/L2 SOC Analyst Retainer Role",
+  "budget_min": 750.0,
+  "budget_max": 800.0,
+  "currency": "AUD",
+  "usd_rate": 0.689621,
+  "bids": 15,
+  "url": "https://www.freelancer.com/projects/security/SOC-Analyst-Retainer-Role",
+  "desc": "Vigilense AI is looking for an L1/L2 SOC Analyst on a monthly retainer.\n\nWe are an AI driven SOC platform for small and medium businesses, delivered through MSPs. You would be monitoring security alerts for 3 to 4 client environments. These are small, steady environments, not a busy queue, so this suits someone who wants consistent ongoing work without the chaos of a large SOC.\n\nLocation: Our team and clients are based in Australia (AEST/AEDT). We prefer freelancers based in the Philippines or Malaysia, as the time difference is small and your shift will line up well with Australian business hours.\n\nWhat you'll do:\nTriage and investigate alerts (L1) and escalate or dig deeper into real incidents (L2)\nSeparate false positives from genuine threats and document your reasoning\nWrite clear incident reports and regular summary reports that a non technical client can understand\nWork with our team on tuning detections and improving playbooks\n\nWhat we're looking for:\nHands on SOC experience at L1/L2 level\nFamiliarity with SIEM/EDR tools (Microsoft Defender, Sentinel, Wazuh or similar)\nStrong written English and good reporting skills, this matters a lot to us\nReliable, responsive and comfortable working independently\n\nArrangement:\nShift of 7 to 8 hours per day, aligned to Australian business hours\nRetainer of 800 AUD per month\nLong term ongoing role for the right person\n\nPlease answer these questions in your proposal (bids without answers won't be considered):\n1. Where are you based, a",
+  "query": "ai chatbot",
+  "found_at": "2026-11-09 03:02"
+ },
+ {
+  "id": 40809253,
+  "title": "Secure Verified Remote Engineering Opportunities",
+  "budget_min": 30.0,
+  "budget_max": 250.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/construction-management/Secure-Verified-Remote-Engineering",
+  "desc": "Long-Term Remote Job Recruiter – Success-Based Payment – First Remote Job Target Within 14 Days\n\nI am seeking an experienced **International Recruitment Specialist / Remote Job Acquisition Consultant** for a long-term professional relationship.\n\nI am a Civil Engineer based in Saudi Arabia with over 20 years of experience in civil engineering, construction, project management, and technical leadership. I hold a PMP certification and have extensive experience in project controls, planning and scheduling, budgeting, cost estimation, quantity surveying, QA/QC, and technical documentation.\n\nMy objective is to secure my first legitimate, fully home-based remote job or paid project as soon as possible, with an initial target of **14 days**, followed by continuous recruitment support to find further opportunities.\n\n1. Target Positions\n\nPlease prioritize opportunities matching my qualifications and professional experience:\n\n- Civil Engineering Consultant / Technical Reviewer\n- Construction Project Management Consultant\n- Project Controls Specialist\n- Primavera P6 Scheduler / Planning Engineer\n- Construction Cost Estimator / Quantity Surveyor\n- Engineering Technical Writer\n- Infrastructure Project Reviewer\n- Civil Engineering AI Trainer / Evaluator\n- AI Training and Technical Evaluation Specialist\n- Other suitable remote technical, engineering, or consultancy assignments.\n\n 2. Essential Job Requirements\n\nEvery opportunity must meet the following conditions:\n\n- 100% remote and home-base",
+  "query": "ai chatbot",
+  "found_at": "2026-11-09 03:02"
+ },
+ {
+  "id": 40809168,
+  "title": "Pengetikan dan Perapian Dokumen Word - 08/11/2026 20:05 EST",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 2,
+  "url": "https://www.freelancer.com/projects/data-entry/Pengetikan-dan-Perapian-Dokumen-Word",
+  "desc": "Saya membutuhkan bantuan untuk mengetik ulang sekaligus merapikan beberapa dokumen Word agar tampil rapi, konsisten, dan siap cetak. \n\nLingkup tugas:  \n• Menyalin teks dari sumber PDF atau tulisan tangan ke Microsoft Word.  \n• Memastikan tata letak, heading, bullet, dan penomoran seragam.  \n• Memasukkan tabel atau gambar yang sudah kami sediakan tanpa mengubah konten.  \n• Menambahkan daftar isi otomatis bila jumlah halaman cukup panjang.  \n• Mengembalikan file final dalam format .docx dan PDF.\n\nSaya sangat menghargai freelancer yang terbiasa bekerja cepat namun teliti, memiliki pengalaman nyata menangani proyek pengetikan atau formatting serupa, dan paham fitur-fitur Word seperti Styles, Table of Contents, dan Track Changes.\n\nSaat melamar, mohon cantumkan contoh singkat pengalaman relevan—misalnya jenis dokumen yang pernah Anda ketik atau formatkan, volume halaman, serta waktu pengerjaan—agar saya bisa menilai kecocokan Anda dengan cepat.\n\nTerima kasih, saya menantikan kolaborasi yang lancar dan hasil dokumen yang profesional.",
+  "query": "pdf extraction",
+  "found_at": "2026-11-09 03:02"
  }
 ]
