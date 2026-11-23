@@ -57146,5 +57146,83 @@
   "desc": "Necesito a alguien que se desplace personalmente a la Parroquia Santa María de Guadalupe, Capuchinas, para tramitar un acta de bautizo. Ya cuento con la información necesaria —nombre completo, nombres de padres y padrinos, fecha de nacimiento y fecha de bautismo— por lo que solo tendrás que presentarla ante la oficina parroquial y gestionar la expedición.\n\nAl recibirla, requiero:\n1. Una copia escaneada en PDF enviada de inmediato por correo electrónico.  \n2. El documento original enviado por correo internacional con número de seguimiento a Estados Unidos.\n\nIncluye en tu propuesta el tiempo estimado para:\n• Obtener el acta en la parroquia.  \n• Escanear y remitir el PDF.  \n• Despachar el envío físico con tracking.\n\nSi conoces los costes parroquiales y de mensajería, indícalos; de lo contrario, los cubro una vez confirmados. Se valora experiencia previa realizando trámites similares y puntualidad en cada paso.",
   "query": "pdf extraction",
   "found_at": "2026-11-22 22:09"
+ },
+ {
+  "id": 40830853,
+  "title": "Saudi Digital Remittance Rates",
+  "budget_min": 1500.0,
+  "budget_max": 12500.0,
+  "currency": "INR",
+  "usd_rate": 0.010802,
+  "bids": 5,
+  "url": "https://www.freelancer.com/projects/data-collection/Saudi-Digital-Remittance-Rates",
+  "desc": "I need a concise, reliable snapshot of how the main mobile-wallet and other purely digital transfer apps in Saudi Arabia are pricing money-outs to India, Pakistan and Bangladesh.  \nYour job is to open each app or its public web quote tool from inside the Kingdom, capture the live remittance rate it offers for a standard send amount (you can choose a round figure such as 100 SAR to keep every platform comparable), record the data in a clean spreadsheet and attach a quick screen-grab or link so I can verify the quote later.\n\nScope  \n• Platforms: only mobile wallet or fully digital transfer apps—no bank branches or traditional money-transfer counters. If an app belongs to a bank that lets users send directly from the phone, that is fine; a walk-in branch rate is not.  \n• Corridors: India, Pakistan, Bangladesh.  \n• Frequency: a single sweep is enough for now; note the exact time you captured each quote.\n\nDeliverable  \nAn Excel or Google Sheet with one row per platform-corridor combo and the following columns:  \n1. App name  \n2. Destination country  \n3. Exchange rate (SAR → local currency)  \n4. Any fee displayed (leave blank if not shown)  \n5. Date & time captured  \n6. Source reference (URL or file name of screenshot)\n\nAcceptance  \nI’ll release the milestone once the sheet opens without errors and every line includes a verifiable reference. If you already have automated tools or past experience scraping financial quotes from apps, mention it in your bid so I know you can work effi",
+  "query": "web scraping",
+  "found_at": "2026-11-23 02:53"
+ },
+ {
+  "id": 40830945,
+  "title": "3D AI Cartoon Movie Creation",
+  "budget_min": 5000.0,
+  "budget_max": 20000.0,
+  "currency": "INR",
+  "usd_rate": 0.010802,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/ai-animation/Cartoon-Movie-Creation",
+  "desc": "My goal is to transform an original script into a polished, feature-length 3D cartoon movie by tapping the speed and creative flexibility of today’s AI video-editing and animation tools. Every scene should feel rich, expressive, and cinematic—far beyond a simple social-media clip.   \n\nAlthough AI will drive the bulk of the production, classic craft still matters: clear storyboards, thoughtful pacing, consistent character rigs, believable lip-sync, cohesive sound design, and careful colour grading. The project has no fixed deadline, so we can refine visuals and timing until the narrative truly shines.\n\nI will supply the screenplay, voice tracks, and visual references. You will handle the rest of the pipeline and keep me in the loop through well-spaced checkpoints:\n\n• Rough animatic to confirm timing and camera language  \n• Iterative AI-assisted renders in a 3D cartoon style  \n• Complete edit with transitions, SFX, music, and colour pass  \n• Final delivery in 4K H.264 plus all project files and assets  \n\nPlease share at least one previous AI-driven animation, note the primary tools you use (Runway, Blender, Pika Labs, Unreal—or your own mix), and outline any creative ideas you’d like to bring to this story. Flexible milestones and revisions are welcome; quality is the top priority.",
+  "query": "ai chatbot",
+  "found_at": "2026-11-23 02:53"
+ },
+ {
+  "id": 40830872,
+  "title": "AI-Centric SEO & AEO Strategy",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010802,
+  "bids": 17,
+  "url": "https://www.freelancer.com/projects/content-strategy/Centric-SEO-AEO-Strategy",
+  "desc": "I’m looking for a specialist who can move my site beyond classic SEO and into full Generative-Engine Optimization so that answer engines such as ChatGPT, Perplexity, Gemini, and voice assistants regularly surface my brand. Traditional rankings still matter, yet the main success metric here is seeing my core services, products, and our expert guides quoted or recommended whenever users ask related questions.\n\nYou’ll start with a technical and content audit, then map out how we can combine schema, knowledge-graph enrichment, on-page GEO cues, and topic clustering to steer both Google search and large language models toward the same message. From there I need an action plan that prioritises the pages that drive revenue, restructures our guides for conversational clarity, and outlines sustainable link-earning tactics that reinforce authority without sounding forced in AI outputs.\n\nPlease send a detailed project proposal that explains your workflow, milestones, and how you will measure “visibility in AI answers.” Concrete examples of past AEO or generative search wins will help me gauge fit.",
+  "query": "ai chatbot",
+  "found_at": "2026-11-23 02:53"
+ },
+ {
+  "id": 40830705,
+  "title": "Scale D2C Revenue Beyond ₹1Cr",
+  "budget_min": 12500.0,
+  "budget_max": 37500.0,
+  "currency": "INR",
+  "usd_rate": 0.010802,
+  "bids": 9,
+  "url": "https://www.freelancer.com/projects/google-ads/Scale-Revenue-Beyond",
+  "desc": "I’m ready to push my D2C brand past the ₹1 crore mark in profitable online sales and I want a performance marketer who has already achieved that milestone for at least one other brand. We sell solely through our own website, and your first focus will be a coordinated effort across both Meta Ads (Facebook & Instagram) and Google Ads (Search, Shopping, Performance Max).\n\nYou’ll take ownership of the full funnel—audience research, creative angles, pixel / server-side tracking, campaign build-out, and iterative optimisation—while keeping customer acquisition costs firmly under control. I’ll provide access to existing ad accounts; you’ll bring the strategy, execution, and proof that you’ve scaled similar brands to seven-figure revenue.\n\nDeliverables\n• Audit of current tracking, pixel setup, and any existing campaigns  \n• 90-day media plan with budget splits for Meta and Google, growth milestones, and target ROAS  \n• Ready-to-launch creative briefs and copy variants  \n• Weekly optimisation schedule with tests on audiences, bids, and creatives  \n• Bi-weekly performance reports detailing spend, revenue, and actionable next steps  \n\nAcceptance Criteria\n• Clear upward revenue trend within the first 60 days and ROAS at or above the agreed target, putting us on track for ₹1 crore in six months.  \n\nProficiency with Shopify, GA4, Meta Business Manager, and Google Ads is essential; experience with Klaviyo or similar retargeting tools is a bonus. If you’ve already driven a D2C store beyond t",
+  "query": "google sheets automation",
+  "found_at": "2026-11-23 02:53"
+ },
+ {
+  "id": 40830921,
+  "title": "Nationwide Uber/Lyft Driver Emails",
+  "budget_min": 250.0,
+  "budget_max": 750.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 18,
+  "url": "https://www.freelancer.com/projects/data-collection/Nationwide-Uber-Lyft-Driver-Emails",
+  "desc": "I need a fresh, accurate list of Uber and Lyft drivers located anywhere in the United States. The primary purpose is to promote a new product tailored to rideshare professionals, so valid, regularly-checked email addresses are essential.  \n\nPlease provide:  \n• Driver first and last name (if available)  \n• Verified email address  \n• City and state (or ZIP)  \n\nA clean CSV or Excel file is fine. I will test a random sample for deliverability before releasing final approval. Sources must be compliant with CAN-SPAM and other U.S. email regulations. Let me know the size of the list you can supply, your verification process, and your expected turnaround time.",
+  "query": "excel automation",
+  "found_at": "2026-11-23 02:53"
+ },
+ {
+  "id": 40830775,
+  "title": "Part-Time Aggressive Outbound Sales Closer – Surplus Funds Recovery (Remote)",
+  "budget_min": 5000.0,
+  "budget_max": 10000.0,
+  "currency": "USD",
+  "usd_rate": 1.0,
+  "bids": 0,
+  "url": "https://www.freelancer.com/projects/cold-calling/Part-Time-Aggressive-Outbound-Sales",
+  "desc": "About the Role:\nWe are a US-based surplus funds recovery firm currently operating in Georgia, helping former homeowners and heirs reclaim funds owed to them after property tax or mortgage foreclosures. We are looking for a hungry, assertive, and experienced Part-Time Outbound Sales Closer based in the Caribbean or South America to cold-call skip-traced leads, build instant trust, and aggressively close recovery agreements.\nBecause our clients are often older adults—and because telling someone they have unclaimed money naturally triggers skepticism—we need a closer who is warm and trustworthy on the surface, but relentless underneath. We are not looking for passive order-takers or polite script-readers. You must know how to take control of the call, overcome \"is this a spam or fraud call?\" objections, push past stalls, and lock down signed agreements on the spot.\nWhy Work With Us:\n•\tPure Closing Focus (No Legal/Admin Headaches): You focus 100% on dialing, overcoming objections, and getting the agreement signed—our team takes over all county filings, notarizations, and claim processing once the signed agreement is returned.\n•\tPre-Vetted, Skip-Traced Leads: No manual county research required. You receive clean, skip-traced lead lists ready to dial.\n•\tHigh-Impact Offer: You are helping families and seniors recover money that rightfully belongs to them, with zero upfront cost to the client.\n•\tStructured Onboarding: We provide proven scripts, an objection-handling playbook, and liv",
+  "query": "python script",
+  "found_at": "2026-11-23 02:54"
  }
 ]
